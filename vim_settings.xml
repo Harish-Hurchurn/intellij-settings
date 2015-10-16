@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1444978139076">
+      <file name="/Dummy.txt" timestamp="1444999795331">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1444977892407">
+      <file name="/a.dummy" timestamp="1444999771954">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/graph/loader/loader.scala" timestamp="1444920078879">
@@ -28,11 +28,11 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/barclays/loaders/CsvLoader.scala" timestamp="1444998431090">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="12" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/barclays/loaders/CsvLoader.scala" timestamp="1444999768093">
+        <mark key="[" line="11" column="80" />
+        <mark key="]" line="11" column="73" />
+        <mark key="^" line="11" column="73" />
+        <mark key="." line="11" column="73" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/evaluate/loader/loader.scala" timestamp="1444925540801">
         <mark key="[" line="19" column="0" />
@@ -109,7 +109,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set number</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -124,8 +124,8 @@
         <entry encoding="base64">XDx3aXRoXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>set number</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
