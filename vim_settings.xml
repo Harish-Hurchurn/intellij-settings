@@ -8,8 +8,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.apache.activemq/activemq-all/jars/activemq-all-5.5.0.jar!/javax/jms/DeliveryMode.class" timestamp="1444924989652" />
-      <file name="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/evaluate/jms/TitanListener.scala" timestamp="1444923061876" />
       <file name="/a.dummy" timestamp="1444977892407">
         <mark key="[" line="0" column="0" />
       </file>
@@ -30,7 +28,7 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/barclays/loaders/CsvLoader.scala" timestamp="1444978110984">
+      <file name="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/barclays/loaders/CsvLoader.scala" timestamp="1444998431090">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="22" column="12" />
@@ -111,7 +109,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set number</text>
       </register>
     </registers>
     <search>
@@ -127,6 +125,7 @@
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>set number</entry>
       </history-cmd>
       <history-expr />
       <history-input />
