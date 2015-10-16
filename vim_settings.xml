@@ -3,7 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1445001781538">
+      <file name="/Dummy.txt" timestamp="1445003681037">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1445003681047">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/graph/loader/loader.scala" timestamp="1444920078879">
