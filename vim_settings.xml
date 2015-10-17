@@ -6,6 +6,13 @@
       <file name="/Dummy.txt" timestamp="1445003681037">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/srcs/akka-http-core-experimental_2.11-1.0-sources.jar!/akka/http/scaladsl/model/HttpMessage.scala" timestamp="1445082998735" />
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" timestamp="1445083429074">
+        <mark key="[" line="89" column="10" />
+        <mark key="]" line="89" column="11" />
+        <mark key="." line="89" column="11" />
+        <mark key="^" line="89" column="11" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/scala/com/example/Boot.scala" timestamp="1445075848704">
         <mark key="[" line="12" column="42" />
       </file>
@@ -91,11 +98,11 @@
       <jump line="46" column="12" filename="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Unmarshal(response.entity).to[String].map(Right(&quot;&quot;))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Unmarshal(response.entity).to[String].map(Right(&quot;&quot;))</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aXRoXD4=</text>
@@ -103,32 +110,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIFVubWFyc2hhbCgiIikudG9bU3RyaW5nXS5tYXAoUmlnaHQoXykpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>Unmarshal(response.entity).to[String].map(Right(&quot;&quot;))</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">LmZsYXRNYXAgeyByZXNwb25zZSA9PgogICAgICByZXNwb25zZS5zdGF0dXMgbWF0Y2ggewogICAgICAgIGNhc2Ug</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">KS5mbGF0TWFwIHsKICAgICAgcmVzcG9uc2UgPT4gcmVzcG9uc2Uuc3RhdHVzIG1hdGNoIHsKICAgICAgICBjYXNlIE9LID0+CiAgICAgICAgY2FzZSBCYWRSZXF1ZXN0ID0+CiAgICAgICAgY2FzZSBfID0+CiAgICAgIH0=</text>
+        <text>s</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFVubWFyc2hhbCgiIikudG9bU3RyaW5nXS5tYXAoUmlnaHQoXykpCg==</text>
+      <register name="4" type="4">
+        <text>l</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIERvIHRoZSB3b3JrIG9mIHNhdmluZyBkYXRhIHRvIHRoZSBkYXRhYmFzZSBoZXJlCg==</text>
+      <register name="5" type="4">
+        <text>o</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgcGVyc2lzdFRvRGF0YWJhc2UoZGF0YVRvQmVQZXJzaXN0ZWQ6IFN0cmluZyk6IEZ1dHVyZVtIdHRwUmVzcG9uc2VdID0gewo=</text>
+      <register name="6" type="4">
+        <text>c</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="7" type="4">
+        <text>o</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEZ1dHVyZS5zdWNjZXNzZnVsKEh0dHBSZXNwb25zZSkK</text>
+      <register name="8" type="4">
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>(dataToBePersisted</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
