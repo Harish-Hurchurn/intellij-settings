@@ -7,11 +7,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/srcs/akka-http-core-experimental_2.11-1.0-sources.jar!/akka/http/scaladsl/model/HttpMessage.scala" timestamp="1445082998735" />
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" timestamp="1445083429074">
-        <mark key="[" line="89" column="10" />
-        <mark key="]" line="89" column="11" />
-        <mark key="." line="89" column="11" />
-        <mark key="^" line="89" column="11" />
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" timestamp="1445085349908">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/scala/com/example/Boot.scala" timestamp="1445075848704">
         <mark key="[" line="12" column="42" />
@@ -99,10 +98,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ1JlcXVlc3RSZXN1ZGRsdCgiZGF0YWJhc2UtcGVyc2lzdGVyIikgewo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Future[</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aXRoXD4=</text>
@@ -111,31 +110,31 @@
         <text encoding="base64">ICAgIFVubWFyc2hhbCgiIikudG9bU3RyaW5nXS5tYXAoUmlnaHQoXykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ1JlcXVlc3RSZXN1ZGRsdCgiZGF0YWJhc2UtcGVyc2lzdGVyIikgewo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">LypsYXp5IHZhbCB0ZWxpemVDb25uZWN0aW9uRmxvdzogRmxvd1tIdHRwUmVxdWVzdCwgSHR0cFJlc3BvbnNlLCBBbnldID0KICAgIEh0dHAoKS5vdXRnb2luZ0Nvbm5lY3Rpb24oY29uZmlnLmdldFN0cmluZygic2VydmljZXMudGVsaXplSG9zdCIpLCBjb25maWcuZ2V0SW50KCJzZXJ2aWNlcy50ZWxpemVQb3J0IikpCgogIGRlZiB0ZWxpemVSZXF1ZXN0KHJlcXVlc3Q6IEh0dHBSZXF1ZXN0KTogRnV0dXJlW0h0dHBSZXNwb25zZV0gPSBTb3VyY2Uuc2luZ2xlKHJlcXVlc3QpLnZpYSh0ZWxpemVDb25uZWN0aW9uRmxvdykucnVuV2l0aChTaW5rLmhlYWQpCgogIGRlZiBmZXRjaElwSW5mbyhpcDogU3RyaW5nKTogRnV0dXJlW0VpdGhlcltTdHJpbmcsIElwSW5mb11dID0gewogICAgdGVsaXplUmVxdWVzdChSZXF1ZXN0QnVpbGRpbmcuR2V0KHMiL2dlb2lwLyRpcCIpKS5mbGF0TWFwIHsgcmVzcG9uc2UgPT4KICAgICAgcmVzcG9uc2Uuc3RhdHVzIG1hdGNoIHsKICAgICAgICBjYXNlIE9LID0+IFVubWFyc2hhbChyZXNwb25zZS5lbnRpdHkpLnRvW0lwSW5mb10ubWFwKFJpZ2h0KF8pKQogICAgICAgIGNhc2UgQmFkUmVxdWVzdCA9PiBGdXR1cmUuc3VjY2Vzc2Z1bChMZWZ0KHMiJGlwOiBpbmNvcnJlY3QgSVAgZm9ybWF0IikpCiAgICAgICAgY2FzZSBfID0+IFVubWFyc2hhbChyZXNwb25zZS5lbnRpdHkpLnRvW1N0cmluZ10uZmxhdE1hcCB7IGVudGl0eSA9PgogICAgICAgICAgdmFsIGVycm9yID0gcyJUZWxpemUgcmVxdWVzdCBmYWlsZWQgd2l0aCBzdGF0dXMgY29kZSAke3Jlc3BvbnNlLnN0YXR1c30gYW5kIGVudGl0eSAkZW50aXR5IgogICAgICAgICAgbG9nZ2VyLmVycm9yKGVycm9yKQogICAgICAgICAgRnV0dXJlLmZhaWxlZChuZXcgSU9FeGNlcHRpb24oZXJyb3IpKQogICAgICAgIH0KICAgICAgfQogICAgfQogIH0KCiAgdmFsIHJvdXRlcyA9IHsKICAgIGxvZ1JlcXVlc3RSZXN1bHQoImFra2EtaHR0cC1taWNyb3NlcnZpY2UiKSB7CiAgICAgIHBhdGhQcmVmaXgoImlwIikgewogICAgICAgIChnZXQgJiBwYXRoKFNlZ21lbnQpKSB7IGlwID0+CiAgICAgICAgICBjb21wbGV0ZSB7CiAgICAgICAgICAgIGZldGNoSXBJbmZvKGlwKS5tYXBbVG9SZXNwb25zZU1hcnNoYWxsYWJsZV0gewogICAgICAgICAgICAgIGNhc2UgUmlnaHQoaXBJbmZvKSA9PiBpcEluZm8KICAgICAgICAgICAgICBjYXNlIExlZnQoZXJyb3JNZXNzYWdlKSA9PiBCYWRSZXF1ZXN0IC0+IGVycm9yTWVzc2FnZQogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfSB+CiAgICAgICAgKHBvc3QgJiBlbnRpdHkoYXNbSXBQYWlyU3VtbWFyeVJlcXVlc3RdKSkgeyBpcFBhaXJTdW1tYXJ5UmVxdWVzdCA9PgogICAgICAgICAgY29tcGxldGUgewogICAgICAgICAgICB2YWwgaXAxSW5mb0Z1dHVyZSA9IGZldGNoSXBJbmZvKGlwUGFpclN1bW1hcnlSZXF1ZXN0LmlwMSkKICAgICAgICAgICAgdmFsIGlwMkluZm9GdXR1cmUgPSBmZXRjaElwSW5mbyhpcFBhaXJTdW1tYXJ5UmVxdWVzdC5pcDIpCiAgICAgICAgICAgIGlwMUluZm9GdXR1cmUuemlwKGlwMkluZm9GdXR1cmUpLm1hcFtUb1Jlc3BvbnNlTWFyc2hhbGxhYmxlXSB7CiAgICAgICAgICAgICAgY2FzZSAoUmlnaHQoaW5mbzEpLCBSaWdodChpbmZvMikpID0+IElwUGFpclN1bW1hcnkoaW5mbzEsIGluZm8yKQogICAgICAgICAgICAgIGNhc2UgKExlZnQoZXJyb3JNZXNzYWdlKSwgXykgPT4gQmFkUmVxdWVzdCAtPiBlcnJvck1lc3NhZ2UKICAgICAgICAgICAgICBjYXNlIChfLCBMZWZ0KGVycm9yTWVzc2FnZSkpID0+IEJhZFJlcXVlc3QgLT4gZXJyb3JNZXNzYWdlCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9Ki8=</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>Future[</text>
       </register>
       <register name="4" type="4">
-        <text>l</text>
+        <text encoding="base64">bWFwIHsKICAgICAgICAgICAgY2FzZSBMZWZ0KGVycm9yKSA9PiBwcmludGxuKGVycm9yKQogICAgICAgICAgICBjYXNlIFJpZ2h0KHN1Y2Nlc3MpID0+IHByaW50bG4oc3VjY2VzcykKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9Cn0=</text>
       </register>
-      <register name="5" type="4">
-        <text>o</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSaWdodChpcEluZm8pID0+IGlwSW5mbwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>c</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBMZWZ0KGVycm9yTWVzdXVzYWdlKSA9PiBCYWRSZXF1ZXN0Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>Unmarshal(response.entity).to[String].map(</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>with Product with Serializable</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text encoding="base64">Lm1hcFtUb1Jlc3BvbnNlTWFyc2hhbGxhYmxlXSB7CiAgICAgICAgICAgIGNhc2UgUmlnaHQoaXBJbmZvKSA9PiBpcEluZm8KICAgICAgICAgICAgY2FzZSBMZWZ0KGVycm9yTWVzdXVzYWdlKSA9PiBCYWRSZXF1ZXN0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
