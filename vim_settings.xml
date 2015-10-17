@@ -6,8 +6,14 @@
       <file name="/Dummy.txt" timestamp="1445003681037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" timestamp="1445068977516">
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" timestamp="1445073123329">
+        <mark key="'" line="46" column="12" />
         <mark key="[" line="79" column="39" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/scala/com/example/Boot.scala" timestamp="1445072499351">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1445003681047">
         <mark key="[" line="0" column="0" />
@@ -29,10 +35,10 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/scala/com/example/MyService.scala" timestamp="1445071180430">
-        <mark key="[" line="23" column="1" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/scala/com/example/MyService.scala" timestamp="1445072596959">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/barclays/loaders/CsvLoader.scala" timestamp="1445001777382">
         <mark key="[" line="32" column="2" />
@@ -58,6 +64,12 @@
         <mark key="^" line="14" column="8" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/scala/com/example/DatabasePersister.scala" timestamp="1445072898237">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/evaluate/loader/MQUtils.scala" timestamp="1444922361172">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="17" column="49" />
@@ -67,16 +79,22 @@
       <file name="/fragment.java" timestamp="1444921190399">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/resources/application.conf" timestamp="1445072684619">
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="2" column="0" filename="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/evaluate/loader/loader.scala" />
       <jump line="13" column="24" filename="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/evaluate/loader/loader.scala" />
       <jump line="24" column="2" filename="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/evaluate/loader/loader.scala" />
       <jump line="329" column="4" filename="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/barclays/utils/JMSUtils.scala" />
+      <jump line="46" column="12" filename="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHByaXZhdGUgZGVmIGNhbGN1bGF0ZURpc3RhbmNlKGlwMUluZm86IElwSW5mbywgaXAySW5mbzogSXBJbmZvKTogT3B0aW9uW0RvdWJsZV0gPSB7CiAgICAoaXAxSW5mby5sYXRpdHVkZSwgaXAxSW5mby5sb25naXR1ZGUsIGlwMkluZm8ubGF0aXR1ZGUsIGlwMkluZm8ubG9uZ2l0dWRlKSBtYXRjaCB7CiAgICAgIGNhc2UgKFNvbWUobGF0MSksIFNvbWUobG9uMSksIFNvbWUobGF0MiksIFNvbWUobG9uMikpID0+CiAgICAgICAgLy8gc2VlIGh0dHA6Ly93d3cubW92YWJsZS10eXBlLmNvLnVrL3NjcmlwdHMvbGF0bG9uZy5odG1sCiAgICAgICAgdmFsIM+GMSA9IHRvUmFkaWFucyhsYXQxKQogICAgICAgIHZhbCDPhjIgPSB0b1JhZGlhbnMobGF0MikKICAgICAgICB2YWwgzpTPhiA9IHRvUmFkaWFucyhsYXQyIC0gbGF0MSkKICAgICAgICB2YWwgzpTOuyA9IHRvUmFkaWFucyhsb24yIC0gbG9uMSkKICAgICAgICB2YWwgYSA9IHBvdyhzaW4ozpTPhiAvIDIpLCAyKSArIGNvcyjPhjEpICogY29zKM+GMikgKiBwb3coc2luKM6UzrsgLyAyKSwgMikKICAgICAgICB2YWwgYyA9IDIgKiBhdGFuMihzcXJ0KGEpLCBzcXJ0KDEgLSBhKSkKICAgICAgICBPcHRpb24oRWFydGhSYWRpdXMgKiBjKQogICAgICBjYXNlIF8gPT4gTm9uZQogICAgfQogIH0=</text>
       </register>
       <register name="-" type="4">
         <text>der {</text>
@@ -87,32 +105,32 @@
       <register name="0" type="4">
         <text encoding="base64">IHZhbCBwcm9kID0gcS5wcm9kdWNlci5kZWxpdmVyeU1vZGUoTk9OX1BFUlNJU1RFTlQpCiAgICAgIC5zZW5kKCJIZWxsbyIpCiAgICAgIC5zZW5kKCJXb3JsZCIpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHByaXZhdGUgZGVmIGNhbGN1bGF0ZURpc3RhbmNlKGlwMUluZm86IElwSW5mbywgaXAySW5mbzogSXBJbmZvKTogT3B0aW9uW0RvdWJsZV0gPSB7CiAgICAoaXAxSW5mby5sYXRpdHVkZSwgaXAxSW5mby5sb25naXR1ZGUsIGlwMkluZm8ubGF0aXR1ZGUsIGlwMkluZm8ubG9uZ2l0dWRlKSBtYXRjaCB7CiAgICAgIGNhc2UgKFNvbWUobGF0MSksIFNvbWUobG9uMSksIFNvbWUobGF0MiksIFNvbWUobG9uMikpID0+CiAgICAgICAgLy8gc2VlIGh0dHA6Ly93d3cubW92YWJsZS10eXBlLmNvLnVrL3NjcmlwdHMvbGF0bG9uZy5odG1sCiAgICAgICAgdmFsIM+GMSA9IHRvUmFkaWFucyhsYXQxKQogICAgICAgIHZhbCDPhjIgPSB0b1JhZGlhbnMobGF0MikKICAgICAgICB2YWwgzpTPhiA9IHRvUmFkaWFucyhsYXQyIC0gbGF0MSkKICAgICAgICB2YWwgzpTOuyA9IHRvUmFkaWFucyhsb24yIC0gbG9uMSkKICAgICAgICB2YWwgYSA9IHBvdyhzaW4ozpTPhiAvIDIpLCAyKSArIGNvcyjPhjEpICogY29zKM+GMikgKiBwb3coc2luKM6UzrsgLyAyKSwgMikKICAgICAgICB2YWwgYyA9IDIgKiBhdGFuMihzcXJ0KGEpLCBzcXJ0KDEgLSBhKSkKICAgICAgICBPcHRpb24oRWFydGhSYWRpdXMgKiBjKQogICAgICBjYXNlIF8gPT4gTm9uZQogICAgfQogIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kLgo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFhNTCBpcyBtYXJzaGFsbGVkIHRvIGB0ZXh0L3htbGAgYnkgZGVmYXVsdCwgc28gd2Ugc2ltcGx5IGRkb3ZlcnJpZGUgaGVyZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBxID0gc2Vzc2lvbi5xdWV1ZSgidGl0YW4tZ3JhcGgiKQo=</text>
+        <text encoding="base64">Ly8gdGhpcyB0cmFpdCBkZWZpbmVzIG91ciBzZXJ2aWNlIGJlaGF2aW9yIGluZGVwZW5kZW50bHkgZnJvbSB0aGUgc2VydmljZSBhY3Rvcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UmVmYWN0b3JlZCBkaXJlY3Rvcnkgc3RydWN0dXJlIGFuZCBwYWNrYWdlcwo=</text>
+        <text encoding="base64">ICAvLyBvciB0aW1lb3V0IGhhbmRsaW5nCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ci8qKgogICogSk1Tc2NhbGEgaXMgYSBTY2FsYSBBUEkgdGhhdCBzaXRzIGF0b3AgSk1TIGFuZCBwcm92aWRlcyBTY2FsYSBpbnRlcmZhY2VzIGFuZCBtZXRhcGhvcnMKICAqIENvbW1lbnRzIGFuZCBzdWdnZXN0aW9ucyBhcmUgd2VsY29tZS4gVXNlIHRoaXMgZmlsZSBhcyB5b3Ugd2lsbC4KICAqIFdvdWxkIGJlIG5pY2UgaWYgSSBnb3QgYXR0cmlidXRpb24uIFRoYW5rcy4KICAqIEBhdXRob3IgRGlubyBGYW5jZWxsdSAoRmVsc3RhciBMdGQpCiAgKiBAdmVyc2lvbiAwLjgwCiAgKgogICov</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvLyBvdGhlciB0aGluZ3MgaGVyZSwgbGlrZSByZXF1ZXN0IHN0cmVhbSBwcm9jZXNzaW5nCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>der {</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvLyB0aGlzIGFjdG9yIG9ubHkgcnVucyBvdXIgcm91dGUsIGJ1dCB5b3UgY291bGQgYWRkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b2JqZWN0IExvYWRlciB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb24uY2xvc2VNeUNvbm5lY3Rpb24oKWRkCg==</text>
+        <text encoding="base64">ICAvLyBjb25uZWN0cyB0aGUgc2VydmljZXMgZW52aXJvbm1lbnQgdG8gdGhlIGVuY2xvc2luZyBhY3RvciBvciB0ZXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
