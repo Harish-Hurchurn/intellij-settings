@@ -6,17 +6,14 @@
       <file name="/Dummy.txt" timestamp="1445003681037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" timestamp="1445074223496">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="46" column="13" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" timestamp="1445078253417">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="106" column="4" />
+        <mark key="." line="106" column="4" />
+        <mark key="^" line="106" column="4" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/scala/com/example/Boot.scala" timestamp="1445073955025">
-        <mark key="[" line="19" column="68" />
-        <mark key="]" line="19" column="48" />
-        <mark key="." line="19" column="48" />
-        <mark key="^" line="19" column="48" />
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/scala/com/example/Boot.scala" timestamp="1445075848704">
+        <mark key="[" line="12" column="42" />
       </file>
       <file name="/a.dummy" timestamp="1445003681047">
         <mark key="[" line="0" column="0" />
@@ -38,10 +35,10 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/scala/com/example/MyService.scala" timestamp="1445073879677">
-        <mark key="[" line="39" column="4" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/scala/com/example/MyService.scala" timestamp="1445075992390">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/barclays/loaders/CsvLoader.scala" timestamp="1445001777382">
         <mark key="[" line="32" column="2" />
@@ -59,6 +56,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/resources/application.conf" timestamp="1445074732841">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/barclays/utils/JMSUtils.scala" timestamp="1444977885344">
         <mark key="'" line="329" column="4" />
@@ -94,51 +97,47 @@
       <jump line="46" column="12" filename="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlbGl6ZVJlcXVlc3QoUmVxdWVzdEJ1aWxkaW5nLkdldChzIi9nZW9pcC8kaXAiKSkuZmxhdE1hcCB7IHJlc3BvbnNlID0+CiAgICAgIHJlc3BvbnNlLnN0YXR1cyBtYXRjaCB7CiAgICAgICAgY2FzZSBPSyA9PiBVbm1hcnNoYWwocmVzcG9uc2UuZW50aXR5KS50b1tJcEluZm9dLm1hcChSaWdodChfKSkKICAgICAgICBjYXNlIEJhZFJlcXVlc3QgPT4gRnV0dXJlLnN1Y2Nlc3NmdWwoTGVmdChzIiRpcDogaW5jb3JyZWN0IElQIGZvcm1hdCIpKQogICAgICAgIGNhc2UgXyA9PiBVbm1hcnNoYWwocmVzcG9uc2UuZW50aXR5KS50b1tTdHJpbmddLmZsYXRNYXAgeyBlbnRpdHkgPT4KICAgICAgICAgIHZhbCBlcnJvciA9IHMiVGVsaXplIHJlcXVlc3QgZmFpbGVkIHdpdGggc3RhdHVzIGNvZGUgJHtyZXNwb25zZS5zdGF0dXN9IGFuZCBlbnRpdHkgJGVudGl0eSIKICAgICAgICAgIGxvZ2dlci5lcnJvcihlcnJvcikKICAgICAgICAgIEZ1dHVyZS5mYWlsZWQobmV3IElPRXhjZXB0aW9uKGVycm9yKSkKICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LT4gZXJyb3JNZXNzYWdl</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">LT4gZXJyb3JNZXNzYWdl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aXRoXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHZhbCBwcm9kID0gcS5wcm9kdWNlci5kZWxpdmVyeU1vZGUoTk9OX1BFUlNJU1RFTlQpCiAgICAgIC5zZW5kKCJIZWxsbyIpCiAgICAgIC5zZW5kKCJXb3JsZCIpCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkZWYgdGVsaXplUmVxdWVzdChyZXF1ZXN0OiBIdHRwUmVxdWVzdCk6IEZ1dHVyZVtIdHRwUmVzcG9uc2VdID0gU291cmNlLnNpbmdsZShyZXF1ZXN0KS52aWEodGVsaXplQ29ubmVjdGlvbkZsb3cpLnJ1bldpdGgoU2luay5oZWFkKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlbGl6ZVJlcXVlc3QoUmVxdWVzdEJ1aWxkaW5nLkdldChzIi9nZW9pcC8kaXAiKSkuZmxhdE1hcCB7IHJlc3BvbnNlID0+CiAgICAgIHJlc3BvbnNlLnN0YXR1cyBtYXRjaCB7CiAgICAgICAgY2FzZSBPSyA9PiBVbm1hcnNoYWwocmVzcG9uc2UuZW50aXR5KS50b1tJcEluZm9dLm1hcChSaWdodChfKSkKICAgICAgICBjYXNlIEJhZFJlcXVlc3QgPT4gRnV0dXJlLnN1Y2Nlc3NmdWwoTGVmdChzIiRpcDogaW5jb3JyZWN0IElQIGZvcm1hdCIpKQogICAgICAgIGNhc2UgXyA9PiBVbm1hcnNoYWwocmVzcG9uc2UuZW50aXR5KS50b1tTdHJpbmddLmZsYXRNYXAgeyBlbnRpdHkgPT4KICAgICAgICAgIHZhbCBlcnJvciA9IHMiVGVsaXplIHJlcXVlc3QgZmFpbGVkIHdpdGggc3RhdHVzIGNvZGUgJHtyZXNwb25zZS5zdGF0dXN9IGFuZCBlbnRpdHkgJGVudGl0eSIKICAgICAgICAgIGxvZ2dlci5lcnJvcihlcnJvcikKICAgICAgICAgIEZ1dHVyZS5mYWlsZWQobmV3IElPRXhjZXB0aW9uKGVycm9yKSkKICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">LT4gZXJyb3JNZXNzYWdl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoZXJyb3IpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBsYXp5IHZhbCB0ZWxpemVDb25uZWN0aW9uRmxvdzogRmxvd1tIdHRwUmVxdWVzdCwgSHR0cFJlc3BvbnNlLCBBbnldID0KICAgIEh0dHAoKS5vdXRnb2luZ0Nvbm5lY3Rpb24oY29uZmlnLmdldFN0cmluZygic2VydmljZXMudGVsaXplSG9zdCIpLCBjb25maWcuZ2V0SW50KCJzZXJ2aWNlcy50ZWxpemVQb3J0IikpCgogIGRlZiB0ZWxpemVSZXF1ZXN0KHJlcXVlc3Q6IEh0dHBSZXF1ZXN0KTogRnV0dXJlW0h0dHBSZXNwb25zZV0gPSBTb3VyY2Uuc2luZ2xlKHJlcXVlc3QpLnZpYSh0ZWxpemVDb25uZWN0aW9uRmxvdykucnVuV2l0aChTaW5rLmhlYWQpCg==</text>
+      <register name="3" type="4">
+        <text>dval error = s&quot;Telize request failed with status code ${response.status} and entity $entity&quot;</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">VW5tYXJzaGFsKHJlc3BvbnNlLmVudGl0eSkudG9bU3RyaW5nXS5mbGF0TWFwIHsgZW50aXR5ID0+</text>
       </register>
-      <register name="5" type="4">
-        <text>extends Protocols</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBfID0+IFVubWFyc2hhbChyZXNwb25zZS5lbnRpdHkpLnRvW1N0cmluZ10uZmxhdE1hcCB7IGVudGl0eSA9Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBMZWZ0KGVycm9yTWVzdXVzYWdlKSA9PiBCYWRSZXF1ZXN0IC0+IGVycm9yTWVzc2FnZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vRnV0dXJlLnN1Y2Nlc3NmdWwoUmlnaHQoIkRhdGEgc3VjY2Vzc2Z1bGwgcGVyc2lzdGVkIikpCg==</text>
       </register>
       <register name="8" type="4">
-        <text>trait Protocols extends DefaultJsonProtocol {
-  implicit val ipInfoFormat = jsonFormat5(IpInfo.apply)
-  implicit val ipPairSummaryRequestFormat = jsonFormat2(IpPairSummaryRequest.apply)
-  implicit val ipPairSummaryFormat = jsonFormat3(IpPairSummary.apply)
-}</text>
+        <text>St</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHByaXZhdGUgZGVmIGNhbGN1bGF0ZURpc3RhbmNlKGlwMUluZm86IElwSW5mbywgaXAySW5mbzogSXBJbmZvKTogT3B0aW9uW0RvdWJsZV0gPSB7CiAgICAoaXAxSW5mby5sYXRpdHVkZSwgaXAxSW5mby5sb25naXR1ZGUsIGlwMkluZm8ubGF0aXR1ZGUsIGlwMkluZm8ubG9uZ2l0dWRlKSBtYXRjaCB7CiAgICAgIGNhc2UgKFNvbWUobGF0MSksIFNvbWUobG9uMSksIFNvbWUobGF0MiksIFNvbWUobG9uMikpID0+CiAgICAgICAgLy8gc2VlIGh0dHA6Ly93d3cubW92YWJsZS10eXBlLmNvLnVrL3NjcmlwdHMvbGF0bG9uZy5odG1sCiAgICAgICAgdmFsIM+GMSA9IHRvUmFkaWFucyhsYXQxKQogICAgICAgIHZhbCDPhjIgPSB0b1JhZGlhbnMobGF0MikKICAgICAgICB2YWwgzpTPhiA9IHRvUmFkaWFucyhsYXQyIC0gbGF0MSkKICAgICAgICB2YWwgzpTOuyA9IHRvUmFkaWFucyhsb24yIC0gbG9uMSkKICAgICAgICB2YWwgYSA9IHBvdyhzaW4ozpTPhiAvIDIpLCAyKSArIGNvcyjPhjEpICogY29zKM+GMikgKiBwb3coc2luKM6UzrsgLyAyKSwgMikKICAgICAgICB2YWwgYyA9IDIgKiBhdGFuMihzcXJ0KGEpLCBzcXJ0KDEgLSBhKSkKICAgICAgICBPcHRpb24oRWFydGhSYWRpdXMgKiBjKQogICAgICBjYXNlIF8gPT4gTm9uZQogICAgfQogIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -154,8 +153,8 @@
       </history-search>
       <history-cmd>
         <entry>set number</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
