@@ -6,14 +6,17 @@
       <file name="/Dummy.txt" timestamp="1445003681037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" timestamp="1445073123329">
-        <mark key="'" line="46" column="12" />
-        <mark key="[" line="79" column="39" />
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" timestamp="1445074223496">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="46" column="13" />
+        <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/scala/com/example/Boot.scala" timestamp="1445072499351">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/scala/com/example/Boot.scala" timestamp="1445073955025">
+        <mark key="[" line="19" column="68" />
+        <mark key="]" line="19" column="48" />
+        <mark key="." line="19" column="48" />
+        <mark key="^" line="19" column="48" />
       </file>
       <file name="/a.dummy" timestamp="1445003681047">
         <mark key="[" line="0" column="0" />
@@ -35,8 +38,8 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/scala/com/example/MyService.scala" timestamp="1445072596959">
-        <mark key="[" line="17" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/scala/com/example/MyService.scala" timestamp="1445073879677">
+        <mark key="[" line="39" column="4" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
@@ -79,10 +82,8 @@
       <file name="/fragment.java" timestamp="1444921190399">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/resources/application.conf" timestamp="1445072684619">
-        <mark key="]" line="6" column="9" />
-        <mark key="^" line="6" column="9" />
-        <mark key="." line="6" column="9" />
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/resources/application.conf" timestamp="1445073802772">
+        <mark key="[" line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -93,11 +94,11 @@
       <jump line="46" column="12" filename="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHByaXZhdGUgZGVmIGNhbGN1bGF0ZURpc3RhbmNlKGlwMUluZm86IElwSW5mbywgaXAySW5mbzogSXBJbmZvKTogT3B0aW9uW0RvdWJsZV0gPSB7CiAgICAoaXAxSW5mby5sYXRpdHVkZSwgaXAxSW5mby5sb25naXR1ZGUsIGlwMkluZm8ubGF0aXR1ZGUsIGlwMkluZm8ubG9uZ2l0dWRlKSBtYXRjaCB7CiAgICAgIGNhc2UgKFNvbWUobGF0MSksIFNvbWUobG9uMSksIFNvbWUobGF0MiksIFNvbWUobG9uMikpID0+CiAgICAgICAgLy8gc2VlIGh0dHA6Ly93d3cubW92YWJsZS10eXBlLmNvLnVrL3NjcmlwdHMvbGF0bG9uZy5odG1sCiAgICAgICAgdmFsIM+GMSA9IHRvUmFkaWFucyhsYXQxKQogICAgICAgIHZhbCDPhjIgPSB0b1JhZGlhbnMobGF0MikKICAgICAgICB2YWwgzpTPhiA9IHRvUmFkaWFucyhsYXQyIC0gbGF0MSkKICAgICAgICB2YWwgzpTOuyA9IHRvUmFkaWFucyhsb24yIC0gbG9uMSkKICAgICAgICB2YWwgYSA9IHBvdyhzaW4ozpTPhiAvIDIpLCAyKSArIGNvcyjPhjEpICogY29zKM+GMikgKiBwb3coc2luKM6UzrsgLyAyKSwgMikKICAgICAgICB2YWwgYyA9IDIgKiBhdGFuMihzcXJ0KGEpLCBzcXJ0KDEgLSBhKSkKICAgICAgICBPcHRpb24oRWFydGhSYWRpdXMgKiBjKQogICAgICBjYXNlIF8gPT4gTm9uZQogICAgfQogIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRlbGl6ZVJlcXVlc3QoUmVxdWVzdEJ1aWxkaW5nLkdldChzIi9nZW9pcC8kaXAiKSkuZmxhdE1hcCB7IHJlc3BvbnNlID0+CiAgICAgIHJlc3BvbnNlLnN0YXR1cyBtYXRjaCB7CiAgICAgICAgY2FzZSBPSyA9PiBVbm1hcnNoYWwocmVzcG9uc2UuZW50aXR5KS50b1tJcEluZm9dLm1hcChSaWdodChfKSkKICAgICAgICBjYXNlIEJhZFJlcXVlc3QgPT4gRnV0dXJlLnN1Y2Nlc3NmdWwoTGVmdChzIiRpcDogaW5jb3JyZWN0IElQIGZvcm1hdCIpKQogICAgICAgIGNhc2UgXyA9PiBVbm1hcnNoYWwocmVzcG9uc2UuZW50aXR5KS50b1tTdHJpbmddLmZsYXRNYXAgeyBlbnRpdHkgPT4KICAgICAgICAgIHZhbCBlcnJvciA9IHMiVGVsaXplIHJlcXVlc3QgZmFpbGVkIHdpdGggc3RhdHVzIGNvZGUgJHtyZXNwb25zZS5zdGF0dXN9IGFuZCBlbnRpdHkgJGVudGl0eSIKICAgICAgICAgIGxvZ2dlci5lcnJvcihlcnJvcikKICAgICAgICAgIEZ1dHVyZS5mYWlsZWQobmV3IElPRXhjZXB0aW9uKGVycm9yKSkKICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>der {</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aXRoXD4=</text>
@@ -105,32 +106,36 @@
       <register name="0" type="4">
         <text encoding="base64">IHZhbCBwcm9kID0gcS5wcm9kdWNlci5kZWxpdmVyeU1vZGUoTk9OX1BFUlNJU1RFTlQpCiAgICAgIC5zZW5kKCJIZWxsbyIpCiAgICAgIC5zZW5kKCJXb3JsZCIpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHByaXZhdGUgZGVmIGNhbGN1bGF0ZURpc3RhbmNlKGlwMUluZm86IElwSW5mbywgaXAySW5mbzogSXBJbmZvKTogT3B0aW9uW0RvdWJsZV0gPSB7CiAgICAoaXAxSW5mby5sYXRpdHVkZSwgaXAxSW5mby5sb25naXR1ZGUsIGlwMkluZm8ubGF0aXR1ZGUsIGlwMkluZm8ubG9uZ2l0dWRlKSBtYXRjaCB7CiAgICAgIGNhc2UgKFNvbWUobGF0MSksIFNvbWUobG9uMSksIFNvbWUobGF0MiksIFNvbWUobG9uMikpID0+CiAgICAgICAgLy8gc2VlIGh0dHA6Ly93d3cubW92YWJsZS10eXBlLmNvLnVrL3NjcmlwdHMvbGF0bG9uZy5odG1sCiAgICAgICAgdmFsIM+GMSA9IHRvUmFkaWFucyhsYXQxKQogICAgICAgIHZhbCDPhjIgPSB0b1JhZGlhbnMobGF0MikKICAgICAgICB2YWwgzpTPhiA9IHRvUmFkaWFucyhsYXQyIC0gbGF0MSkKICAgICAgICB2YWwgzpTOuyA9IHRvUmFkaWFucyhsb24yIC0gbG9uMSkKICAgICAgICB2YWwgYSA9IHBvdyhzaW4ozpTPhiAvIDIpLCAyKSArIGNvcyjPhjEpICogY29zKM+GMikgKiBwb3coc2luKM6UzrsgLyAyKSwgMikKICAgICAgICB2YWwgYyA9IDIgKiBhdGFuMihzcXJ0KGEpLCBzcXJ0KDEgLSBhKSkKICAgICAgICBPcHRpb24oRWFydGhSYWRpdXMgKiBjKQogICAgICBjYXNlIF8gPT4gTm9uZQogICAgfQogIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHRlbGl6ZVJlcXVlc3QoUmVxdWVzdEJ1aWxkaW5nLkdldChzIi9nZW9pcC8kaXAiKSkuZmxhdE1hcCB7IHJlc3BvbnNlID0+CiAgICAgIHJlc3BvbnNlLnN0YXR1cyBtYXRjaCB7CiAgICAgICAgY2FzZSBPSyA9PiBVbm1hcnNoYWwocmVzcG9uc2UuZW50aXR5KS50b1tJcEluZm9dLm1hcChSaWdodChfKSkKICAgICAgICBjYXNlIEJhZFJlcXVlc3QgPT4gRnV0dXJlLnN1Y2Nlc3NmdWwoTGVmdChzIiRpcDogaW5jb3JyZWN0IElQIGZvcm1hdCIpKQogICAgICAgIGNhc2UgXyA9PiBVbm1hcnNoYWwocmVzcG9uc2UuZW50aXR5KS50b1tTdHJpbmddLmZsYXRNYXAgeyBlbnRpdHkgPT4KICAgICAgICAgIHZhbCBlcnJvciA9IHMiVGVsaXplIHJlcXVlc3QgZmFpbGVkIHdpdGggc3RhdHVzIGNvZGUgJHtyZXNwb25zZS5zdGF0dXN9IGFuZCBlbnRpdHkgJGVudGl0eSIKICAgICAgICAgIGxvZ2dlci5lcnJvcihlcnJvcikKICAgICAgICAgIEZ1dHVyZS5mYWlsZWQobmV3IElPRXhjZXB0aW9uKGVycm9yKSkKICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFhNTCBpcyBtYXJzaGFsbGVkIHRvIGB0ZXh0L3htbGAgYnkgZGVmYXVsdCwgc28gd2Ugc2ltcGx5IGRkb3ZlcnJpZGUgaGVyZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gdGhpcyB0cmFpdCBkZWZpbmVzIG91ciBzZXJ2aWNlIGJlaGF2aW9yIGluZGVwZW5kZW50bHkgZnJvbSB0aGUgc2VydmljZSBhY3Rvcgo=</text>
+        <text encoding="base64">ICBsYXp5IHZhbCB0ZWxpemVDb25uZWN0aW9uRmxvdzogRmxvd1tIdHRwUmVxdWVzdCwgSHR0cFJlc3BvbnNlLCBBbnldID0KICAgIEh0dHAoKS5vdXRnb2luZ0Nvbm5lY3Rpb24oY29uZmlnLmdldFN0cmluZygic2VydmljZXMudGVsaXplSG9zdCIpLCBjb25maWcuZ2V0SW50KCJzZXJ2aWNlcy50ZWxpemVQb3J0IikpCgogIGRlZiB0ZWxpemVSZXF1ZXN0KHJlcXVlc3Q6IEh0dHBSZXF1ZXN0KTogRnV0dXJlW0h0dHBSZXNwb25zZV0gPSBTb3VyY2Uuc2luZ2xlKHJlcXVlc3QpLnZpYSh0ZWxpemVDb25uZWN0aW9uRmxvdykucnVuV2l0aChTaW5rLmhlYWQpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAvLyBvciB0aW1lb3V0IGhhbmRsaW5nCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAvLyBvdGhlciB0aGluZ3MgaGVyZSwgbGlrZSByZXF1ZXN0IHN0cmVhbSBwcm9jZXNzaW5nCg==</text>
+      <register name="5" type="4">
+        <text>extends Protocols</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyB0aGlzIGFjdG9yIG9ubHkgcnVucyBvdXIgcm91dGUsIGJ1dCB5b3UgY291bGQgYWRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>trait Protocols extends DefaultJsonProtocol {
+  implicit val ipInfoFormat = jsonFormat5(IpInfo.apply)
+  implicit val ipPairSummaryRequestFormat = jsonFormat2(IpPairSummaryRequest.apply)
+  implicit val ipPairSummaryFormat = jsonFormat3(IpPairSummary.apply)
+}</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAvLyBjb25uZWN0cyB0aGUgc2VydmljZXMgZW52aXJvbm1lbnQgdG8gdGhlIGVuY2xvc2luZyBhY3RvciBvciB0ZXN0Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IHByaXZhdGUgZGVmIGNhbGN1bGF0ZURpc3RhbmNlKGlwMUluZm86IElwSW5mbywgaXAySW5mbzogSXBJbmZvKTogT3B0aW9uW0RvdWJsZV0gPSB7CiAgICAoaXAxSW5mby5sYXRpdHVkZSwgaXAxSW5mby5sb25naXR1ZGUsIGlwMkluZm8ubGF0aXR1ZGUsIGlwMkluZm8ubG9uZ2l0dWRlKSBtYXRjaCB7CiAgICAgIGNhc2UgKFNvbWUobGF0MSksIFNvbWUobG9uMSksIFNvbWUobGF0MiksIFNvbWUobG9uMikpID0+CiAgICAgICAgLy8gc2VlIGh0dHA6Ly93d3cubW92YWJsZS10eXBlLmNvLnVrL3NjcmlwdHMvbGF0bG9uZy5odG1sCiAgICAgICAgdmFsIM+GMSA9IHRvUmFkaWFucyhsYXQxKQogICAgICAgIHZhbCDPhjIgPSB0b1JhZGlhbnMobGF0MikKICAgICAgICB2YWwgzpTPhiA9IHRvUmFkaWFucyhsYXQyIC0gbGF0MSkKICAgICAgICB2YWwgzpTOuyA9IHRvUmFkaWFucyhsb24yIC0gbG9uMSkKICAgICAgICB2YWwgYSA9IHBvdyhzaW4ozpTPhiAvIDIpLCAyKSArIGNvcyjPhjEpICogY29zKM+GMikgKiBwb3coc2luKM6UzrsgLyAyKSwgMikKICAgICAgICB2YWwgYyA9IDIgKiBhdGFuMihzcXJ0KGEpLCBzcXJ0KDEgLSBhKSkKICAgICAgICBPcHRpb24oRWFydGhSYWRpdXMgKiBjKQogICAgICBjYXNlIF8gPT4gTm9uZQogICAgfQogIH0=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
