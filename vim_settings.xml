@@ -51,6 +51,9 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/db_persister/build.sbt" timestamp="1445096914390">
+        <mark key="[" line="7" column="23" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/evaluate/loader/loader.scala" timestamp="1444925540801">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -99,6 +102,11 @@
         <mark key="." line="17" column="49" />
         <mark key="^" line="17" column="49" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/db_persister/src/main/scala/DBPersister.scala" timestamp="1445097182505">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1444921190399">
         <mark key="[" line="0" column="0" />
       </file>
@@ -114,8 +122,13 @@
       <jump line="46" column="12" filename="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/**
+  * Created by harish on 17/10/2015.
+  */
+class DBPersister {
+
+}</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -126,8 +139,13 @@
       <register name="0" type="4">
         <text>config.getString(&quot;http.interface&quot;)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>/**
+  * Created by harish on 17/10/2015.
+  */
+class DBPersister {
+
+}</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -150,8 +168,8 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Lyp0cmFpdCBTZXJ2aWNlIHsKICBpbXBsaWNpdCB2YWwgc3lzdGVtOiBBY3RvclN5c3RlbQoKICBpbXBsaWNpdCBkZWYgZXhlY3V0b3I6IEV4ZWN1dGlvbkNvbnRleHRFeGVjdXRvcgoKICBkZWYgY29uZmlnOiBDb25maWcKCiAgdmFsIGxvZ2dlcjogTG9nZ2luZ0FkYXB0ZXIKCiAgZGVmIHBlcnNpc3RUb0RhdGFiYXNlKGRhdGE6IFN0cmluZyk6IEZ1dHVyZVtTdHJpbmddID0gewogICAgRnV0dXJlLnN1Y2Nlc3NmdWwoIiIpCiAgfQoKICB2YWwgcm91dGVzID0gcGF0aFByZWZpeCgicGVyc2lzdCIpIHsKICAgIChwdXQgJiBwYXRoKFNlZ21lbnQpKSB7IGRhdGEgPT4KICAgICAgY29tcGxldGUgewogICAgICAgIHBlcnNpdFRvRGF0YUJhc2UoZGF0YSkubWFwCiAgICAgIH0KICAgIH0KICB9Cn0qLw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
