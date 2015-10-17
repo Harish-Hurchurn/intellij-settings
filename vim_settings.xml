@@ -12,11 +12,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/srcs/akka-http-core-experimental_2.11-1.0-sources.jar!/akka/http/scaladsl/model/HttpMessage.scala" timestamp="1445082998735" />
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" timestamp="1445089081234">
-        <mark key="[" line="38" column="46" />
-        <mark key="]" line="38" column="18" />
-        <mark key="^" line="38" column="18" />
-        <mark key="." line="38" column="18" />
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" timestamp="1445093899890">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/scala/com/example/Boot.scala" timestamp="1445075848704">
         <mark key="[" line="12" column="42" />
@@ -69,6 +69,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/build.sbt" timestamp="1445091808412">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="23" column="2" />
+        <mark key="^" line="23" column="2" />
+        <mark key="." line="23" column="2" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/barclays/utils/JMSUtils.scala" timestamp="1444977885344">
         <mark key="'" line="329" column="4" />
         <mark key="[" line="7" column="0" />
@@ -104,43 +110,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>quizzes</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aXRoXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFVubWFyc2hhbCgiIikudG9bU3RyaW5nXS5tYXAoUmlnaHQoXykpCg==</text>
+      <register name="0" type="4">
+        <text>config.getString(&quot;http.interface&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgTGVmdChlcnJvck1lc3NhZ2UpID0+IEJhZFJlcXVlc3QgLT4gZXJyb3JNZXNzYWdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgUmlnaHQoaXBJbmZvKSA9PiBpcEluZm8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmZXRjaElwSW5mbyhpcCkubWFwW1RvUmVzcG9uc2VNYXJzaGFsbGFibGVdIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">KHB1dCAmIHBhdGgoU2VnbWVudCkgeyBkYXRhID0+CiAgICAgIGNvbXBsZXRlIHsKICAgICAgICAiUmVjZWl2ZWQgYSBQVVQgcmVxdWVzdCBmb3IgZGF0YSIgKyBkYXRhCiAgICAgIH0KICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">Lyp0cmFpdCBTZXJ2aWNlIHsKICBpbXBsaWNpdCB2YWwgc3lzdGVtOiBBY3RvclN5c3RlbQoKICBpbXBsaWNpdCBkZWYgZXhlY3V0b3I6IEV4ZWN1dGlvbkNvbnRleHRFeGVjdXRvcgoKICBkZWYgY29uZmlnOiBDb25maWcKCiAgdmFsIGxvZ2dlcjogTG9nZ2luZ0FkYXB0ZXIKCiAgZGVmIHBlcnNpc3RUb0RhdGFiYXNlKGRhdGE6IFN0cmluZyk6IEZ1dHVyZVtTdHJpbmddID0gewogICAgRnV0dXJlLnN1Y2Nlc3NmdWwoIiIpCiAgfQoKICB2YWwgcm91dGVzID0gcGF0aFByZWZpeCgicGVyc2lzdCIpIHsKICAgIChwdXQgJiBwYXRoKFNlZ21lbnQpKSB7IGRhdGEgPT4KICAgICAgY29tcGxldGUgewogICAgICAgIHBlcnNpdFRvRGF0YUJhc2UoZGF0YSkubWFwCiAgICAgIH0KICAgIH0KICB9Cn0qLw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
