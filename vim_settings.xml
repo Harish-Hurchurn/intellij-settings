@@ -11,7 +11,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/srcs/akka-http-core-experimental_2.11-1.0-sources.jar!/akka/http/scaladsl/model/HttpMessage.scala" timestamp="1445082998735" />
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" timestamp="1445093899890">
         <mark key="[" line="12" column="7" />
         <mark key="]" line="26" column="0" />
