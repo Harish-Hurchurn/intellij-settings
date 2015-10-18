@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/data_uploader/build.sbt" timestamp="1445157514892">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="0" column="21" />
+      </file>
       <file name="/Dummy.txt" timestamp="1445003681037">
         <mark key="[" line="0" column="0" />
       </file>
@@ -113,6 +119,7 @@
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/resources/application.conf" timestamp="1445073802772">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/data_uploader/src/com/barclays/loaders/CsvLoader.scala" timestamp="1445157428163" />
     </filemarks>
     <jumps>
       <jump line="2" column="0" filename="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/evaluate/loader/loader.scala" />
@@ -122,13 +129,8 @@
       <jump line="46" column="12" filename="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/**
-  * Created by harish on 17/10/2015.
-  */
-class DBPersister {
-
-}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAiY29tLnR5cGVzYWZlIiAlICJjb25maWciICUgIjEuMi4xIiwK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -139,37 +141,32 @@ class DBPersister {
       <register name="0" type="4">
         <text>config.getString(&quot;http.interface&quot;)</text>
       </register>
-      <register name="1" type="4">
-        <text>/**
-  * Created by harish on 17/10/2015.
-  */
-class DBPersister {
-
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAiY29tLnR5cGVzYWZlIiAlICJjb25maWciICUgIjEuMi4xIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAib3JnLnNsZjRqIiAlICJzbGY0ai1zaW1wbGUiICUgIjEuNi40IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiY29tLnRpbmtlcnBvcC5ncmVtbGluIiAlICJncmVtbGluLXNjYWxhIiAlICIxLjUiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAib3JnLnNjYWxhLWxhbmcubW9kdWxlcyIgJSAic2NhbGEteG1sXzIuMTEiICUgIjEuMC41IiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAib3JnLnNjYWxhLWxhbmcubW9kdWxlcyIgJSAic2NhbGEteG1sXzIuMTEiICUgIjEuMC41IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiY29tLnRoaW5rYXVyZWxpdXMudGl0YW4iICUgInRpdGFuLWNvcmUiICUgdGl0YW5WLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiY29tLnRoaW5rYXVyZWxpdXMudGl0YW4iICUgInRpdGFuLWNhc3NhbmRyYSIgJSB0aXRhblYsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAib3JnLmFwYWNoZS5uaWZpIiAlICJuaWZpLW1vY2siICUgbmlmaVZlcnNpb24sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAib3JnLmFwYWNoZS5uaWZpIiAlICJuaWZpLXByb2Nlc3Nvci11dGlscyIgJSBuaWZpVmVyc2lvbiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
