@@ -3,19 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/data_uploader/build.sbt" timestamp="1445157514892">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="0" column="21" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1445003681037">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/Main.scala" timestamp="1445087242749">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/data_uploader/build.sbt" timestamp="1445157951054">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" timestamp="1445093899890">
         <mark key="[" line="12" column="7" />
@@ -29,6 +21,54 @@
       <file name="/a.dummy" timestamp="1445003681047">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/graph/project/build.scala" timestamp="1444922060390">
+        <mark key="[" line="4" column="42" />
+        <mark key="]" line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/barclays/loaders/CsvLoader.scala" timestamp="1445001777382">
+        <mark key="[" line="32" column="2" />
+        <mark key="]" line="32" column="17" />
+        <mark key="^" line="32" column="17" />
+        <mark key="." line="32" column="17" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/evaluate/loader/loader.scala" timestamp="1444925540801">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/build.sbt" timestamp="1445091808412">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="23" column="2" />
+        <mark key="^" line="23" column="2" />
+        <mark key="." line="23" column="2" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/barclays/utils/JMSUtils.scala" timestamp="1444977885344">
+        <mark key="'" line="329" column="4" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="14" column="8" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/data_uploader/src/main/resources/application.conf" timestamp="1445158143057">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/db_persister/src/main/scala/DBPersister.scala" timestamp="1445097182505">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1445003681037">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/Main.scala" timestamp="1445087242749">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/graph/loader/loader.scala" timestamp="1444920078879">
         <mark key="[" line="18" column="27" />
         <mark key="]" line="18" column="23" />
@@ -40,30 +80,13 @@
         <mark key="]" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/graph/project/build.scala" timestamp="1444922060390">
-        <mark key="[" line="4" column="42" />
-        <mark key="]" line="4" column="31" />
-        <mark key="^" line="4" column="31" />
-        <mark key="." line="4" column="31" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/scala/com/example/MyService.scala" timestamp="1445075992390">
         <mark key="[" line="27" column="4" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/barclays/loaders/CsvLoader.scala" timestamp="1445001777382">
-        <mark key="[" line="32" column="2" />
-        <mark key="]" line="32" column="17" />
-        <mark key="^" line="32" column="17" />
-        <mark key="." line="32" column="17" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/db_persister/build.sbt" timestamp="1445096914390">
         <mark key="[" line="7" column="23" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/evaluate/loader/loader.scala" timestamp="1444925540801">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/graph/db-persister/db-persister.scala" timestamp="1445096351445">
         <mark key="[" line="0" column="0" />
@@ -83,19 +106,6 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/build.sbt" timestamp="1445091808412">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="23" column="2" />
-        <mark key="^" line="23" column="2" />
-        <mark key="." line="23" column="2" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/barclays/utils/JMSUtils.scala" timestamp="1444977885344">
-        <mark key="'" line="329" column="4" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="14" column="8" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/scala/com/example/DatabasePersister.scala" timestamp="1445072898237">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="1" />
@@ -108,18 +118,12 @@
         <mark key="." line="17" column="49" />
         <mark key="^" line="17" column="49" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/db_persister/src/main/scala/DBPersister.scala" timestamp="1445097182505">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1444921190399">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/resources/application.conf" timestamp="1445073802772">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/data_uploader/src/com/barclays/loaders/CsvLoader.scala" timestamp="1445157428163" />
     </filemarks>
     <jumps>
       <jump line="2" column="0" filename="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/evaluate/loader/loader.scala" />
@@ -129,8 +133,32 @@
       <jump line="46" column="12" filename="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAiY29tLnR5cGVzYWZlIiAlICJjb25maWciICUgIjEuMi4xIiwK</text>
+      <register name="&quot;" type="4">
+        <text>app.name=&quot;OrientDbSpike&quot;
+app.mode=NoTx
+app.withEdges=false
+app.dbType=titan
+app.maxRecords=100000000
+app.maxRetries=1
+app.recordBatchSize=500
+app.maxThreads=10
+app.queue=titan-graph
+app.db=titan_harish
+app.db.resource=titan/graph.properties
+
+orientdb {
+host=localhost
+#host=x6.ojuba.com
+#db=with_opt
+db=barclays
+user=admin
+password=admin
+#maxRecords=30000
+maxRecords=100000000
+maxRetries=1
+recordSize=500
+maxThreads=10
+}</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -141,32 +169,56 @@
       <register name="0" type="4">
         <text>config.getString(&quot;http.interface&quot;)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAiY29tLnR5cGVzYWZlIiAlICJjb25maWciICUgIjEuMi4xIiwK</text>
+      <register name="1" type="4">
+        <text>app.name=&quot;OrientDbSpike&quot;
+app.mode=NoTx
+app.withEdges=false
+app.dbType=titan
+app.maxRecords=100000000
+app.maxRetries=1
+app.recordBatchSize=500
+app.maxThreads=10
+app.queue=titan-graph
+app.db=titan_harish
+app.db.resource=titan/graph.properties
+
+orientdb {
+host=localhost
+#host=x6.ojuba.com
+#db=with_opt
+db=barclays
+user=admin
+password=admin
+#maxRecords=30000
+maxRecords=100000000
+maxRetries=1
+recordSize=500
+maxThreads=10
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAib3JnLnNsZjRqIiAlICJzbGY0ai1zaW1wbGUiICUgIjEuNi40IiwK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAiY29tLnRpbmtlcnBvcC5ncmVtbGluIiAlICJncmVtbGluLXNjYWxhIiAlICIxLjUiLAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAib3JnLnNjYWxhLWxhbmcubW9kdWxlcyIgJSAic2NhbGEteG1sXzIuMTEiICUgIjEuMC41IiwK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhLWxhbmcubW9kdWxlcyIgJSAic2NhbGEteG1sXzIuMTEiICUgIjEuMC41IiwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhLWxhbmcubW9kdWxlcyIgJSAic2NhbGEteG1sXzIuMTEiICUgIjEuMC41IiwK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAiY29tLnRoaW5rYXVyZWxpdXMudGl0YW4iICUgInRpdGFuLWNvcmUiICUgdGl0YW5WLAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAiY29tLnRoaW5rYXVyZWxpdXMudGl0YW4iICUgInRpdGFuLWNhc3NhbmRyYSIgJSB0aXRhblYsCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAib3JnLmFwYWNoZS5uaWZpIiAlICJuaWZpLW1vY2siICUgbmlmaVZlcnNpb24sCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAib3JnLmFwYWNoZS5uaWZpIiAlICJuaWZpLXByb2Nlc3Nvci11dGlscyIgJSBuaWZpVmVyc2lvbiwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAib3JnLmFwYWNoZS5uaWZpIiAlICJuaWZpLXV0aWxzIiAlIG5pZmlWZXJzaW9uLAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAib3JnLmFwYWNoZS5uaWZpIiAlICJuaWZpLWFwaSIgJSBuaWZpVmVyc2lvbiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
