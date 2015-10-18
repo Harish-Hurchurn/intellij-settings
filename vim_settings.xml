@@ -113,10 +113,11 @@
         <mark key="." line="17" column="49" />
         <mark key="^" line="17" column="49" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/db_persister/src/main/scala/DBPersister.scala" timestamp="1445166664655">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/db_persister/src/main/scala/DBPersister.scala" timestamp="1445168340898">
+        <mark key="[" line="31" column="10" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="31" column="19" />
+        <mark key="^" line="31" column="19" />
       </file>
       <file name="/fragment.java" timestamp="1444921190399">
         <mark key="[" line="0" column="0" />
@@ -133,32 +134,8 @@
       <jump line="46" column="12" filename="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>app.name=&quot;OrientDbSpike&quot;
-app.mode=NoTx
-app.withEdges=false
-app.dbType=titan
-app.maxRecords=100000000
-app.maxRetries=1
-app.recordBatchSize=500
-app.maxThreads=10
-app.queue=titan-graph
-app.db=titan_harish
-app.db.resource=titan/graph.properties
-
-orientdb {
-host=localhost
-#host=x6.ojuba.com
-#db=with_opt
-db=barclays
-user=admin
-password=admin
-#maxRecords=30000
-maxRecords=100000000
-maxRetries=1
-recordSize=500
-maxThreads=10
-}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -169,7 +146,22 @@ maxThreads=10
       <register name="0" type="4">
         <text>config.getString(&quot;http.interface&quot;)</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Ly8gIGxhenkgdmFsIHB1dEN1c3RvbWVyUm91dGUgPSBwYXRoUHJlZml4KCJwZXJzaXN0IikgewovLyAgICAocHV0ICYgcGF0aChTZWdtZW50KSkgeyBwYXlsb2FkID0+Ci8vICAgICAgcmVzcG9uZFdpdGhNZWRpYVR5cGUoTWVkaWFUeXBlcy5gYXBwbGljYXRpb24vanNvbmApIHsKLy8gICAgICAgIHBlcnNpc3RUb0RhdGFiYXNlKHBheWxvYWQpCi8vCi8vICAgICAgICByZXNwb25kV2l0aFN0YXR1cyhTdGF0dXNDb2Rlcy5PSykgewovLyAgICAgICAgICBjb21wbGV0ZShwYXlsb2FkKQovLyAgICAgICAgfQovLyAgICAgIH0KLy8gICAgfQovLyAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5ldmFsdWF0ZS5sb2FkLkdyYXBoVmVydGV4TG9hZGVyCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEdyYXBoVmVydGV4TG9hZGVyLnByb2Nlc3MoZGF0YSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5ldmFsdWF0ZS5sb2FkLkdyYXBoVmVydGV4TG9hZGVyCg==</text>
+      </register>
+      <register name="6" type="4">
         <text>app.name=&quot;OrientDbSpike&quot;
 app.mode=NoTx
 app.withEdges=false
@@ -196,29 +188,14 @@ recordSize=500
 maxThreads=10
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAiY29tLnRpbmtlcnBvcC5ncmVtbGluIiAlICJncmVtbGluLXNjYWxhIiAlICIxLjUiLAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAib3JnLnNjYWxhLWxhbmcubW9kdWxlcyIgJSAic2NhbGEteG1sXzIuMTEiICUgIjEuMC41IiwK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAiY29tLnRoaW5rYXVyZWxpdXMudGl0YW4iICUgInRpdGFuLWNvcmUiICUgdGl0YW5WLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAiY29tLnRoaW5rYXVyZWxpdXMudGl0YW4iICUgInRpdGFuLWNhc3NhbmRyYSIgJSB0aXRhblYsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAib3JnLmFwYWNoZS5uaWZpIiAlICJuaWZpLW1vY2siICUgbmlmaVZlcnNpb24sCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAib3JnLmFwYWNoZS5uaWZpIiAlICJuaWZpLXByb2Nlc3Nvci11dGlscyIgJSBuaWZpVmVyc2lvbiwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAib3JnLmFwYWNoZS5uaWZpIiAlICJuaWZpLXV0aWxzIiAlIG5pZmlWZXJzaW9uLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAib3JnLmFwYWNoZS5uaWZpIiAlICJuaWZpLWFwaSIgJSBuaWZpVmVyc2lvbiwK</text>
+        <text encoding="base64">ICAiY29tLnRoaW5rYXVyZWxpdXMudGl0YW4iICUgInRpdGFuLWNvcmUiICUgdGl0YW5WLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
