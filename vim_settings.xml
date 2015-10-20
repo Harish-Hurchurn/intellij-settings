@@ -130,6 +130,11 @@
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/spray-template/src/main/resources/application.conf" timestamp="1445073802772">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/graph/src/main/scala/com/evaluate/load/GraphVertexLoader.scala" timestamp="1445359009068">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="2" column="0" filename="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/evaluate/loader/loader.scala" />
@@ -140,7 +145,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vR3JhcGhWZXJ0ZXhMb2FkZXIucHJvY2VzcyhkYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -152,55 +157,31 @@
         <text>config.getString(&quot;http.interface&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vR3JhcGhWZXJ0ZXhMb2FkZXIucHJvY2VzcyhkYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgY29tLmV2YWx1YXRlLmxvYWQuR3JhcGhWZXJ0ZXhMb2FkZXIK</text>
+        <text encoding="base64">ICAgIC8vICAgYXNTY2FsYVNldCh2ZXJ0ZXguZ2V0UHJvcGVydHlLZXlzKS5mb3JlYWNoKHA9PiBwcmludGxuKCJwcm9wPSIgKyBwICsgIiwgdmFsdWU9Iit2ZXJ0ZXguZ2V0UHJvcGVydHkocCkpKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ly8gIGxhenkgdmFsIHB1dEN1c3RvbWVyUm91dGUgPSBwYXRoUHJlZml4KCJwZXJzaXN0IikgewovLyAgICAocHV0ICYgcGF0aChTZWdtZW50KSkgeyBwYXlsb2FkID0+Ci8vICAgICAgcmVzcG9uZFdpdGhNZWRpYVR5cGUoTWVkaWFUeXBlcy5gYXBwbGljYXRpb24vanNvbmApIHsKLy8gICAgICAgIHBlcnNpc3RUb0RhdGFiYXNlKHBheWxvYWQpCi8vCi8vICAgICAgICByZXNwb25kV2l0aFN0YXR1cyhTdGF0dXNDb2Rlcy5PSykgewovLyAgICAgICAgICBjb21wbGV0ZShwYXlsb2FkKQovLyAgICAgICAgfQovLyAgICAgIH0KLy8gICAgfQovLyAgfQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy92YWwgcGVyc29uTGFiZWwgPSBtZ210Lm1ha2VWZXJ0ZXhMYWJlbChsYWJlbCkubWFrZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ldmFsdWF0ZS5sb2FkLkdyYXBoVmVydGV4TG9hZGVyCg==</text>
+        <text encoding="base64">Ly8gICAgICBtZ210LmNvbW1pdCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEdyYXBoVmVydGV4TG9hZGVyLnByb2Nlc3MoZGF0YSkK</text>
+        <text encoding="base64">Ly8gICAgICB2YWwgcGVyc29uTGFiZWwgPSBtZ210Lm1ha2VWZXJ0ZXhMYWJlbChsYWJlbCkubWFrZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ldmFsdWF0ZS5sb2FkLkdyYXBoVmVydGV4TG9hZGVyCg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIG1nbXQgPSBncmFwaC5nZXRNYW5hZ2VtZW50U3lzdGVtCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>app.name=&quot;OrientDbSpike&quot;
-app.mode=NoTx
-app.withEdges=false
-app.dbType=titan
-app.maxRecords=100000000
-app.maxRetries=1
-app.recordBatchSize=500
-app.maxThreads=10
-app.queue=titan-graph
-app.db=titan_harish
-app.db.resource=titan/graph.properties
-
-orientdb {
-host=localhost
-#host=x6.ojuba.com
-#db=with_opt
-db=barclays
-user=admin
-password=admin
-#maxRecords=30000
-maxRecords=100000000
-maxRetries=1
-recordSize=500
-maxThreads=10
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiY29tLnRpbmtlcnBvcC5ncmVtbGluIiAlICJncmVtbGluLXNjYWxhIiAlICIxLjUiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
