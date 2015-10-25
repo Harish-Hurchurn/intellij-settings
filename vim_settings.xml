@@ -9,6 +9,10 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/ChapterTwo.scala" timestamp="1445783818244">
+        <mark key="'" line="18" column="16" />
+        <mark key="[" line="35" column="20" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala" timestamp="1445093899890">
         <mark key="[" line="12" column="7" />
         <mark key="]" line="26" column="0" />
@@ -84,6 +88,9 @@
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/db_persister/build.sbt" timestamp="1445096914390">
         <mark key="[" line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" timestamp="1445783541587">
+        <mark key="'" line="39" column="2" />
+      </file>
       <file name="$USER_HOME$/work/barclays/graph/src/main/scala/com/barclays/evaluate/orient/LiveQuery.scala" timestamp="1445526655621">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="4" />
@@ -152,7 +159,10 @@
         <mark key="[" line="8" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="39" column="2" filename="$USER_HOME$/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" />
+      <jump line="18" column="16" filename="$USER_HOME$/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/ChapterTwo.scala" />
+    </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICB2YWwgeCA9IGN1cnJpZWQK</text>
@@ -196,7 +206,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>set number</text>
+        <text>e .</text>
       </register>
     </registers>
     <search>
@@ -214,6 +224,9 @@
         <entry>wq</entry>
         <entry>w</entry>
         <entry>set number</entry>
+        <entry>e</entry>
+        <entry>vs</entry>
+        <entry>e .</entry>
       </history-cmd>
       <history-expr />
       <history-input />
