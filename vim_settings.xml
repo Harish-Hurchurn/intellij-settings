@@ -14,7 +14,6 @@
         <mark key="[" line="35" column="20" />
       </file>
       <file name="$USER_HOME$/work/hmrc/scala-interview/src/main/scala/interview/Interview.scala" timestamp="1446215250223">
-        <mark key="[" line="13" column="47" />
         <mark key="]" line="4" column="60" />
         <mark key="." line="4" column="60" />
         <mark key="^" line="4" column="60" />
@@ -48,6 +47,12 @@
         <mark key="]" line="32" column="17" />
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/src/main/scala/co/ioctl/drawing/Canvas.scala" timestamp="1446216098340">
+        <mark key="[" line="72" column="4" />
+        <mark key="]" line="72" column="4" />
+        <mark key="." line="72" column="4" />
+        <mark key="^" line="72" column="4" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/graph/src/main/scala/com/evaluate/loader/loader.scala" timestamp="1444925540801">
         <mark key="[" line="19" column="0" />
@@ -185,11 +190,11 @@
       <jump line="18" column="16" filename="$USER_HOME$/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/ChapterTwo.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBlb3BsZS5mb2xkTGVmdChMaXN0W1BlcnNvbl0oKSkoKHksIHlzKSA9PiB5cyA6OiB5KQo=</text>
+      <register name="&quot;" type="4">
+        <text>val str = f</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>val str = f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aXRoXD4=</text>
@@ -197,32 +202,32 @@
       <register name="0" type="4">
         <text>config.getString(&quot;http.interface&quot;)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHBlb3BsZS5mb2xkTGVmdChMaXN0W1BlcnNvbl0oKSkoKHksIHlzKSA9PiB5cyA6OiB5KQo=</text>
+      <register name="1" type="4">
+        <text>val str = f</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIHN0ci5ta1N0cmluZygiIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBQZXJzb24oIkRvbGx5IiwgNTYpID0+ICJXb3JraW5nIDkgdG8gNSIK</text>
+        <text encoding="base64">ICAgIHBlb3BsZS5mb2xkTGVmdChMaXN0W1BlcnNvbl0oKSkoKHksIHlzKSA9PiB5cyA6OiB5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBQZXJzb24oIkVsdmlzIiwgNDUpID0+ICJXZSBjb3VsZCB0YWxrIGFsbCBuaWdodCIK</text>
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBQZXJzb24oIkVsdmlzIiwgNTYpID0+ICJXZWxsIGJsZXNzIG15IHNvdWwiCg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBQZXJzb24oIkRvbGx5IiwgNTYpID0+ICJXb3JraW5nIDkgdG8gNSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBlcnNvbiBtYXRjaCB7Cg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBQZXJzb24oIkVsdmlzIiwgNDUpID0+ICJXZSBjb3VsZCB0YWxrIGFsbCBuaWdodCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG51bWJlcnMubWFwKGkgPT4gaWYgKGkgJSAyID09IDApICJiYW5nIiBlbHNlICJmaXp6IikK</text>
+        <text encoding="base64">ICAgICAgY2FzZSBQZXJzb24oIkVsdmlzIiwgNTYpID0+ICJXZWxsIGJsZXNzIG15IHNvdWwiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBlb3BsZS5zb3J0QnkoXy5hZ2UpCg==</text>
+        <text encoding="base64">ICAgIHBlcnNvbiBtYXRjaCB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG51bWJlcnMuZm9sZCgwKSgoYSwgYikgPT4gaWYgKGEgPiBiKSBhIGVsc2UgYikK</text>
+        <text encoding="base64">ICAgIG51bWJlcnMubWFwKGkgPT4gaWYgKGkgJSAyID09IDApICJiYW5nIiBlbHNlICJmaXp6IikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
