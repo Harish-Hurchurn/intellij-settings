@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/src/bulkloader/src/main/scala/com/example/FirstCut.scala" timestamp="1446800909627">
+        <mark key="[" line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/work/barclays/src/ingester/build.sbt" timestamp="1446643015291">
         <mark key="[" line="5" column="3" />
         <mark key="]" line="6" column="35" />
