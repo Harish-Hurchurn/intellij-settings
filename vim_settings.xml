@@ -2,16 +2,35 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/src/main/scala/co/ioctl/drawing/Canvas.scala" timestamp="1448193822769">
+        <mark key="[" line="73" column="19" />
+        <mark key="]" line="73" column="3" />
+        <mark key="^" line="73" column="3" />
+        <mark key="." line="73" column="3" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/project/build.properties" timestamp="1448193779691">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
