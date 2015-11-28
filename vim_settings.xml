@@ -9,8 +9,19 @@
         <mark key="^" line="73" column="3" />
         <mark key="." line="73" column="3" />
       </file>
+      <file name="$USER_HOME$/work/barclays/merlin/nifi3cdpflow/src/main/scala/com/barclays/nifi/Logic.scala" timestamp="1448705969804">
+        <mark key="[" line="7" column="96" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+      </file>
       <file name="/Dummy.txt" timestamp="1448529251850">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/barclays/merlin/nifi3cdpflow/src/main/scala/com/barclays/nifi/GenericProcessor.scala" timestamp="1448706111971">
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
+        <mark key="^" line="24" column="3" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/project/build.properties" timestamp="1448193779691">
         <mark key="[" line="0" column="18" />
@@ -21,8 +32,41 @@
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="4">
+        <text>+</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>+</text>
+      </register>
+      <register name="2" type="4">
+        <text>+</text>
+      </register>
+      <register name="3" type="4">
+        <text>+</text>
+      </register>
+      <register name="4" type="4">
+        <text>+</text>
+      </register>
+      <register name="5" type="4">
+        <text>+</text>
+      </register>
+      <register name="6" type="4">
+        <text>+</text>
+      </register>
+      <register name="7" type="4">
+        <text>+</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>record</text>
+      </register>
       <register name=":" type="4">
         <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>+</text>
       </register>
     </registers>
     <search>
