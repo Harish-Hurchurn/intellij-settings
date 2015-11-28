@@ -31,6 +31,11 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="24" column="3" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi/src/main/scala/com/barclays/nifi/GenericProcessor.scala" timestamp="1448708001514">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi3cdpflow/project/build.properties" timestamp="1448706453010">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
@@ -46,43 +51,44 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="4">
-        <text>8</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I0FjdGl2YXRvci1nZW5lcmF0ZWQgUHJvcGVydGllCg==</text>
+        <text encoding="base64">ICB2YWwgRmFpbHVyZTogUmVsYXRpb25zaGlwID0gbmV3IFJlbGF0aW9uc2hpcC5CdWlsZGVyKCkubmFtZSgiRkFJTFVSRSIpLmRlc2NyaXB0aW9uKCJGYWlsdXJlIHJlbGF0aW9uc2hpcCIpLmJ1aWxkCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>s
-#Wed Nov 25 17:12:55 GMT 2015
-template.uuid=e17acfbb-1ff5-41f5-b8cf-2c40be6a8340</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICB2YWwgRmFpbHVyZTogUmVsYXRpb25zaGlwID0gbmV3IFJlbGF0aW9uc2hpcC5CdWlsZGVyKCkubmFtZSgiRkFJTFVSRSIpLmRlc2NyaXB0aW9uKCJGYWlsdXJlIHJlbGF0aW9uc2hpcCIpLmJ1aWxkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly9saWJyYXJ5RGVwZW5kZW5jaWVzICs9ICJjb20udHlwZXNhZmUuYWtrYSIgJSUgImFra2EtYWN0b3IiICUgIjIuMy4xMSIK</text>
+      <register name="5" type="4">
+        <text>val Success: Relationship = new Relationship.Builder().name(&quot;SUCCESS&quot;).description(&quot;Success relationship&quot;).build
+  val Failure: Relationship = new Relationship.Builder().name(&quot;FAILURE&quot;).description(&quot;Failure relationship&quot;).build</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gVW5jb21tZW50IHRvIHVzZSBBa2thCg==</text>
+      <register name="6" type="4">
+        <text>v</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>vval Success: Relationship = new Relationship.Builder().name(&quot;SUCCESS&quot;).description(&quot;Success relationship&quot;).build
+  val Failure: Relationship = new Relationship.Builder().name(&quot;FAILURE&quot;).description(&quot;Failure relationship&quot;).build
+  v</text>
       </register>
-      <register name="8" type="4">
-        <text>+</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>+</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB2YWwgeCA9IG9uVHJpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>v</text>
       </register>
     </registers>
     <search>
