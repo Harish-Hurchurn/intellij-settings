@@ -17,11 +17,25 @@
       <file name="/Dummy.txt" timestamp="1448529251850">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi3cdpflow/project/build.sbt" timestamp="1448706384772">
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi3cdpflow/project/plugins.sbt" timestamp="1448706460857">
+        <mark key="[" line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/work/barclays/merlin/nifi3cdpflow/src/main/scala/com/barclays/nifi/GenericProcessor.scala" timestamp="1448706111971">
         <mark key="[" line="35" column="4" />
         <mark key="]" line="25" column="20" />
         <mark key="." line="25" column="20" />
         <mark key="^" line="24" column="3" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi3cdpflow/project/build.properties" timestamp="1448706453010">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/project/build.properties" timestamp="1448193779691">
         <mark key="[" line="0" column="18" />
@@ -33,40 +47,42 @@
     <jumps />
     <registers>
       <register name="1" type="4">
-        <text>+</text>
+        <text>8</text>
       </register>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>8</text>
       </register>
-      <register name="2" type="4">
-        <text>+</text>
+      <register name="2" type="2">
+        <text encoding="base64">I0FjdGl2YXRvci1nZW5lcmF0ZWQgUHJvcGVydGllCg==</text>
       </register>
       <register name="3" type="4">
-        <text>+</text>
+        <text>s
+#Wed Nov 25 17:12:55 GMT 2015
+template.uuid=e17acfbb-1ff5-41f5-b8cf-2c40be6a8340</text>
       </register>
-      <register name="4" type="4">
-        <text>+</text>
-      </register>
-      <register name="5" type="4">
-        <text>+</text>
-      </register>
-      <register name="6" type="4">
-        <text>+</text>
-      </register>
-      <register name="7" type="4">
-        <text>+</text>
-      </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly9saWJyYXJ5RGVwZW5kZW5jaWVzICs9ICJjb20udHlwZXNhZmUuYWtrYSIgJSUgImFra2EtYWN0b3IiICUgIjIuMy4xMSIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gVW5jb21tZW50IHRvIHVzZSBBa2thCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>+</text>
+      </register>
       <register name="9" type="4">
-        <text>record</text>
+        <text>+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>8</text>
       </register>
     </registers>
     <search>
