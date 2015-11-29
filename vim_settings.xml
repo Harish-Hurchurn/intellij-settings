@@ -40,6 +40,12 @@
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/sbt-maven-plugin/src/main/scala/com/github/shivawu/sbt/maven/MavenPlugin.scala" timestamp="1448793665600">
         <mark key="[" line="18" column="51" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugins.sbt" timestamp="1448794333748">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi/src/main/scala/com/barclays/nifi/GenericProcessor.scala" timestamp="1448708001514">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="16" column="0" />
@@ -60,8 +66,8 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGRhZGRTYnRQbHVnaW4oImNvbS5naXRodWIuc2hpdmF3dSIgJSAic2J0LW1hdmVuLXBsdWdpbiIgJSAiMC4xLjIiKQo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -69,35 +75,33 @@
       <register name="0" type="4">
         <text>0.1.3-SNAPSHOT</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ZGRhZGRTYnRQbHVnaW4oImNvbS5naXRodWIuc2hpdmF3dSIgJSAic2J0LW1hdmVuLXBsdWdpbiIgJSAiMC4xLjIiKQo=</text>
+      </register>
+      <register name="2" type="4">
         <text>)</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">L1VzZXJzL2hhcmlzaC8uaXZ5Mi9sb2NhbC9jb20uZ2l0aHViLnNoaXZhd3Uvc2J0LW1hdmVuLXBsdWdpbi9zY2FsYV8yLjEwL3NidF8wLjEzLzAuMS4zLVNOQVBTSE9UL3BvMG1zL3NidC1tYXZlbi1wbHVnaW4ucG9tCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgRmFpbHVyZTogUmVsYXRpb25zaGlwID0gbmV3IFJlbGF0aW9uc2hpcC5CdWlsZGVyKCkubmFtZSgiRkFJTFVSRSIpLmRlc2NyaXB0aW9uKCJGYWlsdXJlIHJlbGF0aW9uc2hpcCIpLmJ1aWxkCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICB2YWwgRmFpbHVyZTogUmVsYXRpb25zaGlwID0gbmV3IFJlbGF0aW9uc2hpcC5CdWlsZGVyKCkubmFtZSgiRkFJTFVSRSIpLmRlc2NyaXB0aW9uKCJGYWlsdXJlIHJlbGF0aW9uc2hpcCIpLmJ1aWxkCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICB2YWwgRmFpbHVyZTogUmVsYXRpb25zaGlwID0gbmV3IFJlbGF0aW9uc2hpcC5CdWlsZGVyKCkubmFtZSgiRkFJTFVSRSIpLmRlc2NyaXB0aW9uKCJGYWlsdXJlIHJlbGF0aW9uc2hpcCIpLmJ1aWxkCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>val Success: Relationship = new Relationship.Builder().name(&quot;SUCCESS&quot;).description(&quot;Success relationship&quot;).build
   val Failure: Relationship = new Relationship.Builder().name(&quot;FAILURE&quot;).description(&quot;Failure relationship&quot;).build</text>
       </register>
-      <register name="8" type="4">
-        <text>v</text>
-      </register>
       <register name="9" type="4">
-        <text>vval Success: Relationship = new Relationship.Builder().name(&quot;SUCCESS&quot;).description(&quot;Success relationship&quot;).build
-  val Failure: Relationship = new Relationship.Builder().name(&quot;FAILURE&quot;).description(&quot;Failure relationship&quot;).build
-  v</text>
+        <text>v</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
