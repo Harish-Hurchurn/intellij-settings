@@ -104,7 +104,7 @@
         <mark key="." line="27" column="73" />
         <mark key="^" line="27" column="73" />
       </file>
-      <file name="$USER_HOME$/work/barclays/merlin/nifi3cdpflow/build.sbt" timestamp="1448803278740">
+      <file name="$USER_HOME$/work/barclays/merlin/nifi3cdpflow/build.sbt" timestamp="1448810276870">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -153,8 +153,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
@@ -162,32 +162,32 @@
       <register name="0" type="2">
         <text encoding="base64">Ly8gRm9yIG1vcmUgaW5mbyByZWZlciB0bzogaHR0cHM6Ly9naXRodWIuY29tL3NidC9zYnQtYXNzZW1ibHkK</text>
       </register>
-      <register name="1" type="4">
-        <text>{</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHN0b3JlLmdldFNjaGVtYS5nZXROYW1lID09IHNjaGVtYVR5cGVOYW1lKSB7Cg==</text>
+        <text encoding="base64">Ci8vIENoYW5nZSB0aGlzIHRvIGFub3RoZXIgdGVzdCBmcmFtZXdvcmsgaWYgeW91IHByZWZlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Ly9yZXNvbHZlcnMgKz0gIm1hdmVuIG9yZyIgYXQgImh0dHBzOi8vcmVwbzEubWF2ZW4ub3JnL21hdmVuMi8iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhayAvL3RvZG86IGJyZWFrIGlzIG5vdCBzdXBwb3J0ZWRkZAo=</text>
+        <text encoding="base64">cmVzb2x2ZXJzICs9IFJlc29sdmVyLm1hdmVuTG9jYWwK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">KQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>n</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>u</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly9saWJyYXJ5RGVwZW5kZW5jaWVzICs9ICJjb20udHlwZXNhZmUuYWtrYSIgJSUgImFra2EtYWN0b3IiICUgIjIuMy4xMSIK</text>
       </register>
-      <register name="9" type="4">
-        <text>t</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gVW5jb21tZW50IHRvIHVzZSBBa2thCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
