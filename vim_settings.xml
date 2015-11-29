@@ -80,6 +80,11 @@
         <mark key="^" line="0" column="67" />
         <mark key="." line="0" column="67" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/TestingNifi/src/main/scala/JsonProcessor.scala" timestamp="1448804629715">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/barclays/merlin/nifi3cdpflow/src/main/scala/com/barclays/nifi/GenericProcessor.scala" timestamp="1448706111971">
         <mark key="[" line="35" column="4" />
         <mark key="]" line="25" column="20" />
@@ -135,8 +140,13 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAiZGVmYXVsdCIgJSAiYXZyb3BlcnNpc3Rlcl8yLjExIiAlICIxLjAiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>/**
+  * Created by harish on 29/11/2015.
+  */
+class JsonProcessor {
+
+}</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -144,32 +154,42 @@
       <register name="0" type="2">
         <text encoding="base64">Ly8gRm9yIG1vcmUgaW5mbyByZWZlciB0bzogaHR0cHM6Ly9naXRodWIuY29tL3NidC9zYnQtYXNzZW1ibHkK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>/**
+  * Created by harish on 29/11/2015.
+  */
+class JsonProcessor {
+
+}</text>
+      </register>
+      <register name="2" type="4">
+        <text>/**
+  * Created by harish on 29/11/2015.
+  */
+class JsonProcessor {
+
+}</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAiZGVmYXVsdCIgJSAiYXZyb3BlcnNpc3Rlcl8yLjExIiAlICIxLjAiLAo=</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">d2FydHJlbW92ZXJFcnJvcnMgKys9IFdhcnRzLnVuc2FmZQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>,</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAiY29tLnRoaW5rYXVyZWxpdXMudGl0YW4iICUgInRpdGFuLWNhc3NhbmRyYSIgJSAiMS4wLjAiLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjQiICUgInRlc3QiLAo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiY29tLnRoaW5rYXVyZWxpdXMudGl0YW4iICUgInRpdGFuLWNhc3NhbmRyYSIgJSAiMS4wLjAiLAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjQiICUgInRlc3QiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjQiICUgInRlc3QiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAiZGVmYXVsdCIgJSAiYXZyb3BlcnNpc3Rlcl8yLjExIiAlICIxLjAiLA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjQiICUgInRlc3QiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
