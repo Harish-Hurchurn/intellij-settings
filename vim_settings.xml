@@ -25,7 +25,6 @@
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi3cdpflow/project/plugins.sbt" timestamp="1448706460857">
         <mark key="[" line="0" column="2" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/nifi/nifi-api/0.0.1-incubating/nifi-api-0.0.1-incubating.jar!/org/apache/nifi/processor/annotation/Tags.class" timestamp="1448790935776" />
       <file name="$USER_HOME$/work/barclays/merlin/nifi3cdpflow/src/main/scala/com/barclays/nifi/GenericProcessor.scala" timestamp="1448706111971">
         <mark key="[" line="35" column="4" />
         <mark key="]" line="25" column="20" />
