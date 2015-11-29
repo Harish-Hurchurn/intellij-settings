@@ -33,6 +33,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/avropersister/src/main/scala/com/barclays/AvroFileReader" timestamp="1448806942552">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="21" column="58" />
+        <mark key="." line="21" column="58" />
+        <mark key="^" line="21" column="58" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-maven].sbt" timestamp="1448803583477">
         <mark key="[" line="1" column="97" />
         <mark key="]" line="2" column="0" />
@@ -51,11 +57,6 @@
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/pom.xml" timestamp="1448806224585">
         <mark key="^" line="112" column="9" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-dependency-grapg].sbt" timestamp="1448801566126">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/maven-sbt.sbt" timestamp="1448795840580">
         <mark key="[" line="0" column="74" />
@@ -125,14 +126,10 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/work/barclays/merlin/avropersister/build.sbt" timestamp="1448806096407">
+      <file name="$USER_HOME$/work/barclays/merlin/avropersister/build.sbt" timestamp="1448806540856">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/plugins.sbt" timestamp="1448797197468">
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugins/sbt-maven.sbt" timestamp="1448797337038">
         <mark key="[" line="1" column="0" />
@@ -153,41 +150,41 @@
       <jump line="1" column="0" filename="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>{</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gRm9yIG1vcmUgaW5mbyByZWZlciB0bzogaHR0cHM6Ly9naXRodWIuY29tL3NidC9zYnQtYXNzZW1ibHkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHN0b3JlLmdldFNjaGVtYS5nZXROYW1lID09IHNjaGVtYVR5cGVOYW1lKSB7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXN1cmVmaXJlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMTU8L3ZlcnNpb24+CiAgICAgICAgICAgIDwvcGx1Z2luPg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4K</text>
+        <text encoding="base64">ICAgICAgICBicmVhayAvL3RvZG86IGJyZWFrIGlzIG5vdCBzdXBwb3J0ZWRkZAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxncm91cElkPm5ldC5hbGNoaW0zMS5tYXZlbjwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNjYWxhLW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuMi4wPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPGV4ZWN1dGlvbnM+CiAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlkPnNjYWxhLWNvbXBpbGUtZmlyc3Q8L2lkPgogICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+cHJvY2Vzcy1yZXNvdXJjZXM8L3BoYXNlPgogICAgICAgICAgICAgICAgICAgICAgICA8Z29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5hZGQtc291cmNlPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+Y29tcGlsZTwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8aWQ+c2NhbGEtdGVzdC1jb21waWxlPC9pZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHBoYXNlPnByb2Nlc3MtdGVzdC1yZXNvdXJjZXM8L3BoYXNlPgogICAgICAgICAgICAgICAgICAgICAgICA8Z29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD50ZXN0Q29tcGlsZTwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxqdm1BcmdzPgogICAgICAgICAgICAgICAgICAgICAgICA8anZtQXJnPi1YbXMxMDI0bTwvanZtQXJnPgogICAgICAgICAgICAgICAgICAgICAgICA8anZtQXJnPi1YbXg4RzwvanZtQXJnPgogICAgICAgICAgICAgICAgICAgICAgICA8anZtQXJnPi1EdXNlci50aW1lem9uZT1VVEM8L2p2bUFyZz4KICAgICAgICAgICAgICAgICAgICAgICAgPGp2bUFyZz4tWFg6TWF4UGVybVNpemU9MTAyNG08L2p2bUFyZz4KICAgICAgICAgICAgICAgICAgICA8L2p2bUFyZ3M+CiAgICAgICAgICAgICAgICAgICAgPGFyZ3M+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcmc+LW5vd2FybjwvYXJnPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJnPi11bmNoZWNrZWQ8L2FyZz4KICAgICAgICAgICAgICAgICAgICAgICAgPGFyZz4tZGVwcmVjYXRpb248L2FyZz4KICAgICAgICAgICAgICAgICAgICA8L2FyZ3M+CiAgICAgICAgICAgICAgICAgICAgPHNjYWxhVmVyc2lvbj4yLjExLjc8L3NjYWxhVmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>n</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">cHVibGlzaFRvIDo9IFNvbWUoUmVzb2x2ZXIuZmlsZSgiZmlsZSIsICBuZXcgRmlsZShQYXRoLnVzZXJIb21lLmFic29sdXRlUGF0aCsiLy5tMi9yZXBvc2l0b3J5IikpKQo=</text>
+      <register name="7" type="4">
+        <text>r</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNjYWxhdGVzdDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c2NhbGF0ZXN0XzIuMTE8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjMuMC4wLU0xMjwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3kK</text>
+      <register name="8" type="4">
+        <text>u</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
