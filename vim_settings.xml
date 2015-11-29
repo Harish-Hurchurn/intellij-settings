@@ -39,6 +39,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" timestamp="1448805270802">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/dependency-graph.sbt" timestamp="1448796087444">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="0" />
@@ -138,15 +143,15 @@
         <mark key="." line="0" column="19" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="3" column="6" filename="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" />
+      <jump line="5" column="0" filename="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" />
+      <jump line="1" column="0" filename="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" />
+    </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/**
-  * Created by harish on 29/11/2015.
-  */
-class JsonProcessor {
-
-}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGhhcmlzaCBvbiAyOS8xMS8yMDE1LgogICovCmNsYXNzIEpTT05Qcm9jZXNzb3IgewoKfQo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -154,13 +159,8 @@ class JsonProcessor {
       <register name="0" type="2">
         <text encoding="base64">Ly8gRm9yIG1vcmUgaW5mbyByZWZlciB0bzogaHR0cHM6Ly9naXRodWIuY29tL3NidC9zYnQtYXNzZW1ibHkK</text>
       </register>
-      <register name="1" type="4">
-        <text>/**
-  * Created by harish on 29/11/2015.
-  */
-class JsonProcessor {
-
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGhhcmlzaCBvbiAyOS8xMS8yMDE1LgogICovCmNsYXNzIEpTT05Qcm9jZXNzb3IgewoKfQo=</text>
       </register>
       <register name="2" type="4">
         <text>/**
@@ -170,26 +170,31 @@ class JsonProcessor {
 
 }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAiZGVmYXVsdCIgJSAiYXZyb3BlcnNpc3Rlcl8yLjExIiAlICIxLjAiLAo=</text>
+      <register name="3" type="4">
+        <text>/**
+  * Created by harish on 29/11/2015.
+  */
+class JsonProcessor {
+
+}</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAiZGVmYXVsdCIgJSAiYXZyb3BlcnNpc3Rlcl8yLjExIiAlICIxLjAiLAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">d2FydHJlbW92ZXJFcnJvcnMgKys9IFdhcnRzLnVuc2FmZQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>,</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAiY29tLnRoaW5rYXVyZWxpdXMudGl0YW4iICUgInRpdGFuLWNhc3NhbmRyYSIgJSAiMS4wLjAiLAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjQiICUgInRlc3QiLAo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjQiICUgInRlc3QiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjQiICUgInRlc3QiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
