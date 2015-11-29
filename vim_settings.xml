@@ -3,6 +3,28 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi3cdpflow/project/plugins.sbt" timestamp="1448706460857">
+        <mark key="[" line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/build.properties" timestamp="1448794577425">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/dependency-graph.sbt" timestamp="1448796087444">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/pom.xml" timestamp="1448794791859">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/maven-sbt.sbt" timestamp="1448795840580">
+        <mark key="[" line="0" column="74" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/src/main/scala/co/ioctl/drawing/Canvas.scala" timestamp="1448193822769">
         <mark key="[" line="73" column="19" />
         <mark key="]" line="73" column="3" />
@@ -17,25 +39,14 @@
       <file name="/Dummy.txt" timestamp="1448529251850">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi3cdpflow/project/build.sbt" timestamp="1448706384772">
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi3cdpflow/project/plugins.sbt" timestamp="1448706460857">
-        <mark key="[" line="0" column="2" />
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/assembly.sbt" timestamp="1448796091319">
+        <mark key="[" line="0" column="56" />
       </file>
       <file name="$USER_HOME$/work/barclays/merlin/nifi3cdpflow/src/main/scala/com/barclays/nifi/GenericProcessor.scala" timestamp="1448706111971">
         <mark key="[" line="35" column="4" />
         <mark key="]" line="25" column="20" />
         <mark key="." line="25" column="20" />
         <mark key="^" line="24" column="3" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/build.properties" timestamp="1448794577425">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/sbt-maven-plugin/build.sbt" timestamp="1448793300581">
         <mark key="[" line="27" column="69" />
@@ -46,27 +57,34 @@
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/sbt-maven-plugin/src/main/scala/com/github/shivawu/sbt/maven/MavenPlugin.scala" timestamp="1448793665600">
         <mark key="[" line="18" column="51" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugins.sbt" timestamp="1448794734388">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="56" />
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugins.sbt" timestamp="1448797326292">
+        <mark key="[" line="3" column="55" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi/src/main/scala/com/barclays/nifi/GenericProcessor.scala" timestamp="1448708001514">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/pom.xml" timestamp="1448794791859">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugins/dependency.sbt" timestamp="1448797318506">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi3cdpflow/project/build.properties" timestamp="1448706453010">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/plugins.sbt" timestamp="1448797197468">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugins/sbt-maven.sbt" timestamp="1448797337038">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/project/build.properties" timestamp="1448193779691">
         <mark key="[" line="0" column="18" />
@@ -78,43 +96,40 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Ly86Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>addSbtPlugin(&quot;com.github.shivawu&quot; % &quot;sbt-maven-plugin&quot; % &quot;0.1.3-SNAPSHOT&quot;)</text>
+        <text />
       </register>
       <register name="0" type="4">
         <text>0.1.3-SNAPSHOT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Ly86Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5kZWZhdWx0PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5yZXN0cGVyc2lzdGVyXzIuMTE8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+        <text />
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>w</text>
       </register>
-      <register name="4" type="4">
-        <text>addSbtPlugin(&quot;com.github.shivawu&quot; % &quot;sbt-maven-plugin&quot; % &quot;0.1.3-SNAPSHOT&quot;)</text>
-      </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20uZ2l0aHViLnNoaXZhd3UiICUgInNidC1tYXZlbi1wbHVnaW4iICUgIjAuMS4zLVNOQVBTSE9UIikK</text>
       </register>
+      <register name="5" type="4">
+        <text>addSbtPlugin(&quot;net.virtual-void&quot; % &quot;sbt-dependency-graph.sbt&quot; % &quot;0.8.0&quot;)</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">IyBNb3JlCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20uZWVkM3NpOW4iICUgInNidC1hc3NlbWJseSIgJSAiMC4xNC4xIikK</text>
       </register>
-      <register name="7" type="4">
-        <text>#Activator-generated Properties
-#Wed Nov 25 17:12:55 GMT 2015
-template.uuid=e17acfbb-1ff5-41f5-b8cf-2c40be6a8340
-s</text>
-      </register>
       <register name="8" type="4">
-        <text>/</text>
+        <text>addSbtPlugin(&quot;com.eed3si9n&quot; % &quot;sbt-assembly&quot; % &quot;0.14.1&quot;)</text>
       </register>
-      <register name="9" type="4">
-        <text>/</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
