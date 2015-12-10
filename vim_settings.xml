@@ -55,6 +55,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/Testing/src/main/scala/Test.scala" timestamp="1449682135166">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/pom.xml" timestamp="1448809782683">
         <mark key="^" line="112" column="9" />
       </file>
@@ -155,41 +160,46 @@
       <jump line="1" column="0" filename="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>&quot;9/12/15&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gRm9yIG1vcmUgaW5mbyByZWZlciB0bzogaHR0cHM6Ly9naXRodWIuY29tL3NidC9zYnQtYXNzZW1ibHkK</text>
+        <text encoding="base64">ICB2YWwgYncgPSBuZXcgQnVmZmVyZWRXcml0ZXIobmV3IEZpbGVXcml0ZXIoZmlsZSkpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAiZGVmYXVsdCIgJSAiYXZyb3BlcnNpc3Rlcl8yLjExIiAlICIxLjAiLAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZGVmIGdlbmVyYXRlUmFuZG9tRGF0YSA9IHsKICAgIHZhbCBmaWxlID0gbmV3IEZpbGUoInJhbmRvbS5jc3YiKQogICAgdmFsIGJ3ID0gbmV3IEJ1ZmZlcmVkV3JpdGVyKG5ldyBGaWxlV3JpdGVyKGZpbGUpKQoKICAgIGZvciAobGluZSA8LSAxIHRvIDIwKQogICAgICBidy53cml0ZShsaW5lKQogIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAib3JnLmpzb240cyIgJSAianNvbjRzLW5hdGl2ZV8yLjExIiAlICIzLjMuMCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAib3JnLmpzb240cyIgJSAianNvbjRzLW5hdGl2ZV8yLjExIiAlICIzLjMuMCIsCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZGVmIHJhbmRCZXR3ZWVuKHN0YXJ0OiBJbnQsIGVuZDogSW50KSA9IHsKICAgIHN0YXJ0ICsgTWF0aC5yb3VuZChNYXRoLnJhbmRvbSgpICogKGVuZCAtIHN0YXJ0KSkKICB9Cgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAib3JnLmFwYWNoZS5uaWZpIiAlICJuaWZpLXV0aWxzIiAlICIwLjAuMS1pbmN1YmF0aW5nIgo=</text>
+      <register name="5" type="4">
+        <text>def randBetween(start: Int, end: Int) = {
+    start + Math.round(Math.random() * (end - start))
+  }
+
+
+  v</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2ICAib3JnLmFwYWNoZS5uaWZpIiAlICJuaWZpLWFwaSIgJSAiMC4wLjEtaW5jdWJhdGluZyIsCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ci8vIENoYW5nZSB0aGlzIHRvIGFub3RoZXIgdGVzdCBmcmFtZXdvcmsgaWYgeW91IHByZWZlcgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBHcmVnb3JpYW5DYWxlbmRhciBnYyA9IG5ldyBHcmVnb3JpYW5DYWxlbmRhcigpOwoKICBpbnQgeWVhciA9IHJhbmRCZXR3ZWVuKDE5MDAsIDIwMTApOwoKICBnYy5zZXQoZ2MuWUVBUiwgeWVhcik7CgogIGludCBkYXlPZlllYXIgPSByYW5kQmV0d2VlbigxLCBnYy5nZXRBY3R1YWxNYXhpbXVtKGdjLkRBWV9PRl9ZRUFSKSk7CgogIGdjLnNldChnYy5EQVlfT0ZfWUVBUiwgZGF5T2ZZZWFyKTsKCiAgU3lzdGVtLm91dC5wcmludGxuKGdjLmdldChnYy5ZRUFSKSArICItIiArIChnYy5nZXQoZ2MuTU9OVEgpICsgMSkgKyAiLSIgKyBnYy5nZXQoZ2MuREFZX09GX01PTlRIKSk7Cgp9CgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9yZXNvbHZlcnMgKz0gIm1hdmVuIG9yZyIgYXQgImh0dHBzOi8vcmVwbzEubWF2ZW4ub3JnL21hdmVuMi8iCg==</text>
+        <text encoding="base64">cHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
