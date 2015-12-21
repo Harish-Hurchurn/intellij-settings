@@ -121,6 +121,11 @@
         <mark key="." line="27" column="73" />
         <mark key="^" line="27" column="73" />
       </file>
+      <file name="$USER_HOME$/work/barclays/merlin/nifi-elastic/src/main/java/rocks/nifi/examples/processors/JsonProcessor.java" timestamp="1450706774146">
+        <mark key="[" line="121" column="25" />
+        <mark key="]" line="121" column="54" />
+        <mark key="." line="121" column="54" />
+      </file>
       <file name="$USER_HOME$/work/barclays/merlin/nifi3cdpflow/build.sbt" timestamp="1448814428471">
         <mark key="[" line="6" column="32" />
         <mark key="]" line="8" column="39" />
