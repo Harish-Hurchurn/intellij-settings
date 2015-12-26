@@ -109,6 +109,12 @@
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-dependency-graph].sbt" timestamp="1448813779929">
         <mark key="[" line="1" column="66" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterThreeSpec.scala" timestamp="1451131839721">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="17" column="20" />
+        <mark key="." line="17" column="20" />
+        <mark key="^" line="17" column="20" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/TestingNifi/src/main/scala/JsonProcessor.scala" timestamp="1448804629715">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -172,11 +178,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" timestamp="1451125993630">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" timestamp="1451131690343">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="23" column="28" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/project/build.properties" timestamp="1448193779691">
         <mark key="[" line="0" column="18" />
@@ -193,44 +199,44 @@
       <jump line="2" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvLmlvY3RsLmNoYXB0ZXJ0aHJlZS5Db25zCg==</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>x</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB2YWwgYncgPSBuZXcgQnVmZmVyZWRXcml0ZXIobmV3IEZpbGVXcml0ZXIoZmlsZSkpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICBkZWYgc2V0SGVhZFtBXShlbGVtOiBBKTogTGlzdFtBXSA9IGVsZW0gbWF0Y2ggewogICAgY2FzZSBOaWwgPT4gTGlzdCgpCiAgICBjYXNlIENvbnMoXywgeHMpID0+IENvbnMoZWxlbSwgeHMpCiAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvLmlvY3RsLmNoYXB0ZXJ0aHJlZS5Db25zCg==</text>
+      <register name="1" type="4">
+        <text>x</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text encoding="base64">IGRlZiBzZXRIZWFkW0FdKGVsZW06IEEpOiBMaXN0W0FdID0gZWxlbSBtYXRjaCB7CiAgICBjYXNlIE5pbCA9PiBMaXN0KCkKICAgIGNhc2UgQ29ucyhfLCB4cykgPT4gQ29ucyhlbGVtLCB4cykKICB9Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>o</text>
+        <text encoding="base64">IGRlZiBwcm9kdWN0KGRzOiBMaXN0W0RvdWJsZV0pOiBEb3VibGUgPSBkcyBtYXRjaCB7CiAgICBjYXNlIE5pbCA9PiAxLjAKICAgIGNhc2UgQ29ucygwLjAsIF8pID0+IDAuMAogICAgY2FzZSBDb25zKHgsIHhzKSA9PiB4ICogcHJvZHVjdCh4cykKICB9</text>
       </register>
-      <register name="5" type="4">
-        <text>C</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvLmlvY3RsLmNoYXB0ZXJ0aHJlZS5Db25zCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ZGVmIHBhcnRpYWxbQSwgQiwgQ10oYTogQSwgZjogKEEsIEIpID0+IEMpOiBCID0+IEMgPSB7CiAgYiA9PiBmKGEsIGIpCn0KCmRlZiBjdXJyeVtBLCBCLCBDXShmOiAoQSwgQikgPT4gQyk6IEEgPT4gKEIgPT4gQykgPSB7CiAgYSA9PiBiID0+IGYoYSwgYikKfQoKZGVmIHVuY3VycnlbQSwgQiwgQ10oZjogQSA9PiBCID0+IEMpOiAoQSwgQikgPT4gQyA9IHsKICAoYSwgYikgPT4gZihhKShiKQp9</text>
+        <text>s</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">c2VhbGVkIHRyYWl0IExpc3RbK0FdCgpjYXNlIG9iamVjdCBOaWwgZXh0ZW5kcyBMaXN0W05vdGhpbmddCgpjYXNlIGNsYXNzIENvbnNbK0FdKGhlYWQ6IEEsIHRhaWw6IExpc3RbQV0pIGV4dGVuZHMgTGlzdFtBXQoKb2JqZWN0IExpc3QgewogIGRlZiB0YWlsW0FdKGw6IExpc3RbQV0pOiBMaXN0W0FdID0KICAgIGwgbWF0Y2ggewogICAgICBjYXNlIENvbnMoXywgdCkgPT4gdAogICAgICBjYXNlIE5pbCA9PiBMaXN0KCkKICAgIH0KCiAgZGVmIHNldEhlYWRbQV0obDogTGlzdFtBXSwgZWxlbTogQSk6IExpc3RbQV0gPQogICAgbCBtYXRjaCB7CiAgICAgIGNhc2UgQ29ucyhfLCB0KSA9PiBDb25zKGVsZW0sIHQpCiAgICAgIGNhc2UgTmlsID0+IExpc3QoKQogICAgfQoKICBkZWYgZHJvcFtBXShsOiBMaXN0W0FdLCBuOiBJbnQpOiBMaXN0W0FdID0gewogICAgaWYgKG4gPD0gMCkgbAogICAgZWxzZSBsIG1hdGNoIHsKICAgICAgY2FzZSBDb25zKF8sIHhzKSA9PiBkcm9wKHhzLCBuIC0gMSkKICAgICAgY2FzZSBfID0+IGwKICAgIH0KICB9CgogIGRlZiBkcm9wV2hpbGVbQV0obDogTGlzdFtBXSwgZjogQSA9PiBCb29sZWFuKTogTGlzdFtBXSA9IHsKICAgIGRlZiBsb29wKHk6IExpc3RbQV0pOiBMaXN0W0FdID0gewogICAgICB5IG1hdGNoIHsKICAgICAgICBjYXNlIENvbnMoeCwgeHMpIGlmIGYoeCkgPT4gbG9vcCh4cykKICAgICAgICBjYXNlIE5pbCA9PiBOaWwKICAgICAgICBjYXNlIF8gPT4gbAogICAgICB9CiAgICB9CgogICAgbG9vcChsKQogIH0KCiAgZGVmIHN1bShpbnRzOiBMaXN0W0ludF0pOiBJbnQgPQogICAgaW50cyBtYXRjaCB7CiAgICAgIGNhc2UgTmlsID0+IDAKICAgICAgY2FzZSBDb25zKHgsIHhzKSA9PiB4ICsgc3VtKHhzKQogICAgfQoKICBkZWYgcHJvZHVjdChkczogTGlzdFtEb3VibGVdKTogRG91YmxlID0KICAgIGRzIG1hdGNoIHsKICAgICAgY2FzZSBOaWwgPT4gMS4wCiAgICAgIGNhc2UgQ29ucygwLjAsIF8pID0+IDAuMAogICAgICBjYXNlIENvbnMoeCwgeHMpID0+IHggKiBwcm9kdWN0KHhzKQogICAgfQoKCiAgZGVmIGFwcGx5W0FdKGFzOiBBKik6IExpc3RbQV0gPSB7CiAgICBpZiAoYXMuaXNFbXB0eSkgTmlsCiAgICBlbHNlIENvbnMoYXMuaGVhZCwgYXBwbHkoYXMudGFpbDogXyopKQogIH0KfQo=</text>
+      <register name="7" type="4">
+        <text>n</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="8" type="4">
+        <text>o</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBhID0+IGIgPT4gZihhLCBiKQo=</text>
+      <register name="9" type="4">
+        <text>C</text>
       </register>
       <register name=":" type="4">
-        <text>set number</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -240,8 +246,11 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>w</entry>
         <entry>set number</entry>
+        <entry>vs</entry>
+        <entry>e</entry>
+        <entry>e ChapterThree.scala</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
