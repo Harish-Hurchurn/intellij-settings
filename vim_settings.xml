@@ -109,11 +109,11 @@
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-dependency-graph].sbt" timestamp="1448813779929">
         <mark key="[" line="1" column="66" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterThreeSpec.scala" timestamp="1451131839721">
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="17" column="20" />
-        <mark key="." line="17" column="20" />
-        <mark key="^" line="17" column="20" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterThreeSpec.scala" timestamp="1451214117838">
+        <mark key="[" line="25" column="2" />
+        <mark key="]" line="43" column="8" />
+        <mark key="." line="43" column="8" />
+        <mark key="^" line="43" column="8" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/TestingNifi/src/main/scala/JsonProcessor.scala" timestamp="1448804629715">
         <mark key="[" line="0" column="0" />
@@ -178,12 +178,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" timestamp="1451210734495">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="25" column="17" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/project/build.properties" timestamp="1448193779691">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="19" />
@@ -200,40 +194,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNhc2UgQ29ucyh4LCB4cykgPT4geCArIHN1bSh4cykK</text>
+        <text encoding="base64">ICAgIGRlZiBsb29wKGxpc3Q6IExpc3RbQV0pID0gewo=</text>
       </register>
       <register name="-" type="4">
         <text>x</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICBkZWYgc2V0SGVhZFtBXShlbGVtOiBBKTogTGlzdFtBXSA9IGVsZW0gbWF0Y2ggewogICAgY2FzZSBOaWwgPT4gTGlzdCgpCiAgICBjYXNlIENvbnMoXywgeHMpID0+IENvbnMoZWxlbSwgeHMpCiAgfQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiBsb29wKGxpc3Q6IExpc3RbQV0pID0gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhc2UgQ29ucyh4LCB4cykgPT4geCArIHN1bSh4cykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">YXNlIE5pbCA9PiAwCiAgICBjYXNlIENvbnMoeCwgeHMpID0+IHggKyBzdW0oeA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>x</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNhc2UgTmlsID0+IExpc3QoKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGRlZiBzZXRIZWFkW0FdKGVsZW06IEEpOiBMaXN0W0FdID0gZWxlbSBtYXRjaCB7CiAgICBjYXNlIE5pbCA9PiBMaXN0KCkKICAgIGNhc2UgQ29ucyhfLCB4cykgPT4gQ29ucyhlbGVtLCB4cykKICB9Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZWYgZHJvcFtBXShsOiBMaXN0W0FdLCBuOiBJbnQpOiBMaXN0W0FdID0gewogICAgY2FzZSBOaWwgPT4gTGlzdCgpCiAgICBjYXNlIENvbnMoeCwgeHMpID0+IGRyb3AoeHMsIG4gLSAxKQogIH0KCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNhc2UgXyA9PiBsCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGRlZiBwcm9kdWN0KGRzOiBMaXN0W0RvdWJsZV0pOiBEb3VibGUgPSBkcyBtYXRjaCB7CiAgICBjYXNlIE5pbCA9PiAxLjAKICAgIGNhc2UgQ29ucygwLjAsIF8pID0+IDAuMAogICAgY2FzZSBDb25zKHgsIHhzKSA9PiB4ICogcHJvZHVjdCh4cykKICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNhc2UgQ29ucyhfLCB4cykgPT4gZHJvcCh4cywgbiAtMSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvLmlvY3RsLmNoYXB0ZXJ0aHJlZS5Db25zCg==</text>
+        <text encoding="base64">ICAgIGNhc2UgTmlsID0+IExpc3QoKQo=</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>x</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -250,6 +244,10 @@
         <entry>vs</entry>
         <entry>e</entry>
         <entry>e ChapterThree.scala</entry>
+        <entry encoding="base64">JzwsJz5tMTU=</entry>
+        <entry>m 15</entry>
+        <entry>14</entry>
+        <entry>m 14</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
