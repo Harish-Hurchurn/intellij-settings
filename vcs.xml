@@ -14,8 +14,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="IntelliJ" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://gitolite3@edraj.io/lab/merlin_ui_acceptance_tests.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git/software" />
+    <option name="cloneParentDir" value="$USER_HOME$/work/src" />
   </component>
 </application>
