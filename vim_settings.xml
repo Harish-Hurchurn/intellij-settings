@@ -145,10 +145,11 @@
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/sbt-maven-plugin/src/main/scala/com/github/shivawu/sbt/maven/MavenPlugin.scala" timestamp="1448793665600">
         <mark key="[" line="18" column="51" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/playground.sc" timestamp="1451128929450">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/playground.sc" timestamp="1451468349449">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="40" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi/src/main/scala/com/barclays/nifi/GenericProcessor.scala" timestamp="1448708001514">
         <mark key="[" line="17" column="0" />
@@ -177,8 +178,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" timestamp="1451222433262">
-        <mark key="[" line="33" column="14" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" timestamp="1451467567756">
+        <mark key="[" line="33" column="15" />
         <mark key="]" line="36" column="44" />
         <mark key="^" line="36" column="44" />
         <mark key="." line="36" column="44" />
@@ -211,28 +212,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpdCBzaG91bGQgIiByZXR1cm4gTGlzdCgxLCAyLCAzLCA0LCA1Cg==</text>
+        <text encoding="base64">dmFsIHggPSBMaXN0KDEsMiwzLDQsNSw2KQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LCA2LCA3LCA4LCA5LCAxMCkgd2hlbiBjYWxsZWQgb24gTGlzdCgxLCAyLCAzLCA0LCA1LCA2LCA3LCA4LCA5LCAxMCkiIGluIHsKICAgIHZhbCB4ID0gTGlzdCgxLCAyLCAzLCA0LCA1LCA2LCA3LCA4LCA5LCAxMCkKICAgIExpc3QuZHJvcFdoaWxlKHgsIChpOiBJbnQpID0+IGkgJSAyID09IDApIHNob3VsZEJlIExpc3QoMSwgMiwgMywgNCwgNSwgNiwgNywgOCwgOSwgMTApCiAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">dmFsIHggPSBMaXN0KDEsMiwzLDQsNSkgbWF0Y2ggewogIGNhc2UgQ29ucyh4LCBDb25zKDIsIENvbnMoNCwgXykpKSA9PiB4Cn0K</text>
       </register>
-      <register name="4" type="4">
-        <text>init(xs)</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpdCBzaG91bGQgIiByZXR1cm4gTGlzdCgxLCAyLCAzLCA0LCA1Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">LCA2LCA3LCA4LCA5LCAxMCkgd2hlbiBjYWxsZWQgb24gTGlzdCgxLCAyLCAzLCA0LCA1LCA2LCA3LCA4LCA5LCAxMCkiIGluIHsKICAgIHZhbCB4ID0gTGlzdCgxLCAyLCAzLCA0LCA1LCA2LCA3LCA4LCA5LCAxMCkKICAgIExpc3QuZHJvcFdoaWxlKHgsIChpOiBJbnQpID0+IGkgJSAyID09IDApIHNob3VsZEJlIExpc3QoMSwgMiwgMywgNCwgNSwgNiwgNywgOCwgOSwgMTApCiAgfQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNhc2UgTmlsID0+IExpc3QoKQo=</text>
+      <register name="7" type="4">
+        <text>init(xs)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgZHJvcFtBXShsOiBMaXN0W0FdLCBuOiBJbnQpOiBMaXN0W0FdID0gewogICAgY2FzZSBOaWwgPT4gTGlzdCgpCiAgICBjYXNlIENvbnMoeCwgeHMpID0+IGRyb3AoeHMsIG4gLSAxKQogIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhc2UgXyA9PiBsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
