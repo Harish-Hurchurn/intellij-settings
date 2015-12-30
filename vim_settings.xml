@@ -33,6 +33,11 @@
       <file name="/a.dummy" timestamp="1450963365420">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/src/merlin_ui_acceptance_tests/.gitignore" timestamp="1451479835686">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/build.sbt" timestamp="1448877254510">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="7" column="0" />
@@ -197,8 +202,8 @@
       <jump line="2" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -206,32 +211,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBsb29wKGxpc3Q6IExpc3RbQV0pID0gewo=</text>
       </register>
-      <register name="1" type="4">
-        <text />
+      <register name="1" type="2">
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="2" type="4">
-        <text>}</text>
+        <text />
       </register>
       <register name="3" type="4">
-        <text>p</text>
+        <text>}</text>
       </register>
       <register name="4" type="4">
-        <text>o</text>
+        <text>p</text>
       </register>
       <register name="5" type="4">
         <text>o</text>
       </register>
       <register name="6" type="4">
+        <text>o</text>
+      </register>
+      <register name="7" type="4">
         <text>l</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICBsb29wKGxpc3QsIGYpCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IEBhbm5vdGF0aW9uLnRhaWxyZWMKICAgIGRlZiBsb29wKGw6IExpc3RbQV0sIGY6IChCLCBBKSA9PiBCKTogQW55ID0gew==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
