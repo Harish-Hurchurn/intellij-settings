@@ -183,10 +183,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" timestamp="1451488685340">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" timestamp="1451491846908">
+        <mark key="'" line="55" column="19" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/project/build.properties" timestamp="1448193779691">
         <mark key="[" line="0" column="18" />
@@ -202,57 +203,67 @@
       <jump line="1" column="0" filename="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" />
       <jump line="8" column="9" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" />
+      <jump line="84" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" />
+      <jump line="44" column="8" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" />
+      <jump line="57" column="19" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvKmRlZiBmb2xkTGVmdFtBLCBCXShsaXN0OiBMaXN0W0FdLCB6OiBCKShmOiAoQiwgQSkgPT4gQik6IEIgPSB7CiAgICBsaXN0IG1hdGNoIHsKICAgICAgY2FzZSBOaWwgPT4gegogICAgICBjYXNlIENvbnMoeCwgeHMpID0+IGZvbGRMZWZ0KHhzLCBmKHosIHgpKShmKQogICAgfQogIH0qLwoK</text>
+        <text encoding="base64">ICAgIGZvbGRMZWZ0KGxpc3QsIExpc3RbQV0oKSkoKGFjYyxoKSA9PiBDb25zKGgsYWNjKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>)</text>
+      </register>
+      <register name="/" type="4">
+        <text>foldLeft</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNhc2UgQ29ucyhfLCBOaWwpID0+IE5pbAogICAgY2FzZSBDb25zKHgsIHhzKSA9PiBDb25zKHgsIGluaXQoeHMpKQogICAgY2FzZSBOaWwgPT4gc3lzLmVycm9yKCJpbml0IG9mIGVtcHR5IGxpc3QiKQogIH0KCiAgQGFubm90YXRpb24udGFpbHJlYwogIGRlZiBmb2xkTGVmdFtBLCBCXShsaXN0OiBMaXN0W0FdLCB6OiBCKShmOiAoQiwgQSkgPT4gQik6IEIgPSB7CiAgICBkZWYgbG9vcChsOiBMaXN0W0FdKTogTGlzdFtBXSA9IHsKCiAgICB9CiAgfQoKCiAgLypkZWYgZm9sZExlZnRbQSwgQl0obGlzdDogTGlzdFtBXSwgejogQikoZjogKEIsIEEpID0+IEIpOiBCID0gewogICAgbGlzdCBtYXRjaCB7CiAgICAgIGNhc2UgTmlsID0+IHoKICAgICAgY2FzZSBDb25zKHgsIHhzKSA9PiBmb2xkTGVmdCh4cywgZih6LCB4KSkoZikKICAgIH0KICB9Ki8KCiAgZGVmIGZvbGRSaWdodFtBLCBCXShhczogTGlzdFtBXSwgejogQikoZjogKEEsIEIpID0+IEIpOiBCID0gewogICAgYXMgbWF0Y2ggewogICAgICBjYXNlIE5pbCA9PiB6CiAgICAgIGNhc2UgQ29ucyh4LCB4cykgPT4gZih4LCBmb2xkUmlnaHQoeHMsIHopKGYpKQogICAgfQogIH0KCiAgZGVmIGxlbmd0aFtBXShhczogTGlzdFtBXSk6IEludCA9IHsKICAgIGZvbGRSaWdodChhcywgMCkoKF8sIGFjYykgPT4gYWNjICsgMSkKICB9CgogIGRlZiBwcm9kdWN0KGRzOiBMaXN0W0RvdWJsZV0pOiBEb3VibGUgPSBkcyBtYXRjaCB7CiAgICBjYXNlIE5pbCA9PiAxLjAKICAgIGNhc2UgQ29ucygwLjAsIF8pID0+IDAuMAogICAgY2FzZSBDb25zKHgsIHhzKSA9PiB4ICogcHJvZHVjdCh4cykKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvKmRlZiBmb2xkTGVmdFtBLCBCXShsaXN0OiBMaXN0W0FdLCB6OiBCKShmOiAoQiwgQSkgPT4gQik6IEIgPSB7CiAgICBsaXN0IG1hdGNoIHsKICAgICAgY2FzZSBOaWwgPT4gegogICAgICBjYXNlIENvbnMoeCwgeHMpID0+IGZvbGRMZWZ0KHhzLCBmKHosIHgpKShmKQogICAgfQogIH0qLwoK</text>
+        <text encoding="base64">ICAgIGZvbGRMZWZ0KGxpc3QsIExpc3RbQV0oKSkoKGFjYyxoKSA9PiBDb25zKGgsYWNjKSkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvb3AobGlzdCkK</text>
+      <register name="3" type="4">
+        <text>h</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="5" type="4">
+        <text>acc</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBDb25zKHgsIHhzKSA9PiBsb29wKHhzKQo=</text>
+      <register name="6" type="4">
+        <text>)(</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBOaWwgPT4gego=</text>
+      <register name="7" type="4">
+        <text>0</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb29wKGw6IExpc3RbQV0pOiBBID0gewo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgZm9sZExlZnRbQSwgQl0obGlzdDogTGlzdFtBXSwgejogQikoZjogKEIsIEEpID0+IEIpOiBCID0gewo=</text>
+      <register name="9" type="4">
+        <text>as</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>foldLeft</last-search>
+      <last-offset />
+      <last-pattern>foldLeft</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>foldLeft</entry>
+      </history-search>
       <history-cmd>
         <entry>set number</entry>
-        <entry>vs</entry>
         <entry>e</entry>
         <entry>e ChapterThree.scala</entry>
         <entry encoding="base64">JzwsJz5tMTU=</entry>
@@ -260,6 +271,9 @@
         <entry>14</entry>
         <entry>m 14</entry>
         <entry>w</entry>
+        <entry>vs</entry>
+        <entry>45g</entry>
+        <entry>g54</entry>
       </history-cmd>
       <history-expr />
       <history-input />
