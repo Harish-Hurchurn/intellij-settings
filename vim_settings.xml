@@ -109,7 +109,7 @@
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-dependency-graph].sbt" timestamp="1448813779929">
         <mark key="[" line="1" column="66" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterThreeSpec.scala" timestamp="1451472635090">
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterThreeSpec.scala" timestamp="1451473289589">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
@@ -178,11 +178,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" timestamp="1451469400930">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="36" column="44" />
-        <mark key="^" line="36" column="44" />
-        <mark key="." line="36" column="44" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" timestamp="1451474689760">
+        <mark key="^" line="44" column="33" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/project/build.properties" timestamp="1448193779691">
         <mark key="[" line="0" column="18" />
@@ -199,41 +196,41 @@
       <jump line="2" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>init(xs)</text>
+        <text />
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBsb29wKGxpc3Q6IExpc3RbQV0pID0gewo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dmFsIHggPSBMaXN0KDEsMiwzLDQsNSw2KQo=</text>
+      <register name="2" type="4">
+        <text>}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dmFsIHggPSBMaXN0KDEsMiwzLDQsNSkgbWF0Y2ggewogIGNhc2UgQ29ucyh4LCBDb25zKDIsIENvbnMoNCwgXykpKSA9PiB4Cn0K</text>
+      <register name="3" type="4">
+        <text>p</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>o</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBpdCBzaG91bGQgIiByZXR1cm4gTGlzdCgxLCAyLCAzLCA0LCA1Cg==</text>
+      <register name="5" type="4">
+        <text>o</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">LCA2LCA3LCA4LCA5LCAxMCkgd2hlbiBjYWxsZWQgb24gTGlzdCgxLCAyLCAzLCA0LCA1LCA2LCA3LCA4LCA5LCAxMCkiIGluIHsKICAgIHZhbCB4ID0gTGlzdCgxLCAyLCAzLCA0LCA1LCA2LCA3LCA4LCA5LCAxMCkKICAgIExpc3QuZHJvcFdoaWxlKHgsIChpOiBJbnQpID0+IGkgJSAyID09IDApIHNob3VsZEJlIExpc3QoMSwgMiwgMywgNCwgNSwgNiwgNywgOCwgOSwgMTApCiAgfQ==</text>
+        <text>l</text>
       </register>
-      <register name="7" type="4">
-        <text>init(xs)</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb29wKGxpc3QsIGYpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IEBhbm5vdGF0aW9uLnRhaWxyZWMKICAgIGRlZiBsb29wKGw6IExpc3RbQV0sIGY6IChCLCBBKSA9PiBCKTogQW55ID0gew==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
