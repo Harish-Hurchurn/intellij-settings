@@ -114,10 +114,10 @@
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-dependency-graph].sbt" timestamp="1448813779929">
         <mark key="[" line="1" column="66" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterThreeSpec.scala" timestamp="1451473289589">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterThreeSpec.scala" timestamp="1451559893731">
+        <mark key="[" line="77" column="2" />
+        <mark key="]" line="77" column="3" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/TestingNifi/src/main/scala/JsonProcessor.scala" timestamp="1448804629715">
         <mark key="[" line="0" column="0" />
@@ -182,11 +182,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" timestamp="1451493353968">
-        <mark key="'" line="54" column="19" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" timestamp="1451560456431">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="34" />
+        <mark key="." line="19" column="34" />
+        <mark key="^" line="19" column="34" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/project/build.properties" timestamp="1448193779691">
         <mark key="[" line="0" column="18" />
@@ -222,32 +222,32 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBkZWYgYXBwZW5kW0FdKGxpc3RBOiBMaXN0W0FdLCBsaXN0QjogTGlzdFtBXSk6IExpc3RbQV0gPSB7CiAgICBmb2xkUmlnaHQobGlzdEEsIGxpc3RCKShDb25zKF8sIF8pKQogIH0KCiAgZGVmIGNvbmNhdFtBXShsaXN0OiBMaXN0W0xpc3RbQV1dKTogTGlzdFtBXSA9IHsKICAgIGZvbGRSaWdodChsaXN0LCBOaWw6TGlzdFtBXSkoYXBwZW5kKQogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvbGRSaWdodChhcywgeikoKGEsIGIpKSA9PiBmKGIsIGEpCg==</text>
+        <text encoding="base64">ICAgIGZvbGRSaWdodChsaXN0LCBMaXN0W0FdKShfICsgXykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgZm9sZExlZnRBc0ZvbGRSaWdodFtBLCBCXShhczogTGlzdFtBXSwgejogQikoZjogKEIsIEEpID0+IEIpOiBCID0gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGZvbGRSaWdodChhcywgeikoKGEsIGIpKSA9PiBmKGIsIGEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBDb25zKHgsIHhzKSA9PiBmb2xkTGVmdCh4cywgZih6LCB4KSkoZikK</text>
+        <text encoding="base64">ICBkZWYgZm9sZExlZnRBc0ZvbGRSaWdodFtBLCBCXShhczogTGlzdFtBXSwgejogQikoZjogKEIsIEEpID0+IEIpOiBCID0gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBOaWwgPT4gego=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzIG1hdGNoIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text encoding="base64">JzwsJz5tIDM3</text>
       </register>
     </registers>
     <search>
@@ -273,6 +273,10 @@
         <entry>vs</entry>
         <entry>45g</entry>
         <entry>g54</entry>
+        <entry encoding="base64">JzwsJz5tIDcw</entry>
+        <entry encoding="base64">JzwsJz5tIDc1</entry>
+        <entry encoding="base64">JzwsJz46bSA3NA==</entry>
+        <entry encoding="base64">JzwsJz5tIDM3</entry>
       </history-cmd>
       <history-expr />
       <history-input />
