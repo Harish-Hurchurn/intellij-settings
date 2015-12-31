@@ -79,11 +79,6 @@
         <mark key="^" line="31" column="2" />
         <mark key="." line="31" column="2" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" timestamp="1450024062573">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/maven-sbt.sbt" timestamp="1448795840580">
         <mark key="[" line="0" column="74" />
       </file>
@@ -188,12 +183,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" timestamp="1451572817134">
-        <mark key="'" line="88" column="75" />
-        <mark key="[" line="93" column="31" />
-        <mark key="]" line="93" column="23" />
-        <mark key="." line="93" column="23" />
-        <mark key="^" line="93" column="23" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" timestamp="1451579454510">
+        <mark key="'" line="90" column="75" />
+        <mark key="[" line="48" column="13" />
+        <mark key="]" line="48" column="18" />
+        <mark key="." line="48" column="18" />
+        <mark key="^" line="48" column="18" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/project/build.properties" timestamp="1448193779691">
         <mark key="[" line="0" column="18" />
@@ -217,10 +212,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text encoding="base64">KCh4LCB4cykgPT4gaWYgZih4KSBDb25zKHgsIHhzKSBlbHNlIHhzKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">KCh4LCB4cykgPT4gaWYgZih4KSBDb25zKHgsIHhzKSBlbHNlIHhzKQ==</text>
       </register>
       <register name="/" type="4">
         <text>foldLeft</text>
@@ -229,31 +224,31 @@
         <text encoding="base64">ICBiZWhhdmlvciBvZiAiQ2hhcHRlclR3by5jdXJyeSIK</text>
       </register>
       <register name="1" type="4">
-        <text>(</text>
+        <text encoding="base64">KCh4LCB4cykgPT4gaWYgZih4KSBDb25zKHgsIHhzKSBlbHNlIHhzKQ==</text>
       </register>
-      <register name="2" type="4">
-        <text>reverse</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhbCB4ID0gcmV2ZXJzZShhcylkZAo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>f(x)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZnYgbWFwW0EsIEJdKGFzOiBMaXN0W0FdKShmOiBBID0+IEIpOiBMaXN0W0JdID0gewogICAgZm9sZFJpZ2h0KGFzLCBMaXN0W0JdKCkpKCh4LCB4cykgPT4gQ29ucyhmKHgpLCB4cykpCiAgfSBkCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>e</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIHg6IFBhcnRpYWxGdW5jdGlvbgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>(</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="9" type="4">
+        <text>reverse</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5tIDky</text>
