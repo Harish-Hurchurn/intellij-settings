@@ -109,11 +109,11 @@
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-dependency-graph].sbt" timestamp="1448813779929">
         <mark key="[" line="1" column="66" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterThreeSpec.scala" timestamp="1451643638469">
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterThreeSpec.scala" timestamp="1451645189857">
         <mark key="[" line="49" column="2" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="82" column="31" />
+        <mark key="]" line="58" column="77" />
+        <mark key="." line="58" column="77" />
+        <mark key="^" line="58" column="77" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/TestingNifi/src/main/scala/JsonProcessor.scala" timestamp="1448804629715">
         <mark key="[" line="0" column="0" />
@@ -184,10 +184,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" timestamp="1451643568148">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" timestamp="1451646599939">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/project/build.properties" timestamp="1448193779691">
         <mark key="[" line="0" column="18" />
@@ -212,43 +212,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGQoeCwgeHMpID0+IGlmIChmKHgpKSA9PiBDb25zKHgsIHhzKSBlbHNlIHhzCg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSAoQ29ucyh4LCB4cyksIENvbnMoeSwgeXMpKSA9PiBDb25zKGYoeCx5KSwgYWRkVHdvTGlzdHMoeHMsIHlzKSkoZikK</text>
       </register>
       <register name="-" type="4">
-        <text>foldRight</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>foldLeft</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBiZWhhdmlvciBvZiAiQ2hhcHRlclR3by5jdXJyeSIK</text>
+        <text encoding="base64">ICBkZWYgZmlsdGVyW0FdKHhzOiBMaXN0W0FdKShmOiBBID0+IEJvb2xlYW4pOiBMaXN0W0FdID0gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGQoeCwgeHMpID0+IGlmIChmKHgpKSA9PiBDb25zKHgsIHhzKSBlbHNlIHhzCg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSAoQ29ucyh4LCB4cyksIENvbnMoeSwgeXMpKSA9PiBDb25zKGYoeCx5KSwgYWRkVHdvTGlzdHMoeHMsIHlzKSkoZikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgYWRkVFdvTGlzdChhOiBMaXN0W0ludF0sIGI6IExpc3RbSW50XSk6IExpc3RbSW50XSA9IHsKICAgIChhLCBiKSBtYXRjaCB7CiAgICAgIGNhc2UgKE5pbCwgXykgPT4gTmlsCiAgICAgIGNhc2UgKF8sIE5pbCkgPT4gTmlsCiAgICAgIGNhc2UgKENvbnMoeCwgeHMpLCBDb25zKHksIHlzKSkgPT4gQ29ucyh4ICsgeSwgYWRkVFdvTGlzdCh4cywgeXMpKQogICAgfQogIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="3" type="4">
+        <text>]</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIExpc3QubWFwKExpc3QoMSwyLDMpKShfICsgXykK</text>
+      <register name="4" type="4">
+        <text>A</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBpdCBzaG91bGQgInJldHVybiBMaXN0KDIsIDMsIDQgd2hlbiBjYWxsZWQgd2l0aCBMaXN0Lm1hcChMaXN0KDEsMiwzKShfICsgXykiIGluIHsK</text>
+      <register name="5" type="4">
+        <text>[</text>
       </register>
-      <register name="6" type="4">
-        <text>foldRight</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZsYXRNYXAoeHMpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eC5mbGF0TWFwKCkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGVmIG1hcFtBLCBCXShhczogTGlzdFtBXSkoZjogQSA9PiBCKTogTGlzdFtCXSA9IHsKICAgIGZvbGRSaWdodChhcywgTGlzdFtCXSgpKSB7CiAgICAgICh4LCB4cykgPT4gQ29ucyhmKHgpLCB4cykKICAgIH0KICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgeCA9PiBpZiAoZih4KSkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgbWFwW0EsIEJdKGFzOiBMaXN0W0FdKShmOiBBID0+IEIpOiBMaXN0W0JdID0gewogICAgZm9sZFJpZ2h0KGFzLCBMaXN0W0JdKCkpIHsKICAgICAgKHgsIHhzKSA9PiBDb25zKGYoeCksIHhzKQogICAgfQogIH0KCiAgZGVmIHByb2R1Y3QoZHM6IExpc3RbRG91YmxlXSk6IERvdWJsZSA9IGRzIG1hdGNoIHsK</text>
+      <register name="9" type="4">
+        <text>x</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
