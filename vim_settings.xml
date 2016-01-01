@@ -50,10 +50,8 @@
         <mark key="." line="21" column="58" />
         <mark key="^" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1451659770796">
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1451666400505">
         <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-maven].sbt" timestamp="1448803583477">
         <mark key="[" line="1" column="97" />
@@ -241,31 +239,33 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Y2FzZSBvYmplY3QgTm9uZSBleHRlbmRzIE9wdGlvbgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">c2VhbGVkIHRyYWl0IE9wdGlvblsrQV0KY2FzZSBjbGFzcyBTb21lWytBXShnZXQ6IEEpIGV4dGVuZHMgT3B0aW9uCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>object Option {
+  
+}</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>/**
   * Created by harish on 01/01/2016.
   */</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>org.scalatest.fixture.</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICBpbXBvcnQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgaW1wb3J0IG9yZy5zY2FsYXRlc3QuZml4dHVyZQoKICBpbXBvcnQgb3JnLnNjYWxhdGVzdC5GbGF0U3BlYwoKICBpbXBvcnQgb3JnLnNjYWxhdGVzdC5GbGF0U3BlYw==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ci8qKgogICogQ3JlYXRlZCBieSBoYXJpc2ggb24gMDEvMDEvMjAxNi4KICAqLw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
