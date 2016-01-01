@@ -130,6 +130,12 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="24" column="3" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" timestamp="1451658185035">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="29" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/sbt-maven-plugin/build.sbt" timestamp="1448793300581">
         <mark key="[" line="27" column="69" />
         <mark key="]" line="27" column="73" />
@@ -141,9 +147,9 @@
         <mark key="]" line="121" column="54" />
         <mark key="." line="121" column="54" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterTwoSpec.scala" timestamp="1451568840631">
-        <mark key="[" line="7" column="3" />
-        <mark key="]" line="7" column="3" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterTwoSpec.scala" timestamp="1451658167868">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="40" />
         <mark key="." line="7" column="3" />
         <mark key="^" line="55" column="32" />
       </file>
@@ -217,43 +223,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>org.scalatest.fixture.</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>org.scalatest.fixture.</text>
       </register>
       <register name="/" type="4">
         <text>foldLeft</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgZmlsdGVyW0FdKHhzOiBMaXN0W0FdKShmOiBBID0+IEJvb2xlYW4pOiBMaXN0W0FdID0gewo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3Que0ZsYXRTcGVjLCBNYXRjaGVyc30K</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text>org.scalatest.fixture.</text>
       </register>
-      <register name="2" type="4">
-        <text>Cons</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZGVmIHppcFdpdGhbQSwgQiwgQ10oYTogTGlzdFtBXSwgYjogTGlzdFtBXSkoZjogKEEsIEIpID0+IEMpOiBMaXN0W0NdID0gewogICAgKGEsIGIpIG1hdGNoIHsKICAgICAgY2FzZSAoXywgTmlsKSA9PiBOaWwKICAgICAgY2FzZSAoTmlsLCBfKSA9PiBOaWwKICAgICAgY2FzZSAoQ29ucyh4LCB4cyksIENvbnMoeSwgeXMpKSA9PiBDb25zKGYoeCwgeSksIHppcFdpdGgoeHMsIHlzKShmKSkKICAgIH0KICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBpbXBvcnQK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">b2JqZWN0IFRyZWUgewogIGRlZiBkZXB0aFtBXSh0cmVlOiBUcmVlW0FdKTogSW50ID0gewogICAgY2FzZSBMZWFmKG46IEludCkgPT4gMQogICAgY2FzZSBCcmFuY2gobGVmdCwgcmlnaHQpID0+IDEgKyBkZXB0aChsZWZ0KSBtYXggZGVwdGgocmlnaHQpCiAgfQoKICBkZWYgbWFwW0EsIEJdKHRyZWU6IFRyZWVbQV0pKGY6IEEgPT4gQik6IFRyZWVbQl0gPSB7CiAgICB0cmVlIG1hdGNoIHsKICAgICAgY2FzZSBMZWFmKGEpID0+IExlYWYoZihhKSkKICAgICAgY2FzZSBCcmFuY2gobGVmdCwgcmlnaHQpID0+IEJyYW5jaChtYXAobGVmdCkoZiksIG1hcChyaWdodCkoZikpCiAgICB9CiAgfQoKICBkZWYgbWF4aW11bVtBXSh0cmVlOiBUcmVlW0FdKTogSW50ID0gewogICAgdHJlZSBtYXRjaCB7CiAgICAgIGNhc2UgTGVhZihuOiBJbnQpID0+IG4KICAgICAgY2FzZSBCcmFuY2gobGVmdCwgcmlnaHQpID0+IG1heGltdW0obGVmdCkgbWF4IG1heGltdW0ocmlnaHQpCiAgICB9CiAgfQoKICBkZWYgc2l6ZVtBXSh0cmVlOiBUcmVlW0FdKTogSW50ID0gewogICAgdHJlZSBtYXRjaCB7CiAgICAgIGNhc2UgTGVhZihfKSA9PiAxCiAgICAgIGNhc2UgQnJhbmNoKGxlZnQsIHJpZ2h0KSA9PiAxICsgc2l6ZShsZWZ0KSArIHNpemUocmlnaHQpCiAgICB9CiAgfQoKfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZkZGFsCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgaW1wb3J0IG9yZy5zY2FsYXRlc3QuZml4dHVyZQoKICBpbXBvcnQgb3JnLnNjYWxhdGVzdC5GbGF0U3BlYwoKICBpbXBvcnQgb3JnLnNjYWxhdGVzdC5GbGF0U3BlYw==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dmRlZiBzaXplW0FdICh0cmVlOiBUcmVlW0FdICk6IEludCA9IHsKICB0cmVlIG1hdGNoIHsKICAgIGNhc2UgQnJhbmNoKGxlZnQsIHJpZ2h0KSA9PiBzaXplKGxlZnQpICsgc2l6ZShyaWdodCkKICB9Cn0K</text>
+      <register name="7" type="4">
+        <text encoding="base64">Ci8qKgogICogQ3JlYXRlZCBieSBoYXJpc2ggb24gMDEvMDEvMjAxNi4KICAqLw==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="8" type="4">
+        <text>1</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGhhcmlzaCBvbiAwMS8wMS8yMDE2Lgog</text>
+        <text>Cons</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5tIDk=</text>
