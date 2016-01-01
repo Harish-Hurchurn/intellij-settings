@@ -79,6 +79,10 @@
         <mark key="^" line="31" column="2" />
         <mark key="." line="31" column="2" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/Tree.scala" timestamp="1451648604203">
+        <mark key="]" line="26" column="3" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/maven-sbt.sbt" timestamp="1448795840580">
         <mark key="[" line="0" column="74" />
       </file>
@@ -212,7 +216,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAoQ29ucyh4LCB4cyksIENvbnMoeSwgeXMpKSA9PiBDb25zKGYoeCx5KSwgYWRkVHdvTGlzdHMoeHMsIHlzKSkoZikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -224,34 +228,34 @@
         <text encoding="base64">ICBkZWYgZmlsdGVyW0FdKHhzOiBMaXN0W0FdKShmOiBBID0+IEJvb2xlYW4pOiBMaXN0W0FdID0gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAoQ29ucyh4LCB4cyksIENvbnMoeSwgeXMpKSA9PiBDb25zKGYoeCx5KSwgYWRkVHdvTGlzdHMoeHMsIHlzKSkoZikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgYWRkVFdvTGlzdChhOiBMaXN0W0ludF0sIGI6IExpc3RbSW50XSk6IExpc3RbSW50XSA9IHsKICAgIChhLCBiKSBtYXRjaCB7CiAgICAgIGNhc2UgKE5pbCwgXykgPT4gTmlsCiAgICAgIGNhc2UgKF8sIE5pbCkgPT4gTmlsCiAgICAgIGNhc2UgKENvbnMoeCwgeHMpLCBDb25zKHksIHlzKSkgPT4gQ29ucyh4ICsgeSwgYWRkVFdvTGlzdCh4cywgeXMpKQogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgIHZkZGFsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>]</text>
+      <register name="3" type="2">
+        <text encoding="base64">dmRlZiBzaXplW0FdICh0cmVlOiBUcmVlW0FdICk6IEludCA9IHsKICB0cmVlIG1hdGNoIHsKICAgIGNhc2UgQnJhbmNoKGxlZnQsIHJpZ2h0KSA9PiBzaXplKGxlZnQpICsgc2l6ZShyaWdodCkKICB9Cn0K</text>
       </register>
-      <register name="4" type="4">
-        <text>A</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="5" type="4">
-        <text>[</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGhhcmlzaCBvbiAwMS8wMS8yMDE2Lgog</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZsYXRNYXAoeHMpIHsK</text>
+        <text encoding="base64">ICAgICAgY2FzZSAoQ29ucyh4LCB4cyksIENvbnMoeSwgeXMpKSA9PiBDb25zKGYoeCx5KSwgYWRkVHdvTGlzdHMoeHMsIHlzKSkoZikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBkZWYgYWRkVFdvTGlzdChhOiBMaXN0W0ludF0sIGI6IExpc3RbSW50XSk6IExpc3RbSW50XSA9IHsKICAgIChhLCBiKSBtYXRjaCB7CiAgICAgIGNhc2UgKE5pbCwgXykgPT4gTmlsCiAgICAgIGNhc2UgKF8sIE5pbCkgPT4gTmlsCiAgICAgIGNhc2UgKENvbnMoeCwgeHMpLCBDb25zKHksIHlzKSkgPT4gQ29ucyh4ICsgeSwgYWRkVFdvTGlzdCh4cywgeXMpKQogICAgfQogIH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgeCA9PiBpZiAoZih4KSkK</text>
+      <register name="8" type="4">
+        <text>]</text>
       </register>
       <register name="9" type="4">
-        <text>x</text>
+        <text>A</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5tOQ==</text>
       </register>
     </registers>
     <search>
@@ -266,8 +270,6 @@
         <entry>foldLeft</entry>
       </history-search>
       <history-cmd>
-        <entry>set number</entry>
-        <entry>e</entry>
         <entry>e ChapterThree.scala</entry>
         <entry encoding="base64">JzwsJz5tMTU=</entry>
         <entry>m 15</entry>
@@ -284,6 +286,10 @@
         <entry encoding="base64">JzwsJz45Mg==</entry>
         <entry encoding="base64">JzwsJz5tIDky</entry>
         <entry>w</entry>
+        <entry>m18</entry>
+        <entry>m11</entry>
+        <entry encoding="base64">JzwsJz5tMTA=</entry>
+        <entry encoding="base64">JzwsJz5tOQ==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
