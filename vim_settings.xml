@@ -50,9 +50,6 @@
         <mark key="." line="21" column="58" />
         <mark key="^" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1451666400505">
-        <mark key="[" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-maven].sbt" timestamp="1448803583477">
         <mark key="[" line="1" column="97" />
         <mark key="]" line="2" column="0" />
@@ -224,11 +221,11 @@
       <jump line="54" column="15" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dnRoaXMgbWF0Y2ggewogICAgICBjYXNlIE5vbmUgPT4gTm9uZQogICAgICBjYXNlIFNvbWUoeCkgPT4gZih4KQogICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>org.scalatest.fixture.</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>foldLeft</text>
@@ -236,36 +233,32 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3Que0ZsYXRTcGVjLCBNYXRjaGVyc30K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">dnRoaXMgbWF0Y2ggewogICAgICBjYXNlIE5vbmUgPT4gTm9uZQogICAgICBjYXNlIFNvbWUoeCkgPT4gZih4KQogICAgfQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y2FzZSBvYmplY3QgTm9uZSBleHRlbmRzIE9wdGlvbgo=</text>
+      <register name="2" type="4">
+        <text>d</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VhbGVkIHRyYWl0IE9wdGlvblsrQV0KY2FzZSBjbGFzcyBTb21lWytBXShnZXQ6IEEpIGV4dGVuZHMgT3B0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBTb21lKHgpID0+IFNvbWUoeCkK</text>
       </register>
-      <register name="4" type="4">
-        <text>object Option {
-  
-}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZGQvL2hpZGUgc3RkIGxpYnJhcnkgYE9wdGlvbmAgYW5kIGBFaXRoZXJgLCBzaW5jZSB3ZSBhcmUgd3JpdGluZyBvdXIgb3duIGluIHRoaXMgY2hhcHRlcgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">Y2FzZSBjbGFzcyBTb21lWytBXShnZXQ6IEEpIGV4dGVuZHMgT3B0aW9uW0FdCmNhc2Ugb2JqZWN0IE5vbmUgZXh0ZW5kcyBPcHRpb25bTm90aGluZ10K</text>
       </register>
-      <register name="6" type="4">
-        <text>/**
-  * Created by harish on 01/01/2016.
-  */</text>
+      <register name="6" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>org.scalatest.fixture.</text>
+      <register name="7" type="2">
+        <text encoding="base64">IGRlZiBmbGF0TWFwW0JdKGY6IEEgPT4gT3B0aW9uW0JdKTogT3B0aW9uW0JdID0gdGhpcyBtYXRjaAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGRlZiBtYXBbQl0oZjogQSA9PiBCKTogT3B0aW9uW0JdID0KICAgIHRoaXMgbWF0Y2ggewogICAgICBjYXNlIE5vbmUgPT4gTm9uZQogICAgICBjYXNlIFNvbWUoeCkgPT4gU29tZShmKHgpKQogICAgfQogIH0KCiAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBvcnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
