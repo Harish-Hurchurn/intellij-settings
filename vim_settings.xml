@@ -50,6 +50,11 @@
         <mark key="." line="21" column="58" />
         <mark key="^" line="21" column="58" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1451658223524">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-maven].sbt" timestamp="1448803583477">
         <mark key="[" line="1" column="97" />
         <mark key="]" line="2" column="0" />
@@ -131,7 +136,6 @@
         <mark key="^" line="24" column="3" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" timestamp="1451658185035">
-        <mark key="[" line="5" column="0" />
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="29" />
@@ -222,8 +226,8 @@
       <jump line="54" column="15" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>org.scalatest.fixture.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>org.scalatest.fixture.</text>
@@ -234,35 +238,37 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3Que0ZsYXRTcGVjLCBNYXRjaGVyc30K</text>
       </register>
-      <register name="1" type="4">
-        <text>org.scalatest.fixture.</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBpbXBvcnQK</text>
+      <register name="2" type="4">
+        <text>/**
+  * Created by harish on 01/01/2016.
+  */</text>
+      </register>
+      <register name="3" type="4">
+        <text>org.scalatest.fixture.</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICBpbXBvcnQK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgaW1wb3J0IG9yZy5zY2FsYXRlc3QuZml4dHVyZQoKICBpbXBvcnQgb3JnLnNjYWxhdGVzdC5GbGF0U3BlYwoKICBpbXBvcnQgb3JnLnNjYWxhdGVzdC5GbGF0U3BlYw==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ci8qKgogICogQ3JlYXRlZCBieSBoYXJpc2ggb24gMDEvMDEvMjAxNi4KICAqLw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text encoding="base64">CiAgaW1wb3J0IG9yZy5zY2FsYXRlc3QuZml4dHVyZQoKICBpbXBvcnQgb3JnLnNjYWxhdGVzdC5GbGF0U3BlYwoKICBpbXBvcnQgb3JnLnNjYWxhdGVzdC5GbGF0U3BlYw==</text>
       </register>
       <register name="9" type="4">
-        <text>Cons</text>
+        <text encoding="base64">Ci8qKgogICogQ3JlYXRlZCBieSBoYXJpc2ggb24gMDEvMDEvMjAxNi4KICAqLw==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5tIDk=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -290,13 +296,13 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz45Mg==</entry>
         <entry encoding="base64">JzwsJz5tIDky</entry>
-        <entry>w</entry>
         <entry>m18</entry>
         <entry>m11</entry>
         <entry encoding="base64">JzwsJz5tMTA=</entry>
         <entry encoding="base64">JzwsJz5tOQ==</entry>
         <entry encoding="base64">JzwsJz5tIDEw</entry>
         <entry encoding="base64">JzwsJz5tIDk=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
