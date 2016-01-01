@@ -79,6 +79,9 @@
         <mark key="^" line="31" column="2" />
         <mark key="." line="31" column="2" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" timestamp="1451580196549">
+        <mark key="[" line="1" column="2" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/maven-sbt.sbt" timestamp="1448795840580">
         <mark key="[" line="0" column="74" />
       </file>
@@ -183,12 +186,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" timestamp="1451579454510">
-        <mark key="'" line="90" column="75" />
-        <mark key="[" line="48" column="13" />
-        <mark key="]" line="48" column="18" />
-        <mark key="." line="48" column="18" />
-        <mark key="^" line="48" column="18" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" timestamp="1451581651638">
+        <mark key="[" line="54" column="17" />
+        <mark key="]" line="54" column="13" />
+        <mark key="." line="54" column="13" />
+        <mark key="^" line="54" column="13" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/project/build.properties" timestamp="1448193779691">
         <mark key="[" line="0" column="18" />
@@ -209,13 +211,14 @@
       <jump line="57" column="19" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" />
       <jump line="15" column="58" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" />
       <jump line="89" column="75" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" />
+      <jump line="54" column="15" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/List.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KCh4LCB4cykgPT4gaWYgZih4KSBDb25zKHgsIHhzKSBlbHNlIHhzKQ==</text>
+        <text encoding="base64">ZmxhdE1hcChhcykoeCA9PiBpZiAoZih4KSBMaXN0KHgpIGVsc2UgTmlsKSk=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCh4LCB4cykgPT4gaWYgZih4KSBDb25zKHgsIHhzKSBlbHNlIHhzKQ==</text>
+        <text encoding="base64">ZmxhdE1hcChhcykoeCA9PiBpZiAoZih4KSBMaXN0KHgpIGVsc2UgTmlsKSk=</text>
       </register>
       <register name="/" type="4">
         <text>foldLeft</text>
@@ -224,31 +227,31 @@
         <text encoding="base64">ICBiZWhhdmlvciBvZiAiQ2hhcHRlclR3by5jdXJyeSIK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">KCh4LCB4cykgPT4gaWYgZih4KSBDb25zKHgsIHhzKSBlbHNlIHhzKQ==</text>
+        <text encoding="base64">ZmxhdE1hcChhcykoeCA9PiBpZiAoZih4KSBMaXN0KHgpIGVsc2UgTmlsKSk=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCB4ID0gcmV2ZXJzZShhcylkZAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>f(x)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZsYXRNYXAoYXMpIHsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZnYgbWFwW0EsIEJdKGFzOiBMaXN0W0FdKShmOiBBID0+IEIpOiBMaXN0W0JdID0gewogICAgZm9sZFJpZ2h0KGFzLCBMaXN0W0JdKCkpKCh4LCB4cykgPT4gQ29ucyhmKHgpLCB4cykpCiAgfSBkCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgeCA9PiBmKHgpIExpc3QoeCkgZWxzZSBOaWwK</text>
       </register>
-      <register name="5" type="4">
-        <text>e</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>_</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dmFsIHg6IFBhcnRpYWxGdW5jdGlvbgo=</text>
+      <register name="7" type="4">
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>reverse</text>
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5tIDky</text>
