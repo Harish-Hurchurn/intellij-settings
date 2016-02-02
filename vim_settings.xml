@@ -44,6 +44,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/work/src/nifi-custom-plugins/nifi-persistance-orientdb/src/main/scala/org/profile/customer/nifi/persistance/orientdb/OrientPersistor.scala" timestamp="1454432565683" />
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/avropersister/src/main/scala/com/barclays/AvroFileReader" timestamp="1448806942552">
         <mark key="[" line="17" column="28" />
         <mark key="]" line="21" column="58" />
@@ -137,16 +138,23 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="24" column="3" />
       </file>
+      <file name="$USER_HOME$/work/src/nifi-custom-plugins/nifi-processor/src/main/scala/org/profile/customer/nifi/ProcessorLogic.scala" timestamp="1454432983992">
+        <mark key="[" line="8" column="60" />
+        <mark key="]" line="8" column="66" />
+        <mark key="^" line="8" column="66" />
+        <mark key="." line="8" column="66" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" timestamp="1451741236771">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/work/src/nifi-custom-plugins/nifi-persistance-avro-es/src/main/scala/org/profile/customer/nifi/persistance/es/ESAvroPersistor.scala" timestamp="1454428728497">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/work/src/nifi-custom-plugins/nifi-persistance-avro-es/src/main/scala/org/profile/customer/nifi/persistance/es/ESAvroPersistor.scala" timestamp="1454432512247">
+        <mark key="[" line="23" column="59" />
+        <mark key="]" line="23" column="57" />
+        <mark key="." line="23" column="57" />
+        <mark key="^" line="23" column="57" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/sbt-maven-plugin/build.sbt" timestamp="1448793300581">
         <mark key="[" line="27" column="69" />
@@ -244,7 +252,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cgo=</text>
+        <text encoding="base64">ICBkZWYgcHJvY2Vzc0lucHV0U3RyZWFtKGluOiBJbnB1dFN0cmVhbSk6IEVpdGhlcltJbnB1dFN0cmVhbSwgU3RyaW5nXSA9ID8/Pwo=</text>
       </register>
       <register name="-" type="4">
         <text>()()()</text>
@@ -256,31 +264,31 @@
         <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3Que0ZsYXRTcGVjLCBNYXRjaGVyc30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cgo=</text>
+        <text encoding="base64">ICBkZWYgcHJvY2Vzc0lucHV0U3RyZWFtKGluOiBJbnB1dFN0cmVhbSk6IEVpdGhlcltJbnB1dFN0cmVhbSwgU3RyaW5nXSA9ID8/Pwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICB9Cgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICBvdmVycmlkZSBkZWYgcHJvY2Vzc0lucHV0U3RyZWFtKGluOiBJbnB1dFN0cmVhbSk6IFN0cmluZyA9IHsKICAgIHZhbCBhdnJvSXRlcmF0b3IgPSBBdnJvUmVjb3JkSXRlcmF0b3IuZnJvbVN0cmVhbShpbikKICAgIGF2cm9JdGVyYXRvci5mb3JlYWNoKGF2cm9yZWMgPT4gcHJlc2lzdGVyLmdldC5zYXZlQXZyb0VudGl0eShhdnJvcmVjLnJlY29yZCkpCiAgICAiTm8gZXJyb3Igd2hlbiBwZXJzaXN0aW5nIgogIH0KCiAg</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>()()()</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">eC5mbGF0TWFwKCkK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">T3B0aW9uLmZsYXRNYXAoZiA9PiBmKHgpKQo=</text>
+        <text encoding="base64">eC5mbGF0TWFwKCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">T3B0aW9uLmZsYXRNYXAoZiA9PiBmKHgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">T3B0aW9uLmZsYXRNYXAoZiA9PiBmKHgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvLmlvY3RsLmNoYXB0ZXJmb2RkdXIuXwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
