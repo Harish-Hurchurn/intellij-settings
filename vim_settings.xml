@@ -143,8 +143,10 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/work/src/nifi-custom-plugins/nifi-persistance-avro-es/src/main/scala/org/profile/customer/nifi/persistance/es/ESAvroPersistor.scala" timestamp="1454408939267">
-        <mark key="[" line="23" column="0" />
+      <file name="$USER_HOME$/work/src/nifi-custom-plugins/nifi-persistance-avro-es/src/main/scala/org/profile/customer/nifi/persistance/es/ESAvroPersistor.scala" timestamp="1454428728497">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/sbt-maven-plugin/build.sbt" timestamp="1448793300581">
         <mark key="[" line="27" column="69" />
@@ -241,8 +243,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>()()()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>()()()</text>
@@ -253,32 +255,32 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3Que0ZsYXRTcGVjLCBNYXRjaGVyc30K</text>
       </register>
-      <register name="1" type="4">
-        <text>()()()</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICB9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eC5mbGF0TWFwKCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">T3B0aW9uLmZsYXRNYXAoZiA9PiBmKHgpKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">T3B0aW9uLmZsYXRNYXAoZiA9PiBmKHgpKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgcHJvY2Vzc0lucHV0U3RyZWFtKGluOiBJbnB1dFN0cmVhbSk6IFN0cmluZyA9IHsKICAgIHZhbCBhdnJvSXRlcmF0b3IgPSBBdnJvUmVjb3JkSXRlcmF0b3IuZnJvbVN0cmVhbShpbikKICAgIGF2cm9JdGVyYXRvci5mb3JlYWNoKGF2cm9yZWMgPT4gcHJlc2lzdGVyLmdldC5zYXZlQXZyb0VudGl0eShhdnJvcmVjLnJlY29yZCkpCiAgICAiTm8gZXJyb3Igd2hlbiBwZXJzaXN0aW5nIgogIH0KCiAg</text>
+      </register>
+      <register name="4" type="4">
+        <text>()()()</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">eC5mbGF0TWFwKCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvLmlvY3RsLmNoYXB0ZXJmb2RkdXIuXwo=</text>
+        <text encoding="base64">T3B0aW9uLmZsYXRNYXAoZiA9PiBmKHgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHJldmVyc2VMZWZ0W1RdKHhzOiBMaXN0W1RdKSA9CiAgKExpc3RbVF0oKSAvOiB4cykgeyh5cywgeSkgPT4geSA6OiB5c30KCmRlZiByZXZlcnNlTGVmdFtUXSh4czogTGlzdFtUXSkgPQogIHhzIGZvbGRMZWZ0KHhzLCBMaXN0W1RdKCkpKChiLCBhKSA9PiBiIDo6IGEpCg==</text>
+        <text encoding="base64">T3B0aW9uLmZsYXRNYXAoZiA9PiBmKHgpKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZsYXRNYXAoeCA9PiBmKHgpKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvLmlvY3RsLmNoYXB0ZXJmb2RkdXIuXwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
