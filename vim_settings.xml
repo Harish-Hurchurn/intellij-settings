@@ -44,6 +44,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/ioctl.co/barclays/src/avro-generator/build.sbt" timestamp="1454952849026">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="12" />
+        <mark key="^" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/avropersister/src/main/scala/com/barclays/AvroFileReader" timestamp="1448806942552">
         <mark key="[" line="17" column="28" />
         <mark key="]" line="21" column="58" />
@@ -93,8 +99,8 @@
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/maven-sbt.sbt" timestamp="1448795840580">
         <mark key="[" line="0" column="74" />
       </file>
-      <file name="$USER_HOME$/work/src/avro-generator/build.sbt" timestamp="1454952604113">
-        <mark key="[" line="13" column="30" />
+      <file name="$USER_HOME$/work/src/avro-generator/build.sbt" timestamp="1454952746416">
+        <mark key="[" line="13" column="31" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/src/main/scala/co/ioctl/drawing/Canvas.scala" timestamp="1448193822769">
         <mark key="[" line="73" column="19" />
@@ -253,11 +259,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWYgcHJvY2Vzc0lucHV0U3RyZWFtKGluOiBJbnB1dFN0cmVhbSk6IEVpdGhlcltJbnB1dFN0cmVhbSwgU3RyaW5nXSA9ID8/Pwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IFNvbWUoUmVzb2x2ZXIuZmlsZSgiZmlsZSIsIG5ldyBGaWxlKCIvcGF0aC90by95b3VyL3JlbGVhc2VzIikp</text>
       </register>
       <register name="-" type="4">
-        <text>()()()</text>
+        <text encoding="base64">IFNvbWUoUmVzb2x2ZXIuZmlsZSgiZmlsZSIsIG5ldyBGaWxlKCIvcGF0aC90by95b3VyL3JlbGVhc2VzIikp</text>
       </register>
       <register name="/" type="4">
         <text>foldLeft</text>
@@ -265,32 +271,32 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3Que0ZsYXRTcGVjLCBNYXRjaGVyc30K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgcHJvY2Vzc0lucHV0U3RyZWFtKGluOiBJbnB1dFN0cmVhbSk6IEVpdGhlcltJbnB1dFN0cmVhbSwgU3RyaW5nXSA9ID8/Pwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IFNvbWUoUmVzb2x2ZXIuZmlsZSgiZmlsZSIsIG5ldyBGaWxlKCIvcGF0aC90by95b3VyL3JlbGVhc2VzIikp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cgo=</text>
+        <text encoding="base64">ICBkZWYgcHJvY2Vzc0lucHV0U3RyZWFtKGluOiBJbnB1dFN0cmVhbSk6IEVpdGhlcltJbnB1dFN0cmVhbSwgU3RyaW5nXSA9ID8/Pwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICB9Cgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICBvdmVycmlkZSBkZWYgcHJvY2Vzc0lucHV0U3RyZWFtKGluOiBJbnB1dFN0cmVhbSk6IFN0cmluZyA9IHsKICAgIHZhbCBhdnJvSXRlcmF0b3IgPSBBdnJvUmVjb3JkSXRlcmF0b3IuZnJvbVN0cmVhbShpbikKICAgIGF2cm9JdGVyYXRvci5mb3JlYWNoKGF2cm9yZWMgPT4gcHJlc2lzdGVyLmdldC5zYXZlQXZyb0VudGl0eShhdnJvcmVjLnJlY29yZCkpCiAgICAiTm8gZXJyb3Igd2hlbiBwZXJzaXN0aW5nIgogIH0KCiAg</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>()()()</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">eC5mbGF0TWFwKCkK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">T3B0aW9uLmZsYXRNYXAoZiA9PiBmKHgpKQo=</text>
+        <text encoding="base64">eC5mbGF0TWFwKCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">T3B0aW9uLmZsYXRNYXAoZiA9PiBmKHgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">T3B0aW9uLmZsYXRNYXAoZiA9PiBmKHgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
