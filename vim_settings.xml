@@ -44,7 +44,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/work/src/nifi-custom-plugins/nifi-persistance-orientdb/src/main/scala/org/profile/customer/nifi/persistance/orientdb/OrientPersistor.scala" timestamp="1454432565683" />
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/avropersister/src/main/scala/com/barclays/AvroFileReader" timestamp="1448806942552">
         <mark key="[" line="17" column="28" />
         <mark key="]" line="21" column="58" />
@@ -93,6 +92,9 @@
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/maven-sbt.sbt" timestamp="1448795840580">
         <mark key="[" line="0" column="74" />
+      </file>
+      <file name="$USER_HOME$/work/src/avro-generator/build.sbt" timestamp="1454952604113">
+        <mark key="[" line="13" column="30" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/src/main/scala/co/ioctl/drawing/Canvas.scala" timestamp="1448193822769">
         <mark key="[" line="73" column="19" />
