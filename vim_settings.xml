@@ -44,11 +44,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/ioctl.co/barclays/src/avro-generator/build.sbt" timestamp="1455017827558">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="51" />
-        <mark key="^" line="17" column="51" />
-        <mark key="." line="17" column="51" />
+      <file name="$USER_HOME$/SpiderOak Hive/ioctl.co/barclays/src/avro-generator/build.sbt" timestamp="1455024449908">
+        <mark key="[" line="17" column="97" />
+        <mark key="]" line="17" column="106" />
+        <mark key="^" line="17" column="106" />
+        <mark key="." line="17" column="106" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/avropersister/src/main/scala/com/barclays/AvroFileReader" timestamp="1448806942552">
         <mark key="[" line="17" column="28" />
