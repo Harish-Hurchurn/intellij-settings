@@ -44,11 +44,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/ioctl.co/barclays/src/avro-generator/build.sbt" timestamp="1454952849026">
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="14" column="12" />
-        <mark key="^" line="14" column="12" />
-        <mark key="." line="14" column="12" />
+      <file name="$USER_HOME$/SpiderOak Hive/ioctl.co/barclays/src/avro-generator/build.sbt" timestamp="1455006018624">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+        <mark key="^" line="20" column="22" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/avropersister/src/main/scala/com/barclays/AvroFileReader" timestamp="1448806942552">
         <mark key="[" line="17" column="28" />
@@ -259,11 +259,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IFNvbWUoUmVzb2x2ZXIuZmlsZSgiZmlsZSIsIG5ldyBGaWxlKCIvcGF0aC90by95b3VyL3JlbGVhc2VzIikp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y3JlZGVudGlhbHMgKz0gQ3JlZGVudGlhbHMoIlNvbWUgTmV4dXMgUmVwb3NpdG9yeSBNYW5hZ2VyIiwgImh0dHBzOi8vZWRyYWouaW8vbmV4dXMvY29udGVudCIsICJkZXBsb3ltZW50IiwgIm1vYmlsZSIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFNvbWUoUmVzb2x2ZXIuZmlsZSgiZmlsZSIsIG5ldyBGaWxlKCIvcGF0aC90by95b3VyL3JlbGVhc2VzIikp</text>
+        <text>https://oss.sonatype.org/content/repositories/snapshots</text>
       </register>
       <register name="/" type="4">
         <text>foldLeft</text>
@@ -271,35 +271,35 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3Que0ZsYXRTcGVjLCBNYXRjaGVyc30K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IFNvbWUoUmVzb2x2ZXIuZmlsZSgiZmlsZSIsIG5ldyBGaWxlKCIvcGF0aC90by95b3VyL3JlbGVhc2VzIikp</text>
+      <register name="1" type="2">
+        <text encoding="base64">Y3JlZGVudGlhbHMgKz0gQ3JlZGVudGlhbHMoIlNvbWUgTmV4dXMgUmVwb3NpdG9yeSBNYW5hZ2VyIiwgImh0dHBzOi8vZWRyYWouaW8vbmV4dXMvY29udGVudCIsICJkZXBsb3ltZW50IiwgIm1vYmlsZSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgcHJvY2Vzc0lucHV0U3RyZWFtKGluOiBJbnB1dFN0cmVhbSk6IEVpdGhlcltJbnB1dFN0cmVhbSwgU3RyaW5nXSA9ID8/Pwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB9Cgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgcHJvY2Vzc0lucHV0U3RyZWFtKGluOiBJbnB1dFN0cmVhbSk6IFN0cmluZyA9IHsKICAgIHZhbCBhdnJvSXRlcmF0b3IgPSBBdnJvUmVjb3JkSXRlcmF0b3IuZnJvbVN0cmVhbShpbikKICAgIGF2cm9JdGVyYXRvci5mb3JlYWNoKGF2cm9yZWMgPT4gcHJlc2lzdGVyLmdldC5zYXZlQXZyb0VudGl0eShhdnJvcmVjLnJlY29yZCkpCiAgICAiTm8gZXJyb3Igd2hlbiBwZXJzaXN0aW5nIgogIH0KCiAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">cHVibGlzaFRvIDo9IFNvbWUoIlNvbmF0eXBlIFNuYXBzaG90cyBOZXh1cyIgYXQgImh0dHBzOi8vZWRyYWouaW8vbmV4dXMvY29udGVudC8iKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>()()()</text>
+      <register name="4" type="4">
+        <text>https://oss.sonatype.org/content/repositories/snapshots</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IFNvbWUoUmVzb2x2ZXIuZmlsZSgiZmlsZSIsIG5ldyBGaWxlKCIvcGF0aC90by95b3VyL3JlbGVhc2VzIikp</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBkZWYgcHJvY2Vzc0lucHV0U3RyZWFtKGluOiBJbnB1dFN0cmVhbSk6IEVpdGhlcltJbnB1dFN0cmVhbSwgU3RyaW5nXSA9ID8/Pwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eC5mbGF0TWFwKCkK</text>
+        <text encoding="base64">ICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">T3B0aW9uLmZsYXRNYXAoZiA9PiBmKHgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">T3B0aW9uLmZsYXRNYXAoZiA9PiBmKHgpKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgcHJvY2Vzc0lucHV0U3RyZWFtKGluOiBJbnB1dFN0cmVhbSk6IFN0cmluZyA9IHsKICAgIHZhbCBhdnJvSXRlcmF0b3IgPSBBdnJvUmVjb3JkSXRlcmF0b3IuZnJvbVN0cmVhbShpbikKICAgIGF2cm9JdGVyYXRvci5mb3JlYWNoKGF2cm9yZWMgPT4gcHJlc2lzdGVyLmdldC5zYXZlQXZyb0VudGl0eShhdnJvcmVjLnJlY29yZCkpCiAgICAiTm8gZXJyb3Igd2hlbiBwZXJzaXN0aW5nIgogIH0KCiAg</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -322,7 +322,6 @@
         <entry encoding="base64">JzwsJz5tIDc1</entry>
         <entry encoding="base64">JzwsJz46bSA3NA==</entry>
         <entry encoding="base64">JzwsJz5tIDM3</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz45Mg==</entry>
         <entry encoding="base64">JzwsJz5tIDky</entry>
         <entry>m18</entry>
@@ -331,9 +330,10 @@
         <entry encoding="base64">JzwsJz5tOQ==</entry>
         <entry encoding="base64">JzwsJz5tIDEw</entry>
         <entry encoding="base64">JzwsJz5tIDk=</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz4zN0c=</entry>
         <entry>vs</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
