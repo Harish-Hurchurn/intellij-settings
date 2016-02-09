@@ -44,11 +44,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/ioctl.co/barclays/src/avro-generator/build.sbt" timestamp="1455013737589">
-        <mark key="[" line="17" column="39" />
-        <mark key="]" line="28" column="47" />
-        <mark key="^" line="28" column="47" />
-        <mark key="." line="28" column="47" />
+      <file name="$USER_HOME$/SpiderOak Hive/ioctl.co/barclays/src/avro-generator/build.sbt" timestamp="1455017827558">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="51" />
+        <mark key="^" line="17" column="51" />
+        <mark key="." line="17" column="51" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/avropersister/src/main/scala/com/barclays/AvroFileReader" timestamp="1448806942552">
         <mark key="[" line="17" column="28" />
@@ -259,11 +259,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q3JlZGVudGlhbHMoUGF0aC51c2VySG9tZSAvICIuaXZ5MiIgLyAiLmNyZWRlbnRpYWxzIikK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>https://oss.sonatype.org/content/repositories/snapshots</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>foldLeft</text>
@@ -271,29 +271,29 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3Que0ZsYXRTcGVjLCBNYXRjaGVyc30K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Q3JlZGVudGlhbHMoUGF0aC51c2VySG9tZSAvICIuaXZ5MiIgLyAiLmNyZWRlbnRpYWxzIikK</text>
+      <register name="1" type="4">
+        <text>/</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>/</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly9jcmVkZW50aWFscyArPSBDcmVkZW50aWFscygiU29tZSBOZXh1cyBSZXBvc2l0b3J5IE1hbmFnZXIiLCAiaHR0cHM6Ly9lZHJhai5pby9uZXh1cy9jb250ZW50IiwgImRlcGxveW1lbnQiLCAibW9iaWxlIikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Y3JlZGVudGlhbHMgKz0gQ3JlZGVudGlhbHMoUGF0aC51c2VySG9tZSAvICIuc2J0IiAvICIuY3JlZGVudGlhbHMiKQo=</text>
       </register>
+      <register name="4" type="4">
+        <text>.</text>
+      </register>
+      <register name="5" type="4">
+        <text>1</text>
+      </register>
+      <register name="6" type="4">
+        <text>x</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Q3JlZGVudGlhbHMoUGF0aC51c2VySG9tZSAvICIuaXZ5MiIgLyAiLmNyZWRlbnRpYWxzIikK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3JlZGVudGlhbHMgKz0gQ3JlZGVudGlhbHMoIlNvbWUgTmV4dXMgUmVwb3NpdG9yeSBNYW5hZ2VyIiwgImh0dHBzOi8vZWRyYWouaW8vbmV4dXMvY29udGVudCIsICJkZXBsb3ltZW50IiwgIm1vYmlsZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
