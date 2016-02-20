@@ -87,7 +87,12 @@
         <mark key="^" line="31" column="2" />
         <mark key="." line="31" column="2" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" timestamp="1455977715588" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" timestamp="1455982796755">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/Tree.scala" timestamp="1451744612075">
         <mark key="[" line="9" column="34" />
         <mark key="]" line="23" column="0" />
@@ -257,8 +262,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dmFsIHRlczogT3B0aW9uW0ludF0gPT4gT3B0aW9uW0ludF0gPSBsaWZ0KG1hdGguYWJzKQp0ZXMoU29tZSgxMCkpLmZsYQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIGxpZnRbQSwgQl0oZjogQSA9PiBCKTogT3B0aW9uW0FdID0+IE9wdGlvbltCXSA9IChtYXliZUE6IE9wdGlvbltBXSkgPT4gbWF5YmVBIG1hcCBmCg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -269,32 +274,32 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3Que0ZsYXRTcGVjLCBNYXRjaGVyc30K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ZGVmIGxpZnRbQSwgQl0oZjogQSA9PiBCKTogT3B0aW9uW0FdID0+IE9wdGlvbltCXSA9IChtYXliZUE6IE9wdGlvbltBXSkgPT4gbWF5YmVBIG1hcCBmCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">dmFsIHRlczogT3B0aW9uW0ludF0gPT4gT3B0aW9uW0ludF0gPSBsaWZ0KG1hdGguYWJzKQp0ZXMoU29tZSgxMCkpLmZsYQ==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text />
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>.getOrElse(&quot;&quot;)</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">dmFsIHRlczogKE9wdGlvbltJbnRdKSA9PiBPcHRpb25bSW50XSA9ICA=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">wqd2e8KnCiAgKG1heWJlQTogT3B0aW9uW0FdKSA9PiBtYXliZUEgbWFwIGYKfQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZGVmIHRlc3RbQSwgQl0oZjogQSA9PiBCKTogT3B0aW9uW0FdID0gdmFsdWUgPT4gdmFsdWUgbWFwIGYK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ZGVmIHRlc3RbQSwgQl0oZjogQSA9PiBCKTogTGlzdFtBXSA9PiBMaXN0W0JdID0gKGFzOiBMaXN0W0FdKSA9PiBhcyBtYXAgZgo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">KTog</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
