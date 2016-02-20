@@ -87,11 +87,10 @@
         <mark key="^" line="31" column="2" />
         <mark key="." line="31" column="2" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" timestamp="1455466832783">
-        <mark key="[" line="1" column="44" />
-        <mark key="]" line="1" column="56" />
-        <mark key="." line="1" column="56" />
-        <mark key="^" line="1" column="56" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" timestamp="1455963391075">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/Tree.scala" timestamp="1451744612075">
         <mark key="[" line="9" column="34" />
@@ -262,11 +261,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KTog</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KTog</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>foldLeft</text>
@@ -274,32 +273,32 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3Que0ZsYXRTcGVjLCBNYXRjaGVyc30K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KTog</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>Option</text>
+        <text />
       </register>
       <register name="3" type="4">
-        <text>[</text>
+        <text>.getOrElse(&quot;&quot;)</text>
       </register>
       <register name="4" type="4">
-        <text>A</text>
+        <text encoding="base64">dmFsIHRlczogKE9wdGlvbltJbnRdKSA9PiBPcHRpb25bSW50XSA9ICA=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">XSA=</text>
+        <text encoding="base64">wqd2e8KnCiAgKG1heWJlQTogT3B0aW9uW0FdKSA9PiBtYXliZUEgbWFwIGYKfQ==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PT4g</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVmIHRlc3RbQSwgQl0oZjogQSA9PiBCKTogT3B0aW9uW0FdID0gdmFsdWUgPT4gdmFsdWUgbWFwIGYK</text>
       </register>
-      <register name="7" type="4">
-        <text>Opti</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZGVmIHRlc3RbQSwgQl0oZjogQSA9PiBCKTogTGlzdFtBXSA9PiBMaXN0W0JdID0gKGFzOiBMaXN0W0FdKSA9PiBhcyBtYXAgZgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">eC5mbGF0TWFwKCkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">KTog</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">dmFsIHggPSBPcHRpb24oMTApCg==</text>
+      <register name="9" type="4">
+        <text>Option</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
