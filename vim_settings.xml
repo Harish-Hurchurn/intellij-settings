@@ -56,8 +56,8 @@
         <mark key="." line="21" column="58" />
         <mark key="^" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1451750557902">
-        <mark key="[" line="27" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1456068459008">
+        <mark key="[" line="45" column="74" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
@@ -155,11 +155,11 @@
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" timestamp="1451741236771">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
-        <mark key="^" line="4" column="29" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" timestamp="1456068185324">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+        <mark key="^" line="18" column="18" />
       </file>
       <file name="$USER_HOME$/work/src/nifi-custom-plugins/nifi-persistance-avro-es/src/main/scala/org/profile/customer/nifi/persistance/es/ESAvroPersistor.scala" timestamp="1454432512247">
         <mark key="[" line="23" column="59" />
@@ -302,7 +302,7 @@
         <text encoding="base64">ZGVmIHRlc3RbQSwgQl0oZjogQSA9PiBCKTogT3B0aW9uW0FdID0gdmFsdWUgPT4gdmFsdWUgbWFwIGYK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -317,7 +317,6 @@
         <entry>foldLeft</entry>
       </history-search>
       <history-cmd>
-        <entry>14</entry>
         <entry>m 14</entry>
         <entry>45g</entry>
         <entry>g54</entry>
@@ -334,9 +333,10 @@
         <entry encoding="base64">JzwsJz5tIDEw</entry>
         <entry encoding="base64">JzwsJz5tIDk=</entry>
         <entry encoding="base64">JzwsJz4zN0c=</entry>
-        <entry>vs</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>vs</entry>
+        <entry>e Ootion.Scala</entry>
       </history-cmd>
       <history-expr />
       <history-input />
