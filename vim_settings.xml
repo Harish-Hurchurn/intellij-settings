@@ -56,10 +56,10 @@
         <mark key="." line="21" column="58" />
         <mark key="^" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1456069045459">
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-        <mark key="^" line="2" column="11" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1456073078968">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-maven].sbt" timestamp="1448803583477">
         <mark key="[" line="1" column="97" />
@@ -155,11 +155,10 @@
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" timestamp="1456072269849">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="37" column="20" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" timestamp="1456072878837">
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="19" column="17" />
       </file>
       <file name="$USER_HOME$/work/src/nifi-custom-plugins/nifi-persistance-avro-es/src/main/scala/org/profile/customer/nifi/persistance/es/ESAvroPersistor.scala" timestamp="1454432512247">
         <mark key="[" line="23" column="59" />
@@ -281,25 +280,25 @@
         <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpdCBzaG91bGQgIlJldHVybiBOb25lIGlmIGV2YWx1YXRlZCBhZ2FpbnN0IGEgTm9uZSIgaW4gewo=</text>
+        <text encoding="base64">ICAgIG1hcDIoKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBkZWYgdGVzdChzOiBPcHRpb25bSW50XSkgPSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHMgZmxhdE1hcCgoaTogSW50KSA9PiBTb21lKGkgKyAxKSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBpdCBzaG91bGQgIlJldHVybiBOb25lIGlmIGV2YWx1YXRlZCBhZ2FpbnN0IGEgTm9uZSIgaW4gewo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgIE5vbmUgZmlsdGVyKF8gJSAyKSBzaG91bGRCZSBOb25lCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>e</text>
-      </register>
-      <register name="6" type="4">
-        <text>m</text>
-      </register>
-      <register name="7" type="4">
-        <text>o</text>
-      </register>
-      <register name="8" type="4">
-        <text>S</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IE5vbmUgZmlsdGVyKGkgPT4gaSAlIDIgPT09IDApIHNob3VsZEJlIE5vbmU=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
