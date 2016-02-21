@@ -56,10 +56,10 @@
         <mark key="." line="21" column="58" />
         <mark key="^" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1456068459008">
-        <mark key="[" line="45" column="74" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1456069045459">
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="11" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-maven].sbt" timestamp="1448803583477">
         <mark key="[" line="1" column="97" />
@@ -155,11 +155,11 @@
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" timestamp="1456068185324">
-        <mark key="[" line="2" column="40" />
-        <mark key="]" line="18" column="18" />
-        <mark key="." line="18" column="18" />
-        <mark key="^" line="18" column="18" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" timestamp="1456070554698">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+        <mark key="^" line="19" column="26" />
       </file>
       <file name="$USER_HOME$/work/src/nifi-custom-plugins/nifi-persistance-avro-es/src/main/scala/org/profile/customer/nifi/persistance/es/ESAvroPersistor.scala" timestamp="1454432512247">
         <mark key="[" line="23" column="59" />
@@ -262,11 +262,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhIGZsYXRNYXAoYWEgPT4gYiBtYXAoYmIgPT4gbWFwKGJiID0+IGYoYSwgYikpKSkK</text>
+      <register name="&quot;" type="4">
+        <text>return None when the option contains a None</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>return None when the option contains a None</text>
       </register>
       <register name="/" type="4">
         <text>foldLeft</text>
@@ -274,35 +274,49 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3Que0ZsYXRTcGVjLCBNYXRjaGVyc30K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBhIGZsYXRNYXAoYWEgPT4gYiBtYXAoYmIgPT4gbWFwKGJiID0+IGYoYSwgYikpKSkK</text>
+      <register name="1" type="4">
+        <text>return None when the option contains a None</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGxpZnRbQSwgQl0oZjogQSA9PiBCKTogT3B0aW9uW0FdID0+IE9wdGlvbltCXSA9IChtYXliZUE6IE9wdGlvbltBXSkgPT4gbWF5YmVBIG1hcCBmCg==</text>
+        <text encoding="base64">ICAgIHZhbCB4ID0gU29tZSgxMCkK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dmFsIHRlczogT3B0aW9uW0ludF0gPT4gT3B0aW9uW0ludF0gPSBsaWZ0KG1hdGguYWJzKQp0ZXMoU29tZSgxMCkpLmZsYQ==</text>
+        <text>_</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
+      <register name="4" type="4">
         <text />
       </register>
-      <register name="6" type="4">
-        <text>.getOrElse(&quot;&quot;)</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBjb252ZXI=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dmFsIHRlczogKE9wdGlvbltJbnRdKSA9PiBPcHRpb25bSW50XSA9ICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">wqd2e8KnCiAgKG1heWJlQTogT3B0aW9uW0FdKSA9PiBtYXliZUEgbWFwIGYKfQ==</text>
+        <text encoding="base64">IGl0IHNob3VsZCAiUmV0dXJuIFNvbWUoMTEpIHdoZW4gaXQgY29udGFpbnMgU29tZSgxMCkiIGluIHsKICAgIHZhbCB4ID0gT3B0aW9uKDEwKQogICAgeC5tYXAoXyArIDEpIHNob3VsZEJlIFNvbWUoMTEpCiAgfQoKICBiZWhhdmlvciBvZiAiT3B0aW9uLm1hcDIiCiAgaXQgc2hvdWxkICJyZXR1cm4gTm9uZSB3aGVuIG9uZSBvZiB0aGUgdmFsdWUgaXMgTm9uZSIgaW4gewogICAgdmFsIHggPSBtYXAyCiAgfQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZGVmIHRlc3RbQSwgQl0oZjogQSA9PiBCKTogT3B0aW9uW0FdID0gdmFsdWUgPT4gdmFsdWUgbWFwIGYK</text>
+      <register name="9" type="4">
+        <text>vbehavior of &quot;Option.map&quot;
+  it should &quot;Return None when the Option contains a None&quot; in {
+    val x = Option(None)
+    x map _ shouldBe None
+  }
+
+  it should &quot;Return Some(11) when it contains Some(10)&quot; in {
+    val x = Option(10)
+    x.map(_ + 1) shouldBe Some(11)
+  }
+
+  behavior of &quot;Option.map2&quot;
+  it should &quot;return None when one of the value is None&quot; in {
+    val x = map2
+  }</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -334,9 +348,9 @@
         <entry encoding="base64">JzwsJz5tIDk=</entry>
         <entry encoding="base64">JzwsJz4zN0c=</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>vs</entry>
         <entry>e Ootion.Scala</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
