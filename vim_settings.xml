@@ -155,11 +155,11 @@
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" timestamp="1456070554698">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="26" />
-        <mark key="." line="19" column="26" />
-        <mark key="^" line="19" column="26" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" timestamp="1456072269849">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="37" column="20" />
       </file>
       <file name="$USER_HOME$/work/src/nifi-custom-plugins/nifi-persistance-avro-es/src/main/scala/org/profile/customer/nifi/persistance/es/ESAvroPersistor.scala" timestamp="1454432512247">
         <mark key="[" line="23" column="59" />
@@ -262,11 +262,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>return None when the option contains a None</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>return None when the option contains a None</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>foldLeft</text>
@@ -274,46 +274,32 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3Que0ZsYXRTcGVjLCBNYXRjaGVyc30K</text>
       </register>
-      <register name="1" type="4">
-        <text>return None when the option contains a None</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCB4ID0gU29tZSgxMCkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>_</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBpdCBzaG91bGQgIlJldHVybiBOb25lIGlmIGV2YWx1YXRlZCBhZ2FpbnN0IGEgTm9uZSIgaW4gewo=</text>
       </register>
-      <register name="4" type="4">
-        <text />
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIE5vbmUgZmlsdGVyKF8gJSAyKSBzaG91bGRCZSBOb25lCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICBjb252ZXI=</text>
+        <text>e</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>m</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>o</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IGl0IHNob3VsZCAiUmV0dXJuIFNvbWUoMTEpIHdoZW4gaXQgY29udGFpbnMgU29tZSgxMCkiIGluIHsKICAgIHZhbCB4ID0gT3B0aW9uKDEwKQogICAgeC5tYXAoXyArIDEpIHNob3VsZEJlIFNvbWUoMTEpCiAgfQoKICBiZWhhdmlvciBvZiAiT3B0aW9uLm1hcDIiCiAgaXQgc2hvdWxkICJyZXR1cm4gTm9uZSB3aGVuIG9uZSBvZiB0aGUgdmFsdWUgaXMgTm9uZSIgaW4gewogICAgdmFsIHggPSBtYXAyCiAgfQ==</text>
+        <text>S</text>
       </register>
       <register name="9" type="4">
-        <text>vbehavior of &quot;Option.map&quot;
-  it should &quot;Return None when the Option contains a None&quot; in {
-    val x = Option(None)
-    x map _ shouldBe None
-  }
-
-  it should &quot;Return Some(11) when it contains Some(10)&quot; in {
-    val x = Option(10)
-    x.map(_ + 1) shouldBe Some(11)
-  }
-
-  behavior of &quot;Option.map2&quot;
-  it should &quot;return None when one of the value is None&quot; in {
-    val x = map2
-  }</text>
+        <text encoding="base64">IE5vbmUgZmlsdGVyKGkgPT4gaSAlIDIgPT09IDApIHNob3VsZEJlIE5vbmU=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
