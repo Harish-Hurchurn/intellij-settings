@@ -3,6 +3,115 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/build.properties" timestamp="1448799560732">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+      </file>
+      <file name="/a.dummy" timestamp="1454326968068">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.elasticsearch/elasticsearch/jars/elasticsearch-2.1.0.jar!/org/elasticsearch/client/transport/TransportClientNodesService.class" timestamp="1456316975258">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/ioctl.co/barclays/src/avro-generator/build.sbt" timestamp="1455030745639">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1456073078968">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" timestamp="1448805270802">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/Testing/src/main/scala/Test.scala" timestamp="1449682135166">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/ChapterTwo.scala" timestamp="1451124647389">
+        <mark key="]" line="31" column="2" />
+        <mark key="^" line="31" column="2" />
+        <mark key="." line="31" column="2" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/Tree.scala" timestamp="1451744612075">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="12" column="50" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/src/main/scala/co/ioctl/drawing/Canvas.scala" timestamp="1448193822769">
+        <mark key="[" line="73" column="19" />
+        <mark key="]" line="73" column="3" />
+        <mark key="^" line="73" column="3" />
+        <mark key="." line="73" column="3" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/assembly.sbt" timestamp="1448796091319">
+        <mark key="[" line="0" column="56" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-dependency-graph].sbt" timestamp="1448813779929">
+        <mark key="[" line="1" column="66" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/TestingNifi/src/main/scala/JsonProcessor.scala" timestamp="1448804629715">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/src/nifi-custom-plugins/nifi-processor/src/main/scala/org/profile/customer/nifi/ProcessorLogic.scala" timestamp="1454432983992">
+        <mark key="[" line="8" column="60" />
+        <mark key="]" line="8" column="66" />
+        <mark key="^" line="8" column="66" />
+        <mark key="." line="8" column="66" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/sbt-maven-plugin/build.sbt" timestamp="1448793300581">
+        <mark key="[" line="27" column="69" />
+        <mark key="]" line="27" column="73" />
+        <mark key="." line="27" column="73" />
+        <mark key="^" line="27" column="73" />
+      </file>
+      <file name="$USER_HOME$/work/barclays/merlin/nifi-elastic/src/main/java/rocks/nifi/examples/processors/JsonProcessor.java" timestamp="1450706774146">
+        <mark key="[" line="121" column="25" />
+        <mark key="]" line="121" column="54" />
+        <mark key="." line="121" column="54" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/sbt-maven-plugin/src/main/scala/com/github/shivawu/sbt/maven/MavenPlugin.scala" timestamp="1448793665600">
+        <mark key="[" line="18" column="51" />
+      </file>
+      <file name="$USER_HOME$/hello-scala/src/main/scala/test.scala" timestamp="1456317333923">
+        <mark key="[" line="5" column="63" />
+        <mark key="]" line="5" column="63" />
+        <mark key="^" line="5" column="63" />
+        <mark key="." line="5" column="63" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.elasticsearch/elasticsearch/srcs/elasticsearch-2.1.0-sources.jar!/org/elasticsearch/client/transport/TransportClientNodesService.java" timestamp="1456317007715" />
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi/src/main/scala/com/barclays/nifi/GenericProcessor.scala" timestamp="1448708001514">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugins/dependency.sbt" timestamp="1448797318506">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/barclays/merlin/avropersister/build.sbt" timestamp="1448806540856">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugins/sbt-maven.sbt" timestamp="1448797337038">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi3cdpflow/project/plugins.sbt" timestamp="1448706460857">
         <mark key="[" line="0" column="2" />
       </file>
@@ -18,20 +127,11 @@
         <mark key="." line="2" column="74" />
         <mark key="^" line="2" column="74" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/build.properties" timestamp="1448799560732">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-assembly].sbt" timestamp="1448802901083">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="61" />
         <mark key="^" line="0" column="62" />
         <mark key="." line="0" column="62" />
-      </file>
-      <file name="/a.dummy" timestamp="1454326968068">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/src/merlin_ui_acceptance_tests/.gitignore" timestamp="1451479835686">
         <mark key="[" line="0" column="0" />
@@ -44,22 +144,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/ioctl.co/barclays/src/avro-generator/build.sbt" timestamp="1455030745639">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="1" />
-        <mark key="^" line="9" column="1" />
-        <mark key="." line="9" column="1" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/avropersister/src/main/scala/com/barclays/AvroFileReader" timestamp="1448806942552">
         <mark key="[" line="17" column="28" />
         <mark key="]" line="21" column="58" />
         <mark key="." line="21" column="58" />
         <mark key="^" line="21" column="58" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1456073078968">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-maven].sbt" timestamp="1448803583477">
         <mark key="[" line="1" column="97" />
@@ -67,25 +156,10 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" timestamp="1448805270802">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/dependency-graph.sbt" timestamp="1448796087444">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/Testing/src/main/scala/Test.scala" timestamp="1449682135166">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/ChapterTwo.scala" timestamp="1451124647389">
-        <mark key="]" line="31" column="2" />
-        <mark key="^" line="31" column="2" />
-        <mark key="." line="31" column="2" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" timestamp="1455989092843">
         <mark key="[" line="0" column="73" />
@@ -93,23 +167,11 @@
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/Tree.scala" timestamp="1451744612075">
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="12" column="50" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/maven-sbt.sbt" timestamp="1448795840580">
         <mark key="[" line="0" column="74" />
       </file>
       <file name="$USER_HOME$/work/src/avro-generator/build.sbt" timestamp="1454952746416">
         <mark key="[" line="13" column="31" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/src/main/scala/co/ioctl/drawing/Canvas.scala" timestamp="1448193822769">
-        <mark key="[" line="73" column="19" />
-        <mark key="]" line="73" column="3" />
-        <mark key="^" line="73" column="3" />
-        <mark key="." line="73" column="3" />
       </file>
       <file name="$USER_HOME$/work/barclays/merlin/nifi3cdpflow/src/main/scala/com/barclays/nifi/Logic.scala" timestamp="1448705969804">
         <mark key="[" line="7" column="96" />
@@ -120,17 +182,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="1" column="87" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/assembly.sbt" timestamp="1448796091319">
-        <mark key="[" line="0" column="56" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-wartremover].sbt" timestamp="1448802916963">
         <mark key="[" line="0" column="61" />
         <mark key="]" line="0" column="67" />
         <mark key="^" line="0" column="67" />
         <mark key="." line="0" column="67" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-dependency-graph].sbt" timestamp="1448813779929">
-        <mark key="[" line="1" column="66" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterThreeSpec.scala" timestamp="1451645189857">
         <mark key="[" line="49" column="2" />
@@ -138,22 +194,11 @@
         <mark key="." line="58" column="77" />
         <mark key="^" line="58" column="77" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/TestingNifi/src/main/scala/JsonProcessor.scala" timestamp="1448804629715">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/barclays/merlin/nifi3cdpflow/src/main/scala/com/barclays/nifi/GenericProcessor.scala" timestamp="1448706111971">
         <mark key="[" line="35" column="4" />
         <mark key="]" line="25" column="20" />
         <mark key="." line="25" column="20" />
         <mark key="^" line="24" column="3" />
-      </file>
-      <file name="$USER_HOME$/work/src/nifi-custom-plugins/nifi-processor/src/main/scala/org/profile/customer/nifi/ProcessorLogic.scala" timestamp="1454432983992">
-        <mark key="[" line="8" column="60" />
-        <mark key="]" line="8" column="66" />
-        <mark key="^" line="8" column="66" />
-        <mark key="." line="8" column="66" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" timestamp="1456072878837">
         <mark key="]" line="19" column="17" />
@@ -165,17 +210,6 @@
         <mark key="]" line="23" column="57" />
         <mark key="." line="23" column="57" />
         <mark key="^" line="23" column="57" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/sbt-maven-plugin/build.sbt" timestamp="1448793300581">
-        <mark key="[" line="27" column="69" />
-        <mark key="]" line="27" column="73" />
-        <mark key="." line="27" column="73" />
-        <mark key="^" line="27" column="73" />
-      </file>
-      <file name="$USER_HOME$/work/barclays/merlin/nifi-elastic/src/main/java/rocks/nifi/examples/processors/JsonProcessor.java" timestamp="1450706774146">
-        <mark key="[" line="121" column="25" />
-        <mark key="]" line="121" column="54" />
-        <mark key="." line="121" column="54" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterTwoSpec.scala" timestamp="1451658167868">
         <mark key="[" line="3" column="0" />
@@ -189,24 +223,10 @@
         <mark key="." line="8" column="39" />
         <mark key="^" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/sbt-maven-plugin/src/main/scala/com/github/shivawu/sbt/maven/MavenPlugin.scala" timestamp="1448793665600">
-        <mark key="[" line="18" column="51" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/playground.sc" timestamp="1451488201806">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi/src/main/scala/com/barclays/nifi/GenericProcessor.scala" timestamp="1448708001514">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugins/dependency.sbt" timestamp="1448797318506">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="21" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/work/barclays/src/avro-generator/src/main/scala/com/profile/customer/data/covnertor/avro/AvroDefaultsGenerator.scala" timestamp="1454241376694">
         <mark key="[" line="31" column="39" />
@@ -216,16 +236,6 @@
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/work/barclays/merlin/avropersister/build.sbt" timestamp="1448806540856">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugins/sbt-maven.sbt" timestamp="1448797337038">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1451741726812">
         <mark key="[" line="0" column="0" />
@@ -259,10 +269,11 @@
       <jump line="5" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
       <jump line="4" column="2" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ivy2/cache/org.elasticsearch/elasticsearch/jars/elasticsearch-2.1.0.jar!/org/elasticsearch/client/transport/TransportClientNodesService.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjbGllbnQuZXhlY3V0ZSB7IGNyZWF0ZSBpbmRleCAiYmFuZHMiIH0K</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -274,31 +285,31 @@
         <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3Que0ZsYXRTcGVjLCBNYXRjaGVyc30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjbGllbnQuZXhlY3V0ZSB7IGNyZWF0ZSBpbmRleCAiYmFuZHMiIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ZGRpbXBvcnQgb3JnLmVsYXN0aWNzZWFyY2guY29tbW9uLnNldHRpbmdzLkltbXV0YWJsZVNldHRpbmdzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hcDIoKQo=</text>
+        <text encoding="base64">ICBjbGllbnQuZXhlY3V0ZSB7IGNyZWF0ZSBpbmRleCAicGxhY2VzIiB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgdGVzdChzOiBPcHRpb25bSW50XSkgPSB7Cg==</text>
+        <text encoding="base64">Ly8gIHZhbCBjbGllbnQgPSBFbGFzdGljQ2xpZW50LnJlbW90ZSgiaG9zdDEiLCA5MzAwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHMgZmxhdE1hcCgoaTogSW50KSA9PiBTb21lKGkgKyAxKSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG1hcDIoKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpdCBzaG91bGQgIlJldHVybiBOb25lIGlmIGV2YWx1YXRlZCBhZ2FpbnN0IGEgTm9uZSIgaW4gewo=</text>
+        <text encoding="base64">ICBkZWYgdGVzdChzOiBPcHRpb25bSW50XSkgPSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE5vbmUgZmlsdGVyKF8gJSAyKSBzaG91bGRCZSBOb25lCg==</text>
+        <text encoding="base64">ICAgIHMgZmxhdE1hcCgoaTogSW50KSA9PiBTb21lKGkgKyAxKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -332,9 +343,9 @@
         <entry encoding="base64">JzwsJz5tIDEw</entry>
         <entry encoding="base64">JzwsJz5tIDk=</entry>
         <entry encoding="base64">JzwsJz4zN0c=</entry>
-        <entry>wq</entry>
         <entry>vs</entry>
         <entry>e Ootion.Scala</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
