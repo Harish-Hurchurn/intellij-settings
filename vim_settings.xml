@@ -90,7 +90,6 @@
         <mark key="^" line="5" column="63" />
         <mark key="." line="5" column="63" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.elasticsearch/elasticsearch/srcs/elasticsearch-2.1.0-sources.jar!/org/elasticsearch/client/transport/TransportClientNodesService.java" timestamp="1456317007715" />
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi/src/main/scala/com/barclays/nifi/GenericProcessor.scala" timestamp="1448708001514">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="16" column="0" />
