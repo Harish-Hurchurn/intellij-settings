@@ -157,6 +157,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" timestamp="1457272083923">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/maven-sbt.sbt" timestamp="1448795840580">
         <mark key="[" line="0" column="74" />
       </file>
@@ -278,8 +284,8 @@
       <jump line="39" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNhc2UgeCA6OiB4cyA9PiB4LmZsYXRNYXAoaGVhZCA9PiBzZXF1ZW5jZSh4cykpLm1hcChoZWFkIDo6IF8pCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -292,35 +298,35 @@
     Option.map2(None, Some(10))(testing) shouldBe None
   }</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNhc2UgeCA6OiB4cyA9PiB4LmZsYXRNYXAoaGVhZCA9PiBzZXF1ZW5jZSh4cykpLm1hcChoZWFkIDo6IF8pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFwMihTb21lKDEwKSwgU29tZSgxMCkpCg==</text>
+        <text encoding="base64">ICAgIGNhc2UgaCA6OiB0ID0+IGggZmxhdE1hcChoaCA9PiBzZXF1ZW5jZSh0KSkubWFwKGhoID0+IGhoIDo6IF8pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U29tZSgxMCkK</text>
+        <text encoding="base64">bWFwMihTb21lKDEwKSwgU29tZSgxMCkpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvLmlvY3RsLmNoYXB0ZXJmb3VyLl8K</text>
+        <text encoding="base64">bWFwMihTb21lKDEwKSwgU29tZSgxMCkpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>i</text>
+      <register name="6" type="2">
+        <text encoding="base64">U29tZSgxMCkK</text>
       </register>
-      <register name="7" type="4">
-        <text>v</text>
-      </register>
-      <register name="8" type="4">
-        <text>v</text>
-      </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvLmlvY3RsLmNoYXB0ZXJmb3VyLl8K</text>
+      </register>
+      <register name="9" type="4">
+        <text>i</text>
+      </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -354,8 +360,8 @@
         <entry>e .</entry>
         <entry>e Option.scala</entry>
         <entry>w</entry>
-        <entry>q</entry>
         <entry>vs</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
