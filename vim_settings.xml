@@ -9,7 +9,7 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="/a.dummy" timestamp="1454326968068">
+      <file name="/a.dummy" timestamp="1457269833315">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.elasticsearch/elasticsearch/jars/elasticsearch-2.1.0.jar!/org/elasticsearch/client/transport/TransportClientNodesService.class" timestamp="1456316975258">
@@ -21,12 +21,12 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1457266833944">
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1457269467280">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="54" column="21" />
+        <mark key="]" line="55" column="9" />
+        <mark key="^" line="55" column="9" />
+        <mark key="." line="55" column="9" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" timestamp="1448805270802">
         <mark key="[" line="0" column="0" />
@@ -37,11 +37,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/ChapterTwo.scala" timestamp="1451124647389">
-        <mark key="]" line="31" column="2" />
-        <mark key="^" line="31" column="2" />
-        <mark key="." line="31" column="2" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/Tree.scala" timestamp="1451744612075">
         <mark key="[" line="9" column="34" />
@@ -162,12 +157,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" timestamp="1457265675204">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="78" />
-        <mark key="." line="0" column="78" />
-        <mark key="^" line="0" column="78" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/maven-sbt.sbt" timestamp="1448795840580">
         <mark key="[" line="0" column="74" />
       </file>
@@ -179,7 +168,7 @@
         <mark key="]" line="7" column="34" />
         <mark key="." line="7" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1454326967993">
+      <file name="/Dummy.txt" timestamp="1457269833287">
         <mark key="[" line="0" column="0" />
         <mark key="." line="1" column="87" />
       </file>
@@ -204,10 +193,11 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Option.scala" timestamp="1457265738272">
         <mark key="'" line="41" column="61" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" timestamp="1457266843440">
-        <mark key="]" line="41" column="14" />
-        <mark key="." line="41" column="14" />
-        <mark key="^" line="41" column="14" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" timestamp="1457269678055">
+        <mark key="[" line="52" column="26" />
+        <mark key="]" line="52" column="25" />
+        <mark key="^" line="52" column="25" />
+        <mark key="." line="52" column="25" />
       </file>
       <file name="$USER_HOME$/work/src/nifi-custom-plugins/nifi-persistance-avro-es/src/main/scala/org/profile/customer/nifi/persistance/es/ESAvroPersistor.scala" timestamp="1454432512247">
         <mark key="[" line="23" column="59" />
@@ -272,7 +262,6 @@
       <jump line="5" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" />
       <jump line="5" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
       <jump line="4" column="2" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
-      <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
       <jump line="0" column="0" filename="$USER_HOME$/.ivy2/cache/org.elasticsearch/elasticsearch/jars/elasticsearch-2.1.0.jar!/org/elasticsearch/client/transport/TransportClientNodesService.class" />
       <jump line="169" column="20" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Option.scala" />
       <jump line="209" column="8" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Option.scala" />
@@ -284,49 +273,54 @@
       <jump line="35" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" />
       <jump line="52" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
+      <jump line="7" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
+      <jump line="39" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3Que0ZsYXRTcGVjLCBNYXRjaGVyc30K</text>
+      <register name="0" type="4">
+        <text>it should &quot;Return None when the first argument is None&quot; in {
+    Option.map2(None, Some(10))(testing) shouldBe None
+  }</text>
       </register>
       <register name="1" type="4">
-        <text>}</text>
+        <text>)</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBkZWYgbWFwMltBLCBCLCBDXShhOiBPcHRpb25bQV0sIGI6IE9wdGlvbltCXSkoZjogKEEsIEIpID0+IEMpOiBPcHRpb25bQ10gPSB7CiAgICBhLmZsYXRNYXAoKGFhOiBBKSA9PiBiLm1hcCgoYmI6IEIpID0+IGYoYWEsIGJiKSkpCiAgfQp9</text>
+      <register name="2" type="2">
+        <text encoding="base64">bWFwMihTb21lKDEwKSwgU29tZSgxMCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">U29tZSgxMCkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBkZWYgbWFwMltBLCBCLCBDXShhOiBPcHRpb25bQV0sIGI6IE9wdGlvbltCXSkoZjogKEEsIEIpID0+IEMpOiBPcHRpb25bQ10gPSB7CiAgICBhLmZsYXRNYXAoKGFhOiBBKSA9PiBiLm1hcCgoYmI6IEIpID0+IGYoYWEsIGJiKSkpCiAgfQ==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvLmlvY3RsLmNoYXB0ZXJmb3VyLl8K</text>
+      </register>
       <register name="6" type="4">
-        <text encoding="base64">Ly9kZWYgbWFwMltBLCBCLCBDXShhOiBPcHRpb25bQV0sIGI6IE9wdGlvbltCXSkoZjogKEEsIEIpID0+IEMpOiBPcHRpb25bQ10gPQovLyAgYSBmbGF0TWFwIChhYSA9PiBiIG1hcCAoYmIgPT4gZihhYSwgYmIpKSkKZGVmIGxpZnRbQSwgQl0oZjogQSA9PiBCKTogT3B0aW9uW0FdID0+IE9wdGlvbltCXSA9IChtYXliZUE6IE9wdGlvbltBXSkgPT4gbWF5YmVBIG1hcCBmCnZhbCB4ID0gbGlmdChtYXRoLmFicykKeChTb21lKDEwKSkgewogIGNhc2UgU29tZSh4KSA9PiBwcmludGxuKHgpCiAgY2FzZSBOb25lID0+IHByaW50bG4oIk5vdGhpbmciKQp9</text>
+        <text>i</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjbGllbnQuZXhlY3V0ZSB7IGNyZWF0ZSBpbmRleCAiYmFuZHMiIH0K</text>
+      <register name="7" type="4">
+        <text>v</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGRpbXBvcnQgb3JnLmVsYXN0aWNzZWFyY2guY29tbW9uLnNldHRpbmdzLkltbXV0YWJsZVNldHRpbmdzCg==</text>
+      <register name="8" type="4">
+        <text>v</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjbGllbnQuZXhlY3V0ZSB7IGNyZWF0ZSBpbmRleCAicGxhY2VzIiB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>e .</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -342,8 +336,6 @@
         <entry>map</entry>
       </history-search>
       <history-cmd>
-        <entry>45g</entry>
-        <entry>g54</entry>
         <entry encoding="base64">JzwsJz5tIDcw</entry>
         <entry encoding="base64">JzwsJz5tIDc1</entry>
         <entry encoding="base64">JzwsJz46bSA3NA==</entry>
@@ -359,9 +351,11 @@
         <entry encoding="base64">JzwsJz4zN0c=</entry>
         <entry>e Ootion.Scala</entry>
         <entry>wq</entry>
-        <entry>w</entry>
-        <entry>vs</entry>
         <entry>e .</entry>
+        <entry>e Option.scala</entry>
+        <entry>w</entry>
+        <entry>q</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
