@@ -21,12 +21,12 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1457269467280">
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1457280548096">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="54" column="21" />
-        <mark key="]" line="55" column="9" />
-        <mark key="^" line="55" column="9" />
-        <mark key="." line="55" column="9" />
+        <mark key="[" line="52" column="14" />
+        <mark key="]" line="58" column="3" />
+        <mark key="^" line="58" column="3" />
+        <mark key="." line="58" column="3" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" timestamp="1448805270802">
         <mark key="[" line="0" column="0" />
@@ -157,11 +157,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" timestamp="1457272083923">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="8" column="26" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" timestamp="1457280517731">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="1" />
         <mark key="^" line="8" column="26" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/maven-sbt.sbt" timestamp="1448795840580">
         <mark key="[" line="0" column="74" />
@@ -199,11 +199,12 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Option.scala" timestamp="1457265738272">
         <mark key="'" line="41" column="61" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" timestamp="1457269678055">
-        <mark key="[" line="52" column="26" />
-        <mark key="]" line="52" column="25" />
-        <mark key="^" line="52" column="25" />
-        <mark key="." line="52" column="25" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" timestamp="1457280868074">
+        <mark key="'" line="60" column="51" />
+        <mark key="[" line="60" column="51" />
+        <mark key="]" line="61" column="4" />
+        <mark key="^" line="61" column="4" />
+        <mark key="." line="61" column="4" />
       </file>
       <file name="$USER_HOME$/work/src/nifi-custom-plugins/nifi-persistance-avro-es/src/main/scala/org/profile/customer/nifi/persistance/es/ESAvroPersistor.scala" timestamp="1454432512247">
         <mark key="[" line="23" column="59" />
@@ -282,51 +283,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
       <jump line="7" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
       <jump line="39" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" />
+      <jump line="60" column="51" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNhc2UgeCA6OiB4cyA9PiB4LmZsYXRNYXAoaGVhZCA9PiBzZXF1ZW5jZSh4cykpLm1hcChoZWFkIDo6IF8pCg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
       </register>
       <register name="0" type="4">
-        <text>it should &quot;Return None when the first argument is None&quot; in {
-    Option.map2(None, Some(10))(testing) shouldBe None
-  }</text>
+        <text encoding="base64">ZGVmIHNlcXVlbmNlW0FdKGE6IExpc3RbT3B0aW9uW0FdXSk6IE9wdGlvbltMaXN0W0FdXSA9IHsKICBhIG1hdGNoIHsKICAgIGNhc2UgTmlsID0+IFNvbWUoTmlsKQogICAgY2FzZSB4IDo6IHhzID0+IHguZmxhdE1hcChoZWFkID0+IHNlcXVlbmNlKHhzKS5tYXAoaGVhZCA6OiBfKSkKICB9Cn0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhc2UgeCA6OiB4cyA9PiB4LmZsYXRNYXAoaGVhZCA9PiBzZXF1ZW5jZSh4cykpLm1hcChoZWFkIDo6IF8pCg==</text>
+      <register name="1" type="4">
+        <text>n</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNhc2UgaCA6OiB0ID0+IGggZmxhdE1hcChoaCA9PiBzZXF1ZW5jZSh0KSkubWFwKGhoID0+IGhoIDo6IF8pCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">bWFwMihTb21lKDEwKSwgU29tZSgxMCkpCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>)</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">bWFwMihTb21lKDEwKSwgU29tZSgxMCkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">U29tZSgxMCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvLmlvY3RsLmNoYXB0ZXJmb3VyLl8K</text>
-      </register>
-      <register name="9" type="4">
+      <register name="2" type="4">
         <text>i</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>1</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="6" type="4">
+        <text>1</text>
+      </register>
+      <register name="7" type="4">
+        <text>0</text>
+      </register>
+      <register name="8" type="4">
+        <text>1</text>
+      </register>
+      <register name="9" type="4">
+        <text>9</text>
+      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -360,8 +360,8 @@
         <entry>e .</entry>
         <entry>e Option.scala</entry>
         <entry>w</entry>
-        <entry>vs</entry>
         <entry>q</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
