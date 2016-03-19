@@ -15,17 +15,23 @@
       <file name="$USER_HOME$/.ivy2/cache/org.elasticsearch/elasticsearch/jars/elasticsearch-2.1.0.jar!/org/elasticsearch/client/transport/TransportClientNodesService.class" timestamp="1456316975258">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Either.scala" timestamp="1458408338719">
+        <mark key="[" line="33" column="56" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/ioctl.co/barclays/src/avro-generator/build.sbt" timestamp="1455030745639">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="1" />
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1458404764812">
-        <mark key="[" line="68" column="29" />
-        <mark key="]" line="68" column="30" />
-        <mark key="^" line="68" column="30" />
-        <mark key="." line="68" column="30" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1458407896731">
+        <mark key="'" line="67" column="71" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="75" column="9" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" timestamp="1448805270802">
         <mark key="[" line="0" column="0" />
@@ -172,7 +178,7 @@
         <mark key="]" line="7" column="34" />
         <mark key="." line="7" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1457269833287">
+      <file name="/Dummy.txt" timestamp="1458408418876">
         <mark key="[" line="0" column="0" />
         <mark key="." line="1" column="87" />
       </file>
@@ -285,13 +291,14 @@
       <jump line="68" column="45" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" />
       <jump line="57" column="31" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" />
       <jump line="69" column="37" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" />
+      <jump line="65" column="71" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSB4IDo6IHhzID0+IG1hcDIoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
@@ -299,35 +306,35 @@
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHNlcXVlbmNlW0FdKGE6IExpc3RbT3B0aW9uW0FdXSk6IE9wdGlvbltMaXN0W0FdXSA9IHsKICBhIG1hdGNoIHsKICAgIGNhc2UgTmlsID0+IFNvbWUoTmlsKQogICAgY2FzZSB4IDo6IHhzID0+IHguZmxhdE1hcChoZWFkID0+IHNlcXVlbmNlKHhzKS5tYXAoaGVhZCA6OiBfKSkKICB9Cn0K</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSB4IDo6IHhzID0+IG1hcDIoKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSB4IDo6IHhzID0+IG1hcDIoKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>x</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSB4IDo6IHhzID0+IG1hcDIoKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>(</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZWYgc2VxdWVuY2VbRSwgQV0oKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>f</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGEuZmxhdE1hcChhYSA9PiBiLm1hcChiYiA9PiBmKGFhLCBiYikpKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>(</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIChhLCBiKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text encoding="base64">ID0gZm9yIHsKICAgICAgYSA8LSB0aGlzCiAgICAgIGIgPC0gYgogICAgfSB5aWVsZCBm</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>]</text>
       </register>
       <register name="9" type="4">
-        <text>x</text>
+        <text>C</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>e Either.scala</text>
       </register>
     </registers>
     <search>
@@ -343,7 +350,6 @@
         <entry>map</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tIDcw</entry>
         <entry encoding="base64">JzwsJz5tIDc1</entry>
         <entry encoding="base64">JzwsJz46bSA3NA==</entry>
         <entry encoding="base64">JzwsJz5tIDM3</entry>
@@ -363,6 +369,7 @@
         <entry>w</entry>
         <entry>q</entry>
         <entry>vs</entry>
+        <entry>e Either.scala</entry>
       </history-cmd>
       <history-expr />
       <history-input />
