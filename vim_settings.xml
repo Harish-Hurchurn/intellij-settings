@@ -21,12 +21,11 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1458394571886">
-        <mark key="'" line="69" column="37" />
-        <mark key="[" line="69" column="36" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1458404764812">
+        <mark key="[" line="68" column="29" />
+        <mark key="]" line="68" column="30" />
+        <mark key="^" line="68" column="30" />
+        <mark key="." line="68" column="30" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" timestamp="1448805270802">
         <mark key="[" line="0" column="0" />
@@ -289,10 +288,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
@@ -301,31 +300,31 @@
         <text encoding="base64">ZGVmIHNlcXVlbmNlW0FdKGE6IExpc3RbT3B0aW9uW0FdXSk6IE9wdGlvbltMaXN0W0FdXSA9IHsKICBhIG1hdGNoIHsKICAgIGNhc2UgTmlsID0+IFNvbWUoTmlsKQogICAgY2FzZSB4IDo6IHhzID0+IHguZmxhdE1hcChoZWFkID0+IHNlcXVlbmNlKHhzKS5tYXAoaGVhZCA6OiBfKSkKICB9Cn0K</text>
       </register>
       <register name="1" type="4">
-        <text>l</text>
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text>i</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>N</text>
+        <text>x</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">eGEgbWF0Y2ggewogICAgICBjYXNlIE5pbCA9PiBTb21lKE5pbCkKICAgICAgY2FzZSB4IDo6IHhzID0+CiAgICB9</text>
+        <text>(</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgZGVmIHRyYXZlcnNlW0EsIEJdKGE6IExpc3RbQV0pKGY6IEEgPT4gT3B0aW9uW0JdKTogT3B0aW9uW0xpc3RbQl1dID0gewogICAgYSBtYXRjaCB7CiAgICAgIGNhc2UgTmlsID0+IFNvbWUoTmlsKQogICAgICBjYXNlIHggOjogeHMgPT4gbWFwMihmKHgpLCB0cmF2ZXJzZSh4cykoZikpKF8gOjogXykKICAgIH0KICB9</text>
+        <text>f</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSB4IDo6IHhzID0+IG1hcDIoZih4KSwgdHJhdmVyc2UoeHMpKGYpKShfIDo6IF8pCg==</text>
+      <register name="6" type="4">
+        <text>(</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ZGVmIHNlcXVlbmNlW0FdKGE6IExpc3RbT3B0aW9uW0FdXSk6IE9wdGlvbltMaXN0W0FdXSA9IHsKICBhIG1hdGNoIHsKICAgIGNhc2UgTmlsID0+IFNvbWUoTmlsKQogICAgY2FzZSB4IDo6IHhzID0+IHguZmxhdE1hcChoZWFkID0+IHNlcXVlbmNlKHhzKS5tYXAoaGVhZCA6OiBfKSkKICB9Cn0KCnZhbCB4ID0gTGlzdChTb21lKDEpLCBTb21lKDIpLCBTb21lKDMpKQpzZXF1ZW5jZSh4KQ==</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>x</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
