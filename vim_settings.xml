@@ -27,8 +27,10 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1458466646252">
-        <mark key="'" line="15" column="11" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1459010644599">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="25" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" timestamp="1448805270802">
         <mark key="[" line="0" column="0" />
@@ -230,8 +232,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459009338913">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459010830692">
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -309,15 +310,11 @@
       <jump line="28" column="11" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" />
       <jump line="22" column="11" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" />
       <jump line="15" column="11" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" />
+      <jump line="74" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/**
-  * Created by harish on 26/03/2016.
-  */
-class Stream {
-
-}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -325,10 +322,31 @@ class Stream {
       <register name="/" type="4">
         <text encoding="base64">XDxTb21lXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y2FzZSB4IDo6IHhzID0+IChmKHgpIG1hcDIgdHJhdmVyc2UoeHMpKGYpKSAoXyA6OiBfKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLntPcHRpb24gPT4gX30K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvLmlvY3RsLmNoYXB0ZXJ0aHJlZS5Db25zCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y2FzZSBjbGFzcyBDb25zWytBXShoOiAoKSA9PiBBLCB0OiAoKSA9PiBTdHJlYW1bQV0pIGV4dGVuZHMgU3RyZWFtCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y2FzZSBvYmplY3QgRW1wdHkgZXh0ZW5kcyBTdHJlYW1bTm90aGluZ10K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IGRlZiBjb25zW0FdKGhkOiA9PiBBLCB0MTogPT4gU3RyZWFtW0FdKTogU3RyZWFtW0FdID0gewogICAgbGF6eSB2YWwgaGVhZCA9IGhkCiAgICBsYXp5IHZhbCB0YWlsID0gdDEKICAgIENvbnMoKCkgPT4gaGVhZCwgKCkgPT4gdGFpbCkKICB9CgogIGRlZiBlbXB0eVtBXTogU3RyZWFtW0FdID0gRW1wdHkKCiAgZGVmIGFwcGx5W0FdKGFzOiBBKik6IFN0cmVhbVtBXSA9CiAgICBpZiAoYXMuaXNFbXB0eSkgZW1wdHkgZWxzZSBjb25zKGFzLmhlYWQsIGFwcGx5KGFzLnRhaWw6IF8qKSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLntPcHRpb24gPT4gX30K</text>
+      </register>
+      <register name="8" type="4">
         <text>/**
   * Created by harish on 26/03/2016.
   */
@@ -336,29 +354,8 @@ class Stream {
 
 }</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwuY29udHJvbC5UYWlsQ2FsbHMuXwoKZGVmIGlzRXZlbih4czogTGlzdFtJbnRdKTogVGFpbFJlY1tCb29sZWFuXSA9CiAgaWYgKHhzLmlzRW1wdHkpIGRvbmUodHJ1ZSkgZWxzZSB0YWlsY2FsbChpc09kZCh4cy50YWlsKSkKCmRlZiBpc09kZCh4czogTGlzdFtJbnRdKTogVGFpbFJlY1tCb29sZWFuXSA9CiAgaWYgKHhzLmlzRW1wdHkpIGRvbmUoZmFsc2UpIGVsc2UgdGFpbGNhbGwoaXNFdmVuKHhzLnRhaWwpKQoKZm9yIChpIDwtICAxIHRvIDUpIHsKICB2YWwgZXZlbiA9IGlzRXZlbigoMSB0byBpKS50b0xpc3QpLnJlc3VsdAogIHByaW50bG4ocyIkaSBpcyBldmVuPyAkZXZlbiIpCn0=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dHJhaXQgR2VlCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">bmVyaWNGdW5jdG9yWy0+PltfLCBfXSwgLT4+PltfLCBfXSwgRltfXV0gewogIGRlZiBmbWFwW0EsIEJdKGY6IEEgLT4+IEIpOiBGW0FdIC0+Pj4gRltCXQp9CnRyYWl0IEZ1bmN0b3JbRltfXV0gZXh0ZW5kcyBHZW5lcmljRnVuY3RvcltGdW5jdGlvbiwgRnVuY3Rpb24sIEZdIHsKICBmaW5hbCBkZWYgZm1hcFtBLCBCXShhczogRltBXSkoZjogQSA9PiBCKTogRltCXSA9CiAgICBmbWFwKGYpKGFzKQp9Cgp2YWwgeCA9IFNvbWUoMTApCngudHJhdmVycw==</text>
-      </register>
-      <register name="5" type="4">
-        <text>d</text>
-      </register>
-      <register name="6" type="4">
-        <text>d</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSB4IDo6IHhzID0+IChmKHgpIG1hcDIgdHJhdmVyc2UoZGR4cykoZikpKF8gOjogXykK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSB4IDo6IHhzID0+IG1hcDIoKQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSB4IDo6IHhzID0+IG1hcDIoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
