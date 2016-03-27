@@ -118,11 +118,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/test/scala/co/ioctl/ChapterFiveSpec.scala" timestamp="1459092194612">
-        <mark key="[" line="25" column="32" />
-        <mark key="]" line="25" column="29" />
-        <mark key="^" line="25" column="29" />
-        <mark key="." line="25" column="29" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/test/scala/co/ioctl/ChapterFiveSpec.scala" timestamp="1459093490222">
+        <mark key="[" line="31" column="31" />
+        <mark key="]" line="31" column="30" />
+        <mark key="^" line="31" column="30" />
+        <mark key="." line="31" column="30" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi3cdpflow/project/plugins.sbt" timestamp="1448706460857">
         <mark key="[" line="0" column="2" />
@@ -133,12 +133,12 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459092109334">
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459093111464">
         <mark key="'" line="24" column="25" />
-        <mark key="[" line="27" column="34" />
-        <mark key="]" line="29" column="33" />
-        <mark key="." line="29" column="33" />
-        <mark key="^" line="29" column="33" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="22" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/sbt-maven.sbt" timestamp="1448801315666">
         <mark key="[" line="2" column="0" />
@@ -363,7 +363,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">ICAgIHRoaXMgbWF0Y2ggewogICAgICBjYXNlIENvbnMoaCwgdCkgaWYgcChoKCkpID0+IGNvbnMoaCgpLCB0KCkudGFrZVdoaWxlKHApKQogICAgICBjYXNlIF8gPT4gZW1wdHkKICAgIH0=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -375,31 +375,31 @@
         <text encoding="base64">aWYgKG4gPD0gMCB8fCBpc0VtcHR5KSBTdHJlYW0uZW1wdHkKICAgIGVsc2UgaWYgKG4gPT0gMSkgY29ucyhoZWFkLCBTdHJlYW0uZW1wdHkpCiAgICBlbHNlIGNvbnMoaGVhZCwgdGFpbCB0YWtlIG4tMSkKIA==</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text encoding="base64">ICAgIHRoaXMgbWF0Y2ggewogICAgICBjYXNlIENvbnMoaCwgdCkgaWYgcChoKCkpID0+IGNvbnMoaCgpLCB0KCkudGFrZVdoaWxlKHApKQogICAgICBjYXNlIF8gPT4gZW1wdHkKICAgIH0=</text>
       </register>
-      <register name="2" type="4">
-        <text>m</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlZiBsb29wKHM6IFN0cmVhbVtBXSwgcDogQSA9PiBCb29sZWFuKTogU3RyZWFtW0FdID0K</text>
       </register>
       <register name="3" type="4">
-        <text>a</text>
-      </register>
-      <register name="4" type="4">
-        <text>e</text>
-      </register>
-      <register name="5" type="4">
-        <text>r</text>
-      </register>
-      <register name="6" type="4">
-        <text>t</text>
-      </register>
-      <register name="7" type="4">
-        <text>S</text>
-      </register>
-      <register name="8" type="4">
         <text>.</text>
       </register>
-      <register name="9" type="4">
+      <register name="4" type="4">
+        <text>m</text>
+      </register>
+      <register name="5" type="4">
+        <text>a</text>
+      </register>
+      <register name="6" type="4">
         <text>e</text>
+      </register>
+      <register name="7" type="4">
+        <text>r</text>
+      </register>
+      <register name="8" type="4">
+        <text>t</text>
+      </register>
+      <register name="9" type="4">
+        <text>S</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
