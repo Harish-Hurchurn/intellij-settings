@@ -37,6 +37,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/scala/fpinscala/src/test/scala/co/ioctl/ChapterFiveSpec.scala" timestamp="1459081469492">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/Testing/src/main/scala/Test.scala" timestamp="1449682135166">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -112,6 +118,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/test/scala/co/ioctl/ChapterFiveSpec.scala" timestamp="1459082533395">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="10" column="55" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi3cdpflow/project/plugins.sbt" timestamp="1448706460857">
         <mark key="[" line="0" column="2" />
       </file>
@@ -121,12 +133,12 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459079318618">
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459082550753">
         <mark key="'" line="12" column="6" />
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="18" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="59" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/sbt-maven.sbt" timestamp="1448801315666">
         <mark key="[" line="2" column="0" />
@@ -329,10 +341,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBAYW5ub3RhdGlvbi50YWlscmVjCg==</text>
+        <text encoding="base64">ICAKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, List()).reverse</text>
+        <text>take</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTb21lXD4=</text>
@@ -341,34 +353,39 @@
         <text encoding="base64">aW1wb3J0IHNjYWxhLntPcHRpb24gPT4gX30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAYW5ub3RhdGlvbi50YWlscmVjCg==</text>
+        <text encoding="base64">ICAKCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBhbm5vdGF0aW9uLnRhaWxyZWMK</text>
+      <register name="2" type="4">
+        <text>behavior of &quot;drop&quot;
+  it should &quot;return Stream(2, 3) when called with drop(1)&quot; in {
+    val x = Stream(1,2,3)
+    val res = x.drop(1).toList
+    res shouldBe List(2,3)
+  }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvb3AodGhpcywgbikK</text>
+      <register name="3" type="4">
+        <text encoding="base64">dmRlZiBkcm9wKG46IEludCk6IFN0cmVhbVtBXSA9IHsKICAgIEBhbm5vdGF0aW9uLnRhaWxyZWMKICAgIGRlZiBsb29wKHM6IFN0cmVhbVtBXSwgbjogSW50KTogU3RyZWFtW0FdID0gewogICAgICBpZiAobiA8PSAwKSBzCiAgICAgIGVsc2UgdGhpcyBtYXRjaCB7CiAgICAgICAgY2FzZSBDb25zKF8sIHQpID0+IGxvb3AodCgpLCBuIC0gMSkKICAgICAgICBjYXNlIF8gPT4gRW1wdHkKICAgICAgfQogICAgfQoKICAgIGxvb3AodGhpcywgbikKICB9CgogIGQ=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>take</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="5" type="4">
+        <text>n</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="6" type="4">
+        <text>i</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIENvbnMoaCwgdCkgPT4gbG9vcCh0KCksIG4gKyAxKQo=</text>
+        <text encoding="base64">ICBAYW5ub3RhdGlvbi50YWlscmVjCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSB0aGlzIG1hdGNoIHsK</text>
+        <text encoding="base64">ICAgIEBhbm5vdGF0aW9uLnRhaWxyZWMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG4gPj0gbikgcwo=</text>
+        <text encoding="base64">ICAgIGxvb3AodGhpcywgbikK</text>
       </register>
       <register name=":" type="4">
-        <text>m 12</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -400,12 +417,12 @@
         <entry encoding="base64">JzwsJz5tNA==</entry>
         <entry>m2</entry>
         <entry>w</entry>
-        <entry>vs</entry>
         <entry encoding="base64">ZSA=</entry>
         <entry encoding="base64">JzwsJz5tMTE=</entry>
         <entry>m 11</entry>
         <entry>m 13</entry>
         <entry>m 12</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
