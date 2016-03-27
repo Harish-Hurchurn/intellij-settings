@@ -232,11 +232,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459073558804">
-        <mark key="[" line="14" column="1" />
-        <mark key="]" line="15" column="2" />
-        <mark key="^" line="16" column="3" />
-        <mark key="." line="15" column="2" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459076016540">
+        <mark key="[" line="28" column="34" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/work/barclays/src/avro-generator/src/main/scala/com/profile/customer/data/covnertor/avro/AvroDefaultsGenerator.scala" timestamp="1454241376694">
         <mark key="[" line="31" column="39" />
@@ -247,11 +247,10 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFiveSpec.scala" timestamp="1459072915384">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="18" />
-        <mark key="." line="20" column="18" />
-        <mark key="^" line="20" column="18" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFiveSpec.scala" timestamp="1459075961336">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1451741726812">
         <mark key="[" line="0" column="0" />
@@ -321,8 +320,8 @@
       <jump line="74" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGVmIHRvTGlzdDogTGlzdFtBXSA9IHsKICAgIAogIH0KICAgIGRlZiBsb29wKHM6IFN0cmVhbVtBXSk6IExpc3RbQV0gPSB7CiAgICAgIHMgbWF0Y2ggewogICAgICAgIGNhc2UgQ29ucyhoLCB0KSA9PgogICAgICB9CiAgICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, List()).reverse</text>
@@ -333,32 +332,32 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHNjYWxhLntPcHRpb24gPT4gX30K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZGVmIHRvTGlzdDogTGlzdFtBXSA9IHsKICAgIAogIH0KICAgIGRlZiBsb29wKHM6IFN0cmVhbVtBXSk6IExpc3RbQV0gPSB7CiAgICAgIHMgbWF0Y2ggewogICAgICAgIGNhc2UgQ29ucyhoLCB0KSA9PgogICAgICB9CiAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9vcCh0aGlzKQo=</text>
+        <text encoding="base64">ICBpdCBzaG91bGQgInJldHVybiBTdHJlYW0oKSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9vcCh0aGlzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">dmFsIGJ1ZmZlciA9IEFycmF5QnVmZmVyW0FdCiAgICBAYW5ub3RhdGlvbi50YWlscmVjCiAgICBkZWYgbG9vcChzOiBTdHJlYW1bQV0pOiBMaXN0W0FdID0gcyBtYXRjaCB7CiAgICAgIGNhc2UgQ29ucyhoLCB0KSA9PiBidWZmZXIgKz0gaCgpOyBsb29wKHQoKSkKICAgICAgY2FzZSBfID0+IGJ1ZmZlci50b0xpc3QKICAgIH0KCiAgICBs</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oIk15IGRyb3AiKQo=</text>
       </register>
       <register name="5" type="4">
-        <text>, List()).reverse</text>
+        <text encoding="base64">ZGVmIHRvTGlzdDogTGlzdFtBXSA9IHsKICAgIHZhbCBidWZmZXIgPSBMaXN0QnVmZmVyW0FdCiAgICBAYW5ub3RhdGlvbi50YWlscmVjCiAgICBkZWYgbG9vcChzOiBTdHJlYW1bQV0pOiBMaXN0W0FdID0gewogICAgICBjYXNlIENvbnMoaCwgdCkgPT4gYnVmZmVyICs9IGgoKQogICAgfQoKICB9</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZGVmIHRvTGlzdDogTGlzdFtBXSA9IHsKICAgIEBhbm5vdGF0aW9uLnRhaWxyZWMKICAgIHZhbCBidWZmZXIgPSBBcnJheUJ1ZmZlcltBXQogICAgZGVmIGxvb3AoczogU3RyZWFtW0FdKTogTGlzdFtBXSA9IHsKICAgICAgY2FzZSBDb25zKGgsIHQpID0+IGJ1ZmZlciArPSBoKCkKICAgICAgICBsb29wKHQoKSkKICAgIH0KCiAgICBsb29wKHRoaXMpCiAgfQ==</text>
       </register>
       <register name="7" type="4">
-        <text>h() :: list</text>
+        <text encoding="base64">ZGVmIHRvTGlzdDogTGlzdFtBXSA9IHsKICAgIAogIH0KICAgIGRlZiBsb29wKHM6IFN0cmVhbVtBXSk6IExpc3RbQV0gPSB7CiAgICAgIHMgbWF0Y2ggewogICAgICAgIGNhc2UgQ29ucyhoLCB0KSA9PgogICAgICB9CiAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGxpc3QpCg==</text>
+        <text encoding="base64">ICAgIG9vcCh0aGlzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGgoKSkK</text>
+        <text encoding="base64">ICAgIG9vcCh0aGlzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
