@@ -133,12 +133,12 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459082550753">
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459083299256">
         <mark key="'" line="12" column="6" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="59" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="32" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/sbt-maven.sbt" timestamp="1448801315666">
         <mark key="[" line="2" column="0" />
@@ -341,7 +341,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAKCg==</text>
+        <text encoding="base64">ICAgIGNhc2UgQ29ucyhoLCBfKSBpZiBuID09IDEgPT4gY29ucyhoKCksIGVtcHR5KQo=</text>
       </register>
       <register name="-" type="4">
         <text>take</text>
@@ -353,36 +353,31 @@
         <text encoding="base64">aW1wb3J0IHNjYWxhLntPcHRpb24gPT4gX30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKCg==</text>
+        <text encoding="base64">ICAgIGNhc2UgQ29ucyhoLCBfKSBpZiBuID09IDEgPT4gY29ucyhoKCksIGVtcHR5KQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>behavior of &quot;drop&quot;
-  it should &quot;return Stream(2, 3) when called with drop(1)&quot; in {
-    val x = Stream(1,2,3)
-    val res = x.drop(1).toList
-    res shouldBe List(2,3)
-  }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGxvb3AodGhpcywgMCkK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">dmRlZiBkcm9wKG46IEludCk6IFN0cmVhbVtBXSA9IHsKICAgIEBhbm5vdGF0aW9uLnRhaWxyZWMKICAgIGRlZiBsb29wKHM6IFN0cmVhbVtBXSwgbjogSW50KTogU3RyZWFtW0FdID0gewogICAgICBpZiAobiA8PSAwKSBzCiAgICAgIGVsc2UgdGhpcyBtYXRjaCB7CiAgICAgICAgY2FzZSBDb25zKF8sIHQpID0+IGxvb3AodCgpLCBuIC0gMSkKICAgICAgICBjYXNlIF8gPT4gRW1wdHkKICAgICAgfQogICAgfQoKICAgIGxvb3AodGhpcywgbikKICB9CgogIGQ=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>take</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>n</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>i</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlIF8gPT4gRW1wdHkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAYW5ub3RhdGlvbi50YWlscmVjCg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIENvbnMoaCwgdCkgPT4gcHJpbnRsbihoKCkpOyBsb29wKHQoKSwgaSArIDEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBhbm5vdGF0aW9uLnRhaWxyZWMK</text>
+        <text encoding="base64">ICAgICAgZWxzZSB0aGlzIG1hdGNoIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvb3AodGhpcywgbikK</text>
+        <text encoding="base64">ICAgICAgaWYgKGkgPT0gbikgcwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
