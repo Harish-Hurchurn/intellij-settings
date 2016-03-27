@@ -133,12 +133,12 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459093111464">
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459096993930">
         <mark key="'" line="24" column="25" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="22" />
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="28" column="20" />
+        <mark key="." line="28" column="20" />
+        <mark key="^" line="28" column="20" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/sbt-maven.sbt" timestamp="1448801315666">
         <mark key="[" line="2" column="0" />
@@ -362,11 +362,11 @@
       <jump line="24" column="25" filename="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHRoaXMgbWF0Y2ggewogICAgICBjYXNlIENvbnMoaCwgdCkgaWYgcChoKCkpID0+IGNvbnMoaCgpLCB0KCkudGFrZVdoaWxlKHApKQogICAgICBjYXNlIF8gPT4gZW1wdHkKICAgIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>// If `f` doesn't evaluate its second argument, the recursion never occurs.</text>
       </register>
       <register name="/" type="4">
         <text>take</text>
@@ -374,32 +374,32 @@
       <register name="0" type="4">
         <text encoding="base64">aWYgKG4gPD0gMCB8fCBpc0VtcHR5KSBTdHJlYW0uZW1wdHkKICAgIGVsc2UgaWYgKG4gPT0gMSkgY29ucyhoZWFkLCBTdHJlYW0uZW1wdHkpCiAgICBlbHNlIGNvbnMoaGVhZCwgdGFpbCB0YWtlIG4tMSkKIA==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIHRoaXMgbWF0Y2ggewogICAgICBjYXNlIENvbnMoaCwgdCkgaWYgcChoKCkpID0+IGNvbnMoaCgpLCB0KCkudGFrZVdoaWxlKHApKQogICAgICBjYXNlIF8gPT4gZW1wdHkKICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb29wKHM6IFN0cmVhbVtBXSwgcDogQSA9PiBCb29sZWFuKTogU3RyZWFtW0FdID0K</text>
+        <text encoding="base64">ICAgICAgY2FzZSBDb25zKGgsIHQpID0+IGZvckFsbCgpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>.</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRoaXMgbWF0Y2ggewo=</text>
       </register>
       <register name="4" type="4">
-        <text>m</text>
+        <text>// If `f` doesn't evaluate its second argument, the recursion never occurs.</text>
       </register>
       <register name="5" type="4">
-        <text>a</text>
+        <text encoding="base64">Vi8vIFRoZSBhcnJvdyBgPT5gIGluIGZyb250IG9mIHRoZSBhcmd1bWVudCB0eXBlIGBCYCBtZWFucyB0aGF0IHRoZSBmdW5jdGlvbiBgZmAgdGFrZXMgaXRzIHNlY29uZCBhcmd1bWVudCBieSBuYW1lIGFuZCBtYXkgY2hvb3NlIG5vdCB0byBldmFsdWF0ZSBpdC4=</text>
       </register>
-      <register name="6" type="4">
-        <text>e</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>r</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>t</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBkZWRkZiBmb2xkUmlnaHRbQl0oejogQikoZjogKEEgPT4gQikgPT4gQik6IEIgPSB7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>S</text>
+        <text encoding="base64">ICAgIHRoaXMgbWF0Y2ggewogICAgICBjYXNlIENvbnMoaCwgdCkgaWYgcChoKCkpID0+IGNvbnMoaCgpLCB0KCkudGFrZVdoaWxlKHApKQogICAgICBjYXNlIF8gPT4gZW1wdHkKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
