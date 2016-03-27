@@ -118,11 +118,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/test/scala/co/ioctl/ChapterFiveSpec.scala" timestamp="1459089703856">
-        <mark key="[" line="20" column="2" />
-        <mark key="]" line="26" column="31" />
-        <mark key="^" line="26" column="31" />
-        <mark key="." line="26" column="31" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/test/scala/co/ioctl/ChapterFiveSpec.scala" timestamp="1459092194612">
+        <mark key="[" line="25" column="32" />
+        <mark key="]" line="25" column="29" />
+        <mark key="^" line="25" column="29" />
+        <mark key="." line="25" column="29" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi3cdpflow/project/plugins.sbt" timestamp="1448706460857">
         <mark key="[" line="0" column="2" />
@@ -133,12 +133,12 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459091210787">
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459092109334">
         <mark key="'" line="24" column="25" />
-        <mark key="[" line="28" column="50" />
-        <mark key="]" line="29" column="20" />
-        <mark key="." line="29" column="20" />
-        <mark key="^" line="29" column="20" />
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="29" column="33" />
+        <mark key="." line="29" column="33" />
+        <mark key="^" line="29" column="33" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/sbt-maven.sbt" timestamp="1448801315666">
         <mark key="[" line="2" column="0" />
@@ -362,11 +362,11 @@
       <jump line="24" column="25" filename="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uaW1tdXRhYmxlZGQK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>take</text>
@@ -374,32 +374,32 @@
       <register name="0" type="4">
         <text encoding="base64">aWYgKG4gPD0gMCB8fCBpc0VtcHR5KSBTdHJlYW0uZW1wdHkKICAgIGVsc2UgaWYgKG4gPT0gMSkgY29ucyhoZWFkLCBTdHJlYW0uZW1wdHkpCiAgICBlbHNlIGNvbnMoaGVhZCwgdGFpbCB0YWtlIG4tMSkKIA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uaW1tdXRhYmxlZGQK</text>
+      <register name="1" type="4">
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICBlbHNlIGlmIChuID09IDEpIGNvbnMoaGVhZCwgU3RyZWFtLmVtcHR5KQogICAgZWxzZSBpbW11dGFibGUuU3RyZWFtLmNvbnMoaGVhZCwgdGFpbCB0YWtlIG4tMSl9CiA=</text>
+        <text>m</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="7" type="4">
-        <text>y</text>
-      </register>
-      <register name="8" type="4">
         <text>t</text>
       </register>
+      <register name="7" type="4">
+        <text>S</text>
+      </register>
+      <register name="8" type="4">
+        <text>.</text>
+      </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
