@@ -232,6 +232,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459073558804">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="15" column="2" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="15" column="2" />
+      </file>
       <file name="$USER_HOME$/work/barclays/src/avro-generator/src/main/scala/com/profile/customer/data/covnertor/avro/AvroDefaultsGenerator.scala" timestamp="1454241376694">
         <mark key="[" line="31" column="39" />
       </file>
@@ -241,10 +247,11 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFiveSpec.scala" timestamp="1459070925476">
-        <mark key="]" line="16" column="12" />
-        <mark key="." line="16" column="12" />
-        <mark key="^" line="16" column="12" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFiveSpec.scala" timestamp="1459072915384">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="20" column="18" />
       </file>
       <file name="/fragment.java" timestamp="1451741726812">
         <mark key="[" line="0" column="0" />
@@ -315,10 +322,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dnZhbCBidWZmZXIgPSBuZXcgTGlzdEJ1ZmZlcltBXQogICAgQGFubm90YXRpb24udGFpbHJlYwogICAgZGVmIGxvb3AoczogU3RyZWFtW0FdKTogTGlzdFtBXSA9IHMgbWF0Y2ggewogICAgICBjYXNlIENvbnMoaCwgdCkgPT4gYnVmZmVyICs9IGgoKTsgbG9vcCh0KCkpCiAgICAgIGNhc2UgXyA9PiBidWZmZXIudG9MaXN0CiAgICB9CgogICAgbG9vcCh0aGlzKQogIH0=</text>
+        <text encoding="base64">ZGVmIHRvTGlzdDogTGlzdFtBXSA9IHsKICAgIAogIH0KICAgIGRlZiBsb29wKHM6IFN0cmVhbVtBXSk6IExpc3RbQV0gPSB7CiAgICAgIHMgbWF0Y2ggewogICAgICAgIGNhc2UgQ29ucyhoLCB0KSA9PgogICAgICB9CiAgICB9</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>, List()).reverse</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTb21lXD4=</text>
@@ -327,31 +334,31 @@
         <text encoding="base64">aW1wb3J0IHNjYWxhLntPcHRpb24gPT4gX30K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">dnZhbCBidWZmZXIgPSBuZXcgTGlzdEJ1ZmZlcltBXQogICAgQGFubm90YXRpb24udGFpbHJlYwogICAgZGVmIGxvb3AoczogU3RyZWFtW0FdKTogTGlzdFtBXSA9IHMgbWF0Y2ggewogICAgICBjYXNlIENvbnMoaCwgdCkgPT4gYnVmZmVyICs9IGgoKTsgbG9vcCh0KCkpCiAgICAgIGNhc2UgXyA9PiBidWZmZXIudG9MaXN0CiAgICB9CgogICAgbG9vcCh0aGlzKQogIH0=</text>
+        <text encoding="base64">ZGVmIHRvTGlzdDogTGlzdFtBXSA9IHsKICAgIAogIH0KICAgIGRlZiBsb29wKHM6IFN0cmVhbVtBXSk6IExpc3RbQV0gPSB7CiAgICAgIHMgbWF0Y2ggewogICAgICAgIGNhc2UgQ29ucyhoLCB0KSA9PgogICAgICB9CiAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9vcCh0aGlzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJ1ZmZlci50b0xpc3QK</text>
+        <text encoding="base64">ICAgIG9vcCh0aGlzKQo=</text>
       </register>
       <register name="4" type="4">
-        <text>;</text>
+        <text encoding="base64">dmFsIGJ1ZmZlciA9IEFycmF5QnVmZmVyW0FdCiAgICBAYW5ub3RhdGlvbi50YWlscmVjCiAgICBkZWYgbG9vcChzOiBTdHJlYW1bQV0pOiBMaXN0W0FdID0gcyBtYXRjaCB7CiAgICAgIGNhc2UgQ29ucyhoLCB0KSA9PiBidWZmZXIgKz0gaCgpOyBsb29wKHQoKSkKICAgICAgY2FzZSBfID0+IGJ1ZmZlci50b0xpc3QKICAgIH0KCiAgICBs</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjbGFzcyBDaGFwdGVyRm91clNwZWMgZXh0ZW5kcyBGbGF0U3BlYyB3aXRoIE1hdGNoZXJzIHsK</text>
+      <register name="5" type="4">
+        <text>, List()).reverse</text>
       </register>
-      <register name="6" type="4">
-        <text>)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>h() :: list</text>
       </register>
-      <register name="8" type="4">
-        <text>(</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGxpc3QpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>p</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGgoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
