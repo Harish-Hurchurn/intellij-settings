@@ -232,12 +232,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459070674495">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/work/barclays/src/avro-generator/src/main/scala/com/profile/customer/data/covnertor/avro/AvroDefaultsGenerator.scala" timestamp="1454241376694">
         <mark key="[" line="31" column="39" />
       </file>
@@ -247,10 +241,10 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFiveSpec.scala" timestamp="1459070726250">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFiveSpec.scala" timestamp="1459070925476">
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+        <mark key="^" line="16" column="12" />
       </file>
       <file name="/fragment.java" timestamp="1451741726812">
         <mark key="[" line="0" column="0" />
@@ -320,11 +314,11 @@
       <jump line="74" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjbGFzcyBDaGFwdGVyRm91clNwZWMgZXh0ZW5kcyBGbGF0U3BlYyB3aXRoIE1hdGNoZXJzIHsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dnZhbCBidWZmZXIgPSBuZXcgTGlzdEJ1ZmZlcltBXQogICAgQGFubm90YXRpb24udGFpbHJlYwogICAgZGVmIGxvb3AoczogU3RyZWFtW0FdKTogTGlzdFtBXSA9IHMgbWF0Y2ggewogICAgICBjYXNlIENvbnMoaCwgdCkgPT4gYnVmZmVyICs9IGgoKTsgbG9vcCh0KCkpCiAgICAgIGNhc2UgXyA9PiBidWZmZXIudG9MaXN0CiAgICB9CgogICAgbG9vcCh0aGlzKQogIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTb21lXD4=</text>
@@ -332,35 +326,35 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHNjYWxhLntPcHRpb24gPT4gX30K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBjbGFzcyBDaGFwdGVyRm91clNwZWMgZXh0ZW5kcyBGbGF0U3BlYyB3aXRoIE1hdGNoZXJzIHsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">dnZhbCBidWZmZXIgPSBuZXcgTGlzdEJ1ZmZlcltBXQogICAgQGFubm90YXRpb24udGFpbHJlYwogICAgZGVmIGxvb3AoczogU3RyZWFtW0FdKTogTGlzdFtBXSA9IHMgbWF0Y2ggewogICAgICBjYXNlIENvbnMoaCwgdCkgPT4gYnVmZmVyICs9IGgoKTsgbG9vcCh0KCkpCiAgICAgIGNhc2UgXyA9PiBidWZmZXIudG9MaXN0CiAgICB9CgogICAgbG9vcCh0aGlzKQogIH0=</text>
       </register>
-      <register name="2" type="4">
-        <text>)</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>t</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGJ1ZmZlci50b0xpc3QK</text>
       </register>
       <register name="4" type="4">
-        <text>(</text>
+        <text>;</text>
       </register>
-      <register name="5" type="4">
-        <text>p</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjbGFzcyBDaGFwdGVyRm91clNwZWMgZXh0ZW5kcyBGbGF0U3BlYyB3aXRoIE1hdGNoZXJzIHsK</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text>)</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>(</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -378,7 +372,6 @@
         <entry encoding="base64">XDxTb21lXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tIDM3</entry>
         <entry encoding="base64">JzwsJz45Mg==</entry>
         <entry encoding="base64">JzwsJz5tIDky</entry>
         <entry>m18</entry>
@@ -393,11 +386,12 @@
         <entry>e .</entry>
         <entry>e Option.scala</entry>
         <entry>e Either.scala</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>m 4</entry>
         <entry encoding="base64">JzwsJz5tNA==</entry>
         <entry>vs</entry>
+        <entry>m2</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
