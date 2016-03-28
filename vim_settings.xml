@@ -133,11 +133,11 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459184425218">
-        <mark key="'" line="8" column="11" />
-        <mark key="[" line="73" column="16" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459186438891">
+        <mark key="'" line="9" column="11" />
+        <mark key="]" line="66" column="34" />
+        <mark key="^" line="66" column="34" />
+        <mark key="." line="66" column="34" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/sbt-maven.sbt" timestamp="1448801315666">
         <mark key="[" line="2" column="0" />
@@ -195,7 +195,7 @@
         <mark key="]" line="7" column="34" />
         <mark key="." line="7" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1458408418876">
+      <file name="/Dummy.txt" timestamp="1459186335855">
         <mark key="[" line="0" column="0" />
         <mark key="." line="1" column="87" />
       </file>
@@ -365,7 +365,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihzIiRpIikK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -377,31 +377,31 @@
         <text encoding="base64">YmVoYXZpb3Igb2YgInRha2VXaGlsZSIKICBpdCBzaG91bGQgInJldHVybiBTdHJlYW0oMSwyLDMpIHdoZW4gY2FsbGVkIHdpdGggdGFrZVdoaWxlKF8gPCAzKSIgaW4gewogICAgdmFsIHggPSBTdHJlYW0oMSwgMiwgMywgNCkKICAgIHZhbCByZXMgPSB4LnRha2VXaGlsZShfIDwgNCkKICAgIHJlcy50b0xpc3Qgc2hvdWxkQmUgTGlzdCgxLCAyLCAzKQogIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihzIiRpIikK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihzIiRpIikK</text>
+        <text encoding="base64">ICAgIHRoaXMgbWF0Y2ggewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcy50b0xpc3Qgc2hvdWxkQmUgTGlzdCgxLCAyKQo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBDb25zKGgsIHQpID0+IGNvbnMoaCgpLCB0KCkudGFrZShuIC0gMSkpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXMgPSB4LnRha2UoMikK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGRlZiB0YWtlKG46IEludCk6IFN0cmVhbVtBXSA9IHsKICAgIHRoaXMgbWF0Y2ggewogICAgICBjYXNlIENvbnMoaCwgdCkgaWYgbiA+IDEgPT4gY29ucyhoKCksIHQoKS50YWtlKG4gLSAxKSkKICAgICAgY2FzZSBfID0+IGVtcHR5CiAgICB9CiAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCB4ID0gU3RyZWFtKDEsIDIsIDMpCg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBDb25zKGgsIHQpIGlmIG4gPiAxID0+IGNvbnMoaCgpLCBlbXB0eWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcy50b0xpc3Qgc2hvdWxkQmUgTGlzdCgxKQo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBfID0+IGVtcHR5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXMgPSB4LnRha2UoMSkK</text>
+        <text encoding="base64">ICAgICAgY2FzZSBjb25zKGgsIHQpIGlmIG4gPT0gMSA9PiBjb25zKGgsIF8pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCB4ID0gU3RyZWFtKDEsIDIsIDMpCg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBDb25zKF8sIHQpIGlmIG4gPiAxID0+IHQoKS50YWtlKG4gLSAxKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
