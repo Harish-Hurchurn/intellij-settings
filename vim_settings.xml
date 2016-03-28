@@ -133,11 +133,8 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459166484600">
-        <mark key="'" line="74" column="1" />
-        <mark key="[" line="27" column="2" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1459169448597">
+        <mark key="'" line="9" column="11" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/sbt-maven.sbt" timestamp="1448801315666">
         <mark key="[" line="2" column="0" />
@@ -360,10 +357,12 @@
       <jump line="18" column="14" filename="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" />
       <jump line="24" column="25" filename="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" />
       <jump line="61" column="1" filename="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" />
+      <jump line="16" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" />
+      <jump line="9" column="11" filename="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRhaWwK</text>
       </register>
       <register name="-" type="4">
         <text>Some(Cons(h, _)))</text>
@@ -375,31 +374,31 @@
         <text encoding="base64">YmVoYXZpb3Igb2YgInRha2VXaGlsZSIKICBpdCBzaG91bGQgInJldHVybiBTdHJlYW0oMSwyLDMpIHdoZW4gY2FsbGVkIHdpdGggdGFrZVdoaWxlKF8gPCAzKSIgaW4gewogICAgdmFsIHggPSBTdHJlYW0oMSwgMiwgMywgNCkKICAgIHZhbCByZXMgPSB4LnRha2VXaGlsZShfIDwgNCkKICAgIHJlcy50b0xpc3Qgc2hvdWxkQmUgTGlzdCgxLCAyLCAzKQogIH0=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIHRhaWwK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGxhenkgdmFsIHRhaWw6IFN0cmVhbVtBXSA9IENvbnMoKCkgPT4gYSwgKCkgPT4gdGFpbCkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>Some(Cons(h, _)))</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KQogIA==</text>
-      </register>
-      <register name="4" type="4">
-        <text>}</text>
-      </register>
-      <register name="5" type="4">
-        <text>divisible by 2</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRhaWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxhenkgdmFsIHRhaWw6IFN0cmVhbVtBXSA9IENvbnMoKCkgPT4gYSwgKCkgPT4gdGFpbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpdCBzaG91bGQgInJldHVybiBTdHJlYW0oMSwzLDUsNyIK</text>
+        <text encoding="base64">ICBkZWYgY29uc3RhbnRbQV0oYTogQSk6IFN0cmVhbVtBXSA9IHsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGRlZiBjb25zdGFudFtBXShhOiBBKTogU3RyZWFtW0FdID0gewogICAgbGF6eSB2YWwgdGFpbDogU3RyZWFtW0FdID0gQ29ucygoKSA9PiBhLCAoKSA9PiB0YWlsKQogICAgdGFpbAogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
