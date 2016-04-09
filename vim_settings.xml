@@ -133,12 +133,8 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1460203760520">
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1460210701250">
         <mark key="'" line="8" column="11" />
-        <mark key="[" line="125" column="2" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-        <mark key="^" line="120" column="19" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/sbt-maven.sbt" timestamp="1448801315666">
         <mark key="[" line="2" column="0" />
@@ -373,8 +369,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGRlZiBmaWJzVmlhVW5mb2xkOiBTdHJlYW1bSW50XSA9IHsKICAgIHVuZm9sZCgoMCwgMSkpIHsKICAgICAgY2FzZSAoaSwgaikgPT4gU29tZSgoaSwgKGosIGkgKyBqKSkpCiAgICB9CiAgfQoKICBkZWYgdW5mb2xkW0EsIFNdKHo6IFMpKGY6IFMgPT4gT3B0aW9uWyhBLCBTKV0pOiBTdHJlYW1bQV0gPSB7CiAgICBmKHopIG1hdGNoIHsKICAgICAgY2FzZSBTb21lKChhLCBzKSkgPT4gY29ucyhhLCB1bmZvbGQocykoZikpCiAgICAgIGNhc2UgTm9uZSA9PiBlbXB0eQogICAgfQogIH0=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -385,40 +381,40 @@
       <register name="0" type="4">
         <text encoding="base64">YmVoYXZpb3Igb2YgInRha2VXaGlsZSIKICBpdCBzaG91bGQgInJldHVybiBTdHJlYW0oMSwyLDMpIHdoZW4gY2FsbGVkIHdpdGggdGFrZVdoaWxlKF8gPCAzKSIgaW4gewogICAgdmFsIHggPSBTdHJlYW0oMSwgMiwgMywgNCkKICAgIHZhbCByZXMgPSB4LnRha2VXaGlsZShfIDwgNCkKICAgIHJlcy50b0xpc3Qgc2hvdWxkQmUgTGlzdCgxLCAyLCAzKQogIH0=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">IGRlZiBmaWJzVmlhVW5mb2xkOiBTdHJlYW1bSW50XSA9IHsKICAgIHVuZm9sZCgoMCwgMSkpIHsKICAgICAgY2FzZSAoaSwgaikgPT4gU29tZSgoaSwgKGosIGkgKyBqKSkpCiAgICB9CiAgfQoKICBkZWYgdW5mb2xkW0EsIFNdKHo6IFMpKGY6IFMgPT4gT3B0aW9uWyhBLCBTKV0pOiBTdHJlYW1bQV0gPSB7CiAgICBmKHopIG1hdGNoIHsKICAgICAgY2FzZSBTb21lKChhLCBzKSkgPT4gY29ucyhhLCB1bmZvbGQocykoZikpCiAgICAgIGNhc2UgTm9uZSA9PiBlbXB0eQogICAgfQogIH0=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>val fibs: Stream[Int] = {
   def go(f0: Int, f1: Int): Stream[Int] =
     cons(f0, go(f1, f0+f1))
   go(0, 1)
 }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ZGVmIGZpYnM6IFN0cmVhbVtJbnRdID0gewogICAgZGVmIGxvb3AoaTogSW50LCBqOiBJbnQpOiBTdHJlYW1bSW50XSA9IHsKICAgICAgY29ucyhpLCBsb29wKGksIGkgKyBqKSkKICAgIH0KCiAgICBsb29wKDAsIDEpCiAgfQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgY2RvbnMoaSwgbG9vcChpLCBpICtqKSkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text />
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgY29ucyhsb29wKGksIGxvb3AoaSwgaSArIGopKSkK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>val fibs = {
     def go(f0: Int, f1: Int): Stream[Int] =
       cons(f0, go(f1, f0+f1))
     go(0, 1)
   }</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5tIDEwMg==</text>
