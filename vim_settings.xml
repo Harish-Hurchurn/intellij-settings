@@ -118,11 +118,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/test/scala/co/ioctl/ChapterFiveSpec.scala" timestamp="1459697598453">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="44" />
-        <mark key="." line="23" column="44" />
-        <mark key="^" line="23" column="44" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/test/scala/co/ioctl/ChapterFiveSpec.scala" timestamp="1460198580735">
+        <mark key="[" line="20" column="2" />
+        <mark key="]" line="26" column="44" />
+        <mark key="." line="26" column="44" />
+        <mark key="^" line="26" column="44" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi3cdpflow/project/plugins.sbt" timestamp="1448706460857">
         <mark key="[" line="0" column="2" />
@@ -133,11 +133,11 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1460197537679">
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1460198810517">
         <mark key="'" line="8" column="11" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/sbt-maven.sbt" timestamp="1448801315666">
         <mark key="[" line="2" column="0" />
@@ -372,8 +372,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY2RvbnMoaSwgbG9vcChpLCBpICtqKSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGVmIGZpYnM6IFN0cmVhbVtJbnRdID0gewogICAgZGVmIGxvb3AoaTogSW50LCBqOiBJbnQpOiBTdHJlYW1bSW50XSA9IHsKICAgICAgY29ucyhpLCBsb29wKGksIGkgKyBqKSkKICAgIH0KCiAgICBsb29wKDAsIDEpCiAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -384,39 +384,39 @@
       <register name="0" type="4">
         <text encoding="base64">YmVoYXZpb3Igb2YgInRha2VXaGlsZSIKICBpdCBzaG91bGQgInJldHVybiBTdHJlYW0oMSwyLDMpIHdoZW4gY2FsbGVkIHdpdGggdGFrZVdoaWxlKF8gPCAzKSIgaW4gewogICAgdmFsIHggPSBTdHJlYW0oMSwgMiwgMywgNCkKICAgIHZhbCByZXMgPSB4LnRha2VXaGlsZShfIDwgNCkKICAgIHJlcy50b0xpc3Qgc2hvdWxkQmUgTGlzdCgxLCAyLCAzKQogIH0=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">ZGVmIGZpYnM6IFN0cmVhbVtJbnRdID0gewogICAgZGVmIGxvb3AoaTogSW50LCBqOiBJbnQpOiBTdHJlYW1bSW50XSA9IHsKICAgICAgY29ucyhpLCBsb29wKGksIGkgKyBqKSkKICAgIH0KCiAgICBsb29wKDAsIDEpCiAgfQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgY2RvbnMoaSwgbG9vcChpLCBpICtqKSkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text />
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgY29ucyhsb29wKGksIGxvb3AoaSwgaSArIGopKSkK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>val fibs = {
     def go(f0: Int, f1: Int): Stream[Int] =
       cons(f0, go(f1, f0+f1))
     go(0, 1)
   }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>,</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>t</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>n</text>
       </register>
-      <register name="9" type="4">
-        <text>I</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>m 130</text>
       </register>
     </registers>
     <search>
@@ -436,7 +436,6 @@
         <entry>headOption</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tIDEw</entry>
         <entry encoding="base64">JzwsJz5tIDk=</entry>
         <entry encoding="base64">JzwsJz4zN0c=</entry>
         <entry>e Ootion.Scala</entry>
@@ -456,6 +455,7 @@
         <entry>vs</entry>
         <entry encoding="base64">ZSA=</entry>
         <entry>w</entry>
+        <entry>m 130</entry>
       </history-cmd>
       <history-expr />
       <history-input />
