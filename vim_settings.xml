@@ -133,11 +133,11 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1460203638655">
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1460203760520">
         <mark key="'" line="8" column="11" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
+        <mark key="[" line="125" column="2" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
         <mark key="^" line="120" column="19" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/sbt-maven.sbt" timestamp="1448801315666">
