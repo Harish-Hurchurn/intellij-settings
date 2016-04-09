@@ -133,8 +133,12 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1460210701250">
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1460211447826">
         <mark key="'" line="8" column="11" />
+        <mark key="[" line="128" column="34" />
+        <mark key="]" line="128" column="33" />
+        <mark key="^" line="128" column="33" />
+        <mark key="." line="128" column="33" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/sbt-maven.sbt" timestamp="1448801315666">
         <mark key="[" line="2" column="0" />
@@ -192,7 +196,7 @@
         <mark key="]" line="7" column="34" />
         <mark key="." line="7" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1459186335855">
+      <file name="/Dummy.txt" timestamp="1460212025128">
         <mark key="[" line="0" column="0" />
         <mark key="." line="1" column="87" />
       </file>
