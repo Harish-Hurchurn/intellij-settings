@@ -133,12 +133,12 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1460221389377">
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1460280555427">
         <mark key="'" line="8" column="11" />
-        <mark key="[" line="138" column="11" />
-        <mark key="]" line="128" column="33" />
-        <mark key="^" line="128" column="33" />
-        <mark key="." line="128" column="33" />
+        <mark key="[" line="153" column="2" />
+        <mark key="]" line="131" column="3" />
+        <mark key="^" line="134" column="33" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/sbt-maven.sbt" timestamp="1448801315666">
         <mark key="[" line="2" column="0" />
@@ -421,7 +421,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5tIDEwMg==</text>
+        <text encoding="base64">JzwsJz5tIDEyNg==</text>
       </register>
     </registers>
     <search>
@@ -441,7 +441,6 @@
         <entry>headOption</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4zN0c=</entry>
         <entry>e Ootion.Scala</entry>
         <entry>wq</entry>
         <entry>e .</entry>
@@ -461,6 +460,7 @@
         <entry>m 130</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5tIDEwMg==</entry>
+        <entry encoding="base64">JzwsJz5tIDEyNg==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
