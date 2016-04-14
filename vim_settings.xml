@@ -19,10 +19,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/build.sbt" timestamp="1460635806600">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/build.sbt" timestamp="1460643120555">
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="9" column="43" />
+        <mark key="." line="9" column="43" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/test.scala" timestamp="1460621936001">
         <mark key="]" line="0" column="0" />
@@ -37,22 +37,28 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjQiLAo=</text>
+      <register name="1" type="4">
+        <text>,</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjQiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjQiCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjQiLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGQK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Y2xhc3MgTmlGaSBleHRlbmRzIFNjYWxhRHNsIHdpdGggRU4gewogIEdpdmVuKCIiIl5OaUZpIGlzIGluc3RhbGxlZCBidXQgaXMgY3VycmVudGx5IG5vdCBzdGFydGVkJCIiIil7ICgpID0+CiAgICAvLy8vIEV4cHJlc3MgdGhlIFJlZ2V4cCBhYm92ZSB3aXRoIHRoZSBjb2RlIHlvdSB3aXNoIHlvdSBoYWQKICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkKICB9CiAgV2hlbigiIiJedGhlIG5pZmkuc2ggc3RhcnQgY29tbWFuZCBpcyBpc3N1ZWQkIiIiKXsgKCkgPT4KICAgIC8vLy8gRXhwcmVzcyB0aGUgUmVnZXhwIGFib3ZlIHdpdGggdGhlIGNvZGUgeW91IHdpc2ggeW91IGhhZAogICAgdGhyb3cgbmV3IFBlbmRpbmdFeGNlcHRpb24oKQogIH0KICBUaGVuKCIiIl5OaUZpIHNob3VsZCBiZSBzdGFydGVkJCIiIil7ICgpID0+CiAgICAvLy8vIEV4cHJlc3MgdGhlIFJlZ2V4cCBhYm92ZSB3aXRoIHRoZSBjb2RlIHlvdSB3aXNoIHlvdSBoYWQKICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkKICB9Cn0=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>Feature: Starting and stopping NiFi
 
   Scenario: Starting NiFi
@@ -60,23 +66,17 @@
     When the nifi.sh start command is issued
     Then NiFi should be started</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">dkdpdmVuKCIiIl5OaUZpIGlzIGluc3RhbGxlZCBhbmQgaXQgaXMgY3VycmVudGx5IHN0YXJ0ZWQkIiIiKSB7ICgpID0+CiAgICAvLy8vIEV4cHJlc3MgdGhlIFJlZ2V4cCBhYm92ZSB3aXRoIHRoZSBjb2RlIHlvdSB3aXNoIHlvdSBoYWQKICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkKICB9CiAgV2hlbigiIiJebmlmaS5zaCBzdG9wIGNvbW1hbmQgaXMgaXNzdWVkJCIiIikgeyAoKSA9PgogICAgLy8vLyBFeHByZXNzIHRoZSBSZWdleHAgYWJvdmUgd2l0aCB0aGUgY29kZSB5b3Ugd2lzaCB5b3UgaGFkCiAgICB0aHJvdyBuZXcgUGVuZGluZ0V4Y2VwdGlvbigpCiAgfQoKICBUaGVuKCIiIl5OaUZpIHNob3VsZCBzdG9wJCIiIikgeyAoKSA9PgogICAgLy8vLyBFeHByZXNzIHRoZSBSZWdleHAgYWJvdmUgd2l0aCB0aGUgY29kZSB5b3Ugd2lzaCB5b3UgaGFkCiAgICB0aHJvdyBuZXcgUGVuZGluZ0V4Y2VwdGlvbigpCiAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHdpdGggTWF0Y2hlcnMg</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
