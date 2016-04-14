@@ -9,13 +9,34 @@
         <mark key="^" line="32" column="25" />
         <mark key="." line="32" column="25" />
       </file>
-      <file name="$USER_HOME$/.ideaLibSources/scala-library-2.11.8-sources.jar!/scala/Int.scala" timestamp="1459774245841" />
-      <file name="C:/Program Files/Java/jdk1.8.0_65/src.zip!/java/lang/Integer.java" timestamp="1459774586687" />
-      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar!/scala/Int.class" timestamp="1459774054865" />
-      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar!/scala/AnyVal.class" timestamp="1459774089866" />
+      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/test.scala" timestamp="1460621936001">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/Test.feature" timestamp="1460621857077">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGh1cmNodXJoIG9uIDE0LzA0LzIwMTYuCiA=</text>
+      </register>
+      <register name="3" type="4">
+        <text>/**
+  * Created by hurchurh on 14/04/2016.
+  */
+c</text>
+      </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
@@ -39,6 +60,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
