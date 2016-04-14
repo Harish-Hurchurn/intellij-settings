@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/Nifi.scala" timestamp="1460632187449">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/Nifi.scala" timestamp="1460635374130">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="C:/work/mercury-gateways/spark/protocol/src/main/scala/com/barclays/mercury/gateways/SparkDriverProtocol.scala" timestamp="1459773914251">
         <mark key="[" line="33" column="1" />
@@ -14,11 +14,10 @@
         <mark key="^" line="32" column="25" />
         <mark key="." line="32" column="25" />
       </file>
-      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/NiFi.feature" timestamp="1460632169862">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="30" />
-        <mark key="^" line="5" column="30" />
-        <mark key="." line="5" column="30" />
+      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/NiFi.feature" timestamp="1460634995783">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/build.sbt" timestamp="1460631887354">
         <mark key="[" line="7" column="50" />
@@ -40,37 +39,39 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">dkdpdmVuKCIiIl5OaUZpIGlzIGluc3RhbGxlZCBhbmQgaXQgaXMgY3VycmVudGx5IHN0YXJ0ZWQkIiIiKSB7ICgpID0+CiAgICAvLy8vIEV4cHJlc3MgdGhlIFJlZ2V4cCBhYm92ZSB3aXRoIHRoZSBjb2RlIHlvdSB3aXNoIHlvdSBoYWQKICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkKICB9CiAgV2hlbigiIiJebmlmaS5zaCBzdG9wIGNvbW1hbmQgaXMgaXNzdWVkJCIiIikgeyAoKSA9PgogICAgLy8vLyBFeHByZXNzIHRoZSBSZWdleHAgYWJvdmUgd2l0aCB0aGUgY29kZSB5b3Ugd2lzaCB5b3UgaGFkCiAgICB0aHJvdyBuZXcgUGVuZGluZ0V4Y2VwdGlvbigpCiAgfQoKICBUaGVuKCIiIl5OaUZpIHNob3VsZCBzdG9wJCIiIikgeyAoKSA9PgogICAgLy8vLyBFeHByZXNzIHRoZSBSZWdleHAgYWJvdmUgd2l0aCB0aGUgY29kZSB5b3Ugd2lzaCB5b3UgaGFkCiAgICB0aHJvdyBuZXcgUGVuZGluZ0V4Y2VwdGlvbigpCiAgfQ==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">Y2xhc3MgTmlGaSBleHRlbmRzIFNjYWxhRHNsIHdpdGggRU4gewogIEdpdmVuKCIiIl5OaUZpIGlzIGluc3RhbGxlZCBidXQgaXMgY3VycmVudGx5IG5vdCBzdGFydGVkJCIiIil7ICgpID0+CiAgICAvLy8vIEV4cHJlc3MgdGhlIFJlZ2V4cCBhYm92ZSB3aXRoIHRoZSBjb2RlIHlvdSB3aXNoIHlvdSBoYWQKICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkKICB9CiAgV2hlbigiIiJedGhlIG5pZmkuc2ggc3RhcnQgY29tbWFuZCBpcyBpc3N1ZWQkIiIiKXsgKCkgPT4KICAgIC8vLy8gRXhwcmVzcyB0aGUgUmVnZXhwIGFib3ZlIHdpdGggdGhlIGNvZGUgeW91IHdpc2ggeW91IGhhZAogICAgdGhyb3cgbmV3IFBlbmRpbmdFeGNlcHRpb24oKQogIH0KICBUaGVuKCIiIl5OaUZpIHNob3VsZCBiZSBzdGFydGVkJCIiIil7ICgpID0+CiAgICAvLy8vIEV4cHJlc3MgdGhlIFJlZ2V4cCBhYm92ZSB3aXRoIHRoZSBjb2RlIHlvdSB3aXNoIHlvdSBoYWQKICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkKICB9Cn0=</text>
+      </register>
+      <register name="4" type="4">
+        <text>Feature: Starting and stopping NiFi
+
+  Scenario: Starting NiFi
+    Given NiFi is installed but is currently not started
+    When the nifi.sh start command is issued
+    Then NiFi should be started</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>Scenario: Stopping NiFi
-    Given NiFi is installed and it is currently started
-    When nifi.sh stop command is issued
-    Then NiFi should stop</text>
-      </register>
       <register name="7" type="4">
-        <text encoding="base64">IHdpdGggTWF0Y2hlcnMg</text>
+        <text encoding="base64">dkdpdmVuKCIiIl5OaUZpIGlzIGluc3RhbGxlZCBhbmQgaXQgaXMgY3VycmVudGx5IHN0YXJ0ZWQkIiIiKSB7ICgpID0+CiAgICAvLy8vIEV4cHJlc3MgdGhlIFJlZ2V4cCBhYm92ZSB3aXRoIHRoZSBjb2RlIHlvdSB3aXNoIHlvdSBoYWQKICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkKICB9CiAgV2hlbigiIiJebmlmaS5zaCBzdG9wIGNvbW1hbmQgaXMgaXNzdWVkJCIiIikgeyAoKSA9PgogICAgLy8vLyBFeHByZXNzIHRoZSBSZWdleHAgYWJvdmUgd2l0aCB0aGUgY29kZSB5b3Ugd2lzaCB5b3UgaGFkCiAgICB0aHJvdyBuZXcgUGVuZGluZ0V4Y2VwdGlvbigpCiAgfQoKICBUaGVuKCIiIl5OaUZpIHNob3VsZCBzdG9wJCIiIikgeyAoKSA9PgogICAgLy8vLyBFeHByZXNzIHRoZSBSZWdleHAgYWJvdmUgd2l0aCB0aGUgY29kZSB5b3Ugd2lzaCB5b3UgaGFkCiAgICB0aHJvdyBuZXcgUGVuZGluZ0V4Y2VwdGlvbigpCiAgfQ==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICB2YXIgeCA6IEludCA9IDAKICB2YXIgeSA6IEludCA9IDAKICB2YXIgeiA6IEludCA9IDAKCiAgR2l2ZW4oIiIiXmEgdmFyaWFibGUgeCB3aXRoIHZhbHVlIChcZCspJCIiIikgeyAoYXJnMDogSW50KSA9PgogICAgeCA9IGFyZzAKICB9CgogIEdpdmVuKCIiIl5hIHZhcmlhYmxlIHkgd2l0aCB2YWx1ZSAoXGQrKSQiIiIpIHsgKGFyZzA6IEludCkgPT4KICAgIHkgPSBhcmcwCiAgfQoKICBXaGVuKCIiIl5JIG11bHRpcGx5IHggXCogeSQiIiIpIHsgKCkgPT4KICAgIHogPSB4ICogeQogIH0KCiAgVGhlbigiIiJeSSBnZXQgKFxkKykkIiIiKSB7IChhcmcwOiBJbnQpID0+CiAgICB6IHNob3VsZCBiZSAoYXJnMCkKICB9Cn0Kb2JqZWN0IE5pZmkgew==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -119,6 +120,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
