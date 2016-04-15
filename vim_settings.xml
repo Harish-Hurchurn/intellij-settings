@@ -24,11 +24,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/build.sbt" timestamp="1460723235730">
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="16" column="27" />
-        <mark key="." line="16" column="27" />
-        <mark key="^" line="16" column="27" />
+      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/project/plugins.sbt" timestamp="1460727556925">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/project/build.properties" timestamp="1460727579777" />
+      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/build.sbt" timestamp="1460727405495">
+        <mark key="[" line="12" column="56" />
+        <mark key="]" line="15" column="28" />
+        <mark key="." line="15" column="28" />
+        <mark key="^" line="15" column="28" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/test.scala" timestamp="1460621936001">
         <mark key="]" line="0" column="0" />
@@ -58,35 +62,49 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">QAo=</text>
+      <register name="1" type="4">
+        <text>libraryDependencies ++= Seq(
+  &quot;info.cukes&quot; % &quot;cucumber-scala_2.10&quot; % &quot;latest.integration&quot; % &quot;test&quot;,
+  &quot;org.scalatest&quot; %% &quot;scalatest&quot; % &quot;latest.integration&quot;,
+  &quot;info.cukes&quot; % &quot;cucumber-junit&quot; % &quot;1.2.4&quot;,
+  &quot;junit&quot; % &quot;junit&quot; % &quot;4.12&quot;
+)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QAo=</text>
+      <register name="&quot;" type="4">
+        <text>libraryDependencies ++= Seq(
+  &quot;info.cukes&quot; % &quot;cucumber-scala_2.10&quot; % &quot;latest.integration&quot; % &quot;test&quot;,
+  &quot;org.scalatest&quot; %% &quot;scalatest&quot; % &quot;latest.integration&quot;,
+  &quot;info.cukes&quot; % &quot;cucumber-junit&quot; % &quot;1.2.4&quot;,
+  &quot;junit&quot; % &quot;junit&quot; % &quot;4.12&quot;
+)</text>
       </register>
-      <register name="2" type="4">
-        <text>wip</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>=</text>
+        <text>name := &quot;end-to-end-testing&quot;
+
+version := &quot;0.1&quot;
+
+scalaVersion := &quot;2.11.8&quot;</text>
       </register>
-      <register name="5" type="4">
-        <text>+</text>
+      <register name="5" type="2">
+        <text encoding="base64">QAo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>wip</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>=</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
