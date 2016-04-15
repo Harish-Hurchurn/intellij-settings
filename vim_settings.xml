@@ -19,6 +19,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/Nifi.feature" timestamp="1460724866053">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/build.sbt" timestamp="1460723235730">
         <mark key="[" line="15" column="42" />
         <mark key="]" line="16" column="27" />
@@ -53,41 +58,41 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">QAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QAo=</text>
       </register>
       <register name="2" type="4">
-        <text>=</text>
+        <text>wip</text>
       </register>
       <register name="3" type="4">
-        <text>+</text>
-      </register>
-      <register name="4" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="4" type="4">
+        <text>=</text>
+      </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text>+</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>c</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>wip</text>
       </register>
     </registers>
     <search>
