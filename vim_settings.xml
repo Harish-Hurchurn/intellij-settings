@@ -19,14 +19,24 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/build.sbt" timestamp="1460643120555">
-        <mark key="[" line="9" column="43" />
-        <mark key="]" line="9" column="43" />
-        <mark key="." line="9" column="43" />
+      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/build.sbt" timestamp="1460723235730">
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="16" column="27" />
+        <mark key="." line="16" column="27" />
+        <mark key="^" line="16" column="27" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/test.scala" timestamp="1460621936001">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/NifiTest.scala" timestamp="1460723503540">
+        <mark key="[" line="3" column="60" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+      </file>
+      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/Runner.scala" timestamp="1460723163533">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/Test.feature" timestamp="1460630925682">
         <mark key="[" line="4" column="5" />
@@ -44,45 +54,40 @@
     <jumps />
     <registers>
       <register name="1" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjQiCg==</text>
+      <register name="2" type="4">
+        <text>=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjQiLAo=</text>
+      <register name="3" type="4">
+        <text>+</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGQK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Y2xhc3MgTmlGaSBleHRlbmRzIFNjYWxhRHNsIHdpdGggRU4gewogIEdpdmVuKCIiIl5OaUZpIGlzIGluc3RhbGxlZCBidXQgaXMgY3VycmVudGx5IG5vdCBzdGFydGVkJCIiIil7ICgpID0+CiAgICAvLy8vIEV4cHJlc3MgdGhlIFJlZ2V4cCBhYm92ZSB3aXRoIHRoZSBjb2RlIHlvdSB3aXNoIHlvdSBoYWQKICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkKICB9CiAgV2hlbigiIiJedGhlIG5pZmkuc2ggc3RhcnQgY29tbWFuZCBpcyBpc3N1ZWQkIiIiKXsgKCkgPT4KICAgIC8vLy8gRXhwcmVzcyB0aGUgUmVnZXhwIGFib3ZlIHdpdGggdGhlIGNvZGUgeW91IHdpc2ggeW91IGhhZAogICAgdGhyb3cgbmV3IFBlbmRpbmdFeGNlcHRpb24oKQogIH0KICBUaGVuKCIiIl5OaUZpIHNob3VsZCBiZSBzdGFydGVkJCIiIil7ICgpID0+CiAgICAvLy8vIEV4cHJlc3MgdGhlIFJlZ2V4cCBhYm92ZSB3aXRoIHRoZSBjb2RlIHlvdSB3aXNoIHlvdSBoYWQKICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkKICB9Cn0=</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>Feature: Starting and stopping NiFi
-
-  Scenario: Starting NiFi
-    Given NiFi is installed but is currently not started
-    When the nifi.sh start command is issued
-    Then NiFi should be started</text>
+        <text>i</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>c</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="9" type="4">
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
