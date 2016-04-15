@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/R5CJELOT/RunOneCucumberTests.java" timestamp="1460731309779" />
       <file name="C:/work/src/cucumber-plugin-example/src/test/scala/com/waioeka/sbt/MultiplicationSteps.scala" timestamp="1460729796803">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -26,7 +27,6 @@
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/Runner.scala" timestamp="1460723163533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work/src/cucumber-plugin-example/build.sbt" timestamp="1460729895502" />
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/Test.feature" timestamp="1460630925682">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="5" column="28" />
@@ -76,7 +76,6 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="C:/work/src/cucumber-plugin-example/src/test/resources/Multiplication.feature" timestamp="1460729652127" />
     </filemarks>
     <jumps>
       <jump line="5" column="3" filename="C:/work/src/cucumber-plugin-example/build.sbt" />
