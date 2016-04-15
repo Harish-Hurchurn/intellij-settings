@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/work/src/cucumber-plugin-example/src/test/scala/com/waioeka/sbt/MultiplicationSteps.scala" timestamp="1460729796803">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/Nifi.feature" timestamp="1460724866053">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -12,14 +17,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/work/src/cucumber-plugin-example/project/plugins.sbt" timestamp="1460729704703">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="1" column="67" />
+        <mark key="^" line="1" column="67" />
+        <mark key="." line="1" column="67" />
+      </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/Runner.scala" timestamp="1460723163533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work/src/cucumber-plugin-example/build.sbt" timestamp="1460727752680">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="C:/work/src/cucumber-plugin-example/build.sbt" timestamp="1460729895502" />
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/Test.feature" timestamp="1460630925682">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="5" column="28" />
@@ -51,7 +58,12 @@
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/project/plugins.sbt" timestamp="1460727556925">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/project/build.properties" timestamp="1460727579777" />
+      <file name="C:/work/src/cucumber-plugin-example/project/build.properties" timestamp="1460729686846">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+      </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/build.sbt" timestamp="1460727405495">
         <mark key="[" line="12" column="56" />
         <mark key="]" line="15" column="28" />
@@ -64,55 +76,47 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
+      <file name="C:/work/src/cucumber-plugin-example/src/test/resources/Multiplication.feature" timestamp="1460729652127" />
     </filemarks>
     <jumps>
       <jump line="5" column="3" filename="C:/work/src/cucumber-plugin-example/build.sbt" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">bmFtZSA6PSAiY3VjdW1iZXItcGx1Z2luLWV4YW1wbGUiCgp2ZXJzaW9uIDo9ICIxLjAiCgpzY2FsYVZlcnNpb24gOj0gIjIuMTEuOCIKICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bmFtZSA6PSAiY3VjdW1iZXItcGx1Z2luLWV4YW1wbGUiCgp2ZXJzaW9uIDo9ICIxLjAiCgpzY2FsYVZlcnNpb24gOj0gIjIuMTEuOCIKICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>libraryDependencies ++= Seq(
-  &quot;info.cukes&quot; % &quot;cucumber-scala_2.10&quot; % &quot;latest.integration&quot; % &quot;test&quot;,
-  &quot;org.scalatest&quot; %% &quot;scalatest&quot; % &quot;latest.integration&quot;,
-  &quot;info.cukes&quot; % &quot;cucumber-junit&quot; % &quot;1.2.4&quot;,
-  &quot;junit&quot; % &quot;junit&quot; % &quot;4.12&quot;
-)</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgTXVsdGlwbGljYXRpb25TdGVwcyB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>name := &quot;end-to-end-testing&quot;
-
-version := &quot;0.1&quot;
-
-scalaVersion := &quot;2.11.8&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaHVyY2h1cmggb24gMTUvMDQvMjAxNi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>wip</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20ud2Fpb2VrYS5zYnQK</text>
       </register>
       <register name="9" type="4">
-        <text>=</text>
+        <text>8</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>wip</text>
+        <text>8</text>
       </register>
     </registers>
     <search>
