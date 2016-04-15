@@ -3,7 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/R5CJELOT/RunOneCucumberTests.java" timestamp="1460731309779" />
+      <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/barclays/treasury/sbt/CucumberParameters.scala" timestamp="1460733669912">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/work/src/cucumber-plugin-example/src/test/scala/com/waioeka/sbt/MultiplicationSteps.scala" timestamp="1460729796803">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -11,10 +15,6 @@
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/Nifi.feature" timestamp="1460724866053">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/test.scala" timestamp="1460621936001">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -26,6 +26,16 @@
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/Runner.scala" timestamp="1460723163533">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/src/cucumber/cucumber-plugin-example/src/test/scala/com/waioeka/sbt/MultiplicationSteps.scala" timestamp="1460733462865">
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="29" column="1" />
+        <mark key="." line="29" column="1" />
+      </file>
+      <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/barclays/treasury/sbt/Jvm.scala" timestamp="1460733678809">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/Test.feature" timestamp="1460630925682">
         <mark key="[" line="4" column="5" />
@@ -39,6 +49,14 @@
         <mark key="^" line="261" column="22" />
         <mark key="." line="261" column="22" />
       </file>
+      <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/waioeka/sbt/Cucumber.scala" timestamp="1460733560915">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/work/src/cucumber/cucumber-plugin/build.sbt" timestamp="1460733638982">
+        <mark key="[" line="13" column="48" />
+      </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/Nifi.scala" timestamp="1460635374130">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -51,6 +69,11 @@
         <mark key="." line="32" column="25" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/NiFi.feature" timestamp="1460634995783">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/barclays/treasury/sbt/JvmParameters.scala" timestamp="1460733685736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -70,6 +93,16 @@
         <mark key="." line="15" column="28" />
         <mark key="^" line="15" column="28" />
       </file>
+      <file name="C:/work/src/cucumber/cucumber-plugin/.gitignore" timestamp="1460733814544">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/barclays/treasury/sbt/package.scala" timestamp="1460733823487">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+      </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/NifiTest.scala" timestamp="1460723503540">
         <mark key="[" line="3" column="60" />
         <mark key="]" line="10" column="15" />
@@ -79,43 +112,67 @@
     </filemarks>
     <jumps>
       <jump line="5" column="3" filename="C:/work/src/cucumber-plugin-example/build.sbt" />
+      <jump line="0" column="0" filename="C:/work/src/cucumber/cucumber-plugin/.gitignore" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Q01ha2VDYWNoZS50eHQKQ01ha2VGaWxlcwpDTWFrZVNjcmlwdHMKTWFrZWZpbGUKY21ha2VfaW5zdGFsbC5jbWFrZQppbnN0YWxsX21hbmlmZXN0LnR4dAojIyMgRXhhbXBsZSB1c2VyIHRlbXBsYXRlIHRlbXBsYXRlCiMjIyBFeGFtcGxlIHVzZXIgdGVtcGxhdGUKCiMgSW50ZWxsaUogcHJvamVjdCBmaWxlcwouaWRlYQoqLmltbApvdXQKZ2VuIyMjIEMgdGVtcGxhdGUKIyBPYmplY3QgZmlsZXMKKi5vCioua28KKi5vYmoKKi5lbGYKCiMgUHJlY29tcGlsZWQgSGVhZGVycwoqLmdjaAoqLnBjaAoKIyBMaWJyYXJpZXMKKi5saWIKKi5hCioubGEKKi5sbwoKIyBTaGFyZWQgb2JqZWN0cyAoaW5jLiBXaW5kb3dzIERMTHMpCiouZGxsCiouc28KKi5zby4qCiouZHlsaWIKCiMgRXhlY3V0YWJsZXMKKi5leGUKKi5vdXQKKi5hcHAKKi5pKjg2CioueDg2XzY0CiouaGV4CgojIERlYnVnIGZpbGVzCiouZFNZTS8KIyMjIEMrKyB0ZW1wbGF0ZQojIENvbXBpbGVkIE9iamVjdCBmaWxlcwoqLnNsbwoqLmxvCioubwoqLm9iagoKIyBQcmVjb21waWxlZCBIZWFkZXJzCiouZ2NoCioucGNoCgojIENvbXBpbGVkIER5bmFtaWMgbGlicmFyaWVzCiouc28KKi5keWxpYgoqLmRsbAoKIyBGb3J0cmFuIG1vZHVsZSBmaWxlcwoqLm1vZAoKIyBDb21waWxlZCBTdGF0aWMgbGlicmFyaWVzCioubGFpCioubGEKKi5hCioubGliCgojIEV4ZWN1dGFibGVzCiouZXhlCioub3V0CiouYXBwCiMjIyBDbG9qdXJlIHRlbXBsYXRlCnBvbS54bWwKcG9tLnhtbC5hc2MKKmphcgovbGliLwovY2xhc3Nlcy8KL3RhcmdldC8KL2NoZWNrb3V0cy8KLmxlaW4tZGVwcy1zdW0KLmxlaW4tcmVwbC1oaXN0b3J5Ci5sZWluLXBsdWdpbnMvCi5sZWluLWZhaWx1cmVzCi5ucmVwbC1wb3J0CiMjIyBTY2FsYSB0ZW1wbGF0ZQoqLmNsYXNzCioubG9nCgojIHNidCBzcGVjaWZpYwouY2FjaGUKLmhpc3RvcnkKLmxpYi8KZGlzdC8qCnRhcmdldC8KbGliX21hbmFnZWQvCnNyY19tYW5hZ2VkLwpwcm9qZWN0L2Jvb3QvCnByb2plY3QvcGx1Z2lucy9wcm9qZWN0LwoKIyBTY2FsYS1JREUgc3BlY2lmaWMKLnNjYWxhX2RlcGVuZGVuY2llcwoud29ya3NoZWV0CiMjIyBKYXZhIHRlbXBsYXRlCiouY2xhc3MKCiMgTW9iaWxlIFRvb2xzIGZvciBKYXZhIChKMk1FKQoubXRqLnRtcC8KCiMgUGFja2FnZSBGaWxlcyAjCiouamFyCioud2FyCiouZWFyCgojIHZpcnR1YWwgbWFjaGluZSBjcmFzaCBsb2dzLCBzZWUgaHR0cDovL3d3dy5qYXZhLmNvbS9lbi9kb3dubG9hZC9oZWxwL2Vycm9yX2hvdHNwb3QueG1sCmhzX2Vycl9waWQqCiMjIyBNYXZlbiB0ZW1wbGF0ZQp0YXJnZXQvCnBvbS54bWwudGFnCnBvbS54bWwucmVsZWFzZUJhY2t1cApwb20ueG1sLnZlcnNpb25zQmFja3VwCnBvbS54bWwubmV4dApyZWxlYXNlLnByb3BlcnRpZXMKZGVwZW5kZW5jeS1yZWR1Y2VkLXBvbS54bWwKYnVpbGROdW1iZXIucHJvcGVydGllcwoubXZuL3RpbWluZy5wcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgTXVsdGlwbGljYXRpb25TdGVwcyB7Cg==</text>
+        <text encoding="base64">IyMjIENNYWtlIHRlbXBsYXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">IENyZWF0ZWQgYnkgLmlnbm9yZSBzdXBwb3J0IHBsdWdpbiAoaHN6Lm1vYmkpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaHVyY2h1cmggb24gMTUvMDQvMjAxNi4K</text>
+      <register name="5" type="4">
+        <text>#</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ud2Fpb2VrYS5zYnQK</text>
+      <register name="7" type="2">
+        <text encoding="base64">Lwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>8</text>
+      <register name="8" type="4">
+        <text>/*
+ * Copyright (c) 2015, Michael Lewis
+ * All rights reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions are met:
+ *
+ * 1. Redistributions of source code must retain the above copyright notice, this
+ * list of conditions and the following disclaimer.
+ * 2. Redistributions in binary form must reproduce the above copyright notice,
+ * this list of conditions and the following disclaimer in the documentation
+ * and/or other materials provided with the distribution.
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&quot; AND
+ * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+ * WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ * DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ * ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+ * (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+ * LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ * ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+ * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+ * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ *</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>#</text>
       </register>
     </registers>
     <search>
@@ -129,6 +186,7 @@
         <entry>q</entry>
         <entry>m 6</entry>
         <entry>we</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
