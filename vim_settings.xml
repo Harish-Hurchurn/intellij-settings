@@ -74,6 +74,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/Chaptersix.scala" timestamp="1460893144969">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/work/src/nifi-custom-plugins/nifi-processor/src/main/scala/org/profile/customer/nifi/ProcessorLogic.scala" timestamp="1454432983992">
         <mark key="[" line="8" column="60" />
         <mark key="]" line="8" column="66" />
@@ -229,10 +235,10 @@
         <mark key="[" line="850" column="4" />
         <mark key="]" line="853" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" timestamp="1459681599000">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" timestamp="1460893299153">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" timestamp="1459070732400">
         <mark key="'" line="60" column="51" />
@@ -376,8 +382,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGRlZiBmaWJzVmlhVW5mb2xkOiBTdHJlYW1bSW50XSA9IHsKICAgIHVuZm9sZCgoMCwgMSkpIHsKICAgICAgY2FzZSAoaSwgaikgPT4gU29tZSgoaSwgKGosIGkgKyBqKSkpCiAgICB9CiAgfQoKICBkZWYgdW5mb2xkW0EsIFNdKHo6IFMpKGY6IFMgPT4gT3B0aW9uWyhBLCBTKV0pOiBTdHJlYW1bQV0gPSB7CiAgICBmKHopIG1hdGNoIHsKICAgICAgY2FzZSBTb21lKChhLCBzKSkgPT4gY29ucyhhLCB1bmZvbGQocykoZikpCiAgICAgIGNhc2UgTm9uZSA9PiBlbXB0eQogICAgfQogIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">eS5fMi5uZXh0SW50Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -388,43 +394,44 @@
       <register name="0" type="4">
         <text encoding="base64">YmVoYXZpb3Igb2YgInRha2VXaGlsZSIKICBpdCBzaG91bGQgInJldHVybiBTdHJlYW0oMSwyLDMpIHdoZW4gY2FsbGVkIHdpdGggdGFrZVdoaWxlKF8gPCAzKSIgaW4gewogICAgdmFsIHggPSBTdHJlYW0oMSwgMiwgMywgNCkKICAgIHZhbCByZXMgPSB4LnRha2VXaGlsZShfIDwgNCkKICAgIHJlcy50b0xpc3Qgc2hvdWxkQmUgTGlzdCgxLCAyLCAzKQogIH0=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGRlZiBmaWJzVmlhVW5mb2xkOiBTdHJlYW1bSW50XSA9IHsKICAgIHVuZm9sZCgoMCwgMSkpIHsKICAgICAgY2FzZSAoaSwgaikgPT4gU29tZSgoaSwgKGosIGkgKyBqKSkpCiAgICB9CiAgfQoKICBkZWYgdW5mb2xkW0EsIFNdKHo6IFMpKGY6IFMgPT4gT3B0aW9uWyhBLCBTKV0pOiBTdHJlYW1bQV0gPSB7CiAgICBmKHopIG1hdGNoIHsKICAgICAgY2FzZSBTb21lKChhLCBzKSkgPT4gY29ucyhhLCB1bmZvbGQocykoZikpCiAgICAgIGNhc2UgTm9uZSA9PiBlbXB0eQogICAgfQogIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">eS5fMi5uZXh0SW50Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>/**
+  * Created by harish on 17/04/2016.
+  */
+class Chaptersix {
+
+}</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IGRlZiBmaWJzVmlhVW5mb2xkOiBTdHJlYW1bSW50XSA9IHsKICAgIHVuZm9sZCgoMCwgMSkpIHsKICAgICAgY2FzZSAoaSwgaikgPT4gU29tZSgoaSwgKGosIGkgKyBqKSkpCiAgICB9CiAgfQoKICBkZWYgdW5mb2xkW0EsIFNdKHo6IFMpKGY6IFMgPT4gT3B0aW9uWyhBLCBTKV0pOiBTdHJlYW1bQV0gPSB7CiAgICBmKHopIG1hdGNoIHsKICAgICAgY2FzZSBTb21lKChhLCBzKSkgPT4gY29ucyhhLCB1bmZvbGQocykoZikpCiAgICAgIGNhc2UgTm9uZSA9PiBlbXB0eQogICAgfQogIH0=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>val fibs: Stream[Int] = {
   def go(f0: Int, f1: Int): Stream[Int] =
     cons(f0, go(f1, f0+f1))
   go(0, 1)
 }</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ZGVmIGZpYnM6IFN0cmVhbVtJbnRdID0gewogICAgZGVmIGxvb3AoaTogSW50LCBqOiBJbnQpOiBTdHJlYW1bSW50XSA9IHsKICAgICAgY29ucyhpLCBsb29wKGksIGkgKyBqKSkKICAgIH0KCiAgICBsb29wKDAsIDEpCiAgfQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgY2RvbnMoaSwgbG9vcChpLCBpICtqKSkK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text />
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgY29ucyhsb29wKGksIGxvb3AoaSwgaSArIGopKSkK</text>
       </register>
-      <register name="8" type="4">
-        <text>val fibs = {
-    def go(f0: Int, f1: Int): Stream[Int] =
-      cons(f0, go(f1, f0+f1))
-    go(0, 1)
-  }</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5tIDEyNg==</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -458,12 +465,12 @@
         <entry>m 13</entry>
         <entry>m 12</entry>
         <entry>m12</entry>
-        <entry>vs</entry>
         <entry encoding="base64">ZSA=</entry>
         <entry>m 130</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5tIDEwMg==</entry>
         <entry encoding="base64">JzwsJz5tIDEyNg==</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
