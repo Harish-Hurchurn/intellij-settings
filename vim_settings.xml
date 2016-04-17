@@ -57,6 +57,12 @@
         <mark key="^" line="12" column="50" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chaptersix/Chaptersix.scala" timestamp="1460896543404">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="15" column="12" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/src/main/scala/co/ioctl/drawing/Canvas.scala" timestamp="1448193822769">
         <mark key="[" line="73" column="19" />
         <mark key="]" line="73" column="3" />
@@ -142,12 +148,11 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1460280555427">
-        <mark key="'" line="8" column="11" />
-        <mark key="[" line="153" column="2" />
-        <mark key="]" line="131" column="3" />
+      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" timestamp="1460896377216">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
         <mark key="^" line="134" column="33" />
-        <mark key="." line="126" column="0" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/sbt-maven.sbt" timestamp="1448801315666">
         <mark key="[" line="2" column="0" />
@@ -381,10 +386,11 @@
       <jump line="197" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
       <jump line="2" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
+      <jump line="155" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YWwgKGMsIGQpID0gYi5uZXh0SW50Cg==</text>
+        <text encoding="base64">ZGRkZAo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -396,17 +402,20 @@
         <text encoding="base64">YmVoYXZpb3Igb2YgInRha2VXaGlsZSIKICBpdCBzaG91bGQgInJldHVybiBTdHJlYW0oMSwyLDMpIHdoZW4gY2FsbGVkIHdpdGggdGFrZVdoaWxlKF8gPCAzKSIgaW4gewogICAgdmFsIHggPSBTdHJlYW0oMSwgMiwgMywgNCkKICAgIHZhbCByZXMgPSB4LnRha2VXaGlsZShfIDwgNCkKICAgIHJlcy50b0xpc3Qgc2hvdWxkQmUgTGlzdCgxLCAyLCAzKQogIH0=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ZGRkZAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">YWwgKGMsIGQpID0gYi5uZXh0SW50Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>ddddval x = SimpleRNG(42)
 val (a, b) = x.nextInt
 v</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">eS5fMi5uZXh0SW50Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>/**
   * Created by harish on 17/04/2016.
   */
@@ -414,27 +423,24 @@ class Chaptersix {
 
 }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IGRlZiBmaWJzVmlhVW5mb2xkOiBTdHJlYW1bSW50XSA9IHsKICAgIHVuZm9sZCgoMCwgMSkpIHsKICAgICAgY2FzZSAoaSwgaikgPT4gU29tZSgoaSwgKGosIGkgKyBqKSkpCiAgICB9CiAgfQoKICBkZWYgdW5mb2xkW0EsIFNdKHo6IFMpKGY6IFMgPT4gT3B0aW9uWyhBLCBTKV0pOiBTdHJlYW1bQV0gPSB7CiAgICBmKHopIG1hdGNoIHsKICAgICAgY2FzZSBTb21lKChhLCBzKSkgPT4gY29ucyhhLCB1bmZvbGQocykoZikpCiAgICAgIGNhc2UgTm9uZSA9PiBlbXB0eQogICAgfQogIH0=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>val fibs: Stream[Int] = {
   def go(f0: Int, f1: Int): Stream[Int] =
     cons(f0, go(f1, f0+f1))
   go(0, 1)
 }</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ZGVmIGZpYnM6IFN0cmVhbVtJbnRdID0gewogICAgZGVmIGxvb3AoaTogSW50LCBqOiBJbnQpOiBTdHJlYW1bSW50XSA9IHsKICAgICAgY29ucyhpLCBsb29wKGksIGkgKyBqKSkKICAgIH0KCiAgICBsb29wKDAsIDEpCiAgfQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2RvbnMoaSwgbG9vcChpLCBpICtqKSkK</text>
-      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
@@ -454,8 +460,6 @@ class Chaptersix {
         <entry>headOption</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
-        <entry>e .</entry>
         <entry>e Option.scala</entry>
         <entry>e Either.scala</entry>
         <entry>m 4</entry>
@@ -471,9 +475,11 @@ class Chaptersix {
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5tIDEwMg==</entry>
         <entry encoding="base64">JzwsJz5tIDEyNg==</entry>
-        <entry>vs</entry>
         <entry>sp</entry>
         <entry>q</entry>
+        <entry>vs</entry>
+        <entry>e chaptersix/</entry>
+        <entry>e</entry>
       </history-cmd>
       <history-expr />
       <history-input />
