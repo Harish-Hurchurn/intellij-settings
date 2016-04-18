@@ -107,10 +107,11 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="0" />
       </file>
-      <file name="C:/work/cucumber-plugin-test/build.sbt" timestamp="1460982736637">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="C:/work/cucumber-plugin-test/build.sbt" timestamp="1460983082026">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+        <mark key="^" line="9" column="36" />
       </file>
       <file name="/Dummy.txt" timestamp="1460978744483">
         <mark key="[" line="0" column="0" />
@@ -211,40 +212,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ZW5hYmxlUGx1Z2lucyhDdWN1bWJlclBsdWdpbikK</text>
+        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjQiCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZW5hYmxlUGx1Z2lucyhDdWN1bWJlclBsdWdpbikK</text>
+        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjQiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGRlbmFibGVQbHVnaW5zKEN1Y3VtYmVyUGx1Z2luKQo=</text>
+        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItanVuaXQiICUgIjEuMi40IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItanZtIiAlICIxLjIuNCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItc2NhbGFfMi4xMCIgJSAiMS4yLjQiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItY29yZSIgJSAiMS4yLjQiLAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>,</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiY29tLmJhcmNsYXlzIiAlICJjdWN1bWJlci1wbHVnaW4iICUgIjAuMS4wIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGRDdWN1bWJlclBsdWdpbi5nbHVlIDo9ICJjb20vYmFyY2xheXMvdGVzdCIK</text>
+        <text encoding="base64">ZW5hYmxlUGx1Z2lucyhDdWN1bWJlclBsdWdpbikK</text>
       </register>
-      <register name="9" type="4">
-        <text>enablePlugins(CucumberPlugin)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZGRlbmFibGVQbHVnaW5zKEN1Y3VtYmVyUGx1Z2luKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>enablePlugins(CucumberPlugin)</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
