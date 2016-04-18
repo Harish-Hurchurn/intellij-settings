@@ -72,6 +72,12 @@
         <mark key="^" line="32" column="25" />
         <mark key="." line="32" column="25" />
       </file>
+      <file name="C:/work/cucumber-plugin/build.sbt" timestamp="1460978265100">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/barclays/treasury/sbt/JvmParameters.scala" timestamp="1460733685736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -89,7 +95,7 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="C:/work/cucumber-plugin/src/main/scala/com/barclays/treasury/cucumber/sbt/CucumberPlugin.scala" timestamp="1460977639298">
+      <file name="C:/work/cucumber-plugin/src/main/scala/com/barclays/treasury/cucumber/sbt/CucumberPlugin.scala" timestamp="1460978369990">
         <mark key="[" line="83" column="20" />
         <mark key="]" line="93" column="0" />
         <mark key="^" line="93" column="0" />
@@ -101,13 +107,18 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1460972498377">
+      <file name="/Dummy.txt" timestamp="1460978744483">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/cucumber/Cucumber.scala" timestamp="1460973879735">
         <mark key="[" line="17" column="1" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="C:/work/cucumber-plugin/.gitignore" timestamp="1460978892648">
+        <mark key="]" line="249" column="0" />
+        <mark key="^" line="249" column="0" />
+        <mark key="." line="249" column="0" />
       </file>
       <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/fiscus/cucumber/sbt/CucumberParameters.scala" timestamp="1460973946132">
         <mark key="[" line="13" column="29" />
@@ -180,6 +191,12 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="92" column="0" />
       </file>
+      <file name="C:/work/cucumber-plugin/README.md" timestamp="1460978595433">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="17" column="15" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="5" column="3" filename="C:/work/src/cucumber-plugin-example/build.sbt" />
@@ -188,41 +205,41 @@
       <jump line="216" column="0" filename="C:/work/src/cucumber/cucumber-plugin/.gitignore" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>//::: p2)</text>
+        <text>n</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>o</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>i</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgICAgICAgIG1hcCB7IGNwID0+IGNwLnRvTGlzdC5tYXAoXy5kYXRhKX0pLnZhbHVlCg==</text>
+      <register name="6" type="4">
+        <text>t</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy92YWwgcDIgPSAoKGZ1bGxDbGFzc3BhdGggaW4gSW50ZWdyYXRpb25UZXN0KQo=</text>
+      <register name="7" type="4">
+        <text>i</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLyogVE9ETyAtIEFkZCBzdXBwb3J0IGZvciBpdDp0ZXN0ICovCg==</text>
+      <register name="8" type="4">
+        <text>n</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>//::: p2)</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
