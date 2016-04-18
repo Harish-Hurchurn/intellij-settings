@@ -58,7 +58,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/build.sbt" timestamp="1460998023196">
+      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/build.sbt" timestamp="1460999195446">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -106,7 +106,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/project/plugins.sbt" timestamp="1460997884590">
+      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/project/plugins.sbt" timestamp="1460999146619">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="57" />
         <mark key="." line="2" column="57" />
@@ -247,11 +247,11 @@
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/project/plugins.sbt" timestamp="1460727556925">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/com/barclays/qrm/step_definitions/QRM.scala" timestamp="1460997449404">
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="12" column="34" />
-        <mark key="^" line="12" column="34" />
+      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/com/barclays/qrm/step_definitions/QRM.scala" timestamp="1460999259337">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="35" />
+        <mark key="^" line="11" column="35" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/com/barclays/QRM/Runner.scala" timestamp="1460995038163">
         <mark key="[" line="7" column="39" />
@@ -270,6 +270,12 @@
         <mark key="[" line="11" column="1" />
         <mark key="]" line="11" column="1" />
         <mark key="." line="11" column="1" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/resources/qrm.feature" timestamp="1460999244937">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="34" />
       </file>
       <file name="/fragment.java" timestamp="1460991529954">
         <mark key="[" line="0" column="0" />
@@ -290,44 +296,42 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text># TODO
-
-Steps for Nexus</text>
+        <text>:</text>
       </register>
       <register name="&quot;" type="4">
+        <text>:</text>
+      </register>
+      <register name="2" type="4">
         <text># TODO
 
 Steps for Nexus</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICB2YWwgYmVmb3JlQWxsID0gU2V0dGluZ0tleVsoKT0+VW5pdF0oImN1Y3VtYmVyLWIK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">IC8qKiBBIGJlZm9yZUFsbCBob29rIGZvciBDdWN1bWJlciB0ZXN0cy4gICAgICAgICAgICAgICAgICAgICAgKi8K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IFRoZSBuZXh0IHN0ZXAgaXMgdG8gdXBkYXRlIHlvdXI=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">SW4gb3JkZXIgdG8gc3RhcnQgdXNpbmcgdGhpcyBwbHVnaW4gaW4gYSB0YXJnZXQgcHJvamVjdCwgdGhlIGZvbGxvd2luZyBzdGVwcyBzaAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">VGhpcyB3aWxsIHRoZW4gcHVibGlzaCB0aGUgcGx1Z2luIHRvIHlvdXIgbG9jYWwgaXZ5MiBjYWNoZS4gVGhlbiBpbiBhIHNlcGFyYXRlIHByb2plY3Qgd2hpY2ggeW91IHdhbnQgdG8gcnVuIEN1Y3VtYmVyIHRlc3RzIG9uLCBpbiB0aGUgYnVpbGQuc2J0IGZpbGUgZW5zdXJlIHRvIHB1dCB0aGUgZm9sbG93aW5nIGluCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZGRUaGUgYWJvdmUgY29tbWFuZCB3aWxsIGNvbXBpbGUgYW5kIHB1Ymxpc2ggdGhlIGFydGlmYWN0IHRvIHlvdXIgbG9jYWwgaXZ5MiBjYWNoZS4gCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">VGhlIGJlbG93IHN0ZXBzIGFyZSBmb3Igd2hlbiB5b3UgcnVubmluZyBvbiB5b3VyIGxvY2FsIG1hY2hpbmUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFRoZSBuZXh0IHN0ZXAgaXMgdG8gdXBkYXRlIHlvdXI=</text>
+        <text>:</text>
       </register>
     </registers>
     <search>
