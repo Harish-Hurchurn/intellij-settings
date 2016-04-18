@@ -111,8 +111,15 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="C:/work/cucumber-framework/project/Build.scala" timestamp="1460974269329">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/work/cucumber-framework/project/Build.scala" timestamp="1460976132839">
+        <mark key="[" line="22" column="44" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="C:/work/cucumber-framework/project/plugins.sbt" timestamp="1460976209107">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/NiFi.feature" timestamp="1460634995783">
         <mark key="[" line="0" column="0" />
@@ -158,41 +165,41 @@
       <jump line="216" column="0" filename="C:/work/src/cucumber/cucumber-plugin/.gitignore" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text />
+      <register name="1" type="2">
+        <text encoding="base64">ZAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gcHJvdmlkZXMgYXNzZW1ibHkgdGFzawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20uZWVkM3NpOW4iICUgInNidC1hc3NlbWJseSIgJSAiMC4xMy4wIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJvcmcuc2NhbGF0ZXN0IiAlICJzY2FsYXRlc3RfMi4xMCIgJSAiMi4yLjQiICUgInRlc3QiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJjb20uZGF0YWJyaWNrcyIgJSAic3BhcmstY3N2XzIuMTAiICUgIjEuNC4wIiAlICJ0ZXN0IiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgICAgICAgIG1hcCB7IGNwID0+IGNwLnRvTGlzdC5tYXAoXy5kYXRhKX0pLnZhbHVlCg==</text>
+        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnNwYXJrIiAlICJzcGFyay1oaXZlXzIuMTAiICUgc3BhcmtWZXJzaW9uICUgInByb3ZpZGVkIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy92YWwgcDIgPSAoKGZ1bGxDbGFzc3BhdGggaW4gSW50ZWdyYXRpb25UZXN0KQo=</text>
+        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnNwYXJrIiAlICJzcGFyay1zcWxfMi4xMCIgJSBzcGFya1ZlcnNpb24gJSAicHJvdmlkZWQiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLyogVE9ETyAtIEFkZCBzdXBwb3J0IGZvciBpdDp0ZXN0ICovCg==</text>
+        <text encoding="base64">ICAgICJvcmcuYXBhY2hlLnNwYXJrIiAlICJzcGFyay1jb3JlXzIuMTAiICUgc3BhcmtWZXJzaW9uICUgInByb3ZpZGVkIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>,</text>
       </register>
     </registers>
     <search>
