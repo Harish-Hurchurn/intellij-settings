@@ -72,11 +72,11 @@
         <mark key="^" line="32" column="25" />
         <mark key="." line="32" column="25" />
       </file>
-      <file name="C:/work/cucumber-plugin/build.sbt" timestamp="1460978265100">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="C:/work/cucumber-plugin/build.sbt" timestamp="1460982378290">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
       </file>
       <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/barclays/treasury/sbt/JvmParameters.scala" timestamp="1460733685736">
         <mark key="[" line="0" column="0" />
@@ -107,8 +107,10 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="0" />
       </file>
-      <file name="C:/work/cucumber-plugin-test/build.sbt" timestamp="1460980797467">
-        <mark key="[" line="4" column="23" />
+      <file name="C:/work/cucumber-plugin-test/build.sbt" timestamp="1460982736637">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1460978744483">
         <mark key="[" line="0" column="0" />
@@ -208,41 +210,41 @@
       <jump line="216" column="0" filename="C:/work/src/cucumber/cucumber-plugin/.gitignore" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZW5hYmxlUGx1Z2lucyhDdWN1bWJlclBsdWdpbikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZW5hYmxlUGx1Z2lucyhDdWN1bWJlclBsdWdpbikK</text>
       </register>
-      <register name="2" type="4">
-        <text>s</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZGRlbmFibGVQbHVnaW5zKEN1Y3VtYmVyUGx1Z2luKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>n</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>o</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>i</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>t</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>i</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>n</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZGRDdWN1bWJlclBsdWdpbi5nbHVlIDo9ICJjb20vYmFyY2xheXMvdGVzdCIK</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>enablePlugins(CucumberPlugin)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>enablePlugins(CucumberPlugin)</text>
       </register>
     </registers>
     <search>
