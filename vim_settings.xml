@@ -3,13 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1460972498377">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/barclays/treasury/sbt/CucumberParameters.scala" timestamp="1460733669912">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/work/cucumber-framework/build.sbt" timestamp="1460973667171">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="61" />
+        <mark key="^" line="6" column="61" />
+        <mark key="." line="6" column="61" />
       </file>
       <file name="C:/work/src/cucumber-plugin-example/src/test/scala/com/waioeka/sbt/MultiplicationSteps.scala" timestamp="1460729796803">
         <mark key="[" line="0" column="0" />
@@ -20,6 +23,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/work/cucumber-framework/project/build.properties" timestamp="1460974251714">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="C:/work/src/cucumber-plugin-example/project/plugins.sbt" timestamp="1460729704703">
         <mark key="[" line="0" column="21" />
@@ -40,22 +49,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/Test.feature" timestamp="1460630925682">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-        <mark key="^" line="5" column="28" />
-      </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/.gitignore" timestamp="1460644199484">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="261" column="22" />
         <mark key="^" line="261" column="22" />
         <mark key="." line="261" column="22" />
-      </file>
-      <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/waioeka/sbt/Cucumber.scala" timestamp="1460733560915">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/work/src/cucumber/cucumber-plugin/build.sbt" timestamp="1460734670468">
         <mark key="[" line="14" column="1" />
@@ -63,35 +61,66 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="14" column="1" />
       </file>
-      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/Nifi.scala" timestamp="1460635374130">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="C:/work/mercury-gateways/spark/protocol/src/main/scala/com/barclays/mercury/gateways/SparkDriverProtocol.scala" timestamp="1459773914251">
         <mark key="[" line="33" column="1" />
         <mark key="]" line="32" column="25" />
         <mark key="^" line="32" column="25" />
         <mark key="." line="32" column="25" />
       </file>
-      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/NiFi.feature" timestamp="1460634995783">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/barclays/treasury/sbt/JvmParameters.scala" timestamp="1460733685736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/project/plugins.sbt" timestamp="1460727556925">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/fiscus/cucumber/sbt/Jvm.scala" timestamp="1460974042542">
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="C:/work/src/cucumber-plugin-example/project/build.properties" timestamp="1460729686846">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1460972498377">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/cucumber/Cucumber.scala" timestamp="1460973879735">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/fiscus/cucumber/sbt/CucumberParameters.scala" timestamp="1460973946132">
+        <mark key="[" line="13" column="29" />
+      </file>
+      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/Test.feature" timestamp="1460630925682">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+      </file>
+      <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/waioeka/sbt/Cucumber.scala" timestamp="1460733560915">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/Nifi.scala" timestamp="1460635374130">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="C:/work/cucumber-framework/project/Build.scala" timestamp="1460974269329">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/NiFi.feature" timestamp="1460634995783">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/project/plugins.sbt" timestamp="1460727556925">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/build.sbt" timestamp="1460727405495">
         <mark key="[" line="12" column="56" />
@@ -115,6 +144,12 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
+      <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/cucumber/CucumberPlugin.scala" timestamp="1460973860713">
+        <mark key="[" line="82" column="18" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="92" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="5" column="3" filename="C:/work/src/cucumber-plugin-example/build.sbt" />
@@ -124,40 +159,40 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>master</text>
+        <text />
       </register>
       <register name="&quot;" type="4">
-        <text>master</text>
+        <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IGh0dHBzOi8vd3d3LmdpdGlnbm9yZS5pby9hcGkvbGludXgsd2luZG93cyxlY2xpcHNlLGludGVsbGlqLHNidCxzY2FsYSxqYXZhLGMrKwoKIyMjIExpbnV4ICMjIwoqfgoKIyB0ZW1wb3JhcnkgZmlsZXMgd2hpY2ggY2FuIGJlIGNyZWF0ZWQgaWYgYSBwcm9jZXNzIHN0aWxsIGhhcyBhIGhhbmRsZSBvcGVuIG9mIGEgZGVsZXRlZCBmaWxlCi5mdXNlX2hpZGRlbioKCiMgS0RFIGRpcmVjdG9yeSBwcmVmZXJlbmNlcwouZGlyZWN0b3J5CgojIExpbnV4IHRyYXNoIGZvbGRlciB3aGljaCBtaWdodCBhcHBlYXIgb24gYW55IHBhcnRpdGlvbiBvciBkaXNrCi5UcmFzaC0qCgoKIyMjIFdpbmRvd3MgIyMjCiMgV2luZG93cyBpbWFnZSBmaWxlIGNhY2hlcwpUaHVtYnMuZGIKZWh0aHVtYnMuZGIKCiMgRm9sZGVyIGNvbmZpZyBmaWxlCkRlc2t0b3AuaW5pCgojIFJlY3ljbGUgQmluIHVzZWQgb24gZmlsZSBzaGFyZXMKJFJFQ1lDTEUuQklOLwoKIyBXaW5kb3dzIEluc3RhbGxlciBmaWxlcwoqLmNhYgoqLm1zaQoqLm1zbQoqLm1zcAoKIyBXaW5kb3dzIHNob3J0Y3V0cwoqLmxuawoKCiMjIyBFY2xpcHNlICMjIwoKLm1ldGFkYXRhCmJpbi8KdG1wLwoqLnRtcAoqLmJhawoqLnN3cAoqfi5uaWIKbG9jYWwucHJvcGVydGllcwouc2V0dGluZ3MvCi5sb2FkcGF0aAoucmVjb21tZW5kZXJzCgojIEVjbGlwc2UgQ29yZQoucHJvamVjdAoKIyBFeHRlcm5hbCB0b29sIGJ1aWxkZXJzCi5leHRlcm5hbFRvb2xCdWlsZGVycy8KCiMgTG9jYWxseSBzdG9yZWQgIkVjbGlwc2UgbGF1bmNoIGNvbmZpZ3VyYXRpb25zIgoqLmxhdW5jaAoKIyBQeURldiBzcGVjaWZpYyAoUHl0aG9uIElERSBmb3IgRWNsaXBzZSkKKi5weWRldnByb2plY3QKCiMgQ0RULXNwZWNpZmljIChDL0MrKyBEZXZlbG9wbWVudCBUb29saW5nKQouY3Byb2plY3QKCiMgSkRULXNwZWNpZmljIChFY2xpcHNlIEphdmEgRGV2ZWxvcG1lbnQgVG9vbHMpCi5jbGFzc3BhdGgKCiMgSmF2YSBhbm5vdGF0aW9uIHByb2Nlc3NvciAoQVBUKQouZmFjdG9yeXBhdGgKCiMgUERULXNwZWNpZmljIChQSFAgRGV2ZWxvcG1lbnQgVG9vbHMpCi5idWlsZHBhdGgKCiMgc2J0ZWNsaXBzZSBwbHVnaW4KLnRhcmdldAoKIyBUZXJuIHBsdWdpbgoudGVybi1wcm9qZWN0CgojIFRlWGxpcHNlIHBsdWdpbgoudGV4bGlwc2UKCiMgU1RTIChTcHJpbmcgVG9vbCBTdWl0ZSkKLnNwcmluZ0JlYW5zCgojIENvZGUgUmVjb21tZW5kZXJzCi5yZWNvbW1lbmRlcnMvCgoKIyMjIEludGVsbGlqICMjIwojIENvdmVycyBKZXRCcmFpbnMgSURFczogSW50ZWxsaUosIFJ1YnlNaW5lLCBQaHBTdG9ybSwgQXBwQ29kZSwgUHlDaGFybSwgQ0xpb24sIEFuZHJvaWQgU3R1ZGlvIGFuZCBXZWJzdG9ybQojIFJlZmVyZW5jZTogaHR0cHM6Ly9pbnRlbGxpai1zdXBwb3J0LmpldGJyYWlucy5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMjA2NTQ0ODM5CgojIFVzZXItc3BlY2lmaWMgc3R1ZmY6Ci5pZGVhL3dvcmtzcGFjZS54bWwKLmlkZWEvdGFza3MueG1sCi5pZGVhL2RpY3Rpb25hcmllcwouaWRlYS92Y3MueG1sCi5pZGVhL2pzTGlicmFyeU1hcHBpbmdzLnhtbAoKIyBTZW5zaXRpdmUgb3IgaGlnaC1jaHVybiBmaWxlczoKLmlkZWEvZGF0YVNvdXJjZXMuaWRzCi5pZGVhL2RhdGFTb3VyY2VzLnhtbAouaWRlYS9kYXRhU291cmNlcy5sb2NhbC54bWwKLmlkZWEvc3FsRGF0YVNvdXJjZXMueG1sCi5pZGVhL2R5bmFtaWMueG1sCi5pZGVhL3VpRGVzaWduZXIueG1sCgojIEdyYWRsZToKLmlkZWEvZ3JhZGxlLnhtbAouaWRlYS9saWJyYXJpZXMKCiMgTW9uZ28gRXhwbG9yZXIgcGx1Z2luOgouaWRlYS9tb25nb1NldHRpbmdzLnhtbAoKIyMgRmlsZS1iYXNlZCBwcm9qZWN0IGZvcm1hdDoKKi5pd3MKCiMjIFBsdWdpbi1zcGVjaWZpYyBmaWxlczoKCiMgSW50ZWxsaUoKL291dC8KCiMgbXBlbHRvbmVuL3NidC1pZGVhIHBsdWdpbgouaWRlYV9tb2R1bGVzLwoKIyBKSVJBIHBsdWdpbgphdGxhc3NpYW4taWRlLXBsdWdpbi54bWwKCiMgQ3Jhc2hseXRpY3MgcGx1Z2luIChmb3IgQW5kcm9pZCBTdHVkaW8gYW5kIEludGVsbGlKKQpjb21fY3Jhc2hseXRpY3NfZXhwb3J0X3N0cmluZ3MueG1sCmNyYXNobHl0aWNzLnByb3BlcnRpZXMKY3Jhc2hseXRpY3MtYnVpbGQucHJvcGVydGllcwpmYWJyaWMucHJvcGVydGllcwoKIyMjIEludGVsbGlqIFBhdGNoICMjIwoqLmltbAoKCiMjIyBTQlQgIyMjCiMgU2ltcGxlIEJ1aWxkIFRvb2wKIyBodHRwOi8vd3d3LnNjYWxhLXNidC5vcmcvcmVsZWFzZS9kb2NzL0dldHRpbmctU3RhcnRlZC9EaXJlY3Rvcmllcy5odG1sI2NvbmZpZ3VyaW5nLXZlcnNpb24tY29udHJvbAoKdGFyZ2V0LwpsaWJfbWFuYWdlZC8Kc3JjX21hbmFnZWQvCnByb2plY3QvYm9vdC8KLmhpc3RvcnkKLmNhY2hlCgoKIyMjIFNjYWxhICMjIwoqLmNsYXNzCioubG9nCgojIHNidCBzcGVjaWZpYwouY2FjaGUKLmhpc3RvcnkKLmxpYi8KZGlzdC8qCnRhcmdldC8KbGliX21hbmFnZWQvCnNyY19tYW5hZ2VkLwpwcm9qZWN0L2Jvb3QvCnByb2plY3QvcGx1Z2lucy9wcm9qZWN0LwoKIyBTY2FsYS1JREUgc3BlY2lmaWMKLnNjYWxhX2RlcGVuZGVuY2llcwoud29ya3NoZWV0CgoKIyMjIEphdmEgIyMjCiouY2xhc3MKCiMgTW9iaWxlIFRvb2xzIGZvciBKYXZhIChKMk1FKQoubXRqLnRtcC8KCiMgUGFja2FnZSBGaWxlcyAjCiouamFyCioud2FyCiouZWFyCgojIHZpcnR1YWwgbWFjaGluZSBjcmFzaCBsb2dzLCBzZWUgaHR0cDovL3d3dy5qYXZhLmNvbS9lbi9kb3dubG9hZC9oZWxwL2Vycm9yX2hvdHNwb3QueG1sCmhzX2Vycl9waWQqCgoKIyMjIEMrKyAjIyMKIyBDb21waWxlZCBPYmplY3QgZmlsZXMKKi5zbG8KKi5sbwoqLgoqLm9iagoKIyBQcmVjb21waWxlZCBIZWFkZXJzCiouZ2NoCioucGNoCgojIENvbXBpbGVkIER5bmFtaWMgbGlicmFyaWVzCiouc28KKi5keWxpYgoqLmRsbAoKIyBGb3J0cmFuIG1vZHVsZSBmaWxlcwoqLm1vZAoKIyBDb21waWxlZCBTdGF0aWMgbGlicmFyaWVzCioubGFpCioubGEKKi5hCioubGliCgojIEV4ZWN1dGFibGVzCiouZXhlCioub3V0CiouYXBwCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>o</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Q01ha2VDYWNoZS50eHQKQ01ha2VGaWxlcwpDTWFrZVNjcmlwdHMKTWFrZWZpbGUKY21ha2VfaW5zdGFsbC5jbWFrZQppbnN0YWxsX21hbmlmZXN0LnR4dAojIyMgRXhhbXBsZSB1c2VyIHRlbXBsYXRlIHRlbXBsYXRlCiMjIyBFeGFtcGxlIHVzZXIgdGVtcGxhdGUKCiMgSW50ZWxsaUogcHJvamVjdCBmaWxlcwouaWRlYQoqLmltbApvdXQKZ2VuIyMjIEMgdGVtcGxhdGUKIyBPYmplY3QgZmlsZXMKKi5vCioua28KKi5vYmoKKi5lbGYKCiMgUHJlY29tcGlsZWQgSGVhZGVycwoqLmdjaAoqLnBjaAoKIyBMaWJyYXJpZXMKKi5saWIKKi5hCioubGEKKi5sbwoKIyBTaGFyZWQgb2JqZWN0cyAoaW5jLiBXaW5kb3dzIERMTHMpCiouZGxsCiouc28KKi5zby4qCiouZHlsaWIKCiMgRXhlY3V0YWJsZXMKKi5leGUKKi5vdXQKKi5hcHAKKi5pKjg2CioueDg2XzY0CiouaGV4CgojIERlYnVnIGZpbGVzCiouZFNZTS8KIyMjIEMrKyB0ZW1wbGF0ZQojIENvbXBpbGVkIE9iamVjdCBmaWxlcwoqLnNsbwoqLmxvCioubwoqLm9iagoKIyBQcmVjb21waWxlZCBIZWFkZXJzCiouZ2NoCioucGNoCgojIENvbXBpbGVkIER5bmFtaWMgbGlicmFyaWVzCiouc28KKi5keWxpYgoqLmRsbAoKIyBGb3J0cmFuIG1vZHVsZSBmaWxlcwoqLm1vZAoKIyBDb21waWxlZCBTdGF0aWMgbGlicmFyaWVzCioubGFpCioubGEKKi5hCioubGliCgojIEV4ZWN1dGFibGVzCiouZXhlCioub3V0CiouYXBwCiMjIyBDbG9qdXJlIHRlbXBsYXRlCnBvbS54bWwKcG9tLnhtbC5hc2MKKmphcgovbGliLwovY2xhc3Nlcy8KL3RhcmdldC8KL2NoZWNrb3V0cy8KLmxlaW4tZGVwcy1zdW0KLmxlaW4tcmVwbC1oaXN0b3J5Ci5sZWluLXBsdWdpbnMvCi5sZWluLWZhaWx1cmVzCi5ucmVwbC1wb3J0CiMjIyBTY2FsYSB0ZW1wbGF0ZQoqLmNsYXNzCioubG9nCgojIHNidCBzcGVjaWZpYwouY2FjaGUKLmhpc3RvcnkKLmxpYi8KZGlzdC8qCnRhcmdldC8KbGliX21hbmFnZWQvCnNyY19tYW5hZ2VkLwpwcm9qZWN0L2Jvb3QvCnByb2plY3QvcGx1Z2lucy9wcm9qZWN0LwoKIyBTY2FsYS1JREUgc3BlY2lmaWMKLnNjYWxhX2RlcGVuZGVuY2llcwoud29ya3NoZWV0CiMjIyBKYXZhIHRlbXBsYXRlCiouY2xhc3MKCiMgTW9iaWxlIFRvb2xzIGZvciBKYXZhIChKMk1FKQoubXRqLnRtcC8KCiMgUGFja2FnZSBGaWxlcyAjCiouamFyCioud2FyCiouZWFyCgojIHZpcnR1YWwgbWFjaGluZSBjcmFzaCBsb2dzLCBzZWUgaHR0cDovL3d3dy5qYXZhLmNvbS9lbi9kb3dubG9hZC9oZWxwL2Vycm9yX2hvdHNwb3QueG1sCmhzX2Vycl9waWQqCiMjIyBNYXZlbiB0ZW1wbGF0ZQp0YXJnZXQvCnBvbS54bWwudGFnCnBvbS54bWwucmVsZWFzZUJhY2t1cApwb20ueG1sLnZlcnNpb25zQmFja3VwCnBvbS54bWwubmV4dApyZWxlYXNlLnByb3BlcnRpZXMKZGVwZW5kZW5jeS1yZWR1Y2VkLXBvbS54bWwKYnVpbGROdW1iZXIucHJvcGVydGllcwoubXZuL3RpbWluZy5wcm9wZXJ0aWVzCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMjIENNYWtlIHRlbXBsYXRlCg==</text>
+        <text encoding="base64">ICAgICAgLy8gICAgICAgICAgIG1hcCB7IGNwID0+IGNwLnRvTGlzdC5tYXAoXy5kYXRhKX0pLnZhbHVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IENyZWF0ZWQgYnkgLmlnbm9yZSBzdXBwb3J0IHBsdWdpbiAoaHN6Lm1vYmkpCg==</text>
+        <text encoding="base64">ICAgICAgLy92YWwgcDIgPSAoKGZ1bGxDbGFzc3BhdGggaW4gSW50ZWdyYXRpb25UZXN0KQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>#</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgLyogVE9ETyAtIEFkZCBzdXBwb3J0IGZvciBpdDp0ZXN0ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>master</text>
+        <text />
       </register>
     </registers>
     <search>
