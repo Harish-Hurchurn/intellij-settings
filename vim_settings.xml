@@ -19,8 +19,11 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/com/barclays/qrm/step_definitions/QRMStepDefinitions.scala" timestamp="1461148849314">
-        <mark key="[" line="3" column="15" />
+      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/com/barclays/qrm/step_definitions/QRMStepDefinitions.scala" timestamp="1461161093269">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="15" />
       </file>
       <file name="C:/work/src/cucumber/cucumber-plugin-example/src/test/scala/com/waioeka/sbt/MultiplicationSteps.scala" timestamp="1460733462865">
         <mark key="[" line="29" column="1" />
@@ -60,10 +63,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/build.sbt" timestamp="1461148610008">
-        <mark key="[" line="14" column="53" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/build.sbt" timestamp="1461161894079">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/Test.feature" timestamp="1460630925682">
         <mark key="[" line="4" column="5" />
@@ -108,11 +111,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/project/plugins.sbt" timestamp="1460999146619">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="57" />
-        <mark key="." line="2" column="57" />
-        <mark key="^" line="2" column="57" />
+      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/project/plugins.sbt" timestamp="1461161876217">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/NifiTest.scala" timestamp="1460723503540">
         <mark key="[" line="3" column="60" />
@@ -270,13 +272,13 @@
         <mark key="]" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/resources/qrm.feature" timestamp="1460999244937">
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="5" column="34" />
+      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/resources/qrm.feature" timestamp="1461160672260">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="40" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="5" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1460991529954">
+      <file name="/fragment.java" timestamp="1461160238277">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/cucumber-plugin/README.md" timestamp="1460998101734">
@@ -294,43 +296,44 @@
       <jump line="8" column="47" filename="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/Runner.scala" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">IFdlIGNvdWxkIHBvdGVudGlhbGx5IGdldCBhcm91bmQgdGhpcyBpc3N1ZSBieSBjb21waWxpbmcgYW5kIHRoZSBTQlQgc291cmNlCi8vIG91cnNlbHZlcw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAib3JnLnNjYWxhY3RpYyIgJSUgInNjYWxhY3RpYyIgJSAiMi4yLjYiLAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IFdlIGNvdWxkIHBvdGVudGlhbGx5IGdldCBhcm91bmQgdGhpcyBpc3N1ZSBieSBjb21waWxpbmcgYW5kIHRoZSBTQlQgc291cmNlCi8vIG91cnNlbHZlcw==</text>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="4">
-        <text>v</text>
+      <register name="0" type="4">
+        <text>NiFi is installed on the server</text>
       </register>
-      <register name="3" type="4">
-        <text>G, and so do all sbt plugins for 0.13.x</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAib3JnLnNjYWxhY3RpYyIgJSUgInNjYWxhY3RpYyIgJSAiMi4yLjYiLAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20uYXJ0aW1hLnN1cGVyc2FmZSIgJSAic2J0cGx1Z2luIiAlICIxLjEuMC1SQzYiKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gc2J0IDAuMTN4IHVzZXMgU2NhbGEgMi4xMC54IHdoZW4gaXQgbG9hZHMgdXAK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>:</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhbCByZXN1bHQgPSAiQzpcXHdvcmtcXG5pZmktMC42LjFcXGJpblxcbmlmaS5zaCBzdGFydCIgIQo=</text>
       </register>
-      <register name="6" type="4">
-        <text># TODO
-
-Steps for Nexus</text>
+      <register name="6" type="2">
+        <text encoding="base64">IGRlZiBzdGFydE5pZmkgPSB7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB2YWwgYmVmb3JlQWxsID0gU2V0dGluZ0tleVsoKT0+VW5pdF0oImN1Y3VtYmVyLWIK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IC8qKiBBIGJlZm9yZUFsbCBob29rIGZvciBDdWN1bWJlciB0ZXN0cy4gICAgICAgICAgICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzeXMucHJvY2Vzcwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IFRoZSBuZXh0IHN0ZXAgaXMgdG8gdXBkYXRlIHlvdXI=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oIkkgaGF2ZSBiZWVuIGdpdmVuIG9uZSBudW1iZXIiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>v</text>
       </register>
     </registers>
     <search>
