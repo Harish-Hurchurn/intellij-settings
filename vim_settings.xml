@@ -19,7 +19,6 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/.ivy2/local/com.barclays/cucumber-plugin/scala_2.10/sbt_0.13/0.1.0/srcs/cucumber-plugin-sources.jar!/com/barclays/treasury/cucumber/sbt/CucumberPlugin.scala" timestamp="1460997983754" />
       <file name="C:/work/src/cucumber/cucumber-plugin-example/src/test/scala/com/waioeka/sbt/MultiplicationSteps.scala" timestamp="1460733462865">
         <mark key="[" line="29" column="1" />
         <mark key="]" line="29" column="1" />
@@ -118,7 +117,6 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="C:/work/Testing/src/test/resources/Test.feature" timestamp="1460990738957" />
       <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/cucumber/CucumberPlugin.scala" timestamp="1460973860713">
         <mark key="[" line="82" column="18" />
         <mark key="]" line="92" column="0" />
@@ -173,11 +171,11 @@
         <mark key="^" line="32" column="25" />
         <mark key="." line="32" column="25" />
       </file>
-      <file name="C:/work/cucumber-plugin/build.sbt" timestamp="1460982378290">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="6" column="16" />
+      <file name="C:/work/cucumber-plugin/build.sbt" timestamp="1461147866888">
+        <mark key="[" line="7" column="87" />
+        <mark key="]" line="7" column="86" />
+        <mark key="." line="7" column="86" />
+        <mark key="^" line="7" column="86" />
       </file>
       <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/barclays/treasury/sbt/JvmParameters.scala" timestamp="1460733685736">
         <mark key="[" line="0" column="0" />
@@ -207,7 +205,7 @@
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1460998335937">
+      <file name="/Dummy.txt" timestamp="1461148286585">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
@@ -296,42 +294,42 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>:</text>
+        <text encoding="base64">IFdlIGNvdWxkIHBvdGVudGlhbGx5IGdldCBhcm91bmQgdGhpcyBpc3N1ZSBieSBjb21waWxpbmcgYW5kIHRoZSBTQlQgc291cmNlCi8vIG91cnNlbHZlcw==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text encoding="base64">IFdlIGNvdWxkIHBvdGVudGlhbGx5IGdldCBhcm91bmQgdGhpcyBpc3N1ZSBieSBjb21waWxpbmcgYW5kIHRoZSBTQlQgc291cmNlCi8vIG91cnNlbHZlcw==</text>
       </register>
       <register name="2" type="4">
+        <text>v</text>
+      </register>
+      <register name="3" type="4">
+        <text>G, and so do all sbt plugins for 0.13.x</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gc2J0IDAuMTN4IHVzZXMgU2NhbGEgMi4xMC54IHdoZW4gaXQgbG9hZHMgdXAK</text>
+      </register>
+      <register name="5" type="4">
+        <text>:</text>
+      </register>
+      <register name="6" type="4">
         <text># TODO
 
 Steps for Nexus</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICB2YWwgYmVmb3JlQWxsID0gU2V0dGluZ0tleVsoKT0+VW5pdF0oImN1Y3VtYmVyLWIK</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">IC8qKiBBIGJlZm9yZUFsbCBob29rIGZvciBDdWN1bWJlciB0ZXN0cy4gICAgICAgICAgICAgICAgICAgICAgKi8K</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IFRoZSBuZXh0IHN0ZXAgaXMgdG8gdXBkYXRlIHlvdXI=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">SW4gb3JkZXIgdG8gc3RhcnQgdXNpbmcgdGhpcyBwbHVnaW4gaW4gYSB0YXJnZXQgcHJvamVjdCwgdGhlIGZvbGxvd2luZyBzdGVwcyBzaAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">VGhpcyB3aWxsIHRoZW4gcHVibGlzaCB0aGUgcGx1Z2luIHRvIHlvdXIgbG9jYWwgaXZ5MiBjYWNoZS4gVGhlbiBpbiBhIHNlcGFyYXRlIHByb2plY3Qgd2hpY2ggeW91IHdhbnQgdG8gcnVuIEN1Y3VtYmVyIHRlc3RzIG9uLCBpbiB0aGUgYnVpbGQuc2J0IGZpbGUgZW5zdXJlIHRvIHB1dCB0aGUgZm9sbG93aW5nIGluCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGRUaGUgYWJvdmUgY29tbWFuZCB3aWxsIGNvbXBpbGUgYW5kIHB1Ymxpc2ggdGhlIGFydGlmYWN0IHRvIHlvdXIgbG9jYWwgaXZ5MiBjYWNoZS4gCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>v</text>
       </register>
     </registers>
     <search>
