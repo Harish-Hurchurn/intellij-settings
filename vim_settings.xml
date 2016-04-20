@@ -19,6 +19,9 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
+      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/com/barclays/qrm/step_definitions/QRMStepDefinitions.scala" timestamp="1461148849314">
+        <mark key="[" line="3" column="15" />
+      </file>
       <file name="C:/work/src/cucumber/cucumber-plugin-example/src/test/scala/com/waioeka/sbt/MultiplicationSteps.scala" timestamp="1460733462865">
         <mark key="[" line="29" column="1" />
         <mark key="]" line="29" column="1" />
@@ -57,8 +60,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/build.sbt" timestamp="1460999195446">
-        <mark key="[" line="17" column="0" />
+      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/build.sbt" timestamp="1461148610008">
+        <mark key="[" line="14" column="53" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
@@ -205,10 +208,8 @@
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461148286585">
+      <file name="/Dummy.txt" timestamp="1461148406943">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="46" />
-        <mark key="." line="0" column="46" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/resources/QRM.feature" timestamp="1460994835044">
         <mark key="[" line="0" column="0" />
@@ -245,7 +246,7 @@
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/project/plugins.sbt" timestamp="1460727556925">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/com/barclays/qrm/step_definitions/QRM.scala" timestamp="1460999259337">
+      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/com/barclays/qrm/step_definitions/QRM.scala" timestamp="1461148606761">
         <mark key="[" line="11" column="34" />
         <mark key="]" line="11" column="35" />
         <mark key="." line="11" column="35" />
