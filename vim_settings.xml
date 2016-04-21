@@ -19,6 +19,9 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.9-sources.jar!/sbt/Keys.scala" timestamp="1461245114114">
+        <mark key="'" line="294" column="6" />
+      </file>
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/com/barclays/qrm/step_definitions/QRMStepDefinitions.scala" timestamp="1461161093269">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="9" column="15" />
@@ -52,6 +55,17 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
+      </file>
+      <file name="C:/work/cucumber-plugin/project/build.properties" timestamp="1461246052538">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
+      <file name="C:/work/cucumber-plugin/project/plugins.sbt" timestamp="1461247117245">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/stepdefs/Runner.scala" timestamp="1460987995474">
         <mark key="[" line="9" column="14" />
@@ -176,11 +190,11 @@
         <mark key="^" line="32" column="25" />
         <mark key="." line="32" column="25" />
       </file>
-      <file name="C:/work/cucumber-plugin/build.sbt" timestamp="1461147866888">
-        <mark key="[" line="7" column="87" />
-        <mark key="]" line="7" column="86" />
-        <mark key="." line="7" column="86" />
-        <mark key="^" line="7" column="86" />
+      <file name="C:/work/cucumber-plugin/build.sbt" timestamp="1461244260766">
+        <mark key="[" line="40" column="2" />
+        <mark key="]" line="44" column="47" />
+        <mark key="^" line="40" column="2" />
+        <mark key="." line="40" column="2" />
       </file>
       <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/barclays/treasury/sbt/JvmParameters.scala" timestamp="1460733685736">
         <mark key="[" line="0" column="0" />
@@ -204,15 +218,27 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="0" />
       </file>
+      <file name="C:/work/cucumber-plugin/project/Build.scala" timestamp="1461247988987">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="C:/work/cucumber-plugin-test/build.sbt" timestamp="1460983082026">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461148406943">
+      <file name="/Dummy.txt" timestamp="1461243127937">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/work/cucumber-plugin/src/sbt-test/cucumber-plugin/simple/project/plugins.sbt" timestamp="1461247112862">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/scala_2.10/sbt_0.13/org.brianmckenna/sbt-wartremover/srcs/sbt-wartremover-0.14-sources.jar!/wartremover/WartRemover.scala" timestamp="1461247928230" />
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/resources/QRM.feature" timestamp="1460994835044">
         <mark key="[" line="0" column="0" />
       </file>
@@ -281,12 +307,6 @@
       <file name="/fragment.java" timestamp="1461160238277">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work/cucumber-plugin/README.md" timestamp="1460998101734">
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="5" column="3" filename="C:/work/src/cucumber-plugin-example/build.sbt" />
@@ -294,60 +314,76 @@
       <jump line="191" column="1" filename="C:/work/src/cucumber/cucumber-plugin/.gitignore" />
       <jump line="216" column="0" filename="C:/work/src/cucumber/cucumber-plugin/.gitignore" />
       <jump line="8" column="47" filename="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/Runner.scala" />
+      <jump line="294" column="6" filename="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.9-sources.jar!/sbt/Keys.scala" />
+      <jump line="30" column="4" filename="C:/work/cucumber-plugin/project/Build.scala" />
+      <jump line="31" column="0" filename="C:/work/cucumber-plugin/project/Build.scala" />
+      <jump line="32" column="4" filename="C:/work/cucumber-plugin/project/Build.scala" />
+      <jump line="44" column="0" filename="C:/work/cucumber-plugin/project/Build.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhY3RpYyIgJSUgInNjYWxhY3RpYyIgJSAiMi4yLjYiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="4">
-        <text>NiFi is installed on the server</text>
+      <register name="/" type="4">
+        <text>assembly</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">bG9nTGV2ZWwgOj0gTGV2ZWwuSW5mbwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhY3RpYyIgJSUgInNjYWxhY3RpYyIgJSAiMi4yLjYiLAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20uYXJ0aW1hLnN1cGVyc2FmZSIgJSAic2J0cGx1Z2luIiAlICIxLjEuMC1SQzYiKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB3YXJ0cmVtb3Zlcldhcm5pbmdzICsrPSBXYXJ0cy5hbGwK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXN1bHQgPSAiQzpcXHdvcmtcXG5pZmktMC42LjFcXGJpblxcbmlmaS5zaCBzdGFydCIgIQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIFJlc29sdmVyLm1hdmVuTG9jYWwsZGQK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IGRlZiBzdGFydE5pZmkgPSB7Cg==</text>
-      </register>
-      <register name="7" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzeXMucHJvY2Vzcwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">d3dhcnRyZW1vdmVyV2FybmluZ3Mg</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkkgaGF2ZSBiZWVuIGdpdmVuIG9uZSBudW1iZXIiKQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">d2FydHJlbW92ZXJXYXJuaW5ncyArKz0gV2FydHMuYWxsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB3YXJ0cmVtb3Zlcldhcm5pbmdzICsrPSBXYXJ0cy5hbGwK</text>
+      </register>
+      <register name="9" type="4">
+        <text>v</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>assembly</last-search>
+      <last-offset />
+      <last-pattern>assembly</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>assemblyOption</entry>
+        <entry>assemblyOptio</entry>
+        <entry>assembly</entry>
+      </history-search>
       <history-cmd>
         <entry>vs</entry>
         <entry>q</entry>
         <entry>m 6</entry>
         <entry>we</entry>
         <entry>e</entry>
+        <entry>m12</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
