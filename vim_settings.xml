@@ -56,8 +56,8 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="C:/work/cucumber-plugin/project/build.properties" timestamp="1461246052538">
-        <mark key="[" line="0" column="19" />
+      <file name="C:/work/cucumber-plugin/project/build.properties" timestamp="1461249120442">
+        <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
@@ -218,11 +218,10 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="0" />
       </file>
-      <file name="C:/work/cucumber-plugin/project/Build.scala" timestamp="1461247988987">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="C:/work/cucumber-plugin/project/Build.scala" timestamp="1461249004850">
+        <mark key="]" line="42" column="11" />
+        <mark key="." line="42" column="11" />
+        <mark key="^" line="42" column="11" />
       </file>
       <file name="C:/work/cucumber-plugin-test/build.sbt" timestamp="1460983082026">
         <mark key="[" line="8" column="27" />
@@ -230,8 +229,10 @@
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461243127937">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1461249305540">
+        <mark key="[" line="0" column="86" />
+        <mark key="]" line="0" column="87" />
+        <mark key="." line="0" column="87" />
       </file>
       <file name="C:/work/cucumber-plugin/src/sbt-test/cucumber-plugin/simple/project/plugins.sbt" timestamp="1461247112862">
         <mark key="[" line="0" column="0" />
@@ -321,11 +322,11 @@
       <jump line="44" column="0" filename="C:/work/cucumber-plugin/project/Build.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXNzZW1ibHlPcHRpb24gaW4gYXNzZW1ibHkgOj0gKGFzc2VtYmx5T3B0aW9uIGluIGFzc2VtYmx5KS52YWx1ZS5jb3B5KGluY2x1ZGVTY2FsYSA9IGZhbHNlKSwKCiAgICBhc3NlbWJseU1lcmdlU3RyYXRlZ3kgaW4gYXNzZW1ibHkgOj0gewogICAgICBjYXNlIFBhdGhMaXN0KCJNRVRBLUlORiIsIHhzQF8qKSA9PgogICAgICAgIHhzIG1hcCB7CiAgICAgICAgICBfLnRvTG93ZXJDYXNlKCkKICAgICAgICB9IG1hdGNoIHsKICAgICAgICAgIGNhc2UgKCJtYW5pZmVzdC5tZiIgOjogTmlsKSB8ICgiaW5kZXgubGlzdCIgOjogTmlsKSB8ICgiZGVwZW5kZW5jaWVzIiA6OiBOaWwpID0+IE1lcmdlU3RyYXRlZ3kuZGlzY2FyZAogICAgICAgICAgY2FzZSBfID0+IE1lcmdlU3RyYXRlZ3kuZGlzY2FyZAogICAgICAgIH0KICAgICAgY2FzZSBuIGlmIG4uc3RhcnRzV2l0aCgicmVmZXJlbmNlLmNvbmYiKSA9PiBNZXJnZVN0cmF0ZWd5LmNvbmNhdAogICAgICBjYXNlIF8gPT4gTWVyZ2VTdHJhdGVneS5maXJzdAogICAgfQogICkpCn0=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>assembly</text>
@@ -333,32 +334,32 @@
       <register name="0" type="2">
         <text encoding="base64">bG9nTGV2ZWwgOj0gTGV2ZWwuSW5mbwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">YXNzZW1ibHlPcHRpb24gaW4gYXNzZW1ibHkgOj0gKGFzc2VtYmx5T3B0aW9uIGluIGFzc2VtYmx5KS52YWx1ZS5jb3B5KGluY2x1ZGVTY2FsYSA9IGZhbHNlKSwKCiAgICBhc3NlbWJseU1lcmdlU3RyYXRlZ3kgaW4gYXNzZW1ibHkgOj0gewogICAgICBjYXNlIFBhdGhMaXN0KCJNRVRBLUlORiIsIHhzQF8qKSA9PgogICAgICAgIHhzIG1hcCB7CiAgICAgICAgICBfLnRvTG93ZXJDYXNlKCkKICAgICAgICB9IG1hdGNoIHsKICAgICAgICAgIGNhc2UgKCJtYW5pZmVzdC5tZiIgOjogTmlsKSB8ICgiaW5kZXgubGlzdCIgOjogTmlsKSB8ICgiZGVwZW5kZW5jaWVzIiA6OiBOaWwpID0+IE1lcmdlU3RyYXRlZ3kuZGlzY2FyZAogICAgICAgICAgY2FzZSBfID0+IE1lcmdlU3RyYXRlZ3kuZGlzY2FyZAogICAgICAgIH0KICAgICAgY2FzZSBuIGlmIG4uc3RhcnRzV2l0aCgicmVmZXJlbmNlLmNvbmYiKSA9PiBNZXJnZVN0cmF0ZWd5LmNvbmNhdAogICAgICBjYXNlIF8gPT4gTWVyZ2VTdHJhdGVneS5maXJzdAogICAgfQogICkpCn0=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB3YXJ0cmVtb3Zlcldhcm5pbmdzICsrPSBXYXJ0cy5hbGwK</text>
+      <register name="2" type="4">
+        <text>9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJlc29sdmVyLm1hdmVuTG9jYWwsZGQK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">d3dhcnRyZW1vdmVyV2FybmluZ3Mg</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">d2FydHJlbW92ZXJXYXJuaW5ncyArKz0gV2FydHMuYWxsCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICB3YXJ0cmVtb3Zlcldhcm5pbmdzICsrPSBXYXJ0cy5hbGwK</text>
       </register>
-      <register name="9" type="4">
-        <text>v</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFJlc29sdmVyLm1hdmVuTG9jYWwsZGQK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">d3dhcnRyZW1vdmVyV2FybmluZ3Mg</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">d2FydHJlbW92ZXJXYXJuaW5ncyArKz0gV2FydHMuYWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
