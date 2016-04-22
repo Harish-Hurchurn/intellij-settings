@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="C:/work/src/cucumber-plugin-example/src/test/scala/com/waioeka/sbt/MultiplicationSteps.scala" timestamp="1460729796803">
@@ -218,7 +218,8 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="0" />
       </file>
-      <file name="C:/work/cucumber-plugin/project/Build.scala" timestamp="1461249004850">
+      <file name="C:/work/cucumber-plugin/project/Build.scala" timestamp="1461339901996">
+        <mark key="[" line="11" column="4" />
         <mark key="]" line="42" column="11" />
         <mark key="." line="42" column="11" />
         <mark key="^" line="42" column="11" />
@@ -239,7 +240,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/scala_2.10/sbt_0.13/org.brianmckenna/sbt-wartremover/srcs/sbt-wartremover-0.14-sources.jar!/wartremover/WartRemover.scala" timestamp="1461247928230" />
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/resources/QRM.feature" timestamp="1460994835044">
         <mark key="[" line="0" column="0" />
       </file>
