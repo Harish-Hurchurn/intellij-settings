@@ -175,7 +175,6 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/work/cucumber-plugin/project/sbt-dependency-graph.sbt" timestamp="1461586806456" />
       <file name="C:/work/Testing/src/test/scala/com/Runner.scala" timestamp="1460991387495">
         <mark key="[" line="8" column="2" />
         <mark key="]" line="8" column="21" />
@@ -234,7 +233,7 @@
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461578785462">
+      <file name="/Dummy.txt" timestamp="1461589085810">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="87" />
         <mark key="." line="0" column="87" />
@@ -249,12 +248,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/cucumber-plugin/.gitignore" timestamp="1461572275396">
-        <mark key="[" line="74" column="6" />
-        <mark key="]" line="74" column="13" />
-        <mark key="^" line="74" column="13" />
-        <mark key="." line="74" column="13" />
-      </file>
+      <file name="C:/work/cucumber-plugin/.gitignore" timestamp="1461589125806" />
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/resources/QRM.feature" timestamp="1460994835044">
         <mark key="[" line="0" column="0" />
       </file>
