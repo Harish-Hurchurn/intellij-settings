@@ -372,7 +372,7 @@
         <text>e</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa!</text>
       </register>
     </registers>
     <search>
@@ -389,7 +389,6 @@
         <entry>assembly</entry>
       </history-search>
       <history-cmd>
-        <entry>vs</entry>
         <entry>q</entry>
         <entry>we</entry>
         <entry>e</entry>
@@ -399,6 +398,9 @@
         <entry encoding="base64">JzwsJz5tIDE5</entry>
         <entry encoding="base64">JzwsJz5tIDE4</entry>
         <entry>w</entry>
+        <entry>vs</entry>
+        <entry>q!</entry>
+        <entry>qa!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -407,7 +409,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
