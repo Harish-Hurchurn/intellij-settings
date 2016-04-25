@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="C:/work/src/cucumber-plugin-example/src/test/scala/com/waioeka/sbt/MultiplicationSteps.scala" timestamp="1460729796803">
@@ -248,7 +248,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/cucumber-plugin/.gitignore" timestamp="1461589125806" />
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/resources/QRM.feature" timestamp="1460994835044">
         <mark key="[" line="0" column="0" />
       </file>
