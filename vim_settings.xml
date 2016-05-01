@@ -57,7 +57,6 @@
         <mark key="^" line="12" column="50" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chaptersix/Chaptersix.scala" timestamp="1461489671501" />
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/src/main/scala/co/ioctl/drawing/Canvas.scala" timestamp="1448193822769">
         <mark key="[" line="73" column="19" />
         <mark key="]" line="73" column="3" />
@@ -431,7 +430,7 @@ class Chaptersix {
 }</text>
       </register>
       <register name=":" type="4">
-        <text>e</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
@@ -451,26 +450,26 @@ class Chaptersix {
         <entry>headOption</entry>
       </history-search>
       <history-cmd>
-        <entry>e Option.scala</entry>
-        <entry>e Either.scala</entry>
-        <entry>m 4</entry>
-        <entry encoding="base64">JzwsJz5tNA==</entry>
-        <entry>m2</entry>
-        <entry encoding="base64">JzwsJz5tMTE=</entry>
         <entry>m 11</entry>
         <entry>m 13</entry>
         <entry>m 12</entry>
         <entry>m12</entry>
         <entry encoding="base64">ZSA=</entry>
         <entry>m 130</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5tIDEwMg==</entry>
         <entry encoding="base64">JzwsJz5tIDEyNg==</entry>
-        <entry>sp</entry>
-        <entry>q</entry>
-        <entry>vs</entry>
         <entry>e chaptersix/</entry>
         <entry>e</entry>
+        <entry>hs</entry>
+        <entry>ws</entry>
+        <entry>vs</entry>
+        <entry>ts</entry>
+        <entry>help vs</entry>
+        <entry>split</entry>
+        <entry>w</entry>
+        <entry>q</entry>
+        <entry>sp</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
