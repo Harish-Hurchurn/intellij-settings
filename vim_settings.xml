@@ -117,10 +117,11 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/git/github/dev/fpinscala/src/main/scala/co/ioctl/chaptersix/Chaptersix.scala" timestamp="1462694155676">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+      <file name="$USER_HOME$/git/github/dev/fpinscala/src/main/scala/co/ioctl/chaptersix/Chaptersix.scala" timestamp="1462701374353">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="52" column="1" />
       </file>
       <file name="$USER_HOME$/work/barclays/merlin/avropersister/build.sbt" timestamp="1448806540856">
         <mark key="[" line="6" column="0" />
@@ -389,10 +390,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICgoYS5fMSwgYiksIHJuZy5uZXh0SW50LnRvRG91YmxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>headOption</text>
@@ -401,41 +402,41 @@
         <text encoding="base64">YmVoYXZpb3Igb2YgInRha2VXaGlsZSIKICBpdCBzaG91bGQgInJldHVybiBTdHJlYW0oMSwyLDMpIHdoZW4gY2FsbGVkIHdpdGggdGFrZVdoaWxlKF8gPCAzKSIgaW4gewogICAgdmFsIHggPSBTdHJlYW0oMSwgMiwgMywgNCkKICAgIHZhbCByZXMgPSB4LnRha2VXaGlsZShfIDwgNCkKICAgIHJlcy50b0xpc3Qgc2hvdWxkQmUgTGlzdCgxLCAyLCAzKQogIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICgoYS5fMSwgYiksIHJuZy5uZXh0SW50LnRvRG91YmxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>w</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAvIGNvcnJlY3RuZXNzLgo=</text>
       </register>
       <register name="3" type="4">
-        <text>w</text>
+        <text>// This implementation of map2 passes the initial RNG to the first argument
+  // and the resulting RNG to the second argument. It's not necessarily wrong
+  // to do this the other way around, since the results are random anyway.
+  // We could even pass the initial RNG to both `f` and `g`, but that might
+  // have unexpected results. E.g. if both arguments are `RNG.int` then we would
+  // always get two of the same `Int` in the result. When implementing functions
+  // like this, it's important to consider how we would test them for
+  /</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCAoYSwgYikgPSBybmcubmV4dEludAo=</text>
+      <register name="4" type="4">
+        <text>2</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGRkZAo=</text>
+      <register name="5" type="4">
+        <text>1</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">YWwgKGMsIGQpID0gYi5uZXh0SW50Cg==</text>
+      <register name="6" type="4">
+        <text>1</text>
       </register>
       <register name="7" type="4">
-        <text>ddddval x = SimpleRNG(42)
-val (a, b) = x.nextInt
-v</text>
+        <text>1</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">eS5fMi5uZXh0SW50Cg==</text>
+      <register name="8" type="4">
+        <text>1</text>
       </register>
       <register name="9" type="4">
-        <text>/**
-  * Created by harish on 17/04/2016.
-  */
-class Chaptersix {
-
-}</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
-        <text>help vs</text>
+        <text>m 7</text>
       </register>
     </registers>
     <search>
@@ -455,8 +456,6 @@ class Chaptersix {
         <entry>headOption</entry>
       </history-search>
       <history-cmd>
-        <entry>m 11</entry>
-        <entry>m 13</entry>
         <entry>m 12</entry>
         <entry>m12</entry>
         <entry encoding="base64">ZSA=</entry>
@@ -475,6 +474,8 @@ class Chaptersix {
         <entry>q</entry>
         <entry>hs</entry>
         <entry>help vs</entry>
+        <entry>m 0</entry>
+        <entry>m 7</entry>
       </history-cmd>
       <history-expr />
       <history-input />
