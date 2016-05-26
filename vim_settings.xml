@@ -261,11 +261,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/info.cukes/cucumber-scala_2.11/srcs/cucumber-scala_2.11-1.2.4-sources.jar!/cucumber/api/scala/I18n.scala" timestamp="1464272963308" />
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1464276438987">
-        <mark key="[" line="18" column="3" />
-        <mark key="]" line="30" column="3" />
-        <mark key="^" line="30" column="3" />
-        <mark key="." line="30" column="3" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1464277411516">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="4" />
+        <mark key="^" line="20" column="40" />
+        <mark key="." line="19" column="4" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/resources/QRM.feature" timestamp="1460994835044">
         <mark key="[" line="0" column="0" />
@@ -362,10 +362,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v</text>
+        <text encoding="base64">dmFsIGJ1bGxldGluc0xpc3Qg</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text encoding="base64">dmFsIGJ1bGxldGluc0xpc3Qg</text>
       </register>
       <register name="/" type="4">
         <text>assembly</text>
@@ -376,31 +376,31 @@
     assert(status == 200)</text>
       </register>
       <register name="1" type="4">
-        <text>v</text>
+        <text encoding="base64">dmFsIGJ1bGxldGluc0xpc3Qg</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
+        <text encoding="base64">ZGVmIGNoZWNrQnVsbGV0aW5Cb2FyZChob3N0bmFtZTogU3RyaW5nKTogQW55ID0gewogICAgaW1wbGljaXQgdmFsIGZvcm1hdHMgPSBEZWZhdWx0Rm9ybWF0cwoKICAgIHZhbCByZXNwb25zZSA9IEhUVFAuZ2V0KGhvc3RuYW1lICsgIi9jb250cm9sbGVyL2J1bGxldGluLWJvYXJkIikKICAgIHYKYWwganNvbiA9IHBhcnNlKHJlc3BvbnNlLmdldFRleHRCb2R5KQogICAgZm9yIHsKICAgICAgSk9iamVjdChyZXN1bHQpIDwtIGpzb24KICAgICAgSkZpZWxkKCJidWxsZXRpbnMiLCBKU3RyaW5nKGJ1bGxldGlucykpIDwtIHJlc3VsdAogICAgfSB5aWVsZCBidWxsZXRpbnMKICB9</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>e</text>
       </register>
-      <register name="4" type="4">
-        <text>n</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBmb3JtYXRzID0gRGVmYXVsdEZvcm1hdHMK</text>
       </register>
-      <register name="5" type="4">
-        <text>U</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YWx1ZQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>:</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="4">
         <text>}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVmIHRoZVdvcmsoaG9zdG5hbWU6IFN0cmluZyk6IEFueSA9IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
