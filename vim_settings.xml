@@ -89,6 +89,18 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/README.md" timestamp="1464281037432">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/utils/Utils.scala" timestamp="1464280757328">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="18" column="14" />
+        <mark key="^" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+      </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/Test.feature" timestamp="1460630925682">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="5" column="28" />
@@ -114,6 +126,11 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/.gitignore" timestamp="1464281067975">
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/build.sbt" timestamp="1460727405495">
         <mark key="[" line="12" column="56" />
@@ -206,9 +223,6 @@
         <mark key="^" line="32" column="25" />
         <mark key="." line="32" column="25" />
       </file>
-      <file name="C:/work/cucumber-plugin/build.sbt" timestamp="1461571970458">
-        <mark key="^" line="2" column="46" />
-      </file>
       <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/barclays/treasury/sbt/JvmParameters.scala" timestamp="1460733685736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -245,7 +259,7 @@
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461589085810">
+      <file name="/Dummy.txt" timestamp="1464280960919">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="87" />
         <mark key="." line="0" column="87" />
@@ -261,11 +275,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/info.cukes/cucumber-scala_2.11/srcs/cucumber-scala_2.11-1.2.4-sources.jar!/cucumber/api/scala/I18n.scala" timestamp="1464272963308" />
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1464279102351">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1464280753754">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
         <mark key="^" line="20" column="75" />
-        <mark key="." line="16" column="0" />
+        <mark key="." line="10" column="4" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/resources/QRM.feature" timestamp="1460994835044">
         <mark key="[" line="0" column="0" />
@@ -361,11 +375,11 @@
       <jump line="0" column="0" filename="C:/work/cucumber-plugin/Build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Zm9yIHsKICAgICAgSk9iamVjdCh4KSA8LSBqc29uCiAgICAgIEpGaWVsZCgiYnVsbGV0aW5zIiwgSlN0cmluZyhidWxsZXRpbnMpKSA8LSB4CiAgICB9IHlpZWxkIGJ1bGxldGlucw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YnVpbGQuc2J0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIGJ1bGxldGluc0xpc3Qg</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>assembly</text>
@@ -375,34 +389,34 @@
     val status = response.getStatus
     assert(status == 200)</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Zm9yIHsKICAgICAgSk9iamVjdCh4KSA8LSBqc29uCiAgICAgIEpGaWVsZCgiYnVsbGV0aW5zIiwgSlN0cmluZyhidWxsZXRpbnMpKSA8LSB4CiAgICB9IHlpZWxkIGJ1bGxldGlucw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">YnVpbGQuc2J0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UkVBRE1FLm1kCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIC8vLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMKICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkKICB9CgogIEFuZCgiIiJeVGhlcmUgYXJlIG5vIGJjaGUgdWxsZXRpbnMgd2hpY2ggcmVxdWlyZSBteSBhdHRlbnRpb24kIiIiKSB7ICgpID0+</text>
+      <register name="3" type="2">
+        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text />
       </register>
       <register name="5" type="4">
-        <text>/**
-  * Created by hurchurh on 26/05/2016.
-  */</text>
+        <text encoding="base64">UVJNIA==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">aW1wbGljaXQgdmFsIGZvcm1hdHMgPSBEZWZhdWx0Rm9ybWF0cwoKICAgIHZhbCByZXNwb25zZSA9IEhUVFAuZ2V0KGhvc3RuYW1lICsgIi9jb250cm9sbGVyL2J1bGxldGluLWJvYXJkIikKICAgIGlmIChyZXNwb25zZS5nZXRTdGF0dXMgPT0gMjAwKSB7CiAgICAgIHZhbCBqc29uID0gcGFyc2UocmVzcG9uc2UuZ2V0VGV4dEJvZHkpCiAgICAgIHZhbCBidWxsZXRpbkJvYXJkSnNvbiA9IGpzb24gXCAiYnVsbGV0aW5Cb2FyZCIKICAgICAgdmFsIGJ1bGxldGlucyA9IGZvciB7CiAgICAgICAgSk9iamVjdCh4KSA8LSBqc29uCiAgICAgICAgSkZpZWxkKCJidWxsZXRpbnMiLCBKU3RyaW5nKGJ1bGxldGlucykpIDwtIHgKICAgICAgfSB5aWVsZCBidWxsZXRpbnMKCiAgICAgIGFzc2VydChidWxsZXRpbnMuc2l6ZSA9PSAwKQ==</text>
+        <text>val response = HTTP.get(hostname + &quot;controller/about&quot;)
+    val status = response.getStatus
+    assert(status == 200)</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">dmFsIGJ1bGxldGluc0xpc3Qg</text>
+        <text encoding="base64">Zm9yIHsKICAgICAgSk9iamVjdCh4KSA8LSBqc29uCiAgICAgIEpGaWVsZCgiYnVsbGV0aW5zIiwgSlN0cmluZyhidWxsZXRpbnMpKSA8LSB4CiAgICB9IHlpZWxkIGJ1bGxldGlucw==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGVmIGNoZWNrQnVsbGV0aW5Cb2FyZChob3N0bmFtZTogU3RyaW5nKTogQW55ID0gewogICAgaW1wbGljaXQgdmFsIGZvcm1hdHMgPSBEZWZhdWx0Rm9ybWF0cwoKICAgIHZhbCByZXNwb25zZSA9IEhUVFAuZ2V0KGhvc3RuYW1lICsgIi9jb250cm9sbGVyL2J1bGxldGluLWJvYXJkIikKICAgIHYKYWwganNvbiA9IHBhcnNlKHJlc3BvbnNlLmdldFRleHRCb2R5KQogICAgZm9yIHsKICAgICAgSk9iamVjdChyZXN1bHQpIDwtIGpzb24KICAgICAgSkZpZWxkKCJidWxsZXRpbnMiLCBKU3RyaW5nKGJ1bGxldGlucykpIDwtIHJlc3VsdAogICAgfSB5aWVsZCBidWxsZXRpbnMKICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text encoding="base64">ICAgIC8vLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMKICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkKICB9CgogIEFuZCgiIiJeVGhlcmUgYXJlIG5vIGJjaGUgdWxsZXRpbnMgd2hpY2ggcmVxdWlyZSBteSBhdHRlbnRpb24kIiIiKSB7ICgpID0+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
