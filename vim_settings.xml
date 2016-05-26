@@ -19,11 +19,11 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/nifi.feature" timestamp="1464271111301">
-        <mark key="[" line="0" column="64" />
-        <mark key="]" line="4" column="29" />
-        <mark key="^" line="4" column="29" />
-        <mark key="." line="4" column="29" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/nifi.feature" timestamp="1464281953716">
+        <mark key="[" line="5" column="47" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="11" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/com/barclays/qrm/step_definitions/QRMStepDefinitions.scala" timestamp="1461161093269">
         <mark key="[" line="10" column="25" />
@@ -95,7 +95,7 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/utils/Utils.scala" timestamp="1464280757328">
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/utils/Utils.scala" timestamp="1464282281946">
         <mark key="[" line="19" column="19" />
         <mark key="]" line="18" column="14" />
         <mark key="^" line="18" column="14" />
@@ -193,11 +193,6 @@
         <mark key="]" line="1" column="67" />
         <mark key="^" line="1" column="67" />
         <mark key="." line="1" column="67" />
-      </file>
-      <file name="C:/work/cucumber-plugin/project/scripted.sbt" timestamp="1461573289797">
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="C:/work/Testing/src/test/scala/com/Runner.scala" timestamp="1460991387495">
         <mark key="[" line="8" column="2" />
@@ -324,6 +319,7 @@
         <mark key="^" line="23" column="60" />
         <mark key="." line="23" column="60" />
       </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/nifi.scala" timestamp="1464281960884" />
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/project/plugins.sbt" timestamp="1460727556925">
         <mark key="[" line="0" column="0" />
       </file>
@@ -375,11 +371,11 @@
       <jump line="0" column="0" filename="C:/work/cucumber-plugin/Build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YnVpbGQuc2J0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Make sure that NiFi is up and running$</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Make sure that NiFi is up and running$</text>
       </register>
       <register name="/" type="4">
         <text>assembly</text>
@@ -389,34 +385,34 @@
     val status = response.getStatus
     assert(status == 200)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">YnVpbGQuc2J0Cg==</text>
+      <register name="1" type="4">
+        <text>Make sure that NiFi is up and running$</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UkVBRE1FLm1kCg==</text>
+        <text encoding="base64">YnVpbGQuc2J0Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">UkVBRE1FLm1kCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">LmdpdGlnbm9yZQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text />
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">UVJNIA==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>val response = HTTP.get(hostname + &quot;controller/about&quot;)
     val status = response.getStatus
     assert(status == 200)</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Zm9yIHsKICAgICAgSk9iamVjdCh4KSA8LSBqc29uCiAgICAgIEpGaWVsZCgiYnVsbGV0aW5zIiwgSlN0cmluZyhidWxsZXRpbnMpKSA8LSB4CiAgICB9IHlpZWxkIGJ1bGxldGlucw==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIC8vLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMKICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkKICB9CgogIEFuZCgiIiJeVGhlcmUgYXJlIG5vIGJjaGUgdWxsZXRpbnMgd2hpY2ggcmVxdWlyZSBteSBhdHRlbnRpb24kIiIiKSB7ICgpID0+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
