@@ -68,6 +68,7 @@
         <mark key="." line="3" column="64" />
         <mark key="^" line="3" column="64" />
       </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/stress.feature" timestamp="1464259745773" />
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/stepdefs/Runner.scala" timestamp="1460987995474">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="0" column="0" />
@@ -183,6 +184,9 @@
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/Runner.scala" timestamp="1460723163533">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Stress.scala" timestamp="1464259714020">
+        <mark key="[" line="15" column="0" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/.gitignore" timestamp="1460644199484">
         <mark key="[" line="0" column="0" />
@@ -336,11 +340,13 @@
       <jump line="0" column="0" filename="C:/work/cucumber-plugin/Build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkCg==</text>
+      <register name="&quot;" type="4">
+        <text>object NiFiStepDef {
+  def processStarted()
+}</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>assembly</text>
@@ -348,32 +354,34 @@
       <register name="0" type="2">
         <text encoding="base64">bG9nTGV2ZWwgOj0gTGV2ZWwuSW5mbwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBkCg==</text>
+      <register name="1" type="4">
+        <text>object NiFiStepDef {
+  def processStarted()
+}</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">YW1lIDo9ICJzdHJlc3MiCgp2ZXJzaW9uIDo9ICIxLjAiCgpzY2FsYVZlcnNpb24gOj0gIjIuMTEuOCIKIA==</text>
-      </register>
-      <register name="3" type="4">
-        <text>n</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="4">
-        <text>vaw0.14</text>
-      </register>
-      <register name="6" type="4">
-        <text>n</text>
-      </register>
-      <register name="7" type="4">
-        <text>o</text>
-      </register>
-      <register name="8" type="4">
         <text>i</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnJlZmxlY3QuYXBpCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IEhUVFAuZ2V0KGxvY2FsaG9zdCArICIvY29udHJvbGxlci9hYm91dCIp</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMK</text>
+      </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text encoding="base64">ICBHaXZlbigiIiJeSSBoYXZlIG9uZSBudW1iZXIkIiIiKXsgKCkgPT4KICAgIHByaW50bG4oIkkgaGF2ZSBiZWVuIGdpdmVuIG9uZSBudW1iZXIiKQogIH0KICBHaXZlbigiIiJeSSBoYXZlIGFub3RoZXIgbnVtYmVyJCIiIil7ICgpID0+CiAgICBwcmludGxuKCJJIGhhdmUgYmVlbiBnaXZlbiBhbm90aGVyIG51bWJlciIpCiAgfQogIFRoZW4oIiIiXkkgc2hvdWxkIGhhdmUgdHdvJCIiIil7ICgpID0+CiAgICBwcmludGxuKCJJIG5vdyBoYXZlIHR3byBudW1iZXJzIikKICB9</text>
       </register>
       <register name=":" type="4">
         <text>qa!</text>
