@@ -19,6 +19,7 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/nifi.feature" timestamp="1464261723263" />
       <file name="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.9-sources.jar!/sbt/Keys.scala" timestamp="1461245114114">
         <mark key="'" line="294" column="6" />
       </file>
@@ -252,6 +253,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1464261929020" />
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/resources/QRM.feature" timestamp="1460994835044">
         <mark key="[" line="0" column="0" />
       </file>
@@ -341,9 +343,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>object NiFiStepDef {
-  def processStarted()
-}</text>
+        <text>val response = HTTP.get(hostname + &quot;controller/about&quot;)
+    val status = response.getStatus
+    assert(status == 200)</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -355,33 +357,35 @@
         <text encoding="base64">bG9nTGV2ZWwgOj0gTGV2ZWwuSW5mbwo=</text>
       </register>
       <register name="1" type="4">
+        <text>val response = HTTP.get(hostname + &quot;controller/about&quot;)
+    val status = response.getStatus
+    assert(status == 200)</text>
+      </register>
+      <register name="2" type="4">
         <text>object NiFiStepDef {
   def processStarted()
 }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>i</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHNjYWxhLnJlZmxlY3QuYXBpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IEhUVFAuZ2V0KGxvY2FsaG9zdCArICIvY29udHJvbGxlci9hYm91dCIp</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMK</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIC8vLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBHaXZlbigiIiJeSSBoYXZlIG9uZSBudW1iZXIkIiIiKXsgKCkgPT4KICAgIHByaW50bG4oIkkgaGF2ZSBiZWVuIGdpdmVuIG9uZSBudW1iZXIiKQogIH0KICBHaXZlbigiIiJeSSBoYXZlIGFub3RoZXIgbnVtYmVyJCIiIil7ICgpID0+CiAgICBwcmludGxuKCJJIGhhdmUgYmVlbiBnaXZlbiBhbm90aGVyIG51bWJlciIpCiAgfQogIFRoZW4oIiIiXkkgc2hvdWxkIGhhdmUgdHdvJCIiIil7ICgpID0+CiAgICBwcmludGxuKCJJIG5vdyBoYXZlIHR3byBudW1iZXJzIikKICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMK</text>
       </register>
       <register name=":" type="4">
         <text>qa!</text>
