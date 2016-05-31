@@ -266,7 +266,7 @@
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1464280960919">
+      <file name="/Dummy.txt" timestamp="1464679798469">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="87" />
         <mark key="." line="0" column="87" />
@@ -325,8 +325,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1464358431978">
-        <mark key="[" line="8" column="46" />
+      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1464680243490">
+        <mark key="[" line="8" column="112" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
