@@ -325,12 +325,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1464680243490">
-        <mark key="[" line="8" column="112" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1464680915212">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="56" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1464335907396">
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1464680925851">
         <mark key="[" line="16" column="53" />
         <mark key="]" line="23" column="60" />
         <mark key="^" line="23" column="60" />
@@ -388,8 +389,8 @@
       <jump line="0" column="0" filename="C:/work/cucumber-plugin/Build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAib3JnLmFwYWNoZS5uaWZpIiAlICJuaWZpLW1vY2siICUgImxhdGVzdC5pbnRlZ3JhdGlvbiIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -402,34 +403,32 @@
     val status = response.getStatus
     assert(status == 200)</text>
       </register>
-      <register name="1" type="4">
-        <text>s</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAib3JnLmFwYWNoZS5uaWZpIiAlICJuaWZpLW1vY2siICUgImxhdGVzdC5pbnRlZ3JhdGlvbiIsCg==</text>
       </register>
       <register name="2" type="4">
-        <text>l</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>l</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>i</text>
       </register>
       <register name="5" type="4">
-        <text>U</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>x</text>
+        <text>U</text>
       </register>
       <register name="7" type="4">
         <text>x</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>x</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
-  * Created by hurchurh on 27/05/2016.
-  */</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
