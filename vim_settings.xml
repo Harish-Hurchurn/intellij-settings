@@ -346,17 +346,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1464680915212">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
+      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1464701816048">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="53" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="56" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1464701159702">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="25" column="60" />
-        <mark key="^" line="25" column="60" />
-        <mark key="." line="25" column="60" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1464701628028">
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="58" />
+        <mark key="^" line="19" column="19" />
+        <mark key="." line="19" column="58" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/nifi.scala" timestamp="1464281960884" />
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/project/plugins.sbt" timestamp="1460727556925">
@@ -411,44 +411,44 @@
       <jump line="5" column="17" filename="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Nifi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>com.barclays.treasury.fiscus.ingestor</text>
       </register>
       <register name="-" type="4">
-        <text>(processorId.children.map(_.toString), processorGroup.children.map(_.toString))</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>assembly</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGV4dGVuZHMgU2NhbGFEc2wgd2l0aCBFTg==</text>
+        <text>com.barclays.treasury.fiscus.ingestor</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiY29tLmJhcmNsYXlzLnRyZWFzdXJ5LmZpc2N1cy5pbmdlc3RvciIsICJOaUZpVXRpbGl0aWVzIiwgIjAuMS4wLVNOQVBTSE9UIgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBmb3JtYXRzID0gRGVmYXVsdEZvcm1hdHMK</text>
+      <register name="2" type="4">
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text>(processorId.children.map(_.toString), processorGroup.children.map(_.toString))</text>
+        <text>`</text>
       </register>
       <register name="4" type="4">
-        <text>=</text>
+        <text>x</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>SNAPSHOT</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text encoding="base64">Igo=</text>
       </register>
       <register name="7" type="4">
-        <text>b</text>
+        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyA=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Kys9IA==</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>Seq</text>
       </register>
       <register name=":" type="4">
         <text>m 7</text>
