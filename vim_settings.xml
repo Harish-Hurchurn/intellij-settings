@@ -74,6 +74,12 @@
         <mark key="." line="3" column="64" />
         <mark key="^" line="3" column="64" />
       </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/stress.feature" timestamp="1464685780469">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/stepdefs/Runner.scala" timestamp="1460987995474">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="0" column="0" />
@@ -163,6 +169,12 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/NiFiUtilities.scala" timestamp="1464686219228">
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="20" column="3" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/cucumber/CucumberPlugin.scala" timestamp="1460973860713">
         <mark key="[" line="82" column="18" />
         <mark key="]" line="92" column="0" />
@@ -206,8 +218,10 @@
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/Runner.scala" timestamp="1460723163533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Stress.scala" timestamp="1464259714020">
-        <mark key="[" line="15" column="0" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Stress.scala" timestamp="1464686109794">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/.gitignore" timestamp="1460644199484">
         <mark key="[" line="0" column="0" />
@@ -275,6 +289,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Nifi.scala" timestamp="1464686108317">
+        <mark key="'" line="5" column="17" />
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="41" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="17" />
       </file>
       <file name="C:/work/cucumber-plugin/src/sbt-test/cucumber-plugin/simple/project/plugins.sbt" timestamp="1461247112862">
         <mark key="[" line="0" column="0" />
@@ -387,10 +408,11 @@
       <jump line="32" column="4" filename="C:/work/cucumber-plugin/project/Build.scala" />
       <jump line="44" column="0" filename="C:/work/cucumber-plugin/project/Build.scala" />
       <jump line="0" column="0" filename="C:/work/cucumber-plugin/Build.sbt" />
+      <jump line="5" column="17" filename="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Nifi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAib3JnLmFwYWNoZS5uaWZpIiAlICJuaWZpLW1vY2siICUgImxhdGVzdC5pbnRlZ3JhdGlvbiIsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGV4dGVuZHMgU2NhbGFEc2wgd2l0aCBFTg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -399,39 +421,39 @@
         <text>assembly</text>
       </register>
       <register name="0" type="4">
-        <text>val response = HTTP.get(hostname + &quot;controller/about&quot;)
-    val status = response.getStatus
-    assert(status == 200)</text>
+        <text encoding="base64">IGV4dGVuZHMgU2NhbGFEc2wgd2l0aCBFTg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAib3JnLmFwYWNoZS5uaWZpIiAlICJuaWZpLW1vY2siICUgImxhdGVzdC5pbnRlZ3JhdGlvbiIsCg==</text>
+      <register name="1" type="4">
+        <text>s</text>
       </register>
       <register name="2" type="4">
         <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>l</text>
+        <text>a</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text>l</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>c</text>
       </register>
-      <register name="6" type="4">
-        <text>U</text>
-      </register>
-      <register name="7" type="4">
-        <text>x</text>
-      </register>
-      <register name="8" type="4">
-        <text>x</text>
-      </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text>/**
+  * Created by hurchurh on 31/05/2016.
+  */</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IEJlZm9yZSBzdGFydGluZyB0byBkbyBhbnkgc29ydCBvZiBpbnRlZ3JhdGlvbiB0ZXN0aW5nCiAgSXQgaXMgbmVjZXNzYXJ5IHRvIGVuc3VyZSB0aGF0IE5pRmkgaXMgc3RhcnRlZCBhbmQgcnVubmluZyBzdWNjZXNzZnVsbHkKICBBbmQgdGhlcmUgYXJlIG5vIGlzc3VlcyB3aGljaCByZXF1aXJlIGF0dGVudGlvbg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAib3JnLmFwYWNoZS5uaWZpIiAlICJuaWZpLW1vY2siICUgImxhdGVzdC5pbnRlZ3JhdGlvbiIsCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5tIDIx</text>
       </register>
     </registers>
     <search>
@@ -456,10 +478,13 @@
         <entry>m 6</entry>
         <entry encoding="base64">JzwsJz5tIDE5</entry>
         <entry encoding="base64">JzwsJz5tIDE4</entry>
-        <entry>vs</entry>
         <entry>q!</entry>
         <entry>qa!</entry>
         <entry>w</entry>
+        <entry>vs</entry>
+        <entry>e Stress.scala</entry>
+        <entry encoding="base64">JzwsJz5tMjA=</entry>
+        <entry encoding="base64">JzwsJz5tIDIx</entry>
       </history-cmd>
       <history-expr />
       <history-input />
