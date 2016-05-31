@@ -74,11 +74,10 @@
         <mark key="." line="3" column="64" />
         <mark key="^" line="3" column="64" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/stress.feature" timestamp="1464685780469">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/stress.feature" timestamp="1464702406670">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/stepdefs/Runner.scala" timestamp="1460987995474">
         <mark key="[" line="9" column="14" />
@@ -169,11 +168,11 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/NiFiUtilities.scala" timestamp="1464700964939">
-        <mark key="[" line="20" column="40" />
-        <mark key="]" line="16" column="1" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/NiFiUtilities.scala" timestamp="1464702355393">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
         <mark key="^" line="16" column="1" />
-        <mark key="." line="16" column="1" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/cucumber/CucumberPlugin.scala" timestamp="1460973860713">
         <mark key="[" line="82" column="18" />
@@ -218,8 +217,8 @@
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/Runner.scala" timestamp="1460723163533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Stress.scala" timestamp="1464686109794">
-        <mark key="[" line="2" column="6" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Stress.scala" timestamp="1464702297860">
+        <mark key="[" line="6" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -290,12 +289,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Nifi.scala" timestamp="1464686108317">
-        <mark key="'" line="5" column="17" />
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="41" />
-        <mark key="^" line="5" column="17" />
-        <mark key="." line="5" column="17" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Nifi.scala" timestamp="1464702021685">
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="9" column="70" />
+        <mark key="^" line="9" column="70" />
+        <mark key="." line="9" column="70" />
       </file>
       <file name="C:/work/cucumber-plugin/src/sbt-test/cucumber-plugin/simple/project/plugins.sbt" timestamp="1461247112862">
         <mark key="[" line="0" column="0" />
@@ -346,16 +344,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1464701816048">
+      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1464702102712">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="53" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="56" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1464701628028">
-        <mark key="[" line="19" column="45" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1464701916730">
+        <mark key="[" line="19" column="51" />
         <mark key="]" line="19" column="58" />
-        <mark key="^" line="19" column="19" />
+        <mark key="^" line="19" column="60" />
         <mark key="." line="19" column="58" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/nifi.scala" timestamp="1464281960884" />
@@ -412,10 +410,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>com.barclays.treasury.fiscus.ingestor</text>
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>assembly</text>
@@ -423,32 +421,32 @@
       <register name="0" type="4">
         <text>com.barclays.treasury.fiscus.ingestor</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAiY29tLmJhcmNsYXlzLnRyZWFzdXJ5LmZpc2N1cy5pbmdlc3RvciIsICJOaUZpVXRpbGl0aWVzIiwgIjAuMS4wLVNOQVBTSE9UIgo=</text>
+      <register name="1" type="4">
+        <text>T</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>The integration tests can start</text>
       </register>
       <register name="3" type="4">
-        <text>`</text>
+        <text>here are no bulletins which require attention</text>
       </register>
       <register name="4" type="4">
-        <text>x</text>
+        <text>Make sure that NiFi is up and running</text>
       </register>
       <register name="5" type="4">
-        <text>SNAPSHOT</text>
+        <text>g</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Igo=</text>
+        <text>n</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyA=</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Kys9IA==</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>Seq</text>
+        <text>:</text>
       </register>
       <register name=":" type="4">
         <text>m 7</text>
