@@ -169,11 +169,11 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/NiFiUtilities.scala" timestamp="1464686219228">
-        <mark key="[" line="16" column="2" />
-        <mark key="]" line="20" column="3" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/NiFiUtilities.scala" timestamp="1464688813184">
+        <mark key="[" line="20" column="40" />
+        <mark key="]" line="16" column="1" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="16" column="1" />
       </file>
       <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/cucumber/CucumberPlugin.scala" timestamp="1460973860713">
         <mark key="[" line="82" column="18" />
@@ -411,11 +411,11 @@
       <jump line="5" column="17" filename="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Nifi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGV4dGVuZHMgU2NhbGFEc2wgd2l0aCBFTg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>(processorId.children.map(_.toString), processorGroup.children.map(_.toString))</text>
       </register>
       <register name="/" type="4">
         <text>assembly</text>
@@ -423,37 +423,35 @@
       <register name="0" type="4">
         <text encoding="base64">IGV4dGVuZHMgU2NhbGFEc2wgd2l0aCBFTg==</text>
       </register>
-      <register name="1" type="4">
-        <text>s</text>
-      </register>
-      <register name="2" type="4">
-        <text>s</text>
-      </register>
-      <register name="3" type="4">
-        <text>a</text>
-      </register>
-      <register name="4" type="4">
-        <text>l</text>
-      </register>
-      <register name="5" type="4">
-        <text>c</text>
-      </register>
-      <register name="6" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBmb3JtYXRzID0gRGVmYXVsdEZvcm1hdHMK</text>
+      </register>
+      <register name="3" type="4">
+        <text>(processorId.children.map(_.toString), processorGroup.children.map(_.toString))</text>
+      </register>
+      <register name="4" type="4">
+        <text>=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="6" type="4">
+        <text>)</text>
+      </register>
       <register name="7" type="4">
-        <text>/**
-  * Created by hurchurh on 31/05/2016.
-  */</text>
+        <text>b</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IEJlZm9yZSBzdGFydGluZyB0byBkbyBhbnkgc29ydCBvZiBpbnRlZ3JhdGlvbiB0ZXN0aW5nCiAgSXQgaXMgbmVjZXNzYXJ5IHRvIGVuc3VyZSB0aGF0IE5pRmkgaXMgc3RhcnRlZCBhbmQgcnVubmluZyBzdWNjZXNzZnVsbHkKICBBbmQgdGhlcmUgYXJlIG5vIGlzc3VlcyB3aGljaCByZXF1aXJlIGF0dGVudGlvbg==</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAib3JnLmFwYWNoZS5uaWZpIiAlICJuaWZpLW1vY2siICUgImxhdGVzdC5pbnRlZ3JhdGlvbiIsCg==</text>
+      <register name="9" type="4">
+        <text>,</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5tIDIx</text>
+        <text>m 7</text>
       </register>
     </registers>
     <search>
@@ -474,7 +472,6 @@
         <entry>we</entry>
         <entry>e</entry>
         <entry>m12</entry>
-        <entry>m 7</entry>
         <entry>m 6</entry>
         <entry encoding="base64">JzwsJz5tIDE5</entry>
         <entry encoding="base64">JzwsJz5tIDE4</entry>
@@ -485,6 +482,8 @@
         <entry>e Stress.scala</entry>
         <entry encoding="base64">JzwsJz5tMjA=</entry>
         <entry encoding="base64">JzwsJz5tIDIx</entry>
+        <entry>m 8</entry>
+        <entry>m 7</entry>
       </history-cmd>
       <history-expr />
       <history-input />
