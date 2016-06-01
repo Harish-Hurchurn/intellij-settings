@@ -289,11 +289,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Nifi.scala" timestamp="1464770367814">
-        <mark key="[" line="0" column="43" />
-        <mark key="]" line="9" column="70" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Nifi.scala" timestamp="1464770607281">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="4" />
         <mark key="^" line="9" column="70" />
-        <mark key="." line="9" column="70" />
+        <mark key="." line="13" column="4" />
       </file>
       <file name="C:/work/cucumber-plugin/src/sbt-test/cucumber-plugin/simple/project/plugins.sbt" timestamp="1461247112862">
         <mark key="[" line="0" column="0" />
@@ -410,10 +410,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text encoding="base64">TmlGaVV0aWxpdGllcy5leHRyYWN0QnVsbGV0aW5Cb2FyZEluZm8oaG9zdG5hbWUpID09IExpc3QoKSAmJiA=</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text encoding="base64">TmlGaVV0aWxpdGllcy5leHRyYWN0QnVsbGV0aW5Cb2FyZEluZm8oaG9zdG5hbWUpID09IExpc3QoKSAmJiA=</text>
       </register>
       <register name="/" type="4">
         <text>assembly</text>
@@ -422,31 +422,31 @@
         <text>com.barclays.treasury.fiscus.ingestor</text>
       </register>
       <register name="1" type="4">
-        <text>T</text>
+        <text encoding="base64">TmlGaVV0aWxpdGllcy5leHRyYWN0QnVsbGV0aW5Cb2FyZEluZm8oaG9zdG5hbWUpID09IExpc3QoKSAmJiA=</text>
       </register>
       <register name="2" type="4">
-        <text>The integration tests can start</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>here are no bulletins which require attention</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>Make sure that NiFi is up and running</text>
+        <text>0</text>
       </register>
       <register name="5" type="4">
-        <text>g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>=</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>=</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>(</text>
       </register>
       <register name="9" type="4">
-        <text>:</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>m 7</text>
