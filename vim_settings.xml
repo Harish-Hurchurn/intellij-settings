@@ -162,6 +162,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/repositories" timestamp="1464860123111">
+        <mark key="[" line="3" column="74" />
+        <mark key="]" line="3" column="74" />
+        <mark key="." line="3" column="74" />
+      </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/NifiTest.scala" timestamp="1460723503540">
         <mark key="[" line="3" column="60" />
         <mark key="]" line="10" column="15" />
@@ -399,8 +404,8 @@
       <jump line="5" column="17" filename="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Nifi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -411,35 +416,35 @@
       <register name="0" type="4">
         <text>com.barclays.treasury.fiscus.ingestor</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">TmlGaVV0aWxpdGllcy5leHRyYWN0QnVsbGV0aW5Cb2FyZEluZm8oaG9zdG5hbWUpID09IExpc3QoKSAmJiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBmdW5jdGlvbnMtZ3JvdXA6IGh0dHA6Ly9uZXh1czo4MDgxL25leHVzL2NvbnRlbnQvZ3JvdXBzL2Z1bmN0aW9ucy1ncm91cC8K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
         <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text encoding="base64">TmlGaVV0aWxpdGllcy5leHRyYWN0QnVsbGV0aW5Cb2FyZEluZm8oaG9zdG5hbWUpID09IExpc3QoKSAmJiA=</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>=</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>=</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text>m 7</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -465,13 +470,14 @@
         <entry encoding="base64">JzwsJz5tIDE4</entry>
         <entry>q!</entry>
         <entry>qa!</entry>
-        <entry>w</entry>
         <entry>vs</entry>
         <entry>e Stress.scala</entry>
         <entry encoding="base64">JzwsJz5tMjA=</entry>
         <entry encoding="base64">JzwsJz5tIDIx</entry>
         <entry>m 8</entry>
         <entry>m 7</entry>
+        <entry>m4</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
