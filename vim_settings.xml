@@ -68,7 +68,6 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/project/plugins.sbt" timestamp="1464784265496" />
       <file name="C:/work/cucumber-plugin/project/plugins.sbt" timestamp="1461578046331">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="64" />
@@ -202,7 +201,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/info.cukes/cucumber-core/srcs/cucumber-core-1.2.4-sources.jar!/cucumber/runtime/model/CucumberFeature.java" timestamp="1464273050743" />
       <file name="C:/work/src/cucumber-plugin-example/project/plugins.sbt" timestamp="1460729704703">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="1" column="67" />
@@ -249,8 +247,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.json4s/json4s-native_2.11/srcs/json4s-native_2.11-3.3.0.RC6-sources.jar!/org/json4s/native/JsonMethods.scala" timestamp="1464270359641" />
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/main/scala/com/barclays/nifiscripts/CheckNifi.scala" timestamp="1464683252870" />
       <file name="C:/work/cucumber-plugin/src/main/scala/com/barclays/treasury/cucumber/sbt/CucumberPlugin.scala" timestamp="1460978369990">
         <mark key="[" line="83" column="20" />
         <mark key="]" line="93" column="0" />
@@ -302,7 +298,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/info.cukes/cucumber-scala_2.11/srcs/cucumber-scala_2.11-1.2.4-sources.jar!/cucumber/api/scala/I18n.scala" timestamp="1464272963308" />
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1464280753754">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="4" />
@@ -352,13 +347,6 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="56" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1464859376080">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="20" column="58" />
-        <mark key="^" line="20" column="60" />
-        <mark key="." line="20" column="58" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/nifi.scala" timestamp="1464281960884" />
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/project/plugins.sbt" timestamp="1460727556925">
         <mark key="[" line="0" column="0" />
       </file>
