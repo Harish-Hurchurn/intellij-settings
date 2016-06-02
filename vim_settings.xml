@@ -68,6 +68,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/project/plugins.sbt" timestamp="1464861218550">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
       <file name="C:/work/cucumber-plugin/project/plugins.sbt" timestamp="1461578046331">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="64" />
@@ -303,11 +309,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1464280753754">
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1464860835804">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="4" />
         <mark key="^" line="20" column="75" />
         <mark key="." line="10" column="4" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/NiFi.feature" timestamp="1464860965513">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/resources/QRM.feature" timestamp="1460994835044">
         <mark key="[" line="0" column="0" />
@@ -404,11 +415,11 @@
       <jump line="5" column="17" filename="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Nifi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>assembly</text>
@@ -416,32 +427,32 @@
       <register name="0" type="4">
         <text>com.barclays.treasury.fiscus.ingestor</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>i</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbnMtZ3JvdXA6IGh0dHA6Ly9uZXh1czo4MDgxL25leHVzL2NvbnRlbnQvZ3JvdXBzL2Z1bmN0aW9ucy1ncm91cC8K</text>
+      <register name="2" type="4">
+        <text>F</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text>N</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">TmlGaVV0aWxpdGllcy5leHRyYWN0QnVsbGV0aW5Cb2FyZEluZm8oaG9zdG5hbWUpID09IExpc3QoKSAmJiA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>f</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>o</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>h</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
