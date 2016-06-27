@@ -152,6 +152,12 @@
         <mark key="." line="15" column="28" />
         <mark key="^" line="15" column="28" />
       </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1467040808451">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+      </file>
       <file name="C:/work/cucumber-plugin/src/main/scala/com/barclays/treasury/cucumber/sbt/CucumberParameters.scala" timestamp="1460977550150">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -258,11 +264,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/IDLU.feature" timestamp="1467036687475">
-        <mark key="[" line="0" column="40" />
-        <mark key="]" line="2" column="50" />
-        <mark key="^" line="2" column="50" />
-        <mark key="." line="2" column="50" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/IDLU.feature" timestamp="1467040292829">
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="5" column="52" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="5" column="52" />
       </file>
       <file name="C:/work/cucumber-plugin/src/main/scala/com/barclays/treasury/cucumber/sbt/CucumberPlugin.scala" timestamp="1460978369990">
         <mark key="[" line="83" column="20" />
@@ -315,9 +321,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1467034179551">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="4" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1467039641345">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="34" />
         <mark key="^" line="20" column="75" />
         <mark key="." line="10" column="4" />
       </file>
@@ -424,56 +430,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Feature: Make sure that NiFi is ready for the integration tests to start running
-
-  Scenario: Check that NiFi is running and there is nothing which will prevent the tests from running
-    Given Make sure that NiFi is up and running
-    When There are no bulletins which require attention
-    Then The integration tests can start</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>assembly</text>
       </register>
       <register name="0" type="4">
-        <text>Feature: Make sure that NiFi is ready for the integration tests to start running
-
-  Scenario: Check that NiFi is running and there is nothing which will prevent the tests from running
-    Given Make sure that NiFi is up and running
-    When There are no bulletins which require attention
-    Then The integration tests can start</text>
+        <text>extends ScalaDsl with EN</text>
       </register>
       <register name="1" type="4">
-        <text>i</text>
+        <text>g</text>
       </register>
       <register name="2" type="4">
-        <text>F</text>
+        <text>n</text>
       </register>
       <register name="3" type="4">
         <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>N</text>
+        <text>n</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="6" type="4">
-        <text>f</text>
+        <text>u</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>h</text>
+        <text>d</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -490,16 +486,13 @@
         <entry>assembly</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>we</entry>
-        <entry>e</entry>
         <entry>m12</entry>
         <entry>m 6</entry>
         <entry encoding="base64">JzwsJz5tIDE5</entry>
         <entry encoding="base64">JzwsJz5tIDE4</entry>
         <entry>q!</entry>
         <entry>qa!</entry>
-        <entry>vs</entry>
         <entry>e Stress.scala</entry>
         <entry encoding="base64">JzwsJz5tMjA=</entry>
         <entry encoding="base64">JzwsJz5tIDIx</entry>
@@ -507,6 +500,9 @@
         <entry>m 7</entry>
         <entry>m4</entry>
         <entry>w</entry>
+        <entry>vs</entry>
+        <entry>e</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
