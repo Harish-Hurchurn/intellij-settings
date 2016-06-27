@@ -258,6 +258,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/IDLU.feature" timestamp="1467036074681">
+        <mark key="[" line="0" column="40" />
+      </file>
       <file name="C:/work/cucumber-plugin/src/main/scala/com/barclays/treasury/cucumber/sbt/CucumberPlugin.scala" timestamp="1460978369990">
         <mark key="[" line="83" column="20" />
         <mark key="]" line="93" column="0" />
@@ -315,10 +318,11 @@
         <mark key="^" line="20" column="75" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/NiFi.feature" timestamp="1464860965513">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/NiFi.feature" timestamp="1467036069352">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/resources/QRM.feature" timestamp="1460994835044">
         <mark key="[" line="0" column="0" />
@@ -417,7 +421,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>Feature: Make sure that NiFi is ready for the integration tests to start running
+
+  Scenario: Check that NiFi is running and there is nothing which will prevent the tests from running
+    Given Make sure that NiFi is up and running
+    When There are no bulletins which require attention
+    Then The integration tests can start</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -426,7 +435,12 @@
         <text>assembly</text>
       </register>
       <register name="0" type="4">
-        <text>com.barclays.treasury.fiscus.ingestor</text>
+        <text>Feature: Make sure that NiFi is ready for the integration tests to start running
+
+  Scenario: Check that NiFi is running and there is nothing which will prevent the tests from running
+    Given Make sure that NiFi is up and running
+    When There are no bulletins which require attention
+    Then The integration tests can start</text>
       </register>
       <register name="1" type="4">
         <text>i</text>
