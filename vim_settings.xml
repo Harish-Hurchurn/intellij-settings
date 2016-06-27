@@ -258,8 +258,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/IDLU.feature" timestamp="1467036074681">
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/IDLU.feature" timestamp="1467036687475">
         <mark key="[" line="0" column="40" />
+        <mark key="]" line="2" column="50" />
+        <mark key="^" line="2" column="50" />
+        <mark key="." line="2" column="50" />
       </file>
       <file name="C:/work/cucumber-plugin/src/main/scala/com/barclays/treasury/cucumber/sbt/CucumberPlugin.scala" timestamp="1460978369990">
         <mark key="[" line="83" column="20" />
