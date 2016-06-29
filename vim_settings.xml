@@ -185,12 +185,7 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/NiFiUtilities.scala" timestamp="1467206968627">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="17" />
-        <mark key="^" line="16" column="1" />
-        <mark key="." line="12" column="17" />
-      </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/NiFiUtilities.scala" timestamp="1467211560418" />
       <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/cucumber/CucumberPlugin.scala" timestamp="1460973860713">
         <mark key="[" line="82" column="18" />
         <mark key="]" line="92" column="0" />
@@ -433,7 +428,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
@@ -445,9 +440,12 @@
         <text>extends ScalaDsl with EN</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>&quot;info.cukes&quot; % &quot;cucumber-core&quot; % cukesVersion,
   &quot;info.cukes&quot; % &quot;cucumber-jvm&quot; % cukesVersion,
   &quot;info.cukes&quot; % &quot;cucumber-junit&quot; % cukesVersion,
@@ -455,14 +453,11 @@
   &quot;junit&quot; % &quot;junit&quot; % &quot;4.12&quot;,
   &quot;org.json4s&quot; %% &quot;json4s-native&quot; % &quot;3.3.0.RC6&quot;,</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjYiICUgInRlc3QiLAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAiY29tLm0zIiAlJSAiY3VybHktc2NhbGEiICUgIjAuNS42IiwK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiY29tLm0zIiAlJSAiY3VybHktc2NhbGEiICUgIjAuNS42IiwK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -470,14 +465,14 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>g</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>g</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>m6</text>
       </register>
     </registers>
     <search>
@@ -511,6 +506,8 @@
         <entry>vs</entry>
         <entry>e</entry>
         <entry>q</entry>
+        <entry encoding="base64">IDY=</entry>
+        <entry>m6</entry>
       </history-cmd>
       <history-expr />
       <history-input />
