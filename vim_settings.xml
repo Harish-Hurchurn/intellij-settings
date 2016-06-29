@@ -320,13 +320,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1467207098941">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1467217418333">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/NiFi.feature" timestamp="1467206812052">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/NiFi.feature" timestamp="1467217429229">
+        <mark key="[" line="2" column="99" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -432,10 +432,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>assembly</text>
@@ -444,31 +444,31 @@
         <text>fiscus-ingestor-$version.tgz</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;</text>
+        <text>0</text>
       </register>
       <register name="2" type="4">
-        <text>r</text>
+        <text>8</text>
       </register>
       <register name="3" type="4">
-        <text>r</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text>o</text>
+        <text>8</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>g</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>m6</text>
