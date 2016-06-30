@@ -185,11 +185,10 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/NiFiUtilities.scala" timestamp="1467302890296">
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="26" column="13" />
-        <mark key="^" line="49" column="0" />
-        <mark key="." line="26" column="13" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/NiFiUtilities.scala" timestamp="1467303704427">
+        <mark key="]" line="25" column="17" />
+        <mark key="^" line="25" column="17" />
+        <mark key="." line="25" column="17" />
       </file>
       <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/cucumber/CucumberPlugin.scala" timestamp="1460973860713">
         <mark key="[" line="82" column="18" />
@@ -432,8 +431,8 @@
       <jump line="5" column="17" filename="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Nifi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>E</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>E</text>
@@ -444,32 +443,32 @@
       <register name="0" type="4">
         <text>fiscus-ingestor-$version.tgz</text>
       </register>
-      <register name="1" type="4">
-        <text>E</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>M</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmICgiY2QgL2FwcHMvc3lzRmlzY3VzTmlGaURldiIuISA9PSAwKSB7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>O</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmICgiY2QgL2FwcHMvc3lzRmlzY3VzTmlGaURldiIuISA9PSAwKSB7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>H</text>
+        <text>E</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text>M</text>
       </register>
       <register name="6" type="4">
-        <text>8</text>
+        <text>O</text>
       </register>
       <register name="7" type="4">
-        <text>0</text>
+        <text>H</text>
       </register>
       <register name="8" type="4">
-        <text>8</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;</text>
+        <text>8</text>
       </register>
       <register name=":" type="4">
         <text>m6</text>
