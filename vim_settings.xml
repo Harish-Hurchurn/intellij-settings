@@ -185,7 +185,8 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/NiFiUtilities.scala" timestamp="1467216627451">
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/NiFiUtilities.scala" timestamp="1467280363423">
+        <mark key="[" line="49" column="27" />
         <mark key="]" line="49" column="0" />
         <mark key="^" line="49" column="0" />
         <mark key="." line="49" column="0" />
