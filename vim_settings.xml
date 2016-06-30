@@ -185,11 +185,11 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/NiFiUtilities.scala" timestamp="1467280363423">
-        <mark key="[" line="49" column="27" />
-        <mark key="]" line="49" column="0" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/NiFiUtilities.scala" timestamp="1467302890296">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="13" />
         <mark key="^" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+        <mark key="." line="26" column="13" />
       </file>
       <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/cucumber/CucumberPlugin.scala" timestamp="1460973860713">
         <mark key="[" line="82" column="18" />
@@ -433,10 +433,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>E</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
         <text>assembly</text>
@@ -445,31 +445,31 @@
         <text>fiscus-ingestor-$version.tgz</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text>E</text>
       </register>
       <register name="2" type="4">
-        <text>8</text>
+        <text>M</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text>O</text>
       </register>
       <register name="4" type="4">
-        <text>8</text>
+        <text>H</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;</text>
+        <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>r</text>
+        <text>8</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>8</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>&quot;</text>
       </register>
       <register name=":" type="4">
         <text>m6</text>
