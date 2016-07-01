@@ -185,10 +185,11 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/NiFiUtilities.scala" timestamp="1467367239315">
-        <mark key="]" line="27" column="29" />
-        <mark key="^" line="27" column="29" />
-        <mark key="." line="27" column="29" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/NiFiUtilities.scala" timestamp="1467368923539">
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="36" column="10" />
+        <mark key="." line="36" column="10" />
+        <mark key="^" line="36" column="10" />
       </file>
       <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/cucumber/CucumberPlugin.scala" timestamp="1460973860713">
         <mark key="[" line="82" column="18" />
@@ -431,44 +432,44 @@
       <jump line="5" column="17" filename="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Nifi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>assembly</text>
       </register>
       <register name="0" type="4">
-        <text>fiscus-ingestor-$version.tgz</text>
+        <text>fiscus-ingestor-0.1.4-$version.tgz</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICgiY2QgL2FwcHMvc3lzRmlzY3VzTmlGaURldiIuISA9PSAwKSB7Cg==</text>
+      <register name="2" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICgiY2QgL2FwcHMvc3lzRmlzY3VzTmlGaURldiIuISA9PSAwKSB7Cg==</text>
+      <register name="3" type="4">
+        <text>z</text>
       </register>
       <register name="4" type="4">
-        <text>E</text>
+        <text>g</text>
       </register>
       <register name="5" type="4">
-        <text>M</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>O</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>H</text>
+        <text>n</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>8</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>m6</text>
