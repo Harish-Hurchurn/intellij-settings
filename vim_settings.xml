@@ -47,7 +47,9 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="14" column="1" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/src/main/scala/com/barclays/treasury/GenericProcessor.scala" timestamp="1469025840032" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/src/main/scala/com/barclays/treasury/GenericProcessor.scala" timestamp="1469026610546">
+        <mark key="[" line="20" column="113" />
+      </file>
       <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/fiscus/cucumber/sbt/Jvm.scala" timestamp="1460974042542">
         <mark key="[" line="32" column="33" />
         <mark key="]" line="20" column="0" />
