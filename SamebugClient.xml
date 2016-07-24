@@ -1,0 +1,11 @@
+<application>
+  <component name="SamebugConfiguration">
+    <option name="apiKey" value="fc9e28f2-f537-4865-acf9-792cca0929c7" />
+    <option name="workspaceId" value="2293" />
+    <option name="instanceId" value="a39082e2-c038-4d16-8b99-ccbdea711518" />
+    <option name="userId" value="1610" />
+    <option name="avatarUrl" value="https://samebug.io/avatars/1471" />
+    <option name="showZeroSolutions" value="false" />
+    <option name="showRecurring" value="false" />
+  </component>
+</application>
