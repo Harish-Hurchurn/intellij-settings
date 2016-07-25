@@ -13,10 +13,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSJNDIConnectionFactory.java" timestamp="1469461373071">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSJNDIConnectionFactory.java" timestamp="1469466503093">
+        <mark key="[" line="107" column="94" />
+        <mark key="]" line="109" column="0" />
+        <mark key="^" line="107" column="20" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="C:/work/cucumber-framework/project/build.properties" timestamp="1460974251714">
         <mark key="[" line="1" column="0" />
@@ -106,6 +107,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/solace/sol-jcsmp/7.1.1.169/sol-jcsmp-7.1.1.169.jar!/com/solacesystems/jcsmp/JCSMPPropertyMap.class" timestamp="1469462503818">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="26" />
+      </file>
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/build.sbt" timestamp="1461161894079">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -157,11 +162,10 @@
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSConnectionFactory.java" timestamp="1469459214805">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="96" column="11" />
-        <mark key="." line="97" column="0" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSConnectionFactory.java" timestamp="1469466782354">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/build.sbt" timestamp="1460727405495">
         <mark key="[" line="12" column="56" />
@@ -450,19 +454,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZXgpIHsK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>J</text>
       </register>
       <register name="/" type="4">
         <text>:q</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgiQVVUSEVOVElDQVRJT05fU0NIRU1FIiwgQVVUSEVOVElDQVRJT05fU0NIRU1FX0dTU19LUkIpOyAvLyBTZXNzaW9uIHByb3BlcnR5CiAgICAgICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgiS1JCX1NFUlZJQ0VfTkFNRSIsICJIT1NUIik7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBTZXJ2aWNlIG5hbWUKICAgICAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJVU0VSTkFNRSIsICI8VlBOPiIpOwogICAgICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoImphdmEuc2VjdXJpdHkua3JiNS5jb25mIiwgIiRIT01FL2tyYjUuY29uZiIpOw==</text>
+        <text>jcmsPropertyMap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZXgpIHsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -471,25 +475,30 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgamNtc1Byb3BlcnR5TWFwLnNldFByb3BlcnR5KEFVVEhFTlRJQ0FUSU9OX1NDSEVNRSwgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSkNTTVBQcm9wZXJ0eU1hcCBqY21zUHJvcGVydHlNYXAgPSBuZXcgSkNTTVBQcm9wZXJ0eU1hcCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzcwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgiQVVUSEVOVElDQVRJT05fU0NIRU1FIiwgQVVUSEVOVElDQVRJT05fU0NIRU1FX0dTU19LUkIpOyAvLyBTZXNzaW9uIHByb3BlcnR5CiAgICAgICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgiS1JCX1NFUlZJQ0VfTkFNRSIsICJIT1NUIik7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBTZXJ2aWNlIG5hbWUKICAgICAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJVU0VSTkFNRSIsICI8VlBOPiIpOwogICAgICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoImphdmEuc2VjdXJpdHkua3JiNS5jb25mIiwgIiRIT01FL2tyYjUuY29uZiIpOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2V0S2ViZXJvc1Byb3BlcnRpZXNVcCgpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2Yuc2V0Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgIGZpbmFsIEpDU01QU2Vzc2lvbiBzZXNzaW9uID0gSkNTTVBGYWN0b3J5Lm9ubHlJbnN0YW5jZSgpLmNyZWF0ZVNlc3Npb24ocHJvcGVydGllcyk7CiAgICAgICAgICAgIHNlc3Npb24uY29ubmVjdCgpOwogICAgICAgIH0gY2F0Y2ggKEpDU01QRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>JCSMPBasicSession jcsmpSession = new JCSMPBasicSession();
+
+
+        jcsmpSession.setProperty(AUTHENTICATION_SCHEME, AUTHENTICATION_SCHEME_BASIC);
+        jcsmpSession.setProperty(KRB_SERVICE_NAME, HOST);
+        jcsmpSession.setProperty(USERNAME, &quot;liquidity_ldn_dev&quot;);</text>
       </register>
       <register name=":" type="4">
-        <text>m 96</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -517,7 +526,6 @@
         <entry>m 8</entry>
         <entry>m 7</entry>
         <entry>m4</entry>
-        <entry>w</entry>
         <entry>vs</entry>
         <entry>e</entry>
         <entry>q</entry>
@@ -527,6 +535,7 @@
         <entry encoding="base64">JzwsJz5ub2g=</entry>
         <entry>m 97</entry>
         <entry>m 96</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
