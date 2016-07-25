@@ -13,6 +13,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSJNDIConnectionFactory.java" timestamp="1469459254912">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+      </file>
       <file name="C:/work/cucumber-framework/project/build.properties" timestamp="1460974251714">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="0" column="18" />
@@ -152,11 +157,11 @@
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSConnectionFactory.java" timestamp="1469451729387">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="^" line="100" column="24" />
-        <mark key="." line="100" column="0" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSConnectionFactory.java" timestamp="1469459214805">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="96" column="11" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/build.sbt" timestamp="1460727405495">
         <mark key="[" line="12" column="56" />
@@ -445,7 +450,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2Yuc2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -454,37 +459,37 @@
         <text>:q</text>
       </register>
       <register name="0" type="4">
-        <text>fiscus-ingestor-0.1.4-$version.tgz</text>
+        <text encoding="base64">CiAgICAgICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgiQVVUSEVOVElDQVRJT05fU0NIRU1FIiwgQVVUSEVOVElDQVRJT05fU0NIRU1FX0dTU19LUkIpOyAvLyBTZXNzaW9uIHByb3BlcnR5CiAgICAgICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgiS1JCX1NFUlZJQ0VfTkFNRSIsICJIT1NUIik7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBTZXJ2aWNlIG5hbWUKICAgICAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJVU0VSTkFNRSIsICI8VlBOPiIpOwogICAgICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoImphdmEuc2VjdXJpdHkua3JiNS5jb25mIiwgIiRIT01FL2tyYjUuY29uZiIpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2Yuc2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>z</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>g</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>t</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text encoding="base64">CiAgICAgICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgiQVVUSEVOVElDQVRJT05fU0NIRU1FIiwgQVVUSEVOVElDQVRJT05fU0NIRU1FX0dTU19LUkIpOyAvLyBTZXNzaW9uIHByb3BlcnR5CiAgICAgICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgiS1JCX1NFUlZJQ0VfTkFNRSIsICJIT1NUIik7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBTZXJ2aWNlIG5hbWUKICAgICAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJVU0VSTkFNRSIsICI8VlBOPiIpOwogICAgICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoImphdmEuc2VjdXJpdHkua3JiNS5jb25mIiwgIiRIT01FL2tyYjUuY29uZiIpOw==</text>
       </register>
-      <register name="8" type="4">
-        <text>n</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2Yuc2V0Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5ub2g=</text>
+        <text>m 96</text>
       </register>
     </registers>
     <search>
@@ -502,8 +507,6 @@
         <entry>:q</entry>
       </history-search>
       <history-cmd>
-        <entry>m12</entry>
-        <entry>m 6</entry>
         <entry encoding="base64">JzwsJz5tIDE5</entry>
         <entry encoding="base64">JzwsJz5tIDE4</entry>
         <entry>q!</entry>
@@ -522,6 +525,8 @@
         <entry>m6</entry>
         <entry>?</entry>
         <entry encoding="base64">JzwsJz5ub2g=</entry>
+        <entry>m 97</entry>
+        <entry>m 96</entry>
       </history-cmd>
       <history-expr />
       <history-input />
