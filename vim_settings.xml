@@ -70,6 +70,7 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.0/hadoop-common-2.6.0.jar!/org/apache/hadoop/security/HadoopKerberosName.class" timestamp="1469553682512" />
       <file name="C:/work/src/cucumber-plugin-example/project/build.properties" timestamp="1460729686846">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="19" />
@@ -314,6 +315,7 @@
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="20" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.2/hadoop-common-2.6.2-sources.jar!/org/apache/hadoop/security/HadoopKerberosName.java" timestamp="1469553998261" />
       <file name="C:/work/cucumber-plugin/src/main/scala/com/barclays/treasury/cucumber/sbt/Jvm.scala" timestamp="1460977710941">
         <mark key="[" line="33" column="8" />
         <mark key="]" line="51" column="0" />
