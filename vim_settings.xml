@@ -91,6 +91,12 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="7" />
       </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/resources/config.properties" timestamp="1469536447773">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+      </file>
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/utils/Utils.scala" timestamp="1464335903387">
         <mark key="[" line="19" column="19" />
         <mark key="]" line="18" column="14" />
@@ -108,10 +114,10 @@
         <mark key="[" line="30" column="61" />
         <mark key="]" line="30" column="89" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSConnectionFactory.java" timestamp="1469534331322">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSConnectionFactory.java" timestamp="1469536515140">
+        <mark key="[" line="129" column="1" />
+        <mark key="]" line="129" column="1" />
+        <mark key="." line="129" column="1" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/build.sbt" timestamp="1460727405495">
         <mark key="[" line="12" column="56" />
@@ -331,38 +337,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJqYXZhLnNlY3VyaXR5LmtyYjUuY29uZiIsICIkSE9NRS9rcmI1LmNvbmYiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wcy5zZXRQcm9wZXJ0eShKQ1NNUFByb3BlcnRpZXMuVVNFUk5BTUUsICJsaXF1aWRpdHlfbGRuX2RldiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJqYXZhLnNlY3VyaXR5LmtyYjUuY29uZiIsICIkSE9NRS9rcmI1LmNvbmYiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wcy5zZXRQcm9wZXJ0eShKQ1NNUFByb3BlcnRpZXMuS1JCX1NFUlZJQ0VfTkFNRSwgIkhPU1QiKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcm9wcy5zZXRQcm9wZXJ0eShKQ1NNUFByb3BlcnRpZXMuVVNFUk5BTUUsICJsaXF1aWRpdHlfbGRuX2RldiIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJvcHMuc2V0UHJvcGVydHkoSkNTTVBQcm9wZXJ0aWVzLkFVVEhFTlRJQ0FUSU9OX1NDSEVNRSwgSkNTTVBQcm9wZXJ0aWVzLkFVVEhFTlRJQ0FUSU9OX1NDSEVNRV9CQVNJQyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9wcy5zZXRQcm9wZXJ0eShKQ1NNUFByb3BlcnRpZXMuS1JCX1NFUlZJQ0VfTkFNRSwgIkhPU1QiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcHJvcHMuc2V0UHJvcGVydHkoSkNTTVBQcm9wZXJ0aWVzLkFVVEhFTlRJQ0FUSU9OX1NDSEVNRSwgSkNTTVBQcm9wZXJ0aWVzLkFVVEhFTlRJQ0FUSU9OX1NDSEVNRV9CQVNJQyk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>private Properties setKerberosConnection() {
-        Properties props = new Properties();
-        props.setProperty(JCSMPProperties.AUTHENTICATION_SCHEME, JCSMPProperties.AUTHENTICATION_SCHEME_BASIC);
-        props.setProperty(JCSMPProperties.KRB_SERVICE_NAME, JCSMPProperties.HOST);
-        props.setProperty(JCSMPProperties.USERNAME, &quot;liquidity_ldn_dev&quot;);
-
-        return props;
-    }</text>
-      </register>
       <register name=":" type="4">
-        <text>m95</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -398,8 +397,8 @@
         <entry encoding="base64">JzwsJz5ub2g=</entry>
         <entry>m 97</entry>
         <entry>m 96</entry>
-        <entry>w</entry>
         <entry>m95</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
