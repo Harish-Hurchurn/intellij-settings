@@ -165,11 +165,11 @@
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSConnectionFactory.java" timestamp="1469520709495">
-        <mark key="[" line="95" column="81" />
-        <mark key="]" line="95" column="13" />
-        <mark key="." line="95" column="13" />
-        <mark key="^" line="95" column="13" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSConnectionFactory.java" timestamp="1469523330505">
+        <mark key="[" line="95" column="80" />
+        <mark key="]" line="95" column="60" />
+        <mark key="." line="95" column="60" />
+        <mark key="^" line="95" column="60" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/build.sbt" timestamp="1460727405495">
         <mark key="[" line="12" column="56" />
@@ -327,7 +327,7 @@
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469105215109">
+      <file name="/Dummy.txt" timestamp="1469523097410">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="87" />
         <mark key="." line="0" column="87" />
@@ -461,17 +461,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>private Properties setKerberosConnection() {
-        Properties props = new Properties();
-        props.setProperty(JCSMPProperties.AUTHENTICATION_SCHEME, JCSMPProperties.AUTHENTICATION_SCHEME_BASIC);
-        props.setProperty(JCSMPProperties.KRB_SERVICE_NAME, JCSMPProperties.HOST);
-        props.setProperty(JCSMPProperties.USERNAME, &quot;liquidity_ldn_dev&quot;);
-
-        return props;
-    }</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>:q</text>
