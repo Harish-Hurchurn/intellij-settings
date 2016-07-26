@@ -290,7 +290,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/nifi/nifi-api/0.6.0/nifi-api-0.6.0.jar!/org/apache/nifi/processor/AbstractProcessor.class" timestamp="1469521143782" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/nifi/nifi-api/0.6.0/nifi-api-0.6.0.jar!/org/apache/nifi/processor/AbstractProcessor.class" timestamp="1469524681301" />
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/IDLU.feature" timestamp="1467040292829">
         <mark key="[" line="5" column="52" />
         <mark key="]" line="5" column="52" />
@@ -327,7 +327,7 @@
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469523097410">
+      <file name="/Dummy.txt" timestamp="1469524834174">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="87" />
         <mark key="." line="0" column="87" />
