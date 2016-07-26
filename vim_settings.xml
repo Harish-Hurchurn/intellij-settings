@@ -13,6 +13,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSJNDIConnectionFactory.java" timestamp="1469518765057">
+        <mark key="[" line="96" column="4" />
+        <mark key="]" line="96" column="4" />
+        <mark key="^" line="98" column="7" />
+        <mark key="." line="96" column="4" />
+      </file>
       <file name="C:/work/cucumber-framework/project/build.properties" timestamp="1460974251714">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="0" column="18" />
@@ -24,6 +30,9 @@
         <mark key="]" line="5" column="11" />
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/solace/sol-jms/7.1.1.169/sol-jms-7.1.1.169.jar!/com/solacesystems/jms/SolConnectionFactoryImpl.class" timestamp="1469518888454">
+        <mark key="'" line="654" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/com/barclays/qrm/step_definitions/QRMStepDefinitions.scala" timestamp="1461161093269">
         <mark key="[" line="10" column="25" />
@@ -156,10 +165,11 @@
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSConnectionFactory.java" timestamp="1469466782354">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSConnectionFactory.java" timestamp="1469519078132">
+        <mark key="[" line="95" column="81" />
+        <mark key="]" line="95" column="13" />
+        <mark key="." line="95" column="13" />
+        <mark key="^" line="95" column="13" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/build.sbt" timestamp="1460727405495">
         <mark key="[" line="12" column="56" />
@@ -446,13 +456,21 @@
       <jump line="44" column="0" filename="C:/work/cucumber-plugin/project/Build.scala" />
       <jump line="0" column="0" filename="C:/work/cucumber-plugin/Build.sbt" />
       <jump line="5" column="17" filename="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Nifi.scala" />
+      <jump line="654" column="0" filename="$MAVEN_REPOSITORY$/com/solace/sol-jms/7.1.1.169/sol-jms-7.1.1.169.jar!/com/solacesystems/jms/SolConnectionFactoryImpl.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZXgpIHsK</text>
+      <register name="&quot;" type="4">
+        <text>private Properties setKerberosConnection() {
+        Properties props = new Properties();
+        props.setProperty(JCSMPProperties.AUTHENTICATION_SCHEME, JCSMPProperties.AUTHENTICATION_SCHEME_BASIC);
+        props.setProperty(JCSMPProperties.KRB_SERVICE_NAME, JCSMPProperties.HOST);
+        props.setProperty(JCSMPProperties.USERNAME, &quot;liquidity_ldn_dev&quot;);
+
+        return props;
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>J</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>:q</text>
@@ -460,37 +478,39 @@
       <register name="0" type="4">
         <text>jcmsPropertyMap</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZXgpIHsK</text>
+      <register name="1" type="4">
+        <text>private Properties setKerberosConnection() {
+        Properties props = new Properties();
+        props.setProperty(JCSMPProperties.AUTHENTICATION_SCHEME, JCSMPProperties.AUTHENTICATION_SCHEME_BASIC);
+        props.setProperty(JCSMPProperties.KRB_SERVICE_NAME, JCSMPProperties.HOST);
+        props.setProperty(JCSMPProperties.USERNAME, &quot;liquidity_ldn_dev&quot;);
+
+        return props;
+    }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IFN5c3RlbS5zZXRQcm9wZXJ0eSgiQVVUSEVOVElDQVRJT05fU0NIRU1FIiwgQVVUSEVOVElDQVRJT05fU0NIRU1FX0dTU19LUkIpOyAvLyBTZXNzaW9uIHByb3BlcnR5CiAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJLUkJfU0VSVklDRV9OQU1FIiwgIkhPU1QiKTsgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFNlcnZpY2UgbmFtZQogICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgiVVNFUk5BTUUiLCAiPFZQTj4iKTsKICAgICAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamNtc1Byb3BlcnR5TWFwLnNldFByb3BlcnR5KEFVVEhFTlRJQ0FUSU9OX1NDSEVNRSwgKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">U3lzdGVtLnNldFByb3BlcnR5KCJBVVRIRU5USUNBVElPTl9TQ0hFTUUiLCBBVVRIRU5USUNBVElPTl9TQ0hFTUVfR1NTX0tSQik7IC8vIFNlc3Npb24gcHJvcGVydHkKICAgICAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJLUkJfU0VSVklDRV9OQU1FIiwgIkhPU1QiKTsgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFNlcnZpY2UgbmFtZQogICAgICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoIlVTRVJOQU1FIiwgIjxWUE4+Iik7</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSkNTTVBQcm9wZXJ0eU1hcCBqY21zUHJvcGVydHlNYXAgPSBuZXcgSkNTTVBQcm9wZXJ0eU1hcCgpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">U3lzdGVtLnNldFByb3BlcnR5KCJBVVRIRU5USUNBVElPTl9TQ0hFTUUiLCBBVVRIRU5USUNBVElPTl9TQ0hFTUVfR1NTX0tSQik7IC8vIFNlc3Npb24gcHJvcGVydHkKICAgICAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJLUkJfU0VSVklDRV9OQU1FIiwgIkhPU1QiKTsgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFNlcnZpY2UgbmFtZQogICAgICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoIlVTRVJOQU1FIiwgIjxWUE4+Iik7CiAgICAgICAgICAgIFM=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzcwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZXgpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0S2ViZXJvc1Byb3BlcnRpZXNVcCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgIGZpbmFsIEpDU01QU2Vzc2lvbiBzZXNzaW9uID0gSkNTTVBGYWN0b3J5Lm9ubHlJbnN0YW5jZSgpLmNyZWF0ZVNlc3Npb24ocHJvcGVydGllcyk7CiAgICAgICAgICAgIHNlc3Npb24uY29ubmVjdCgpOwogICAgICAgIH0gY2F0Y2ggKEpDU01QRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>JCSMPBasicSession jcsmpSession = new JCSMPBasicSession();
-
-
-        jcsmpSession.setProperty(AUTHENTICATION_SCHEME, AUTHENTICATION_SCHEME_BASIC);
-        jcsmpSession.setProperty(KRB_SERVICE_NAME, HOST);
-        jcsmpSession.setProperty(USERNAME, &quot;liquidity_ldn_dev&quot;);</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgamNtc1Byb3BlcnR5TWFwLnNldFByb3BlcnR5KEFVVEhFTlRJQ0FUSU9OX1NDSEVNRSwgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
