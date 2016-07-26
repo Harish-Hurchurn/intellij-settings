@@ -13,7 +13,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSJNDIConnectionFactory.java" timestamp="1469518765057">
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSJNDIConnectionFactory.java" timestamp="1469520539137">
         <mark key="[" line="96" column="4" />
         <mark key="]" line="96" column="4" />
         <mark key="^" line="98" column="7" />
@@ -165,7 +165,7 @@
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSConnectionFactory.java" timestamp="1469519078132">
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSConnectionFactory.java" timestamp="1469520709495">
         <mark key="[" line="95" column="81" />
         <mark key="]" line="95" column="13" />
         <mark key="." line="95" column="13" />
@@ -290,6 +290,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/nifi/nifi-api/0.6.0/nifi-api-0.6.0.jar!/org/apache/nifi/processor/AbstractProcessor.class" timestamp="1469521143782" />
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/IDLU.feature" timestamp="1467040292829">
         <mark key="[" line="5" column="52" />
         <mark key="]" line="5" column="52" />
@@ -439,7 +440,7 @@
         <mark key="^" line="5" column="30" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1467109501571">
+      <file name="/fragment.java" timestamp="1469521097742">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
