@@ -36,6 +36,7 @@
       <file name="/a.dummy" timestamp="1469528791289">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/work/fiscus-ingestor/kerberos-sql-driver/src/main/java/com/barclays/treasury/fiscus/ingestor/jdbc/KerberosSQLServerDriver.java" timestamp="1469704728887" />
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/com/barclays/qrm/step_definitions/QRMStepDefinitions.scala" timestamp="1461161093269">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="9" column="15" />
@@ -98,6 +99,7 @@
         <mark key="." line="3" column="64" />
         <mark key="^" line="3" column="64" />
       </file>
+      <file name="C:/work/fiscus-ingestor/kerberos-sql-driver/src/main/java/com/barclays/treasury/fiscus/ingestor/jdbc/KerberosJDBCDriverWrapper.java" timestamp="1469704602550" />
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/stress.feature" timestamp="1464702406670">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="4" column="9" />
@@ -267,6 +269,7 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="8" column="21" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.2/hadoop-common-2.6.2-sources.jar!/org/apache/hadoop/conf/Configuration.java" timestamp="1469704357604" />
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/Runner.scala" timestamp="1460723163533">
         <mark key="[" line="0" column="0" />
       </file>
