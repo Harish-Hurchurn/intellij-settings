@@ -235,9 +235,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/solace/sol-jms/7.1.1.169/sol-jms-7.1.1.169.jar!/com/solacesystems/jms/SolConnectionFactoryImpl.class" timestamp="1469518888454">
-        <mark key="'" line="654" column="0" />
-      </file>
       <file name="C:/work/fiscus-ingestor/kerberos-sql-driver/src/main/java/com/barclays/treasury/fiscus/ingestor/jdbc/KerberosSQLServerDriver.java" timestamp="1469704728887" />
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/com/barclays/qrm/step_definitions/QRMStepDefinitions.scala" timestamp="1461161093269">
         <mark key="[" line="10" column="25" />
@@ -245,6 +242,7 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-executesql-bundle/nifi-executesql-processor/src/main/java/com/barclays/treasury/fiscus/ingestor/executesql/ExecuteSQLConnection.java" timestamp="1469722457714" />
       <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/barclays/treasury/sbt/Jvm.scala" timestamp="1460733678809">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
