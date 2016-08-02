@@ -124,11 +124,11 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/sit/flow-templates/Stress_LDB.yml" timestamp="1470147591500">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="53" column="14" />
-        <mark key="." line="54" column="0" />
+      <file name="C:/work/fiscus-ingestor/installer/env/sit/flow-templates/Stress_LDB.yml" timestamp="1470150982652">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="6" />
+        <mark key="^" line="20" column="6" />
+        <mark key="." line="20" column="6" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/utils/Utils.scala" timestamp="1464335903387">
         <mark key="[" line="19" column="19" />
@@ -494,7 +494,7 @@
         <text encoding="base64">aWZpLmtlcmJlcm9zLmF1dGhlbnRpY2F0aW9uLmV4cGlyYXRpb249MTIgaG91cnMK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5tNTk=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -528,10 +528,10 @@
         <entry>m 97</entry>
         <entry>m 96</entry>
         <entry>m95</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5tMzk=</entry>
         <entry encoding="base64">JzwsJz5tIDM4</entry>
         <entry encoding="base64">JzwsJz5tNTk=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
