@@ -13,6 +13,11 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
+      <file name="C:/work/cucumber-plugin/src/main/scala/com/barclays/treasury/cucumber/sbt/Cucumber.scala" timestamp="1460977654511">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="C:/work/cucumber-framework/project/build.properties" timestamp="1460974251714">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="0" column="18" />
@@ -25,210 +30,17 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="C:/work/src/cucumber/cucumber-plugin-example/src/test/scala/com/waioeka/sbt/MultiplicationSteps.scala" timestamp="1460733462865">
-        <mark key="[" line="29" column="1" />
-        <mark key="]" line="29" column="1" />
-        <mark key="." line="29" column="1" />
-      </file>
-      <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/fiscus/cucumber/sbt/Jvm.scala" timestamp="1460974042542">
-        <mark key="[" line="32" column="33" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/project/plugins.sbt" timestamp="1467207404027">
-        <mark key="[" line="3" column="92" />
-        <mark key="]" line="3" column="92" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="3" column="92" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/kerberos-sql-driver/src/main/java/com/barclays/treasury/fiscus/ingestor/jdbc/KerberosJDBCDriverWrapper.java" timestamp="1469704602550" />
-      <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/cucumber/Cucumber.scala" timestamp="1460973879735">
-        <mark key="[" line="17" column="1" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/build.sbt" timestamp="1461161894079">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/README.md" timestamp="1464281037432">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="0" column="7" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/resources/config.properties" timestamp="1469539998126">
-        <mark key="[" line="0" column="40" />
-        <mark key="]" line="3" column="25" />
-        <mark key="^" line="3" column="25" />
-        <mark key="." line="3" column="25" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/utils/Utils.scala" timestamp="1464335903387">
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="18" column="14" />
-        <mark key="^" line="18" column="14" />
-        <mark key="." line="18" column="14" />
-      </file>
-      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/Test.feature" timestamp="1460630925682">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-        <mark key="^" line="5" column="28" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/solace/sol-jcsmp/7.1.1.169/sol-jcsmp-7.1.1.169.jar!/com/solacesystems/jcsmp/JCSMPProperties.class" timestamp="1469533634704">
-        <mark key="[" line="30" column="61" />
-        <mark key="]" line="30" column="89" />
-      </file>
-      <file name="C:/work/cucumber-framework/project/Build.scala" timestamp="1460976132839">
-        <mark key="[" line="22" column="44" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/.gitignore" timestamp="1464281067975">
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSConnectionFactory.java" timestamp="1469540118764">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1468489909733">
-        <mark key="[" line="8" column="44" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-      </file>
-      <file name="C:/work/cucumber-plugin/src/main/scala/com/barclays/treasury/cucumber/sbt/CucumberParameters.scala" timestamp="1460977550150">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="0" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/repositories" timestamp="1464860123111">
-        <mark key="[" line="3" column="74" />
-        <mark key="]" line="3" column="74" />
-        <mark key="." line="3" column="74" />
-      </file>
-      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/NifiTest.scala" timestamp="1460723503540">
-        <mark key="[" line="3" column="60" />
-        <mark key="]" line="10" column="15" />
-        <mark key="^" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-      </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/NiFiUtilities.scala" timestamp="1467727741031">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="27" column="49" />
-        <mark key="." line="27" column="49" />
-        <mark key="^" line="27" column="49" />
-      </file>
-      <file name="C:/work/Testing/src/test/scala/Runner.scala" timestamp="1460990954933">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="C:/work/src/cucumber-plugin-example/project/plugins.sbt" timestamp="1460729704703">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="1" column="67" />
-        <mark key="^" line="1" column="67" />
-        <mark key="." line="1" column="67" />
-      </file>
-      <file name="C:/work/Testing/src/test/scala/com/Runner.scala" timestamp="1460991387495">
-        <mark key="[" line="8" column="2" />
-        <mark key="]" line="8" column="21" />
-        <mark key="^" line="7" column="8" />
-        <mark key="." line="8" column="21" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Stress.scala" timestamp="1464702297860">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/barclays/treasury/sbt/JvmParameters.scala" timestamp="1460733685736">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/work/Testing/src/test/scala/StepDef.scala" timestamp="1460990808622">
-        <mark key="[" line="10" column="2" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/IDLU.feature" timestamp="1467040292829">
-        <mark key="[" line="5" column="52" />
-        <mark key="]" line="5" column="52" />
-        <mark key="^" line="2" column="14" />
-        <mark key="." line="5" column="52" />
-      </file>
-      <file name="C:/work/cucumber-plugin/src/main/scala/com/barclays/treasury/cucumber/sbt/Jvm.scala" timestamp="1460977710941">
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="51" column="0" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/kerberos-sql-driver/src/main/scala/com/barclays/treasury/fiscus/ingestor/jdbc/KrbSqlDriver.scala" timestamp="1469701520015" />
-      <file name="C:/work/cucumber-plugin/project/Build.scala" timestamp="1461339901996">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="42" column="11" />
-        <mark key="." line="42" column="11" />
-        <mark key="^" line="42" column="11" />
-      </file>
-      <file name="C:/work/cucumber-plugin-test/build.sbt" timestamp="1460983082026">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="9" column="36" />
-        <mark key="." line="9" column="36" />
-        <mark key="^" line="9" column="36" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/NiFi.feature" timestamp="1467727746471">
-        <mark key="[" line="2" column="77" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
-      <file name="C:/work/Testing/project/plugins.sbt" timestamp="1460992392850">
-        <mark key="[" line="4" column="38" />
-        <mark key="]" line="4" column="37" />
-        <mark key="." line="4" column="37" />
-        <mark key="^" line="4" column="37" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/com/barclays/qrm/step_definitions/QRM.scala" timestamp="1461148606761">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="35" />
-        <mark key="." line="11" column="35" />
-        <mark key="^" line="11" column="35" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/com/barclays/QRM/Runner.scala" timestamp="1460995038163">
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
-      </file>
-      <file name="C:/work/src/cucumber/cucumber-plugin/.gitignore" timestamp="1460734858407">
-        <mark key="[" line="189" column="14" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.2/hadoop-common-2.6.2-sources.jar!/org/apache/hadoop/ipc/Client.java" timestamp="1470057353857" />
-      <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/barclays/treasury/sbt/package.scala" timestamp="1460733823487">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="11" column="1" />
-        <mark key="." line="11" column="1" />
-      </file>
-      <file name="C:/work/cucumber-plugin/src/main/scala/com/barclays/treasury/cucumber/sbt/Cucumber.scala" timestamp="1460977654511">
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/kerberos-sql-driver/src/main/java/com/barclays/treasury/fiscus/ingestor/jdbc/KerberosSQLServerDriver.java" timestamp="1469704728887" />
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/com/barclays/qrm/step_definitions/QRMStepDefinitions.scala" timestamp="1461161093269">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-executesql-bundle/nifi-executesql-processor/src/main/java/com/barclays/treasury/fiscus/ingestor/executesql/ExecuteSQLConnection.java" timestamp="1469722457714" />
+      <file name="C:/work/src/cucumber/cucumber-plugin-example/src/test/scala/com/waioeka/sbt/MultiplicationSteps.scala" timestamp="1460733462865">
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="29" column="1" />
+        <mark key="." line="29" column="1" />
+      </file>
       <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/barclays/treasury/sbt/Jvm.scala" timestamp="1460733678809">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -246,12 +58,23 @@
         <mark key="^" line="78" column="52" />
         <mark key="." line="78" column="52" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.0/hadoop-common-2.6.0.jar!/org/apache/hadoop/security/HadoopKerberosName.class" timestamp="1469553682512" />
+      <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/fiscus/cucumber/sbt/Jvm.scala" timestamp="1460974042542">
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+      </file>
       <file name="C:/work/src/cucumber-plugin-example/project/build.properties" timestamp="1460729686846">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/project/plugins.sbt" timestamp="1467207404027">
+        <mark key="[" line="3" column="92" />
+        <mark key="]" line="3" column="92" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="3" column="92" />
       </file>
       <file name="C:/work/cucumber-plugin/project/build.properties" timestamp="1461573319544">
         <mark key="[" line="0" column="17" />
@@ -275,14 +98,63 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/cucumber/Cucumber.scala" timestamp="1460973879735">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/solace/sol-jcsmp/7.1.1.169/sol-jcsmp-7.1.1.169.jar!/com/solacesystems/jcsmp/JCSMPPropertyMap.class" timestamp="1469462503818">
         <mark key="[" line="21" column="11" />
         <mark key="]" line="21" column="26" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/build.sbt" timestamp="1461161894079">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/README.md" timestamp="1464281037432">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/resources/config.properties" timestamp="1469539998126">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/installer/env/sit/flow-templates/Stress_LDB.yml" timestamp="1470147591500">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="53" column="14" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/utils/Utils.scala" timestamp="1464335903387">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="18" column="14" />
+        <mark key="^" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+      </file>
+      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/Test.feature" timestamp="1460630925682">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/solace/sol-jcsmp/7.1.1.169/sol-jcsmp-7.1.1.169.jar!/com/solacesystems/jcsmp/JCSMPProperties.class" timestamp="1469533634704">
+        <mark key="[" line="30" column="61" />
+        <mark key="]" line="30" column="89" />
       </file>
       <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/waioeka/sbt/Cucumber.scala" timestamp="1460733560915">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/work/cucumber-framework/project/Build.scala" timestamp="1460976132839">
+        <mark key="[" line="22" column="44" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/Nifi.scala" timestamp="1460635374130">
         <mark key="[" line="24" column="0" />
@@ -294,11 +166,33 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/.gitignore" timestamp="1464281067975">
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/src/main/java/com/barclays/treasury/fiscus/ingestor/solace/SolaceJMSConnectionFactory.java" timestamp="1469540118764">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1468489909733">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+      </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/build.sbt" timestamp="1460727405495">
         <mark key="[" line="12" column="56" />
         <mark key="]" line="15" column="28" />
         <mark key="." line="15" column="28" />
         <mark key="^" line="15" column="28" />
+      </file>
+      <file name="C:/work/cucumber-plugin/src/main/scala/com/barclays/treasury/cucumber/sbt/CucumberParameters.scala" timestamp="1460977550150">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/com/barclays/qrm/step_definitions/Runner.scala" timestamp="1460995687040">
         <mark key="[" line="2" column="0" />
@@ -309,6 +203,23 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/repositories" timestamp="1464860123111">
+        <mark key="[" line="3" column="74" />
+        <mark key="]" line="3" column="74" />
+        <mark key="." line="3" column="74" />
+      </file>
+      <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/scala/NifiTest.scala" timestamp="1460723503540">
+        <mark key="[" line="3" column="60" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+      </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/NiFiUtilities.scala" timestamp="1467727741031">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="27" column="49" />
+        <mark key="." line="27" column="49" />
+        <mark key="^" line="27" column="49" />
       </file>
       <file name="C:/work/cucumber-framework/src/main/scala/com/barclays/treasury/cucumber/CucumberPlugin.scala" timestamp="1460973860713">
         <mark key="[" line="82" column="18" />
@@ -327,13 +238,33 @@
         <mark key="^" line="6" column="61" />
         <mark key="." line="6" column="61" />
       </file>
-      <file name="$USER_HOME$/.ideaLibSources/scala-library-2.11.8-sources.jar!/scala/Predef.scala" timestamp="1469800596714" />
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/src/test/resources/Nifi.feature" timestamp="1460724866053">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.2/hadoop-common-2.6.2-sources.jar!/org/apache/hadoop/conf/Configuration.java" timestamp="1469704357604" />
+      <file name="C:/work/Testing/src/test/scala/Runner.scala" timestamp="1460990954933">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="C:/work/src/cucumber-plugin-example/project/plugins.sbt" timestamp="1460729704703">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="1" column="67" />
+        <mark key="^" line="1" column="67" />
+        <mark key="." line="1" column="67" />
+      </file>
+      <file name="C:/work/Testing/src/test/scala/com/Runner.scala" timestamp="1460991387495">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="7" column="8" />
+        <mark key="." line="8" column="21" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Stress.scala" timestamp="1464702297860">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="C:/work/src/fiscus-ingestor/end-to-end-testing/.gitignore" timestamp="1460644199484">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="261" column="22" />
@@ -346,7 +277,22 @@
         <mark key="^" line="32" column="25" />
         <mark key="." line="32" column="25" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/src/main/scala/com/barclays/treasury/HiveLoader.scala" timestamp="1469809032726" />
+      <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/barclays/treasury/sbt/JvmParameters.scala" timestamp="1460733685736">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/work/Testing/src/test/scala/StepDef.scala" timestamp="1460990808622">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/IDLU.feature" timestamp="1467040292829">
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="5" column="52" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="5" column="52" />
+      </file>
       <file name="C:/work/cucumber-plugin/src/main/scala/com/barclays/treasury/cucumber/sbt/CucumberPlugin.scala" timestamp="1460978369990">
         <mark key="[" line="83" column="20" />
         <mark key="]" line="93" column="0" />
@@ -359,17 +305,35 @@
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.2/hadoop-common-2.6.2-sources.jar!/org/apache/hadoop/security/HadoopKerberosName.java" timestamp="1469553998261" />
+      <file name="C:/work/cucumber-plugin/src/main/scala/com/barclays/treasury/cucumber/sbt/Jvm.scala" timestamp="1460977710941">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="0" />
+      </file>
+      <file name="C:/work/cucumber-plugin/project/Build.scala" timestamp="1461339901996">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="42" column="11" />
+        <mark key="." line="42" column="11" />
+        <mark key="^" line="42" column="11" />
+      </file>
       <file name="C:/work/fiscus-ingestor/installer/common/conf/bootstrap_template.properties" timestamp="1469544251133">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469612396754">
+      <file name="C:/work/cucumber-plugin-test/build.sbt" timestamp="1460983082026">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+        <mark key="^" line="9" column="36" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1470147626061">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="45" />
-        <mark key="." line="0" column="45" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="o" line="0" column="42" />
       </file>
       <file name="C:/work/cucumber-plugin/Build.sbt" timestamp="1461595120903">
         <mark key="[" line="0" column="0" />
@@ -387,6 +351,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/NiFi.feature" timestamp="1467727746471">
+        <mark key="[" line="2" column="77" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1469545078944">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="35" />
@@ -394,6 +364,12 @@
       </file>
       <file name="C:/work/fiscus-ingestor/installer/env/prod/flow-templates/Stress_LDB.yml" timestamp="1469612360573">
         <mark key="[" line="19" column="34" />
+      </file>
+      <file name="C:/work/Testing/project/plugins.sbt" timestamp="1460992392850">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+        <mark key="^" line="4" column="37" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/.gitignore" timestamp="1460997537424">
         <mark key="[" line="165" column="0" />
@@ -432,6 +408,27 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/com/barclays/qrm/step_definitions/QRM.scala" timestamp="1461148606761">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="35" />
+        <mark key="^" line="11" column="35" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/scala/com/barclays/QRM/Runner.scala" timestamp="1460995038163">
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+      </file>
+      <file name="C:/work/src/cucumber/cucumber-plugin/.gitignore" timestamp="1460734858407">
+        <mark key="[" line="189" column="14" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/work/src/cucumber/cucumber-plugin/src/main/scala/com/barclays/treasury/sbt/package.scala" timestamp="1460733823487">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+      </file>
       <file name="C:/work/fiscus-ingestor/workflows/QRM/end-to-end-testing/src/test/resources/qrm.feature" timestamp="1461160672260">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="40" />
@@ -458,10 +455,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aWZpLmtlcmJlcm9zLmF1dGhlbnRpY2F0aW9uLmV4cGlyYXRpb249MTIgaG91cnMK</text>
+        <text encoding="base64">VXBkYXRlZCBQUk9EIGNvbmZpZyB0byBoYXZlIGNvcnJlY3QgdmFsdWVzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>:q</text>
@@ -470,48 +467,34 @@
         <text>&quot;AUTHENTICATION_SCHEME_BASIC&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWZpLmtlcmJlcm9zLmF1dGhlbnRpY2F0aW9uLmV4cGlyYXRpb249MTIgaG91cnMK</text>
+        <text encoding="base64">VXBkYXRlZCBQUk9EIGNvbmZpZyB0byBoYXZlIGNvcnJlY3QgdmFsdWVzCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IyBMaWNlbnNlZCB0byB0aGUgQXBhY2hlIFNvZnR3YXJlIEZvdW5kYXRpb24gKEFTRikgdW5kZXIgb25lIG9yIG1vcmUKIyBjb250cmlidXRvciBsaWNlbnNlIGFncmVlbWVudHMuICBTZWUgdGhlIE5PVElDRSBmaWxlIGRpc3RyaWJ1dGVkIHdpdGgKIyB0aGlzIHdvcmsgZm9yIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24gcmVnYXJkaW5nIGNvcHlyaWdodCBvd25lcnNoaXAuCiMgVGhlIEFTRiBsaWNlbnNlcyB0aGlzIGZpbGUgdG8gWW91IHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAKIyAodGhlICJMaWNlbnNlIik7IHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aAojIHRoZSBMaWNlbnNlLiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiMKIyAgICAgaHR0cDovL3d3dy5hcGFjaGUub3JnL2xpY2Vuc2VzL0xJQ0VOU0UtMi4wCiMKIyBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiMgZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKIyBXSVRIT1VUIFdBUlJBTlRJRVMgT1IgQ09ORElUSU9OUyBPRiBBTlkgS0lORCwgZWl0aGVyIGV4cHJlc3Mgb3IgaW1wbGllZC4KIyBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiMgbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCgojIENvcmUgUHJvcGVydGllcyAjCm5pZmkudmVyc2lvbj0wLjYuMQpuaWZpLmZsb3cuY29uZmlndXJhdGlvbi5maWxlPS4vY29uZi9mbG93LnhtbC5negpuaWZpLmZsb3cuY29uZmlndXJhdGlvbi5hcmNoaXZlLmRpcj0uL2NvbmYvYXJjaGl2ZS8KbmlmaS5mbG93Y29udHJvbGxlci5hdXRvUmVzdW1lU3RhdGU9dHJ1ZQpuaWZpLmZsb3dzZXJ2aWNlLndyaXRlZGVsYXkuaW50ZXJ2YWw9NTAwIG1zCm5pZmkuYWRtaW5pc3RyYXRpdmUueWllbGQuZHVyYXRpb249MzAgc2VjCiMgSWYgYSBjb21wb25lbnQgaGFzIG5vIHdvcmsgdG8gZG8gKGlzICJib3JlZCIpLCBob3cgbG9uZyBzaG91bGQgd2Ugd2FpdCBiZWZvcmUgY2hlY2tpbmcgYWdhaW4gZm9yIHdvcms/Cm5pZmkuYm9yZWQueWllbGQuZHVyYXRpb249MTAgbWlsbGlzCgpuaWZpLmF1dGhvcml0eS5wcm92aWRlci5jb25maWd1cmF0aW9uLmZpbGU9Li9jb25mL2F1dGhvcml0eS1wcm92aWRlcnMueG1sCm5pZmkubG9naW4uaWRlbnRpdHkucHJvdmlkZXIuY29uZmlndXJhdGlvbi5maWxlPS4vY29uZi9sb2dpbi1pZGVudGl0eS1wcm92aWRlcnMueG1sCm5pZmkudGVtcGxhdGVzLmRpcmVjdG9yeT0uL2NvbmYvdGVtcGxhdGVzCm5pZmkudWkuYmFubmVyLnRleHQ9Cm5pZmkudWkuYXV0b3JlZnJlc2guaW50ZXJ2YWw9MzAgc2VjCm5pZmkubmFyLmxpYnJhcnkuZGlyZWN0b3J5PS4vbGliCm5pZmkubmFyLndvcmtpbmcuZGlyZWN0b3J5PS4vd29yay9uYXIvCm5pZmkuZG9jdW1lbnRhdGlvbi53b3JraW5nLmRpcmVjdG9yeT0uL3dvcmsvZG9jcy9jb21wb25lbnRzCgojIyMjIyMjIyMjIyMjIyMjIyMjIwojIFN0YXRlIE1hbmFnZW1lbnQgIwojIyMjIyMjIyMjIyMjIyMjIyMjIwpuaWZpLnN0YXRlLm1hbmFnZW1lbnQuY29uZmlndXJhdGlvbi5maWxlPS4vY29uZi9zdGF0ZS1tYW5hZ2VtZW50LnhtbAojIFRoZSBJRCBvZiB0aGUgbG9jYWwgc3RhdGUgcHJvdmlkZXIKbmlmaS5zdGF0ZS5tYW5hZ2VtZW50LnByb3ZpZGVyLmxvY2FsPWxvY2FsLXByb3ZpZGVyCiMgVGhlIElEIG9mIHRoZSBjbHVzdGVyLXdpZGUgc3RhdGUgcHJvdmlkZXIuIFRoaXMgd2lsbCBiZSBpZ25vcmVkIGlmIE5pRmkgaXMgbm90IGNsdXN0ZXJlZCBidXQgbXVzdCBiZSBwb3B1bGF0ZWQgaWYgcnVubmluZyBpbiBhIGNsdXN0ZXIuCm5pZmkuc3RhdGUubWFuYWdlbWVudC5wcm92aWRlci5jbHVzdGVyPXprLXByb3ZpZGVyCiMgU3BlY2lmaWVzIHdoZXRoZXIgb3Igbm90IHRoaXMgaW5zdGFuY2Ugb2YgTmlGaSBzaG91bGQgcnVuIGFuIGVtYmVkZGVkIFpvb0tlZXBlciBzZXJ2ZXIKbmlmaS5zdGF0ZS5tYW5hZ2VtZW50LmVtYmVkZGVkLnpvb2tlZXBlci5zdGFydD1mYWxzZQojIFByb3BlcnRpZXMgZmlsZSB0aGF0IHByb3ZpZGVzIHRoZSBab29LZWVwZXIgcHJvcGVydGllcyB0byB1c2UgaWYgPG5pZmkuc3RhdGUubWFuYWdlbWVudC5lbWJlZGRlZC56b29rZWVwZXIuc3RhcnQ+IGlzIHNldCB0byB0cnVlCm5pZmkuc3RhdGUubWFuYWdlbWVudC5lbWJlZGRlZC56b29rZWVwZXIucHJvcGVydGllcz0uL2NvbmYvem9va2VlcGVyLnByb3BlcnRpZXMKCgojIEgyIFNldHRpbmdzCm5pZmkuZGF0YWJhc2UuZGlyZWN0b3J5PS4vZGF0YWJhc2VfcmVwb3NpdG9yeQpuaWZpLmgyLnVybC5hcHBlbmQ9O0xPQ0tfVElNRU9VVD0yNTAwMDtXUklURV9ERUxBWT0wO0FVVE9fU0VSVkVSPUZBTFNFCgojIEZsb3dGaWxlIFJlcG9zaXRvcnkKbmlmaS5mbG93ZmlsZS5yZXBvc2l0b3J5LmltcGxlbWVudGF0aW9uPW9yZy5hcGFjaGUubmlmaS5jb250cm9sbGVyLnJlcG9zaXRvcnkuV3JpdGVBaGVhZEZsb3dGaWxlUmVwb3NpdG9yeQpuaWZpLmZsb3dmaWxlLnJlcG9zaXRvcnkuZGlyZWN0b3J5PS4vZmxvd2ZpbGVfcmVwb3NpdG9yeQpuaWZpLmZsb3dmaWxlLnJlcG9zaXRvcnkucGFydGl0aW9ucz0yNTYKbmlmaS5mbG93ZmlsZS5yZXBvc2l0b3J5LmNoZWNrcG9pbnQuaW50ZXJ2YWw9MiBtaW5zCm5pZmkuZmxvd2ZpbGUucmVwb3NpdG9yeS5hbHdheXMuc3luYz1mYWxzZQoKbmlmaS5zd2FwLm1hbmFnZXIuaW1wbGVtZW50YXRpb249b3JnLmFwYWNoZS5uaWZpLmNvbnRyb2xsZXIuRmlsZVN5c3RlbVN3YXBNYW5hZ2VyCm5pZmkucXVldWUuc3dhcC50aHJlc2hvbGQ9MjAwMDAKbmlmaS5zd2FwLmluLnBlcmlvZD01IHNlYwpuaWZpLnN3YXAuaW4udGhyZWFkcz0xCm5pZmkuc3dhcC5vdXQucGVyaW9kPTUgc2VjCm5pZmkuc3dhcC5vdXQudGhyZWFkcz00CgojIENvbnRlbnQgUmVwb3NpdG9yeQpuaWZpLmNvbnRlbnQucmVwb3NpdG9yeS5pbXBsZW1lbnRhdGlvbj1vcmcuYXBhY2hlLm5pZmkuY29udHJvbGxlci5yZXBvc2l0b3J5LkZpbGVTeXN0ZW1SZXBvc2l0b3J5Cm5pZmkuY29udGVudC5jbGFpbS5tYXguYXBwZW5kYWJsZS5zaXplPTEwIE1CCm5pZmkuY29udGVudC5jbGFpbS5tYXguZmxvdy5maWxlcz0xMDAKbmlmaS5jb250ZW50LnJlcG9zaXRvcnkuZGlyZWN0b3J5LmRlZmF1bHQ9Li9jb250ZW50X3JlcG9zaXRvcnkKbmlmaS5jb250ZW50LnJlcG9zaXRvcnkuYXJjaGl2ZS5tYXgucmV0ZW50aW9uLnBlcmlvZD0xMiBob3VycwpuaWZpLmNvbnRlbnQucmVwb3NpdG9yeS5hcmNoaXZlLm1heC51c2FnZS5wZXJjZW50YWdlPTUwJQpuaWZpLmNvbnRlbnQucmVwb3NpdG9yeS5hcmNoaXZlLmVuYWJsZWQ9dHJ1ZQpuaWZpLmNvbnRlbnQucmVwb3NpdG9yeS5hbHdheXMuc3luYz1mYWxzZQpuaWZpLmNvbnRlbnQudmlld2VyLnVybD0vbmlmaS1jb250ZW50LXZpZXdlci8KCiMgUHJvdmVuYW5jZSBSZXBvc2l0b3J5IFByb3BlcnRpZXMKbmlmaS5wcm92ZW5hbmNlLnJlcG9zaXRvcnkuaW1wbGVtZW50YXRpb249b3JnLmFwYWNoZS5uaWZpLnByb3ZlbmFuY2UuUGVyc2lzdGVudFByb3ZlbmFuY2VSZXBvc2l0b3J5CgojIFBlcnNpc3RlbnQgUHJvdmVuYW5jZSBSZXBvc2l0b3J5IFByb3BlcnRpZXMKbmlmaS5wcm92ZW5hbmNlLnJlcG9zaXRvcnkuZGlyZWN0b3J5LmRlZmF1bHQ9Li9wcm92ZW5hbmNlX3JlcG9zaXRvcnkKbmlmaS5wcm92ZW5hbmNlLnJlcG9zaXRvcnkubWF4LnN0b3JhZ2UudGltZT0yNCBob3VycwpuaWZpLnByb3ZlbmFuY2UucmVwb3NpdG9yeS5tYXguc3RvcmFnZS5zaXplPTEgR0IKbmlmaS5wcm92ZW5hbmNlLnJlcG9zaXRvcnkucm9sbG92ZXIudGltZT0zMCBzZWNzCm5pZmkucHJvdmVuYW5jZS5yZXBvc2l0b3J5LnJvbGxvdmVyLnNpemU9MTAwIE1CCm5pZmkucHJvdmVuYW5jZS5yZXBvc2l0b3J5LnF1ZXJ5LnRocmVhZHM9MgpuaWZpLnByb3ZlbmFuY2UucmVwb3NpdG9yeS5pbmRleC50aHJlYWRzPTEKbmlmaS5wcm92ZW5hbmNlLnJlcG9zaXRvcnkuY29tcHJlc3Mub24ucm9sbG92ZXI9dHJ1ZQpuaWZpLnByb3ZlbmFuY2UucmVwb3NpdG9yeS5hbHdheXMuc3luYz1mYWxzZQpuaWZpLnByb3ZlbmFuY2UucmVwb3NpdG9yeS5qb3VybmFsLmNvdW50PTE2CiMgQ29tbWEtc2VwYXJhdGVkIGxpc3Qgb2YgZmllbGRzLiBGaWVsZHMgdGhhdCBhcmUgbm90IGluZGV4ZWQgd2lsbCBub3QgYmUgc2VhcmNoYWJsZS4gVmFsaWQgZmllbGRzIGFyZTogCiMgRXZlbnRUeXBlLCBGbG93RmlsZVVVSUQsIEZpbGVuYW1lLCBUcmFuc2l0VVJJLCBQcm9jZXNzb3JJRCwgQWx0ZXJuYXRlSWRlbnRpZmllclVSSSwgUmVsYXRpb25zaGlwLCBEZXRhaWxzCm5pZmkucHJvdmVuYW5jZS5yZXBvc2l0b3J5LmluZGV4ZWQuZmllbGRzPUV2ZW50VHlwZSwgRmxvd0ZpbGVVVUlELCBGaWxlbmFtZSwgUHJvY2Vzc29ySUQsIFJlbGF0aW9uc2hpcAojIEZsb3dGaWxlIEF0dHJpYnV0ZXMgdGhhdCBzaG91bGQgYmUgaW5kZXhlZCBhbmQgbWFkZSBzZWFyY2hhYmxlLiAgU29tZSBleGFtcGxlcyB0byBjb25zaWRlciBhcmUgZmlsZW5hbWUsIHV1aWQsIG1pbWUudHlwZQpuaWZpLnByb3ZlbmFuY2UucmVwb3NpdG9yeS5pbmRleGVkLmF0dHJpYnV0ZXM9CiMgTGFyZ2UgdmFsdWVzIGZvciB0aGUgc2hhcmQgc2l6ZSB3aWxsIHJlc3VsdCBpbiBtb3JlIEphdmEgaGVhcCB1c2FnZSB3aGVuIHNlYXJjaGluZyB0aGUgUHJvdmVuYW5jZSBSZXBvc2l0b3J5CiMgYnV0IHNob3VsZCBwcm92aWRlIGJldHRlciBwZXJmb3JtYW5jZQpuaWZpLnByb3ZlbmFuY2UucmVwb3NpdG9yeS5pbmRleC5zaGFyZC5zaXplPTUwMCBNQgojIEluZGljYXRlcyB0aGUgbWF4aW11bSBsZW5ndGggdGhhdCBhIEZsb3dGaWxlIGF0dHJpYnV0ZSBjYW4gYmUgd2hlbiByZXRyaWV2aW5nIGEgUHJvdmVuYW5jZSBFdmVudCBmcm9tCiMgdGhlIHJlcG9zaXRvcnkuIElmIHRoZSBsZW5ndGggb2YgYW55IGF0dHJpYnV0ZSBleGNlZWRzIHRoaXMgdmFsdWUsIGl0IHdpbGwgYmUgdHJ1bmNhdGVkIHdoZW4gdGhlIGV2ZW50IGlzIHJldHJpZXZlZC4KbmlmaS5wcm92ZW5hbmNlLnJlcG9zaXRvcnkubWF4LmF0dHJpYnV0ZS5sZW5ndGg9NjU1MzYKCiMgVm9sYXRpbGUgUHJvdmVuYW5jZSBSZXNwb3NpdG9yeSBQcm9wZXJ0aWVzCm5pZmkucHJvdmVuYW5jZS5yZXBvc2l0b3J5LmJ1ZmZlci5zaXplPTEwMDAwMAoKIyBDb21wb25lbnQgU3RhdHVzIFJlcG9zaXRvcnkKbmlmaS5jb21wb25lbnRzLnN0YXR1cy5yZXBvc2l0b3J5LmltcGxlbWVudGF0aW9uPW9yZy5hcGFjaGUubmlmaS5jb250cm9sbGVyLnN0YXR1cy5oaXN0b3J5LlZvbGF0aWxlQ29tcG9uZW50U3RhdHVzUmVwb3NpdG9yeQpuaWZpLmNvbXBvbmVudHMuc3RhdHVzLnJlcG9zaXRvcnkuYnVmZmVyLnNpemU9MTQ0MApuaWZpLmNvbXBvbmVudHMuc3RhdHVzLnNuYXBzaG90LmZyZXF1ZW5jeT0xIG1pbgoKIyBTaXRlIHRvIFNpdGUgcHJvcGVydGllcwpuaWZpLnJlbW90ZS5pbnB1dC5zb2NrZXQuaG9zdD0KbmlmaS5yZW1vdGUuaW5wdXQuc29ja2V0LnBvcnQ9Cm5pZmkucmVtb3RlLmlucHV0LnNlY3VyZT10cnVlCgojIHdlYiBwcm9wZXJ0aWVzICMKbmlmaS53ZWIud2FyLmRpcmVjdG9yeT0uL2xpYgpuaWZpLndlYi5odHRwLmhvc3Q9Cm5pZmkud2ViLmh0dHAucG9ydD1OSUZJX0hUVFBfUE9SVApuaWZpLndlYi5odHRwcy5ob3N0PQpuaWZpLndlYi5odHRwcy5wb3J0PQpuaWZpLndlYi5qZXR0eS53b3JraW5nLmRpcmVjdG9yeT0uL3dvcmsvamV0dHkKbmlmaS53ZWIuamV0dHkudGhyZWFkcz0yMDAKCiMgc2VjdXJpdHkgcHJvcGVydGllcyAjCm5pZmkuc2Vuc2l0aXZlLnByb3BzLmtleT0KbmlmaS5zZW5zaXRpdmUucHJvcHMuYWxnb3JpdGhtPVBCRVdJVEhNRDVBTkQyNTZCSVRBRVMtQ0JDLU9QRU5TU0wKbmlmaS5zZW5zaXRpdmUucHJvcHMucHJvdmlkZXI9QkMKCm5pZmkuc2VjdXJpdHkua2V5c3RvcmU9Cm5pZmkuc2VjdXJpdHkua2V5c3RvcmVUeXBlPQpuaWZpLnNlY3VyaXR5LmtleXN0b3JlUGFzc3dkPQpuaWZpLnNlY3VyaXR5LmtleVBhc3N3ZD0KbmlmaS5zZWN1cml0eS50cnVzdHN0b3JlPQpuaWZpLnNlY3VyaXR5LnRydXN0c3RvcmVUeXBlPQpuaWZpLnNlY3VyaXR5LnRydXN0c3RvcmVQYXNzd2Q9Cm5pZmkuc2VjdXJpdHkubmVlZENsaWVudEF1dGg9Cm5pZmkuc2VjdXJpdHkudXNlci5jcmVkZW50aWFsLmNhY2hlLmR1cmF0aW9uPTI0IGhvdXJzCm5pZmkuc2VjdXJpdHkudXNlci5hdXRob3JpdHkucHJvdmlkZXI9ZmlsZS1wcm92aWRlcgpuaWZpLnNlY3VyaXR5LnVzZXIubG9naW4uaWRlbnRpdHkucHJvdmlkZXI9Cm5pZmkuc2VjdXJpdHkuc3VwcG9ydC5uZXcuYWNjb3VudC5yZXF1ZXN0cz0KIyBWYWxpZCBBdXRob3JpdGllcyBpbmNsdWRlOiBST0xFX01PTklUT1IsUk9MRV9ERk0sUk9MRV9BRE1JTixST0xFX1BST1ZFTkFOQ0UsUk9MRV9OSUZJCm5pZmkuc2VjdXJpdHkuYW5vbnltb3VzLmF1dGhvcml0aWVzPQpuaWZpLnNlY3VyaXR5Lm9jc3AucmVzcG9uZGVyLnVybD0KbmlmaS5zZWN1cml0eS5vY3NwLnJlc3BvbmRlci5jZXJ0aWZpY2F0ZT0KCiMgY2x1c3RlciBjb21tb24gcHJvcGVydGllcyAoY2x1c3RlciBtYW5hZ2VyIGFuZCBub2RlcyBtdXN0IGhhdmUgc2FtZSB2YWx1ZXMpICMKbmlmaS5jbHVzdGVyLnByb3RvY29sLmhlYXJ0YmVhdC5pbnRlcnZhbD01IHNlYwpuaWZpLmNsdXN0ZXIucHJvdG9jb2wuaXMuc2VjdXJlPWZhbHNlCm5pZmkuY2x1c3Rlci5wcm90b2NvbC5zb2NrZXQudGltZW91dD0zMCBzZWMKbmlmaS5jbHVzdGVyLnByb3RvY29sLmNvbm5lY3Rpb24uaGFuZHNoYWtlLnRpbWVvdXQ9NDUgc2VjCiMgaWYgbXVsdGljYXN0IGlzIHVzZWQsIHRoZW4gbmlmaS5jbHVzdGVyLnByb3RvY29sLm11bHRpY2FzdC54eHggcHJvcGVydGllcyBtdXN0IGJlIGNvbmZpZ3VyZWQgIwpuaWZpLmNsdXN0ZXIucHJvdG9jb2wudXNlLm11bHRpY2FzdD1mYWxzZQpuaWZpLmNsdXN0ZXIucHJvdG9jb2wubXVsdGljYXN0LmFkZHJlc3M9Cm5pZmkuY2x1c3Rlci5wcm90b2NvbC5tdWx0aWNhc3QucG9ydD0KbmlmaS5jbHVzdGVyLnByb3RvY29sLm11bHRpY2FzdC5zZXJ2aWNlLmJyb2FkY2FzdC5kZWxheT01MDAgbXMKbmlmaS5jbHVzdGVyLnByb3RvY29sLm11bHRpY2FzdC5zZXJ2aWNlLmxvY2F0b3IuYXR0ZW1wdHM9MwpuaWZpLmNsdXN0ZXIucHJvdG9jb2wubXVsdGljYXN0LnNlcnZpY2UubG9jYXRvci5hdHRlbXB0cy5kZWxheT0xIHNlYwoKIyBjbHVzdGVyIG5vZGUgcHJvcGVydGllcyAob25seSBjb25maWd1cmUgZm9yIGNsdXN0ZXIgbm9kZXMpICMKbmlmaS5jbHVzdGVyLmlzLm5vZGU9ZmFsc2UKbmlmaS5jbHVzdGVyLm5vZGUuYWRkcmVzcz0KbmlmaS5jbHVzdGVyLm5vZGUucHJvdG9jb2wucG9ydD0KbmlmaS5jbHVzdGVyLm5vZGUucHJvdG9jb2wudGhyZWFkcz0yCiMgaWYgbXVsdGljYXN0IGlzIG5vdCB1c2VkLCBuaWZpLmNsdXN0ZXIubm9kZS51bmljYXN0Lnh4eCBtdXN0IGhhdmUgc2FtZSB2YWx1ZXMgYXMgbmlmaS5jbHVzdGVyLm1hbmFnZXIueHh4ICMKbmlmaS5jbHVzdGVyLm5vZGUudW5pY2FzdC5tYW5hZ2VyLmFkZHJlc3M9Cm5pZmkuY2x1c3Rlci5ub2RlLnVuaWNhc3QubWFuYWdlci5wcm90b2NvbC5wb3J0PQoKIyBjbHVzdGVyIG1hbmFnZXIgcHJvcGVydGllcyAob25seSBjb25maWd1cmUgZm9yIGNsdXN0ZXIgbWFuYWdlcikgIwpuaWZpLmNsdXN0ZXIuaXMubWFuYWdlcj1mYWxzZQpuaWZpLmNsdXN0ZXIubWFuYWdlci5hZGRyZXNzPQpuaWZpLmNsdXN0ZXIubWFuYWdlci5wcm90b2NvbC5wb3J0PQpuaWZpLmNsdXN0ZXIubWFuYWdlci5ub2RlLmZpcmV3YWxsLmZpbGU9Cm5pZmkuY2x1c3Rlci5tYW5hZ2VyLm5vZGUuZXZlbnQuaGlzdG9yeS5zaXplPTEwCm5pZmkuY2x1c3Rlci5tYW5hZ2VyLm5vZGUuYXBpLmNvbm5lY3Rpb24udGltZW91dD0zMCBzZWMKbmlmaS5jbHVzdGVyLm1hbmFnZXIubm9kZS5hcGkucmVhZC50aW1lb3V0PTMwIHNlYwpuaWZpLmNsdXN0ZXIubWFuYWdlci5ub2RlLmFwaS5yZXF1ZXN0LnRocmVhZHM9MTAKbmlmaS5jbHVzdGVyLm1hbmFnZXIuZmxvdy5yZXRyaWV2YWwuZGVsYXk9NSBzZWMKbmlmaS5jbHVzdGVyLm1hbmFnZXIucHJvdG9jb2wudGhyZWFkcz0xMApuaWZpLmNsdXN0ZXIubWFuYWdlci5zYWZlbW9kZS5kdXJhdGlvbj0wIHNlYwoKIyBrZXJiZXJvcyAjCm5pZmkua2VyYmVyb3Mua3JiNS5maWxlPS9ldGMva3JiNS5jb25mCiNuaWZpLmtlcmJlcm9zLnNlcnZpY2UucHJpbmNpcGFsPQojbmlmaS5rZXJiZXJvcy5rZXl0YWIubG9jYXRpb249Cm4=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmlmaS5mbG93Y29udHJvbGxlci5ncmFjZWZ1bC5zaHV0ZG93bi5wZXJpb2Q9MSBzZWMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgIEV4ZWN1dGVTUUxDb25uZWN0aW9uS2ViZXJvczoKICAgICAgICBjb25maWc6</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>private Properties keberosProperties() throws FileNotFoundException {
-        Properties props = new Properties();
-        String propFileName = &quot;config.properties&quot;;
-
-        InputStream inputStream = getClass().getClassLoader().getResourceAsStream(propFileName);
-        if (inputStream != null) {
-            try {
-                props.load(inputStream);
-            } catch (IOException e) {
-                throw new FileNotFoundException(&quot;Property file &quot; + propFileName + &quot;' not found in the classpath&quot;);
-            }
-        }
-
-        return props;
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgRXhlY3V0ZVNRTENvbm5lY3Rpb25LZWJlcm9zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2YuZnJvbVByb3BlcnRpZXMoa2ViZXJvc1Byb3BlcnRpZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWc6Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRXhlY3V0ZVNRTENvbm5lY3Rpb25LZWJlcm9zCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoImphdmEuc2VjdXJpdHkua3JiNS5jb25mIiwgIiRIT01FL2tyYjUuY29uZiIpOwo=</text>
+        <text encoding="base64">aWZpLmtlcmJlcm9zLmF1dGhlbnRpY2F0aW9uLmV4cGlyYXRpb249MTIgaG91cnMK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5tNTk=</text>
       </register>
     </registers>
     <search>
@@ -529,9 +512,6 @@
         <entry>:q</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tIDE4</entry>
-        <entry>q!</entry>
-        <entry>qa!</entry>
         <entry>e Stress.scala</entry>
         <entry encoding="base64">JzwsJz5tMjA=</entry>
         <entry encoding="base64">JzwsJz5tIDIx</entry>
@@ -549,6 +529,9 @@
         <entry>m 96</entry>
         <entry>m95</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5tMzk=</entry>
+        <entry encoding="base64">JzwsJz5tIDM4</entry>
+        <entry encoding="base64">JzwsJz5tNTk=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
