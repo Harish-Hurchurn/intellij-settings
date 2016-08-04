@@ -25,11 +25,11 @@
       <file name="C:/work/fiscus-ingestor/installer/env/local/conf/nifi.properties" timestamp="1470216929430">
         <mark key="'" line="44" column="51" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_77/jre/lib/rt.jar!/sun/security/krb5/Realm.class" timestamp="1470307568463" />
+      <file name="C:/Program Files/Java/jdk1.8.0_77/jre/lib/rt.jar!/sun/security/krb5/Realm.class" timestamp="1470317920556" />
       <file name="C:/work/fiscus-ingestor/installer/env/sit/flow-templates/Stress_LDB.yml" timestamp="1470214675037">
         <mark key="[" line="43" column="2" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_77/jre/lib/rt.jar!/sun/security/krb5/Config.class" timestamp="1470316733520" />
+      <file name="C:/Program Files/Java/jdk1.8.0_77/jre/lib/rt.jar!/sun/security/krb5/Config.class" timestamp="1470317622358" />
       <file name="/Dummy.txt" timestamp="1470148827104">
         <mark key="[" line="0" column="68" />
         <mark key="]" line="0" column="0" />
@@ -41,6 +41,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.2/hadoop-common-2.6.2-sources.jar!/org/apache/hadoop/security/UserGroupInformation.java" timestamp="1470307074274">
         <mark key="'" line="1127" column="5" />
+      </file>
+      <file name="/fragment.java" timestamp="1470317754911">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
