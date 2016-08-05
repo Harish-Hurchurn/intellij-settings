@@ -3,15 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/work/fiscus-ingestor/installer/env/geordavi_4367/conf/nifi.properties" timestamp="1470216863748">
-        <mark key="'" line="34" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1470306279397">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/cordingj_41947/flow-templates/Planning&amp;Forecasting.yml" timestamp="1470240364689" />
-      <file name="C:/work/fiscus-ingestor/installer/env/dev3/conf/nifi.properties" timestamp="1470216853620">
-        <mark key="'" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1470148827104">
+        <mark key="[" line="0" column="68" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="o" line="0" column="42" />
       </file>
       <file name="C:/work/fiscus-ingestor/installer/env/sit/conf/jaas.conf" timestamp="1470214851925">
         <mark key="[" line="4" column="30" />
@@ -19,30 +15,30 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_77/src.zip!/com/sun/security/auth/module/Krb5LoginModule.java" timestamp="1470321833194" />
+      <file name="C:/work/fiscus-ingestor/installer/env/geordavi_4367/conf/nifi.properties" timestamp="1470216863748">
+        <mark key="'" line="34" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1470306279397">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/installer/env/prod/flow-templates/Stress_LDB.yml" timestamp="1469612360573">
+        <mark key="[" line="19" column="34" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/installer/env/sit/flow-templates/Stress_LDB.yml" timestamp="1470214675037">
+        <mark key="[" line="43" column="2" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.2/hadoop-common-2.6.2-sources.jar!/org/apache/hadoop/security/UserGroupInformation.java" timestamp="1470307074274">
+        <mark key="'" line="1127" column="5" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/attic/install-x.sh" timestamp="1470384702383" />
+      <file name="C:/work/fiscus-ingestor/installer/env/dev3/conf/nifi.properties" timestamp="1470216853620">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="C:/work/fiscus-ingestor/installer/env/dev2/conf/nifi.properties" timestamp="1470216836088">
         <mark key="'" line="30" column="34" />
       </file>
       <file name="C:/work/fiscus-ingestor/installer/env/local/conf/nifi.properties" timestamp="1470216929430">
         <mark key="'" line="44" column="51" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/Properties.java" timestamp="1470322065684" />
-      <file name="C:/Program Files/Java/jdk1.8.0_77/jre/lib/rt.jar!/sun/security/krb5/Realm.class" timestamp="1470319085110" />
-      <file name="C:/work/fiscus-ingestor/installer/env/sit/flow-templates/Stress_LDB.yml" timestamp="1470214675037">
-        <mark key="[" line="43" column="2" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_77/jre/lib/rt.jar!/sun/security/krb5/Config.class" timestamp="1470324069937" />
-      <file name="/Dummy.txt" timestamp="1470148827104">
-        <mark key="[" line="0" column="68" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="o" line="0" column="42" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/prod/flow-templates/Stress_LDB.yml" timestamp="1469612360573">
-        <mark key="[" line="19" column="34" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.2/hadoop-common-2.6.2-sources.jar!/org/apache/hadoop/security/UserGroupInformation.java" timestamp="1470307074274">
-        <mark key="'" line="1127" column="5" />
       </file>
       <file name="/fragment.java" timestamp="1470322062812">
         <mark key="[" line="0" column="0" />
