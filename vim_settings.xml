@@ -36,10 +36,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1470741927781">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="2" />
-        <mark key="." line="10" column="2" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1470746001275">
+        <mark key="[" line="11" column="78" />
+        <mark key="]" line="11" column="60" />
+        <mark key="." line="11" column="60" />
+        <mark key="^" line="11" column="60" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.2/hadoop-common-2.6.2-sources.jar!/org/apache/hadoop/security/UserGroupInformation.java" timestamp="1470307074274">
         <mark key="'" line="1127" column="5" />
@@ -89,8 +90,8 @@
       <jump line="1127" column="5" filename="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.2/hadoop-common-2.6.2-sources.jar!/org/apache/hadoop/security/UserGroupInformation.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">b3JnYW5pemF0aW9uIDo9ICJjb20uYmFyY2xheXMudHJlYXN1cnkuZmlzY3VzLmluZ2VzdG9yIgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICJjb20uYmFyY2xheXMudHJlYXN1cnkuZmlzY3VzLmluZ2VzdG9yIiAlJSAibmlmaXV0aWxpdGllcyIgJSAiMC4xLjAtU05BUFNIT1QiLA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -99,7 +100,7 @@
         <text>web</text>
       </register>
       <register name="0" type="4">
-        <text>organization := &quot;com.barclays.treasury.fiscus.ingestor&quot;</text>
+        <text encoding="base64">ICJjb20uYmFyY2xheXMudHJlYXN1cnkuZmlzY3VzLmluZ2VzdG9yIiAlJSAibmlmaXV0aWxpdGllcyIgJSAiMC4xLjAtU05BUFNIT1QiLA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">b3JnYW5pemF0aW9uIDo9ICJjb20uYmFyY2xheXMudHJlYXN1cnkuZmlzY3VzLmluZ2VzdG9yIgo=</text>
