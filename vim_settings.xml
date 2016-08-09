@@ -36,11 +36,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1470746001275">
-        <mark key="[" line="11" column="78" />
-        <mark key="]" line="11" column="60" />
-        <mark key="." line="11" column="60" />
-        <mark key="^" line="11" column="60" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1470749800260">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.2/hadoop-common-2.6.2-sources.jar!/org/apache/hadoop/security/UserGroupInformation.java" timestamp="1470307074274">
         <mark key="'" line="1127" column="5" />
@@ -90,8 +89,8 @@
       <jump line="1127" column="5" filename="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.2/hadoop-common-2.6.2-sources.jar!/org/apache/hadoop/security/UserGroupInformation.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICJjb20uYmFyY2xheXMudHJlYXN1cnkuZmlzY3VzLmluZ2VzdG9yIiAlJSAibmlmaXV0aWxpdGllcyIgJSAiMC4xLjAtU05BUFNIT1QiLA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAiY29tLmJhcmNsYXlzLnRyZWFzdXJ5LmZpc2N1cy5pbmdlc3RvciIgJSUgImN1Y3VtYmVyLXBsdWdpbiIgJSAiMC4xLjAtU05BUFNIT1QiLAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -103,9 +102,12 @@
         <text encoding="base64">ICJjb20uYmFyY2xheXMudHJlYXN1cnkuZmlzY3VzLmluZ2VzdG9yIiAlJSAibmlmaXV0aWxpdGllcyIgJSAiMC4xLjAtU05BUFNIT1QiLA==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAiY29tLmJhcmNsYXlzLnRyZWFzdXJ5LmZpc2N1cy5pbmdlc3RvciIgJSUgImN1Y3VtYmVyLXBsdWdpbiIgJSAiMC4xLjAtU05BUFNIT1QiLAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">b3JnYW5pemF0aW9uIDo9ICJjb20uYmFyY2xheXMudHJlYXN1cnkuZmlzY3VzLmluZ2VzdG9yIgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>&quot;com.m3&quot; %% &quot;curly-scala&quot; % &quot;0.5.6&quot;,
   &quot;org.scalatest&quot; %% &quot;scalatest&quot; % &quot;2.2.6&quot; % &quot;test&quot;,
   &quot;info.cukes&quot; % &quot;cucumber-core&quot; % cukesVersion,
@@ -115,26 +117,23 @@
   &quot;junit&quot; % &quot;junit&quot; % &quot;4.12&quot;,
   &quot;org.json4s&quot; %% &quot;json4s-native&quot; % &quot;3.3.0.RC6&quot;,</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">VXBkYXRlZCBQUk9EIGNvbmZpZyB0byBoYXZlIGNvcnJlY3QgdmFsdWVzCg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VXBkYXRlZCBQUk9EIGNvbmZpZyB0byBoYXZlIGNvcnJlY3QgdmFsdWVzCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgIEV4ZWN1dGVTUUxDb25uZWN0aW9uS2ViZXJvczoKICAgICAgICBjb25maWc6</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgRXhlY3V0ZVNRTENvbm5lY3Rpb25LZWJlcm9zCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWc6Cgo=</text>
+        <text encoding="base64">ICAgICAgRXhlY3V0ZVNRTENvbm5lY3Rpb25LZWJlcm9zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
