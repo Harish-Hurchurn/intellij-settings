@@ -35,11 +35,12 @@
         <mark key="." line="14" column="16" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/Printable.scala" timestamp="1471179260674">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="12" column="53" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/Printable.scala" timestamp="1471186907393">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
         <mark key="^" line="12" column="53" />
-        <mark key="." line="12" column="53" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" timestamp="1448805270802">
         <mark key="[" line="0" column="0" />
@@ -125,6 +126,11 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/Main.scala" timestamp="1471186973781">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugins/dependency.sbt" timestamp="1448797318506">
         <mark key="[" line="0" column="0" />
@@ -214,10 +220,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/cats/Cats.scala" timestamp="1471179275914">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/cats/Cat.scala" timestamp="1471186880312">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/maven-sbt.sbt" timestamp="1448795840580">
         <mark key="[" line="0" column="74" />
@@ -410,10 +416,11 @@
       <jump line="10" column="14" filename="$USER_HOME$/SpiderOak Hive/git/github/advanced-scala-with-cats/src/main/scala/Printable.scala" />
       <jump line="20" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/Printable.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/Printable.scala" />
+      <jump line="22" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/Printable.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">b2JqZWN0IE1haW4gewoK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -427,36 +434,34 @@
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">b2JqZWN0IE1haW4gewoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGRkZG9iamVjdCBSdW5uZXIgZXh0ZW5kcyBBcHAgewo=</text>
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaGFyaXNoIG9uIDE0LzA4LzIwMTYuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmRkaW1wb3J0IGphdmEuYXd0LnByaW50LlByaW50YWJsZQo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LnByaW50LlByaW50YWJsZQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBpbXBvcnQgY28uaW9jdGwuY2hhcHRlcm9uZS5QcmludERlZmF1bHRzLmRkXwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LnByaW50LlByaW50YWJsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">aW1wb3J0IGNvLmlvY3RsLmNoYXB0ZXJvbmUuUHJpbnRhYmxlLl8K</text>
       </register>
-      <register name="9" type="4">
-        <text>*
-  * Created by harish on 14/08/2016.
-  */</text>
+      <register name="9" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>m 5</text>
       </register>
     </registers>
     <search>
@@ -477,10 +482,6 @@
         <entry>noh</entry>
       </history-search>
       <history-cmd>
-        <entry>m 12</entry>
-        <entry>m12</entry>
-        <entry encoding="base64">ZSA=</entry>
-        <entry>m 130</entry>
         <entry encoding="base64">JzwsJz5tIDEwMg==</entry>
         <entry encoding="base64">JzwsJz5tIDEyNg==</entry>
         <entry>e chaptersix/</entry>
@@ -489,14 +490,18 @@
         <entry>split</entry>
         <entry>sp</entry>
         <entry>q!</entry>
-        <entry>vs</entry>
         <entry>ws</entry>
         <entry>q</entry>
         <entry>hs</entry>
         <entry>help vs</entry>
         <entry>m 0</entry>
-        <entry>m 7</entry>
         <entry>w</entry>
+        <entry>vs</entry>
+        <entry>e Cats.scala</entry>
+        <entry>m 9</entry>
+        <entry>m 7</entry>
+        <entry>m 6</entry>
+        <entry>m 5</entry>
       </history-cmd>
       <history-expr />
       <history-input />
