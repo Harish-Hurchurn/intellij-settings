@@ -127,10 +127,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/Main.scala" timestamp="1471186973781">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/Main.scala" timestamp="1471190217722">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugins/dependency.sbt" timestamp="1448797318506">
         <mark key="[" line="0" column="0" />
@@ -420,7 +420,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">b2JqZWN0IE1haW4gewoK</text>
+        <text encoding="base64">ICBQcmludC5wcmludChjYXQpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -434,31 +434,31 @@
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b2JqZWN0IE1haW4gewoK</text>
+        <text encoding="base64">ICBQcmludC5wcmludChjYXQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaGFyaXNoIG9uIDE0LzA4LzIwMTYuCg==</text>
+        <text encoding="base64">ZGQtLCBDYXR9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">b2JqZWN0IE1haW4gewoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbXBvcnQgY28uaW9jdGwuY2hhcHRlcm9uZS5QcmludERlZmF1bHRzLmRkXwo=</text>
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaGFyaXNoIG9uIDE0LzA4LzIwMTYuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvLmlvY3RsLmNoYXB0ZXJvbmUuUHJpbnRhYmxlLl8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBpbXBvcnQgY28uaW9jdGwuY2hhcHRlcm9uZS5QcmludERlZmF1bHRzLmRkXwo=</text>
       </register>
       <register name=":" type="4">
         <text>m 5</text>
