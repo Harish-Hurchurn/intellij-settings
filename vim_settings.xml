@@ -51,11 +51,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/advanced-scala-with-cats/src/main/scala/Printable.scala" timestamp="1471168633283">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-        <mark key="^" line="0" column="1" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/advanced-scala-with-cats/src/main/scala/Printable.scala" timestamp="1471171523520">
+        <mark key="[" line="21" column="83" />
+        <mark key="]" line="21" column="33" />
+        <mark key="." line="21" column="33" />
+        <mark key="^" line="21" column="33" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/Tree.scala" timestamp="1451744612075">
         <mark key="[" line="9" column="34" />
@@ -399,28 +399,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>trait Printable[A] {
-  def format[A](value: A): String
-}
-
-object PrintDefaults {
-  implicit val stringPrintable = new Printable[String] {
-    def format(input: String) = input
-  }
-
-  implicit val intPrintable = new Printable[Int] {
-    def format(input: Int) = input.toString
-  }
-}
-
-object Print {
-  def format[A : Printable](input: A)(implicit printer: Printable[A]) = {
-     printer.format(input)
-  }
-}</text>
+        <text encoding="base64">b3ZlcnJpZGUg</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">b3ZlcnJpZGUg</text>
       </register>
       <register name="/" type="4">
         <text>headOption</text>
