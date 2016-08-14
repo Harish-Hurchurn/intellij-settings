@@ -51,12 +51,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/advanced-scala-with-cats/src/main/scala/Printable.scala" timestamp="1471172323608">
-        <mark key="[" line="35" column="46" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="0" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/Tree.scala" timestamp="1451744612075">
         <mark key="[" line="9" column="34" />
         <mark key="]" line="23" column="0" />
@@ -396,13 +390,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
       <jump line="2" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" />
       <jump line="155" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" />
+      <jump line="10" column="14" filename="$USER_HOME$/SpiderOak Hive/git/github/advanced-scala-with-cats/src/main/scala/Printable.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">b3ZlcnJpZGUg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3ZlcnJpZGUg</text>
+        <text>“</text>
       </register>
       <register name="/" type="4">
         <text>noh</text>
@@ -410,62 +405,40 @@
       <register name="0" type="4">
         <text encoding="base64">YmVoYXZpb3Igb2YgInRha2VXaGlsZSIKICBpdCBzaG91bGQgInJldHVybiBTdHJlYW0oMSwyLDMpIHdoZW4gY2FsbGVkIHdpdGggdGFrZVdoaWxlKF8gPCAzKSIgaW4gewogICAgdmFsIHggPSBTdHJlYW0oMSwgMiwgMywgNCkKICAgIHZhbCByZXMgPSB4LnRha2VXaGlsZShfIDwgNCkKICAgIHJlcy50b0xpc3Qgc2hvdWxkQmUgTGlzdCgxLCAyLCAzKQogIH0=</text>
       </register>
-      <register name="1" type="4">
-        <text>trait Printable[A] {
-  def format[A](value: A): String
-}
-
-object PrintDefaults {
-  implicit val stringPrintable = new Printable[String] {
-    def format(input: String) = input
-  }
-
-  implicit val intPrintable = new Printable[Int] {
-    def format(input: Int) = input.toString
-  }
-}
-
-object Print {
-  def format[A : Printable](input: A)(implicit printer: Printable[A]) = {
-     printer.format(input)
-  }
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>/**
-  * Created by harish on 14/08/2016.
-  */
-class Printable {
-
-}</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAvIGNvcnJlY3RuZXNzLgo=</text>
+      <register name="4" type="4">
+        <text>object PrintDefaults {
+  implicit val stringPrinter = new Printable[String] {
+    override def format[A](value: A): String = value.toString
+  }
+
+  implicit val intPrinter = new Printable[Int] {
+    override def format[A](value: A): String = value.toString
+  }
+}</text>
       </register>
-      <register name="5" type="4">
-        <text>// This implementation of map2 passes the initial RNG to the first argument
-  // and the resulting RNG to the second argument. It's not necessarily wrong
-  // to do this the other way around, since the results are random anyway.
-  // We could even pass the initial RNG to both `f` and `g`, but that might
-  // have unexpected results. E.g. if both arguments are `RNG.int` then we would
-  // always get two of the same `Int` in the result. When implementing functions
-  // like this, it's important to consider how we would test them for
-  /</text>
+      <register name="5" type="2">
+        <text encoding="base64">RXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuCg==</text>
       </register>
       <register name="6" type="4">
-        <text>2</text>
+        <text encoding="base64">IGltcGxpY2l0IHZhbCBzdHJpbmdQcmludGVyID0gbmV3IFByaW50YWJsZVtTdHJpbmddIHsKICAgIGRlZiBmb3JtYXQodmFsdWU6IFN0cmluZyk6IFN0cmluZyA9IHZhbHVlCiAgfQoKICBpbXBsaWNpdCB2YWwgaW50UHJpbnRlciA9IG5ldyBQcmludGFibGVbSW50XSB7CiAgICBkZWYgZm9ybWF0KGE6IEludCk6IFN0cmluZyA9IGEudG9TdHJpbmcKICB9</text>
       </register>
-      <register name="7" type="4">
-        <text>1</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>1</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZiBmb3JtYXQoYTogU3RyaW5nKTogU3RyaW5nID0gYQo=</text>
       </register>
       <register name="9" type="4">
-        <text>1</text>
+        <text encoding="base64">c2VhbGVkIHRyYWl0IEpzb24KCmZpbmFsIGNhc2UgY2xhc3MgSnNPYmplY3QoZ2V0OiBNYXBbU3RyaW5nLCBKc29uXSkgZXh0ZW5kcyBKc29uCmZpbmFsIGNhc2UgY2xhc3MgSnNTdHJpbmcoZ2V0OiBTdHJpbmcpIGV4dGVuZHMgSnNvbgpmaW5hbCBjYXNlIGNsYXNzIEpzTnVtYmVyKGdldDogSW50KSBleHRlbmRzIEpzb24KCnRyYWl0IEpzb25Xcml0ZXJbQV0gewogIGRlZiB3cml0ZSh2YWx1ZTogQSk6IEpzb24KfQoKZmluYWwgY2FzZSBjbGFzcyBQZXJzb24obmFtZTogU3RyaW5nLCBlbWFpbDogU3RyaW5nKQoKb2JqZWN0IERlZmF1bHRKc29uV3JpdGVycyB7CiAgaW1wbGljaXQgdmFsIHN0cmluZ0pzb25Xcml0ZXIgPSBuZXcgSnNvbldyaXRlcltTdHJpbmddIHsKICAgIGRlZiB3cml0ZSh2YWx1ZTogU3RyaW5nKTogSnNvbiA9IHsKICAgICAgSnNTdHJpbmcodmFsdWUpCiAgICB9CiAgfQoKICBpbXBsaWNpdCB2YWwgcGVyc29uV3JpdGVyID0gbmV3IEpzb25Xcml0ZXJbUGVyc29uXSB7CiAgICBkZWYgd3JpdGUodmFsdWU6IFBlcnNvbik6IEpzb24gPSB7CiAgICAgIEpzT2JqZWN0KE1hcCgibmFtZSIgLT4gSnNTdHJpbmcodmFsdWUubmFtZSksICJlbWFpbCIgLT4gSnNTdHJpbmcodmFsdWUuZW1haWwpKSkKICAgIH0KICB9Cn0KCm9iamVjdCBKc29uIHsKICBkZWYgdG9Kc29uW0EgOiBKc29uV3JpdGVyXSh2YWx1ZTogQSkgPSB7CiAgICBpbXBsaWNpdGx5W0pzb25Xcml0ZXJbQV1dLndyaXRlKHZhbHVlKQogIH0KfQoKb2JqZWN0IEpzb25TeW50YXggewoKICBpbXBsaWNpdCBjbGFzcyBKc29uV3JpdGVyT3BzW0FdKHZhbHVlOiBBKSB7CiAgICBkZWYgdG9Kc29uKGltcGxpY2l0IHdyaXRlcjogSnNvbldyaXRlcltBXSkgPSB3cml0ZXIud3JpdGUodmFsdWUpCiAgfQp9</text>
       </register>
       <register name=":" type="4">
         <text>m 7</text>
