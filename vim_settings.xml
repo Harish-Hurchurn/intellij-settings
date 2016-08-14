@@ -51,6 +51,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/advanced-scala-with-cats/src/main/scala/Printable.scala" timestamp="1471167548461">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/Tree.scala" timestamp="1451744612075">
         <mark key="[" line="9" column="34" />
         <mark key="]" line="23" column="0" />
@@ -189,7 +194,6 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Predef.scala" timestamp="1469864339488" />
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/dependency-graph.sbt" timestamp="1448796087444">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="0" />
@@ -393,8 +397,13 @@
       <jump line="155" column="0" filename="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chapterfive/Stream.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/**
+  * Created by harish on 14/08/2016.
+  */
+class Printable {
+
+}</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -405,13 +414,21 @@
       <register name="0" type="4">
         <text encoding="base64">YmVoYXZpb3Igb2YgInRha2VXaGlsZSIKICBpdCBzaG91bGQgInJldHVybiBTdHJlYW0oMSwyLDMpIHdoZW4gY2FsbGVkIHdpdGggdGFrZVdoaWxlKF8gPCAzKSIgaW4gewogICAgdmFsIHggPSBTdHJlYW0oMSwgMiwgMywgNCkKICAgIHZhbCByZXMgPSB4LnRha2VXaGlsZShfIDwgNCkKICAgIHJlcy50b0xpc3Qgc2hvdWxkQmUgTGlzdCgxLCAyLCAzKQogIH0=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>/**
+  * Created by harish on 14/08/2016.
+  */
+class Printable {
+
+}</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAvIGNvcnJlY3RuZXNzLgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>// This implementation of map2 passes the initial RNG to the first argument
   // and the resulting RNG to the second argument. It's not necessarily wrong
   // to do this the other way around, since the results are random anyway.
@@ -421,11 +438,8 @@
   // like this, it's important to consider how we would test them for
   /</text>
       </register>
-      <register name="4" type="4">
-        <text>2</text>
-      </register>
       <register name="5" type="4">
-        <text>1</text>
+        <text>2</text>
       </register>
       <register name="6" type="4">
         <text>1</text>
