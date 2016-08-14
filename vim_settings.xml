@@ -51,11 +51,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/advanced-scala-with-cats/src/main/scala/Printable.scala" timestamp="1471171523520">
-        <mark key="[" line="21" column="83" />
-        <mark key="]" line="21" column="33" />
-        <mark key="." line="21" column="33" />
-        <mark key="^" line="21" column="33" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/advanced-scala-with-cats/src/main/scala/Printable.scala" timestamp="1471172323608">
+        <mark key="[" line="35" column="46" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterthree/Tree.scala" timestamp="1451744612075">
         <mark key="[" line="9" column="34" />
@@ -405,7 +405,7 @@
         <text encoding="base64">b3ZlcnJpZGUg</text>
       </register>
       <register name="/" type="4">
-        <text>headOption</text>
+        <text>noh</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">YmVoYXZpb3Igb2YgInRha2VXaGlsZSIKICBpdCBzaG91bGQgInJldHVybiBTdHJlYW0oMSwyLDMpIHdoZW4gY2FsbGVkIHdpdGggdGFrZVdoaWxlKF8gPCAzKSIgaW4gewogICAgdmFsIHggPSBTdHJlYW0oMSwgMiwgMywgNCkKICAgIHZhbCByZXMgPSB4LnRha2VXaGlsZShfIDwgNCkKICAgIHJlcy50b0xpc3Qgc2hvdWxkQmUgTGlzdCgxLCAyLCAzKQogIH0=</text>
@@ -472,9 +472,9 @@ class Printable {
       </register>
     </registers>
     <search>
-      <last-search>headOption</last-search>
+      <last-search>noh</last-search>
       <last-offset />
-      <last-pattern>headOption</last-pattern>
+      <last-pattern>noh</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -486,6 +486,7 @@ class Printable {
         <entry encoding="base64">XDxTb21lXD4=</entry>
         <entry>take</entry>
         <entry>headOption</entry>
+        <entry>noh</entry>
       </history-search>
       <history-cmd>
         <entry>m 12</entry>
