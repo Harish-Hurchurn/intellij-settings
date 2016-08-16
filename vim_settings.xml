@@ -3,38 +3,104 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1471332728874">
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-hive-bundle/nifi-hive-processors/pom.xml" timestamp="1471341944159">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-executesql-bundle/nifi-executesql-processor/src/main/java/com/barclays/treasury/fiscus/ingestor/executesql/KerberosTicketProvider.java" timestamp="1471342344847">
+        <mark key="[" line="130" column="87" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/kerberos-sql-driver/pom.xml" timestamp="1471341803529">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/batching-bundle/batching-processor/pom.xml" timestamp="1471341707813">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/attribute-get-bundle/pom.xml" timestamp="1471341656339">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-executesql-bundle/nifi-executesql-processor/pom.xml" timestamp="1471341901662">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/attribute-get-bundle/attribute-get-processor/pom.xml" timestamp="1471341673235">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-hive-bundle/nifi-hive-nar/pom.xml" timestamp="1471341934143">
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="26" />
+        <mark key="." line="35" column="26" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/eod-bundle/eod-nar/pom.xml" timestamp="1471341737320">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-nar/pom.xml" timestamp="1471342010162">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/eod-bundle/eod-processor/pom.xml" timestamp="1471341745720">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471341772601">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/pom.xml" timestamp="1471341994738">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/attribute-get-bundle/attribute-get-nar/pom.xml" timestamp="1471341665972">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1471342459930">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="42" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/sit/conf/jaas.conf" timestamp="1470214851925">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="9" column="15" />
-        <mark key="^" line="9" column="15" />
-        <mark key="." line="9" column="15" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/pom.xml" timestamp="1471341781759">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/geordavi_4367/conf/nifi.properties" timestamp="1470216863748">
-        <mark key="'" line="34" column="0" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-executesql-bundle/nifi-executesql-nar/pom.xml" timestamp="1471341891630">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1471334363625">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/pom.xml" timestamp="1471341968160">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/prod/flow-templates/Stress_LDB.yml" timestamp="1469612360573">
-        <mark key="[" line="19" column="34" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/eod-bundle/pom.xml" timestamp="1471341725014">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/sit/flow-templates/Stress_LDB.yml" timestamp="1470214675037">
-        <mark key="[" line="43" column="2" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471339775538">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-      </file>
-      <file name="C:/work/cucumber-plugin/build.sbt" timestamp="1470741199212">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="54" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/batching-bundle/pom.xml" timestamp="1471341695030">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
       <file name="C:/work/nifi-utilities/build.sbt" timestamp="1470741919108">
         <mark key="[" line="20" column="28" />
@@ -46,29 +112,30 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.2/hadoop-common-2.6.2-sources.jar!/org/apache/hadoop/security/UserGroupInformation.java" timestamp="1470307074274">
-        <mark key="'" line="1127" column="5" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/pom.xml" timestamp="1471341759975">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/dev3/conf/nifi.properties" timestamp="1470216853620">
-        <mark key="'" line="0" column="0" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-hive-bundle/pom.xml" timestamp="1471341913102">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="22" />
       </file>
-      <file name="/Bash" timestamp="1470385440013">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-executesql-bundle/pom.xml" timestamp="1471341817929">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/repositories" timestamp="1470741481886">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="82" />
-        <mark key="^" line="3" column="82" />
-        <mark key="." line="3" column="82" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/batching-bundle/batching-nar/pom.xml" timestamp="1471341590992">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/dev2/conf/nifi.properties" timestamp="1470216836088">
-        <mark key="'" line="30" column="34" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/local/conf/nifi.properties" timestamp="1470216929430">
-        <mark key="'" line="44" column="51" />
-      </file>
-      <file name="/fragment.java" timestamp="1470737729755">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/pom.xml" timestamp="1471342016497">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -94,8 +161,8 @@
       <jump line="1127" column="5" filename="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.2/hadoop-common-2.6.2-sources.jar!/org/apache/hadoop/security/UserGroupInformation.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>T</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFdoaWxlIHdlIHJ1biB0aGlzICJmcmVxdWVudGx5IiwgdGhlIEhhZG9vcCBpbXBsZW1lbnRhdGlvbiB3aWxsIG9ubHkgcGVyZm9ybSB0aGUgbG9naW4gYXQgODAlIG9mIHRpY2tldCBsaWZldGltZS4K</text>
       </register>
       <register name="-" type="4">
         <text>T</text>
@@ -107,12 +174,18 @@
         <text encoding="base64">ICJjb20uYmFyY2xheXMudHJlYXN1cnkuZmlzY3VzLmluZ2VzdG9yIiAlJSAibmlmaXV0aWxpdGllcyIgJSAiMC4xLjAtU05BUFNIT1QiLA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiY29tLmJhcmNsYXlzLnRyZWFzdXJ5LmZpc2N1cy5pbmdlc3RvciIgJSUgImN1Y3VtYmVyLXBsdWdpbiIgJSAiMC4xLjAtU05BUFNIT1QiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFdoaWxlIHdlIHJ1biB0aGlzICJmcmVxdWVudGx5IiwgdGhlIEhhZG9vcCBpbXBsZW1lbnRhdGlvbiB3aWxsIG9ubHkgcGVyZm9ybSB0aGUgbG9naW4gYXQgODAlIG9mIHRpY2tldCBsaWZldGltZS4K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ZGQgICAgICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJJbnZva2luZyByZW5ld2FsIGF0dGVtcHQgZm9yIEtlcmJlcm9zIHRpY2tldCIpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAiY29tLmJhcmNsYXlzLnRyZWFzdXJ5LmZpc2N1cy5pbmdlc3RvciIgJSUgImN1Y3VtYmVyLXBsdWdpbiIgJSAiMC4xLjAtU05BUFNIT1QiLAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">b3JnYW5pemF0aW9uIDo9ICJjb20uYmFyY2xheXMudHJlYXN1cnkuZmlzY3VzLmluZ2VzdG9yIgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>&quot;com.m3&quot; %% &quot;curly-scala&quot; % &quot;0.5.6&quot;,
   &quot;org.scalatest&quot; %% &quot;scalatest&quot; % &quot;2.2.6&quot; % &quot;test&quot;,
   &quot;info.cukes&quot; % &quot;cucumber-core&quot; % cukesVersion,
@@ -122,23 +195,17 @@
   &quot;junit&quot; % &quot;junit&quot; % &quot;4.12&quot;,
   &quot;org.json4s&quot; %% &quot;json4s-native&quot; % &quot;3.3.0.RC6&quot;,</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">VXBkYXRlZCBQUk9EIGNvbmZpZyB0byBoYXZlIGNvcnJlY3QgdmFsdWVzCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgIEV4ZWN1dGVTUUxDb25uZWN0aW9uS2ViZXJvczoKICAgICAgICBjb25maWc6</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgRXhlY3V0ZVNRTENvbm5lY3Rpb25LZWJlcm9zCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgIEV4ZWN1dGVTUUxDb25uZWN0aW9uS2ViZXJvczoKICAgICAgICBjb25maWc6</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
