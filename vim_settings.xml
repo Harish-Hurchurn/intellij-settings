@@ -63,6 +63,11 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="10" column="4" />
       </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/InstallNiFi.feature" timestamp="1471426099395">
+        <mark key="[" line="0" column="79" />
+        <mark key="]" line="5" column="40" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471353665940">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="21" column="26" />
@@ -101,6 +106,10 @@
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/NiFiUpAndRunning.feature" timestamp="1471426081221">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="39" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/batching-bundle/pom.xml" timestamp="1471353537679">
         <mark key="[" line="7" column="22" />
@@ -167,8 +176,13 @@
       <jump line="1127" column="5" filename="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.2/hadoop-common-2.6.2-sources.jar!/org/apache/hadoop/security/UserGroupInformation.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UmVtb3ZlIHNuYXBzaG90IGZyb20gR3Jvb3Z5IGZpbGUK</text>
+      <register name="&quot;" type="4">
+        <text>Feature: Make sure that NiFi is ready for the integration tests to start running
+
+  Scenario: Check that NiFi is running and there is nothing which will prevent the tests from running
+    Given Make sure that NiFi is up and running
+    When There are no bulletins which require attention
+    Then The integration tests can start</text>
       </register>
       <register name="-" type="4">
         <text>T</text>
@@ -177,7 +191,12 @@
         <text>web</text>
       </register>
       <register name="0" type="4">
-        <text>0.1.7-SNAPSHOT</text>
+        <text>Feature: Make sure that NiFi is ready for the integration tests to start running
+
+  Scenario: Check that NiFi is running and there is nothing which will prevent the tests from running
+    Given Make sure that NiFi is up and running
+    When There are no bulletins which require attention
+    Then The integration tests can start</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">UmVtb3ZlIHNuYXBzaG90IGZyb20gR3Jvb3Z5IGZpbGUK</text>
