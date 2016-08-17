@@ -32,6 +32,11 @@
         <mark key="]" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/nifi/NiFiUpAndRunning.scala" timestamp="1471427755218">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="0" />
+      </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-executesql-bundle/nifi-executesql-processor/pom.xml" timestamp="1471353739911">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="22" />
@@ -63,10 +68,11 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="10" column="4" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/InstallNiFi.feature" timestamp="1471426099395">
-        <mark key="[" line="0" column="79" />
-        <mark key="]" line="5" column="40" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/InstallNiFi.feature" timestamp="1471427491540">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="4" column="46" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="18" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471353665940">
         <mark key="[" line="7" column="22" />
@@ -121,8 +127,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1470749800260">
-        <mark key="[" line="11" column="0" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1471428205013">
+        <mark key="[" line="4" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
@@ -130,6 +136,11 @@
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/nifi/InstallNiFi.scala" timestamp="1471428295129">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-hive-bundle/pom.xml" timestamp="1471353750840">
         <mark key="[" line="22" column="22" />
@@ -174,59 +185,52 @@
       <jump line="34" column="0" filename="C:/work/fiscus-ingestor/installer/env/geordavi_4367/conf/nifi.properties" />
       <jump line="44" column="51" filename="C:/work/fiscus-ingestor/installer/env/local/conf/nifi.properties" />
       <jump line="1127" column="5" filename="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.2/hadoop-common-2.6.2-sources.jar!/org/apache/hadoop/security/UserGroupInformation.java" />
+      <jump line="5" column="6" filename="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/nifi/InstallNiFi.scala" />
+      <jump line="0" column="0" filename="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/nifi/InstallNiFi.scala" />
+      <jump line="0" column="0" filename="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/nifi/NiFiUpAndRunning.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Feature: Make sure that NiFi is ready for the integration tests to start running
-
-  Scenario: Check that NiFi is running and there is nothing which will prevent the tests from running
-    Given Make sure that NiFi is up and running
-    When There are no bulletins which require attention
-    Then The integration tests can start</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text encoding="base64">IHZhbCBob3N0bmFtZSA9ICJodHRwOi8vbG9jYWxob3N0OjgwODAi</text>
       </register>
       <register name="/" type="4">
         <text>web</text>
       </register>
-      <register name="0" type="4">
-        <text>Feature: Make sure that NiFi is ready for the integration tests to start running
-
-  Scenario: Check that NiFi is running and there is nothing which will prevent the tests from running
-    Given Make sure that NiFi is up and running
-    When There are no bulletins which require attention
-    Then The integration tests can start</text>
+      <register name="0" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20uYmFyY2xheXMuc3RyZXNzLnN0ZXBfZGVmaW5pdGlvbnMubmlmaQoKY2xhc3MgTmlGaVVwQW5kUnVubmluZyBleHRlbmRzIFNjYWxhRHNsIHdpdGggRU4gewogIHZhbCBob3N0bmFtZSA9ICJodHRwOi8vbG9jYWxob3N0OjgwODAiCgogIEdpdmVuKCIiIl5NYWtlIHN1cmUgdGhhdCBOaUZpIGlzIHVwIGFuZCBydW5uaW5nJCIiIikgeyAoKSA9PgogICAgYXNzZXJ0KE5pRmlVdGlsaXRpZXMgaXNOaUZpVXAgaG9zdG5hbWUpCiAgfQoKICBXaGVuKCIiIl5UaGVyZSBhcmUgbm8gYnVsbGV0aW5zIHdoaWNoIHJlcXVpcmUgYXR0ZW50aW9uJCIiIikgeyAoKSA9PgogICAgTmlGaVV0aWxpdGllcy5leHRyYWN0QnVsbGV0aW5Cb2FyZEluZm8oaG9zdG5hbWUpID09IExpc3QoKSAmJiBOaUZpVXRpbGl0aWVzLmludmFsaWRDb3VudChob3N0bmFtZSkgPT0gMAogIH0KCiAgVGhlbigiIiJeVGhlIGludGVncmF0aW9uIHRlc3RzIGNhbiBzdGFydCQiIiIpIHsgKCkgPT4KICAgIHByaW50bG4oIk5pRmkgbG9va3MgdG8gYmUgaW4gYSBnb29kIHN0YXRlISEhISIpCiAgfQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmVtb3ZlIHNuYXBzaG90IGZyb20gR3Jvb3Z5IGZpbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8YXJ0aWZhY3RJZD5uaWZpLXNvbGFjZS1idW5kbGU8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8YXJ0aWZhY3RJZD5iYXRjaGluZy1idW5kbGU8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIk5pRmkgbG9va3MgdG8gYmUgaW4gYSBnb29kIHN0YXRlISEhISIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MC4xLjctU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8YXJ0aWZhY3RJZD5hdHRyaWJ1dGUtZ2V0LWJ1bmRsZTwvYXJ0aWZhY3RJZD4K</text>
+        <text encoding="base64">ICBXaGVuKCIiIl5UaGVyZSBhcmUgbm8gYnVsbGV0aW5zIHdoaWNoIHJlcXVpcmUgYXR0ZW50aW9uJCIiIikgeyAoKSA9Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFdoaWxlIHdlIHJ1biB0aGlzICJmcmVxdWVudGx5IiwgdGhlIEhhZG9vcCBpbXBsZW1lbnRhdGlvbiB3aWxsIG9ubHkgcGVyZm9ybSB0aGUgbG9naW4gYXQgODAlIG9mIHRpY2tldCBsaWZldGltZS4K</text>
+        <text encoding="base64">ICAgIE5pRmlVdGlsaXRpZXMuZXh0cmFjdEJ1bGxldGluQm9hcmRJbmZvKGhvc3RuYW1lKSA9PSBMaXN0KCkgJiYgTmlGaVV0aWxpdGllcy5pbnZhbGlkQ291bnQoaG9zdG5hbWUpID09IDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGQgICAgICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJJbnZva2luZyByZW5ld2FsIGF0dGVtcHQgZm9yIEtlcmJlcm9zIHRpY2tldCIpOwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydChOaUZpVXRpbGl0aWVzIGlzTmlGaVVwIGhvc3RuYW1lKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiY29tLmJhcmNsYXlzLnRyZWFzdXJ5LmZpc2N1cy5pbmdlc3RvciIgJSUgImN1Y3VtYmVyLXBsdWdpbiIgJSAiMC4xLjAtU05BUFNIT1QiLAo=</text>
+        <text encoding="base64">ICAib3JnLmpzb240cyIgJSUgImpzb240cy1uYXRpdmUiICUgIjMuMy4wLlJDNiIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3JnYW5pemF0aW9uIDo9ICJjb20uYmFyY2xheXMudHJlYXN1cnkuZmlzY3VzLmluZ2VzdG9yIgo=</text>
+        <text encoding="base64">ICAianVuaXQiICUgImp1bml0IiAlICI0LjEyIiwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -246,13 +250,10 @@
         <entry>web</entry>
       </history-search>
       <history-cmd>
-        <entry>e Stress.scala</entry>
-        <entry encoding="base64">JzwsJz5tMjA=</entry>
         <entry encoding="base64">JzwsJz5tIDIx</entry>
         <entry>m 8</entry>
         <entry>m 7</entry>
         <entry>m4</entry>
-        <entry>vs</entry>
         <entry>e</entry>
         <entry>q</entry>
         <entry encoding="base64">IDY=</entry>
@@ -266,6 +267,9 @@
         <entry encoding="base64">JzwsJz5tIDM4</entry>
         <entry encoding="base64">JzwsJz5tNTk=</entry>
         <entry>w</entry>
+        <entry>ve</entry>
+        <entry>we</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
