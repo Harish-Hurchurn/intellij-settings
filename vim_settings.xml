@@ -27,11 +27,11 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1471509190649">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="5" />
-        <mark key="." line="6" column="5" />
-        <mark key="^" line="6" column="47" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1471528247555">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="31" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="15" column="31" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
@@ -197,45 +197,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>web</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uYmFyY2xheXMuc3RyZXNzLnN0ZXBfZGVmaW5pdGlvbnMubmlmaQoKY2xhc3MgTmlGaVVwQW5kUnVubmluZyBleHRlbmRzIFNjYWxhRHNsIHdpdGggRU4gewogIHZhbCBob3N0bmFtZSA9ICJodHRwOi8vbG9jYWxob3N0OjgwODAiCgogIEdpdmVuKCIiIl5NYWtlIHN1cmUgdGhhdCBOaUZpIGlzIHVwIGFuZCBydW5uaW5nJCIiIikgeyAoKSA9PgogICAgYXNzZXJ0KE5pRmlVdGlsaXRpZXMgaXNOaUZpVXAgaG9zdG5hbWUpCiAgfQoKICBXaGVuKCIiIl5UaGVyZSBhcmUgbm8gYnVsbGV0aW5zIHdoaWNoIHJlcXVpcmUgYXR0ZW50aW9uJCIiIikgeyAoKSA9PgogICAgTmlGaVV0aWxpdGllcy5leHRyYWN0QnVsbGV0aW5Cb2FyZEluZm8oaG9zdG5hbWUpID09IExpc3QoKSAmJiBOaUZpVXRpbGl0aWVzLmludmFsaWRDb3VudChob3N0bmFtZSkgPT0gMAogIH0KCiAgVGhlbigiIiJeVGhlIGludGVncmF0aW9uIHRlc3RzIGNhbiBzdGFydCQiIiIpIHsgKCkgPT4KICAgIHByaW50bG4oIk5pRmkgbG9va3MgdG8gYmUgaW4gYSBnb29kIHN0YXRlISEhISIpCiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzdGF0dXMgPSAiY2QgJEhPTUUvaW50ZWdyYXRpb25fdGVzdGluZyIgIQogICAgaWYgKHN0YXR1cyA9PSAxKSB7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>/**
-  * Created by hurchurh on 18/08/2016.
-  */</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHN0YXR1cyA9PTEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD5uaWZpLWhpdmUtYnVuZGxlPC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">ICAgICAgdmFsIHN0YXR1cyA9ICIiImN1cmwgLUwgImh0dHA6Ly9uZXh1czo4MDgxL25leHVzL3NlcnZpY2UvbG9jYWwvYXJ0aWZhY3QvbWF2ZW4vcmVkaXJlY3Q/cj1zbmFwc2hvdHMmZz1jb20uYmFyY2xheXMudHJlYXN1cnkmYT1maXNjdXMtaW5nZXN0b3Imdj1MQVRFU1QmZT10Z3oiIC1vIGZpc2N1cy1pbmdlc3Rvci50Z3oiIiIgIQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzdGF0dXMgPSAiY2QgJEhPTUUvaW50ZWdyYXRpb25fdGVzdGluZyIgIQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzdGF0dXMgPSAiY2QgJEhPTUUvaW50ZWdyYXRpb25fdGVzdGluZyIgIQogICAgaWYgKHN0YXR1cyA9PSAxKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIk5pRmkgbG9va3MgdG8gYmUgaW4gYSBnb29kIHN0YXRlISEhISIpCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHN0YXR1cyA9PSAxKSB0cnVlIGVsc2UgZmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBXaGVuKCIiIl5UaGVyZSBhcmUgbm8gYnVsbGV0aW5zIHdoaWNoIHJlcXVpcmUgYXR0ZW50aW9uJCIiIikgeyAoKSA9Pgo=</text>
+        <text encoding="base64">CiAgZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSk6IFVuaXQgPSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE5pRmlVdGlsaXRpZXMuZXh0cmFjdEJ1bGxldGluQm9hcmRJbmZvKGhvc3RuYW1lKSA9PSBMaXN0KCkgJiYgTmlGaVV0aWxpdGllcy5pbnZhbGlkQ291bnQoaG9zdG5hbWUpID09IDAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChOaUZpVXRpbGl0aWVzIGlzTmlGaVVwIGhvc3RuYW1lKQo=</text>
+        <text encoding="base64">ICB9ZGQK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
