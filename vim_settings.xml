@@ -22,16 +22,26 @@
       <file name="/a.dummy" timestamp="1471516401404">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/ChangeDirectory" timestamp="1471598702045">
+        <mark key="]" line="10" column="52" />
+        <mark key="^" line="10" column="52" />
+        <mark key="." line="10" column="52" />
+      </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/attribute-get-bundle/pom.xml" timestamp="1471515624157">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1471593540538">
-        <mark key="[" line="14" column="78" />
-        <mark key="]" line="14" column="31" />
-        <mark key="^" line="6" column="4" />
-        <mark key="." line="14" column="31" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1471599253250">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="35" column="70" />
+        <mark key="." line="35" column="70" />
+        <mark key="^" line="35" column="70" />
+      </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/ChangeDirectory.scala" timestamp="1471598548023">
+        <mark key="]" line="8" column="52" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
@@ -69,6 +79,11 @@
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="22" />
         <mark key="^" line="10" column="4" />
+      </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/ChangeDirectory.scala" timestamp="1471598730078">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/resources/InstallNiFi.feature" timestamp="1471427491540">
         <mark key="[" line="3" column="4" />
@@ -196,44 +211,44 @@
       <jump line="0" column="0" filename="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/nifi/NiFiUpAndRunning.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnN5cy5wcm9jZXNzLlByb2Nlc3MK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>web</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGF0dXMgPSAiY2QgJEhPTUUvaW50ZWdyYXRpb25fdGVzdGluZyIgIQogICAgaWYgKHN0YXR1cyA9PSAxKSB7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnN5cy5wcm9jZXNzLntQcm9jZXNzLCBQcm9jZXNzQnVpbGRlcn0KCmNhc2UgY2xhc3MgQ3VyRGlyKGN3ZDpqYXZhLmlvLkZpbGUpCgppbXBsaWNpdCBkZWYgc3RyaW5nVG9DdXJEaXIoZDpTdHJpbmcpID0gQ3VyRGlyKG5ldyBqYXZhLmlvLkZpbGUoZCkpCmltcGxpY2l0IGRlZiBzdHJpbmdUb1Byb2Nlc3MoY21kOiBTdHJpbmcpKGltcGxpY2l0IGN1ckRpcjpDdXJEaXIpOiBQcm9jZXNzQnVpbGRlciA9IFByb2Nlc3MoY21kLCBjdXJEaXIuY3dkKQoKaW1wbGljaXQgdmFyIGN3ZDpDdXJEaXI9Ii90bXAiCmRlZiBjZChkaXI6U3RyaW5nPXV0aWwuUHJvcGVydGllcy51c2VyRGlyKSA9IGN3ZD1kaXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHN0YXR1cyA9PTEpCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnN5cy5wcm9jZXNzLlByb2Nlc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHN0YXR1cyA9ICIiImN1cmwgLUwgImh0dHA6Ly9uZXh1czo4MDgxL25leHVzL3NlcnZpY2UvbG9jYWwvYXJ0aWZhY3QvbWF2ZW4vcmVkaXJlY3Q/cj1zbmFwc2hvdHMmZz1jb20uYmFyY2xheXMudHJlYXN1cnkmYT1maXNjdXMtaW5nZXN0b3Imdj1MQVRFU1QmZT10Z3oiIC1vIGZpc2N1cy1pbmdlc3Rvci50Z3oiIiIgIQo=</text>
+        <text encoding="base64">ICBmaW5hbCB2YWwgU1VDQ0VTUzogSW50ID0gMAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGF0dXMgPSAiY2QgJEhPTUUvaW50ZWdyYXRpb25fdGVzdGluZyIgIQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGF0dXMgPSAiY2QgJEhPTUUvaW50ZWdyYXRpb25fdGVzdGluZyIgIQogICAgaWYgKHN0YXR1cyA9PSAxKSB7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHN0YXR1cyA9PSAxKSB0cnVlIGVsc2UgZmFsc2UK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBpbXBvcnQgc3lzLnByb2Nlc3MuXwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSk6IFVuaXQgPSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">UHJvY2VzLCBQcm9jZXNzfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
