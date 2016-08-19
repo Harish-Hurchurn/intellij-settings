@@ -32,11 +32,11 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1471601704842">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="35" column="70" />
-        <mark key="." line="35" column="70" />
-        <mark key="^" line="35" column="70" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1471620282107">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="42" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/ChangeDirectory.scala" timestamp="1471598548023">
         <mark key="]" line="8" column="52" />
@@ -213,7 +213,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnN5cy5wcm9jZXNzLlByb2Nlc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>m</text>
@@ -225,13 +225,13 @@
         <text encoding="base64">aW1wb3J0IHNjYWxhLnN5cy5wcm9jZXNzLntQcm9jZXNzLCBQcm9jZXNzQnVpbGRlcn0KCmNhc2UgY2xhc3MgQ3VyRGlyKGN3ZDpqYXZhLmlvLkZpbGUpCgppbXBsaWNpdCBkZWYgc3RyaW5nVG9DdXJEaXIoZDpTdHJpbmcpID0gQ3VyRGlyKG5ldyBqYXZhLmlvLkZpbGUoZCkpCmltcGxpY2l0IGRlZiBzdHJpbmdUb1Byb2Nlc3MoY21kOiBTdHJpbmcpKGltcGxpY2l0IGN1ckRpcjpDdXJEaXIpOiBQcm9jZXNzQnVpbGRlciA9IFByb2Nlc3MoY21kLCBjdXJEaXIuY3dkKQoKaW1wbGljaXQgdmFyIGN3ZDpDdXJEaXI9Ii90bXAiCmRlZiBjZChkaXI6U3RyaW5nPXV0aWwuUHJvcGVydGllcy51c2VyRGlyKSA9IGN3ZD1kaXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnN5cy5wcm9jZXNzLlByb2Nlc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmaW5hbCB2YWwgU1VDQ0VTUzogSW50ID0gMAoK</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnN5cy5wcm9jZXNzLlByb2Nlc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmaW5hbCB2YWwgU1VDQ0VTUzogSW50ID0gMAoK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -240,16 +240,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbXBvcnQgc3lzLnByb2Nlc3MuXwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgc3lzLnByb2Nlc3MuXwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UHJvY2VzLCBQcm9jZXNzfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UHJvY2VzLCBQcm9jZXNzfQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
