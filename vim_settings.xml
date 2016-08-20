@@ -122,6 +122,7 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/test.scala" timestamp="1471719031940" />
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi/src/main/scala/com/barclays/nifi/GenericProcessor.scala" timestamp="1448708001514">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="16" column="0" />
@@ -203,6 +204,9 @@
         <mark key="]" line="21" column="58" />
         <mark key="." line="21" column="58" />
         <mark key="^" line="21" column="58" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/SelfTypes/src/main/scala/Test.scala" timestamp="1471719409314">
+        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-maven].sbt" timestamp="1448803583477">
         <mark key="[" line="1" column="97" />
@@ -419,8 +423,13 @@
       <jump line="22" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/Printable.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBQcmludC5wcmludChjYXQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>/**
+  * Created by harish on 20/08/2016.
+  */
+class Test {
+
+}</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -433,32 +442,37 @@
     override def format[A](value: A): String = value.toString
   }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBQcmludC5wcmludChjYXQpCg==</text>
+      <register name="1" type="4">
+        <text>/**
+  * Created by harish on 20/08/2016.
+  */
+class Test {
+
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBQcmludC5wcmludChjYXQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGQtLCBDYXR9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">b2JqZWN0IE1haW4gewoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAqLwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaGFyaXNoIG9uIDE0LzA4LzIwMTYuCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGQtLCBDYXR9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">b2JqZWN0IE1haW4gewoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAqLwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaGFyaXNoIG9uIDE0LzA4LzIwMTYuCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBvcnQgY28uaW9jdGwuY2hhcHRlcm9uZS5QcmludERlZmF1bHRzLmRkXwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>m 5</text>
