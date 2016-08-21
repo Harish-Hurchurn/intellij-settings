@@ -24,11 +24,6 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Option.scala" timestamp="1459010644599">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="25" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/Printable.scala" timestamp="1471178642519">
         <mark key="[" line="14" column="7" />
         <mark key="]" line="14" column="16" />
@@ -122,7 +117,6 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/test.scala" timestamp="1471719031940" />
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi/src/main/scala/com/barclays/nifi/GenericProcessor.scala" timestamp="1448708001514">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="16" column="0" />
@@ -240,10 +234,6 @@
         <mark key="]" line="7" column="34" />
         <mark key="." line="7" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1460212025128">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="1" column="87" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-wartremover].sbt" timestamp="1448802916963">
         <mark key="[" line="0" column="61" />
         <mark key="]" line="0" column="67" />
@@ -261,11 +251,6 @@
         <mark key="]" line="25" column="20" />
         <mark key="." line="25" column="20" />
         <mark key="^" line="24" column="3" />
-      </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/immutable/Stream.scala" timestamp="1459090908745">
-        <mark key="'" line="704" column="36" />
-        <mark key="[" line="850" column="4" />
-        <mark key="]" line="853" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" timestamp="1460895752296">
         <mark key="[" line="1" column="0" />
@@ -325,7 +310,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1451741726812">
+      <file name="/fragment.java" timestamp="1471762034584">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/ioctl.co/barclays/src/avro-generator/src/main/scala/com/profile/customer/data/MainApp.scala" timestamp="1454242668849">
