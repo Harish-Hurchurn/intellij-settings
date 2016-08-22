@@ -32,11 +32,11 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1471864996959">
-        <mark key="[" line="33" column="34" />
-        <mark key="]" line="33" column="36" />
-        <mark key="." line="33" column="36" />
-        <mark key="^" line="33" column="36" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1471866716077">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="2" column="36" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/ChangeDirectory.scala" timestamp="1471598548023">
         <mark key="]" line="8" column="52" />
@@ -209,13 +209,14 @@
       <jump line="5" column="6" filename="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/nifi/InstallNiFi.scala" />
       <jump line="0" column="0" filename="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/nifi/InstallNiFi.scala" />
       <jump line="0" column="0" filename="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/nifi/NiFiUpAndRunning.scala" />
+      <jump line="10" column="48" filename="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBpbXBvcnQgc3lzLnByb2Nlc3MuUHJvY2Vzc0J1aWxkZXIuXwo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>web</text>
@@ -229,41 +230,31 @@
     status.get</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgc3lzLnByb2Nlc3MuUHJvY2Vzc0J1aWxkZXIuXwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBpbXBvcnQgc3lzLnByb2Nlc3MuUHJvY2Vzcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN3ZCA9IGRpcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBkZWYgY2QoZGlyOiBTdHJpbmcgPSB1dGlsLlByb3BlcnRpZXMudXNlckRpcikgewo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YXIgY3dkOiBDdXJEaXIgPSAiL3RtcCIK</text>
       </register>
-      <register name="8" type="4">
-        <text>def configureFlows: Boolean = {
-    var status: Option[Boolean] = None
-
-      ChangeDirectory.cd(s&quot;/apps/sysFiscusNiFiDev/integration-testing/fiscus-ingestor-$version&quot;)
-      val installStatus = &quot;./install dev&quot;.!
-      if (installStatus == SUCCESS)
-        status = Some(true)
-
-      status.get
-    }
-  }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBsaWNpdCBkZWYgc3RyaW5nVG9Qcm9jZXNzKGNtZDogU3RyaW5nKShpbXBsaWNpdCBjdXJEaXI6IEN1ckRpcikgPSBQcm9jZXNzKGNtZCwgY3VyRGlyLmN3ZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
