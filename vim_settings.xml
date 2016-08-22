@@ -120,9 +120,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471873221921">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/work/fiscus-ingestor/installer/common/conf/nifi_template.properties" timestamp="1471876314020">
         <mark key="'" line="0" column="0" />
       </file>
@@ -237,7 +234,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWRkZWQgaW5zdGFsbGVyIGZ1bmN0aW9uYWxpdHkgZm9yIGluZ2VzdGlvbiB2aWEgTmlGaQo=</text>
       </register>
       <register name="-" type="4">
         <text>uninstall</text>
@@ -249,7 +246,7 @@
         <text>uninstallNiFi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWRkZWQgaW5zdGFsbGVyIGZ1bmN0aW9uYWxpdHkgZm9yIGluZ2VzdGlvbiB2aWEgTmlGaQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -267,13 +264,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaHVyY2h1cmggb24gMjIvMDgvMjAxNi4K</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaHVyY2h1cmggb24gMjIvMDgvMjAxNi4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
