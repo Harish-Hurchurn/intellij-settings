@@ -32,10 +32,10 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1471620282107">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1471856054913">
+        <mark key="[" line="22" column="194" />
+        <mark key="]" line="22" column="194" />
+        <mark key="." line="22" column="194" />
         <mark key="^" line="42" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/ChangeDirectory.scala" timestamp="1471598548023">
@@ -91,7 +91,6 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/scala/Option.scala" timestamp="1471615125034" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471518380844">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -212,11 +211,11 @@
       <jump line="0" column="0" filename="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/nifi/NiFiUpAndRunning.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>web</text>
