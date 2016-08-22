@@ -32,10 +32,11 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1471869796536">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1471871866577">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="45" column="53" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/ChangeDirectory.scala" timestamp="1471598548023">
         <mark key="]" line="8" column="52" />
@@ -212,48 +213,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmxhbmd1YWdlLntpbXBsaWNpdENvbnZlcnNpb25zLCBwb3N0Zml4T3BzfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>uninstall</text>
       </register>
       <register name="/" type="4">
         <text>web</text>
       </register>
       <register name="0" type="4">
-        <text>ChangeDirectory.cd(s&quot;/apps/sysFiscusNiFiDev/integration-testing/fiscus-ingestor-$version&quot;)
-    val installStatus = &quot;./install dev&quot;.!
-    if (installStatus == SUCCESS)
-      status = Some(true)
-
-    status.get</text>
+        <text>uninstallNiFi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmxhbmd1YWdlLntpbXBsaWNpdENvbnZlcnNpb25zLCBwb3N0Zml4T3BzfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBDaGFuZ2VEaXJlY3RvcnkuXwo=</text>
+        <text encoding="base64">ICAgIGlmIChzdGF0dXMgPT0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmaW5hbCB2YWwgRkFJTFVSRTogSW50ID0gMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBDaGFuZ2VEaXJlY3RvcnkuXwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBDaGFuZ2VEaXJlY3RvcnkuXwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbXBvcnQgc3lzLnByb2Nlc3MuUHJvY2Vzc0J1aWxkZXIuXwo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBDaGFuZ2VEaXJlY3RvcnkuXwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbXBvcnQgc3lzLnByb2Nlc3MuUHJvY2Vzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBDaGFuZ2VEaXJlY3RvcnkuXwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
