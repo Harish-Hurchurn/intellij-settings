@@ -13,6 +13,11 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/status/Status.scala" timestamp="1471878321254">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/batching-bundle/batching-processor/pom.xml" timestamp="1471515661036">
         <mark key="[" line="11" column="22" />
         <mark key="]" line="11" column="22" />
@@ -110,11 +115,22 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="7" column="30" />
       </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/search/Search.scala" timestamp="1471878466925">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1471873221921">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/installer/common/conf/nifi_template.properties" timestamp="1471876314020">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/NiFiUtilities.scala" timestamp="1471878299206" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/pom.xml" timestamp="1471516375365">
         <mark key="[" line="11" column="22" />
@@ -221,7 +237,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmxhbmd1YWdlLntpbXBsaWNpdENvbnZlcnNpb25zLCBwb3N0Zml4T3BzfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>uninstall</text>
@@ -233,31 +249,31 @@
         <text>uninstallNiFi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmxhbmd1YWdlLntpbXBsaWNpdENvbnZlcnNpb25zLCBwb3N0Zml4T3BzfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChzdGF0dXMgPT0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmaW5hbCB2YWwgRkFJTFVSRTogSW50ID0gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBDaGFuZ2VEaXJlY3RvcnkuXwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBDaGFuZ2VEaXJlY3RvcnkuXwo=</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaHVyY2h1cmggb24gMjIvMDgvMjAxNi4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBDaGFuZ2VEaXJlY3RvcnkuXwo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
