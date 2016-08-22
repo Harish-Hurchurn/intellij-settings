@@ -32,11 +32,10 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1471861883890">
-        <mark key="[" line="38" column="60" />
-        <mark key="]" line="38" column="60" />
-        <mark key="." line="38" column="60" />
-        <mark key="^" line="36" column="5" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1471863884927">
+        <mark key="[" line="36" column="65" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/ChangeDirectory.scala" timestamp="1471598548023">
         <mark key="]" line="8" column="52" />
@@ -211,11 +210,11 @@
       <jump line="0" column="0" filename="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/nifi/NiFiUpAndRunning.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgQ2hhbmdlRGlyZWN0b3J5LmNkKHMiZmlzY3VzLWluZ2VzdG9yLSR2ZXJzaW9uIikK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>install i</text>
       </register>
       <register name="/" type="4">
         <text>web</text>
@@ -224,34 +223,34 @@
         <text encoding="base64">aW1wb3J0IHNjYWxhLnN5cy5wcm9jZXNzLntQcm9jZXNzLCBQcm9jZXNzQnVpbGRlcn0KCmNhc2UgY2xhc3MgQ3VyRGlyKGN3ZDpqYXZhLmlvLkZpbGUpCgppbXBsaWNpdCBkZWYgc3RyaW5nVG9DdXJEaXIoZDpTdHJpbmcpID0gQ3VyRGlyKG5ldyBqYXZhLmlvLkZpbGUoZCkpCmltcGxpY2l0IGRlZiBzdHJpbmdUb1Byb2Nlc3MoY21kOiBTdHJpbmcpKGltcGxpY2l0IGN1ckRpcjpDdXJEaXIpOiBQcm9jZXNzQnVpbGRlciA9IFByb2Nlc3MoY21kLCBjdXJEaXIuY3dkKQoKaW1wbGljaXQgdmFyIGN3ZDpDdXJEaXI9Ii90bXAiCmRlZiBjZChkaXI6U3RyaW5nPXV0aWwuUHJvcGVydGllcy51c2VyRGlyKSA9IGN3ZD1kaXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCB3Z2V0U3RhdHVzID0gU2VxKCJjdXJsIiwgIi1MIiwgImh0dHA6Ly9uZXh1czo4MDgxL25leHVzL3NlcnZpY2UvbG9jYWwvYXJ0aWZhY3QvbWF2ZW4vcmVkaXJlY3Q/cj1mdW5jdGlvbnMtc25hcHNob3RzJmc9Y29tLmJhcmNsYXlzLnRyZWFzdXJ5JmE9ZmlzY3VzLWluZ2VzdG9yJnY9TEFURVNUJmU9dGd6IiIiICEK</text>
+        <text encoding="base64">ICAgICAgQ2hhbmdlRGlyZWN0b3J5LmNkKHMiZmlzY3VzLWluZ2VzdG9yLSR2ZXJzaW9uIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQ2hhbmdlRGlyZWN0b3J5LmNkKHMiZmlzY3VzLWluZ2VzdG9yLSR2ZXJzaW9uIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCB3Z2V0U3RhdHVzID0gIndnZXQgLU8gZmlzY3VzLWluZ2VzdG9yLnRneiBcImh0dHA6Ly9uZXh1czo4MDgxL25leHVzL3NlcnZpY2UvbG9jYWwvYXJ0aWZhY3QvbWF2ZW4vcmVkaXJlY3Q/cj1mdW5jdGlvbnMtc25hcHNob3RzJmc9Y29tLmJhcmNsYXlzLnRyZWFzdXJ5JmE9ZmlzY3VzLWluZ2VzdG9yJnY9TEFURVNUJmU9dGd6XCIgIQo=</text>
+        <text encoding="base64">ICAgIHZhbCB3Z2V0U3RhdHVzID0gU2VxKCJjdXJsIiwgIi1MIiwgImh0dHA6Ly9uZXh1czo4MDgxL25leHVzL3NlcnZpY2UvbG9jYWwvYXJ0aWZhY3QvbWF2ZW4vcmVkaXJlY3Q/cj1mdW5jdGlvbnMtc25hcHNob3RzJmc9Y29tLmJhcmNsYXlzLnRyZWFzdXJ5JmE9ZmlzY3VzLWluZ2VzdG9yJnY9TEFURVNUJmU9dGd6IiIiICEK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnN5cy5wcm9jZXNzLlByb2Nlc3MK</text>
+        <text encoding="base64">ICAgIHZhbCB3Z2V0U3RhdHVzID0gIndnZXQgLU8gZmlzY3VzLWluZ2VzdG9yLnRneiBcImh0dHA6Ly9uZXh1czo4MDgxL25leHVzL3NlcnZpY2UvbG9jYWwvYXJ0aWZhY3QvbWF2ZW4vcmVkaXJlY3Q/cj1mdW5jdGlvbnMtc25hcHNob3RzJmc9Y29tLmJhcmNsYXlzLnRyZWFzdXJ5JmE9ZmlzY3VzLWluZ2VzdG9yJnY9TEFURVNUJmU9dGd6XCIgIQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmaW5hbCB2YWwgU1VDQ0VTUzogSW50ID0gMAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnN5cy5wcm9jZXNzLlByb2Nlc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmaW5hbCB2YWwgU1VDQ0VTUzogSW50ID0gMAoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -287,10 +286,10 @@
         <entry encoding="base64">JzwsJz5tMzk=</entry>
         <entry encoding="base64">JzwsJz5tIDM4</entry>
         <entry encoding="base64">JzwsJz5tNTk=</entry>
-        <entry>w</entry>
         <entry>ve</entry>
         <entry>we</entry>
         <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
