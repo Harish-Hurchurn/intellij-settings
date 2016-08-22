@@ -164,10 +164,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1471428205013">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1471878690456">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/pom.xml" timestamp="1471515682938">
         <mark key="[" line="7" column="22" />
@@ -234,7 +234,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QWRkZWQgaW5zdGFsbGVyIGZ1bmN0aW9uYWxpdHkgZm9yIGluZ2VzdGlvbiB2aWEgTmlGaQo=</text>
+        <text encoding="base64">ICAib3JnLmpzb240cyIgJSUgImpzb240cy1uYXRpdmUiICUgIjMuMy4wLlJDNiIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>uninstall</text>
@@ -246,31 +246,31 @@
         <text>uninstallNiFi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWRkZWQgaW5zdGFsbGVyIGZ1bmN0aW9uYWxpdHkgZm9yIGluZ2VzdGlvbiB2aWEgTmlGaQo=</text>
+        <text encoding="base64">ICAib3JnLmpzb240cyIgJSUgImpzb240cy1uYXRpdmUiICUgIjMuMy4wLlJDNiIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAianVuaXQiICUgImp1bml0IiAlICI0LjEyIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItc2NhbGFfMi4xMSIgJSBjdWtlc1ZlcnNpb24sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItanVuaXQiICUgY3VrZXNWZXJzaW9uLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItanZtIiAlIGN1a2VzVmVyc2lvbiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItY29yZSIgJSBjdWtlc1ZlcnNpb24sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiY29tLm0zIiAlJSAiY3VybHktc2NhbGEiICUgIjAuNS42IiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">QWRkZWQgaW5zdGFsbGVyIGZ1bmN0aW9uYWxpdHkgZm9yIGluZ2VzdGlvbiB2aWEgTmlGaQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaHVyY2h1cmggb24gMjIvMDgvMjAxNi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
