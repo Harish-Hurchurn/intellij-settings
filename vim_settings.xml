@@ -48,6 +48,9 @@
         <mark key="]" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
+      <file name="C:/work/fiscus-ingestor/installer/install.sh" timestamp="1471872197279">
+        <mark key="[" line="9" column="40" />
+      </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-executesql-bundle/nifi-executesql-processor/pom.xml" timestamp="1471516353828">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="22" />
@@ -107,8 +110,8 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471519668491">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1471872437386">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/pom.xml" timestamp="1471516375365">
         <mark key="[" line="11" column="22" />
