@@ -158,15 +158,16 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1470741919108">
-        <mark key="[" line="20" column="28" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1471879748373">
+        <mark key="[" line="22" column="47" />
+        <mark key="]" line="22" column="47" />
+        <mark key="." line="22" column="47" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1471878690456">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1471880069713">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/pom.xml" timestamp="1471515682938">
         <mark key="[" line="7" column="22" />
@@ -237,11 +238,11 @@
       <jump line="0" column="0" filename="C:/work/fiscus-ingestor/installer/common/conf/nifi_template.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>uninstall</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
@@ -250,31 +251,31 @@
         <text>uninstallNiFi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZCJjb20uYmFyY2xheXMudHJlYXN1cnkuZmlzY3VzLmluZ2VzdG9yIiAlJSAibmlmaXV0aWxpdGllcyIgJSAiMC4xLjAtU05BUFNIT1QiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAib3JnLmpzb240cyIgJSUgImpzb240cy1uYXRpdmUiICUgIjMuMy4wLlJDNiIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAianVuaXQiICUgImp1bml0IiAlICI0LjEyIiwK</text>
+        <text encoding="base64">ICAib3JnLmpzb240cyIgJSUgImpzb240cy1uYXRpdmUiICUgIjMuMy4wLlJDNiIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItc2NhbGFfMi4xMSIgJSBjdWtlc1ZlcnNpb24sCg==</text>
+        <text encoding="base64">ICAianVuaXQiICUgImp1bml0IiAlICI0LjEyIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItanVuaXQiICUgY3VrZXNWZXJzaW9uLAo=</text>
+        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItc2NhbGFfMi4xMSIgJSBjdWtlc1ZlcnNpb24sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItanZtIiAlIGN1a2VzVmVyc2lvbiwK</text>
+        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItanVuaXQiICUgY3VrZXNWZXJzaW9uLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItY29yZSIgJSBjdWtlc1ZlcnNpb24sCg==</text>
+        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItanZtIiAlIGN1a2VzVmVyc2lvbiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiY29tLm0zIiAlJSAiY3VybHktc2NhbGEiICUgIjAuNS42IiwK</text>
+        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItY29yZSIgJSBjdWtlc1ZlcnNpb24sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QWRkZWQgaW5zdGFsbGVyIGZ1bmN0aW9uYWxpdHkgZm9yIGluZ2VzdGlvbiB2aWEgTmlGaQo=</text>
+        <text encoding="base64">ICAiY29tLm0zIiAlJSAiY3VybHktc2NhbGEiICUgIjAuNS42IiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
