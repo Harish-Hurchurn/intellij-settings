@@ -195,11 +195,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/common/scripts/createhdfsdir.sh" timestamp="1471951878520">
-        <mark key="[" line="40" column="73" />
-        <mark key="]" line="40" column="73" />
-        <mark key="^" line="40" column="70" />
-        <mark key="." line="40" column="73" />
+      <file name="C:/work/fiscus-ingestor/installer/common/scripts/createhdfsdir.sh" timestamp="1471958728758">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="10" column="70" />
+        <mark key="^" line="10" column="70" />
+        <mark key="." line="10" column="70" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-hive-bundle/pom.xml" timestamp="1471515708910">
         <mark key="[" line="22" column="22" />
@@ -267,7 +267,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/raw
+hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/staging
+hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/lake
+hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/model
+hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/schema</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -276,37 +280,41 @@
         <text>port</text>
       </register>
       <register name="0" type="4">
-        <text>/warehouse/projects/treasury/fiscus/integration_testing</text>
+        <text>hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/raw
+hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/staging
+hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/lake
+hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/model
+hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/schema</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZVVyaTogImZpbGU6Ly8vYXBwcy9zeXNGaXNjdXNOaUZpRGV2L25pZmkvZGV2L25pZmkvZmxvdy10ZW1wbGF0ZXMvNUdfVVNDLnhtbCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyB1c2UgdGhlIGRlZmF1bHQgOTk5MAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBkZCJjb20uYmFyY2xheXMudHJlYXN1cnkuZmlzY3VzLmluZ2VzdG9yIiAlJSAibmlmaXV0aWxpdGllcyIgJSAiMC4xLjAtU05BUFNIT1QiCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB0ZW1wbGF0ZVVyaTogImZpbGU6Ly8vYXBwcy9zeXNGaXNjdXNOaUZpRGV2L25pZmkvZGV2L25pZmkvZmxvdy10ZW1wbGF0ZXMvNUdfVVNDLnhtbCIK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAib3JnLmpzb240cyIgJSUgImpzb240cy1uYXRpdmUiICUgIjMuMy4wLlJDNiIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAianVuaXQiICUgImp1bml0IiAlICI0LjEyIiwK</text>
+        <text encoding="base64">IyB1c2UgdGhlIGRlZmF1bHQgOTk5MAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItc2NhbGFfMi4xMSIgJSBjdWtlc1ZlcnNpb24sCg==</text>
+        <text encoding="base64">ICBkZCJjb20uYmFyY2xheXMudHJlYXN1cnkuZmlzY3VzLmluZ2VzdG9yIiAlJSAibmlmaXV0aWxpdGllcyIgJSAiMC4xLjAtU05BUFNIT1QiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItanVuaXQiICUgY3VrZXNWZXJzaW9uLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -344,8 +352,8 @@
         <entry>ve</entry>
         <entry>we</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
