@@ -110,7 +110,9 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/project/plugins.sbt" timestamp="1471940557648" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/project/plugins.sbt" timestamp="1471963807160">
+        <mark key="[" line="2" column="117" />
+      </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471518380844">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -179,11 +181,11 @@
         <mark key="]" line="22" column="47" />
         <mark key="." line="22" column="47" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1471940569286">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="15" column="7" />
-        <mark key="^" line="15" column="7" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1471962888674">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="7" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/pom.xml" timestamp="1471515682938">
         <mark key="[" line="7" column="22" />
@@ -195,11 +197,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/common/scripts/createhdfsdir.sh" timestamp="1471958728758">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="10" column="70" />
+      <file name="C:/work/fiscus-ingestor/installer/common/scripts/createhdfsdir.sh" timestamp="1471961943793">
+        <mark key="[" line="10" column="63" />
+        <mark key="]" line="10" column="63" />
         <mark key="^" line="10" column="70" />
-        <mark key="." line="10" column="70" />
+        <mark key="." line="10" column="63" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-hive-bundle/pom.xml" timestamp="1471515708910">
         <mark key="[" line="22" column="22" />
@@ -267,11 +269,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/raw
-hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/staging
-hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/lake
-hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/model
-hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/schema</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
