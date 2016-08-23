@@ -77,6 +77,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="19" column="8" />
       </file>
+      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/5G_TDF.yml" timestamp="1471946618840">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="41" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="1" column="6" />
+      </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/eod-bundle/eod-nar/pom.xml" timestamp="1471516281618">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -125,6 +131,10 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/Stress_IDLU.yml" timestamp="1471946611735">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="40" />
       </file>
       <file name="C:/work/fiscus-ingestor/installer/common/conf/nifi_template.properties" timestamp="1471876314020">
         <mark key="'" line="0" column="0" />
@@ -215,6 +225,12 @@
       <file name="/fragment.java" timestamp="1471515571688">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/5G_USC.yml" timestamp="1471946282827">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="57" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="5" column="3" filename="C:/work/src/cucumber-plugin-example/build.sbt" />
@@ -245,43 +261,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v</text>
+        <text>http://localhost:${NIFI_HTTP_PORT}</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
       </register>
       <register name="0" type="4">
-        <text>uninstallNiFi</text>
+        <text>http://localhost:${NIFI_HTTP_PORT}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0ZW1wbGF0ZVVyaTogImZpbGU6Ly8vYXBwcy9zeXNGaXNjdXNOaUZpRGV2L25pZmkvZGV2L25pZmkvZmxvdy10ZW1wbGF0ZXMvNUdfVVNDLnhtbCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyB1c2UgdGhlIGRlZmF1bHQgOTk5MAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBkZCJjb20uYmFyY2xheXMudHJlYXN1cnkuZmlzY3VzLmluZ2VzdG9yIiAlJSAibmlmaXV0aWxpdGllcyIgJSAiMC4xLjAtU05BUFNIT1QiCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyB1c2UgdGhlIGRlZmF1bHQgOTk5MAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZCJjb20uYmFyY2xheXMudHJlYXN1cnkuZmlzY3VzLmluZ2VzdG9yIiAlJSAibmlmaXV0aWxpdGllcyIgJSAiMC4xLjAtU05BUFNIT1QiCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAib3JnLmpzb240cyIgJSUgImpzb240cy1uYXRpdmUiICUgIjMuMy4wLlJDNiIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAianVuaXQiICUgImp1bml0IiAlICI0LjEyIiwK</text>
+        <text encoding="base64">ICAib3JnLmpzb240cyIgJSUgImpzb240cy1uYXRpdmUiICUgIjMuMy4wLlJDNiIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItc2NhbGFfMi4xMSIgJSBjdWtlc1ZlcnNpb24sCg==</text>
+        <text encoding="base64">ICAianVuaXQiICUgImp1bml0IiAlICI0LjEyIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItanVuaXQiICUgY3VrZXNWZXJzaW9uLAo=</text>
+        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItc2NhbGFfMi4xMSIgJSBjdWtlc1ZlcnNpb24sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItanZtIiAlIGN1a2VzVmVyc2lvbiwK</text>
+        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItanVuaXQiICUgY3VrZXNWZXJzaW9uLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
