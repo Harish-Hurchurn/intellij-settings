@@ -99,6 +99,7 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/project/plugins.sbt" timestamp="1471940557648" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471518380844">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -163,7 +164,7 @@
         <mark key="]" line="22" column="47" />
         <mark key="." line="22" column="47" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1471880069713">
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1471940569286">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="15" column="7" />
         <mark key="." line="15" column="7" />
