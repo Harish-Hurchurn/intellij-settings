@@ -16,10 +16,10 @@
       <file name="/a.dummy" timestamp="1471952773188">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/ChangeDirectory" timestamp="1471598702045">
-        <mark key="]" line="10" column="52" />
-        <mark key="^" line="10" column="52" />
-        <mark key="." line="10" column="52" />
+      <file name="C:/work/nifi-end-to-end-testing/.gitignore" timestamp="1472026606795">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/installer/install.sh" timestamp="1471872197279">
         <mark key="[" line="9" column="40" />
@@ -138,11 +138,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="45" column="53" />
-      </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/ChangeDirectory.scala" timestamp="1471598548023">
-        <mark key="]" line="8" column="52" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
@@ -277,7 +272,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -293,22 +288,22 @@ hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/model
 hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/schema</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGR1cGRhdGVPcHRpb25zIDo9IHVwZGF0ZU9wdGlvbnMudmFsdWUud2l0aExhdGVzdFNuYXBzaG90cyhmYWxzZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ZGR1cGRhdGVPcHRpb25zIDo9IHVwZGF0ZU9wdGlvbnMudmFsdWUud2l0aExhdGVzdFNuYXBzaG90cyhmYWxzZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGRyZXNvbHZlcnMgKz0gImZ1bmN0aW9ucy1zbmFwc2hvdHMiIGF0ICJodHRwOi8vbmV4dXM6ODA4MS9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9mdW5jdGlvbnMtc25hcHNob3RzLyIK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QWRkZWQgbmV3IGRpcmVjdG9yeSBmb3IgaW50ZWdyYXRpb24K</text>
+        <text encoding="base64">ZGRyZXNvbHZlcnMgKz0gImZ1bmN0aW9ucy1zbmFwc2hvdHMiIGF0ICJodHRwOi8vbmV4dXM6ODA4MS9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9mdW5jdGlvbnMtc25hcHNob3RzLyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWRkZWQgbmV3IGRpcmVjdG9yeSBmb3IgaW50ZWdyYXRpb24K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
