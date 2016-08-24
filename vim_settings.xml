@@ -8,26 +8,10 @@
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="C:/work/fiscus-ingestor/kerberos-sql-driver/pom.xml" timestamp="1471516259024">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-      </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/status/Status.scala" timestamp="1471878321254">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/env.sh" timestamp="1471945717441">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/batching-bundle/batching-processor/pom.xml" timestamp="1471515661036">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-        <mark key="^" line="9" column="8" />
       </file>
       <file name="/a.dummy" timestamp="1471952773188">
         <mark key="[" line="0" column="0" />
@@ -37,34 +21,8 @@
         <mark key="^" line="10" column="52" />
         <mark key="." line="10" column="52" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/attribute-get-bundle/pom.xml" timestamp="1471515624157">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-      </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1471875442715">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="45" column="53" />
-      </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/ChangeDirectory.scala" timestamp="1471598548023">
-        <mark key="]" line="8" column="52" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-      </file>
       <file name="C:/work/fiscus-ingestor/installer/install.sh" timestamp="1471872197279">
         <mark key="[" line="9" column="40" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-executesql-bundle/nifi-executesql-processor/pom.xml" timestamp="1471516353828">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="22" />
-        <mark key="." line="4" column="22" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/attribute-get-bundle/attribute-get-processor/pom.xml" timestamp="1471515742999">
         <mark key="[" line="11" column="22" />
@@ -77,18 +35,7 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="19" column="8" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/5G_TDF.yml" timestamp="1471946618840">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="41" />
-        <mark key="." line="1" column="7" />
-        <mark key="^" line="1" column="6" />
-      </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/eod-bundle/eod-nar/pom.xml" timestamp="1471516281618">
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="21" column="26" />
-        <mark key="." line="21" column="26" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-nar/pom.xml" timestamp="1471515825751">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
@@ -138,8 +85,93 @@
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="40" />
       </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-executesql-bundle/nifi-executesql-nar/pom.xml" timestamp="1471516359236">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/batching-bundle/pom.xml" timestamp="1471515650652">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/repositories" timestamp="1472024707754">
+        <mark key="[" line="3" column="73" />
+        <mark key="]" line="2" column="76" />
+        <mark key="." line="2" column="76" />
+        <mark key="^" line="2" column="76" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/batching-bundle/batching-nar/pom.xml" timestamp="1471516274049">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/pom.xml" timestamp="1471515833233">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="5" column="8" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/kerberos-sql-driver/pom.xml" timestamp="1471516259024">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/env.sh" timestamp="1471945717441">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/batching-bundle/batching-processor/pom.xml" timestamp="1471515661036">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+        <mark key="^" line="9" column="8" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/attribute-get-bundle/pom.xml" timestamp="1471515624157">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+      </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1471875442715">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="45" column="53" />
+      </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/ChangeDirectory.scala" timestamp="1471598548023">
+        <mark key="]" line="8" column="52" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-executesql-bundle/nifi-executesql-processor/pom.xml" timestamp="1471516353828">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/5G_TDF.yml" timestamp="1471946618840">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="41" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="1" column="6" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-nar/pom.xml" timestamp="1471515825751">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+      </file>
       <file name="C:/work/fiscus-ingestor/installer/common/conf/nifi_template.properties" timestamp="1471876314020">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1472024410439">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
         <mark key="[" line="15" column="0" />
@@ -151,10 +183,8 @@
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-executesql-bundle/nifi-executesql-nar/pom.xml" timestamp="1471516359236">
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="21" column="26" />
-        <mark key="." line="21" column="26" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1472025344998">
+        <mark key="[" line="18" column="2" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/pom.xml" timestamp="1471515872751">
         <mark key="[" line="7" column="22" />
@@ -171,21 +201,16 @@
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/batching-bundle/pom.xml" timestamp="1471515650652">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-      </file>
       <file name="C:/work/nifi-utilities/build.sbt" timestamp="1471879748373">
         <mark key="[" line="22" column="47" />
         <mark key="]" line="22" column="47" />
         <mark key="." line="22" column="47" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1471962888674">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="17" column="7" />
-        <mark key="." line="17" column="7" />
-        <mark key="^" line="17" column="7" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1472025150960">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="1" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/pom.xml" timestamp="1471515682938">
         <mark key="[" line="7" column="22" />
@@ -212,23 +237,6 @@
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/repositories" timestamp="1471939613916">
-        <mark key="[" line="2" column="73" />
-        <mark key="]" line="2" column="76" />
-        <mark key="." line="2" column="76" />
-        <mark key="^" line="2" column="76" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/batching-bundle/batching-nar/pom.xml" timestamp="1471516274049">
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="21" column="26" />
-        <mark key="." line="21" column="26" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/pom.xml" timestamp="1471515833233">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-        <mark key="^" line="5" column="8" />
       </file>
       <file name="/fragment.java" timestamp="1471515571688">
         <mark key="[" line="0" column="0" />
@@ -268,8 +276,8 @@
       <jump line="0" column="0" filename="C:/work/fiscus-ingestor/installer/common/conf/nifi_template.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -288,25 +296,25 @@ hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/schema</
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGR1cGRhdGVPcHRpb25zIDo9IHVwZGF0ZU9wdGlvbnMudmFsdWUud2l0aExhdGVzdFNuYXBzaG90cyhmYWxzZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGRyZXNvbHZlcnMgKz0gImZ1bmN0aW9ucy1zbmFwc2hvdHMiIGF0ICJodHRwOi8vbmV4dXM6ODA4MS9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9mdW5jdGlvbnMtc25hcHNob3RzLyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZVVyaTogImZpbGU6Ly8vYXBwcy9zeXNGaXNjdXNOaUZpRGV2L25pZmkvZGV2L25pZmkvZmxvdy10ZW1wbGF0ZXMvNUdfVVNDLnhtbCIK</text>
+        <text encoding="base64">QWRkZWQgbmV3IGRpcmVjdG9yeSBmb3IgaW50ZWdyYXRpb24K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyB1c2UgdGhlIGRlZmF1bHQgOTk5MAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZCJjb20uYmFyY2xheXMudHJlYXN1cnkuZmlzY3VzLmluZ2VzdG9yIiAlJSAibmlmaXV0aWxpdGllcyIgJSAiMC4xLjAtU05BUFNIT1QiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
