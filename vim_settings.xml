@@ -18,6 +18,11 @@
         <mark key="." line="33" column="48" />
         <mark key="^" line="33" column="48" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" timestamp="1472383672282">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/ioctl.co/barclays/src/avro-generator/build.sbt" timestamp="1455030745639">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="1" />
@@ -30,12 +35,10 @@
         <mark key="." line="14" column="16" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/Printable.scala" timestamp="1471186907393">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="12" column="53" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/Printable.scala" timestamp="1472381488734">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" timestamp="1448805270802">
         <mark key="[" line="0" column="0" />
@@ -61,6 +64,17 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="12" column="50" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/Print.scala" timestamp="1472383641495">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/PrintSyntax.scala" timestamp="1472383075996">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/CakePattern/src/main/scala/co/ioctl/cakepatten/Users.scala" timestamp="1471763955275">
         <mark key="[" line="4" column="0" />
@@ -132,10 +146,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/Main.scala" timestamp="1471190217722">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/Main.scala" timestamp="1472382763329">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugins/dependency.sbt" timestamp="1448797318506">
         <mark key="[" line="0" column="0" />
@@ -212,6 +226,11 @@
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/SelfTypes/src/main/scala/Test.scala" timestamp="1471719409314">
         <mark key="[" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/PrintDefaults.scala" timestamp="1472382074959">
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-maven].sbt" timestamp="1448803583477">
         <mark key="[" line="1" column="97" />
         <mark key="]" line="2" column="0" />
@@ -271,13 +290,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFourSpec.scala" timestamp="1459070732400">
-        <mark key="'" line="60" column="51" />
-        <mark key="[" line="60" column="51" />
-        <mark key="]" line="61" column="4" />
-        <mark key="^" line="61" column="4" />
-        <mark key="." line="61" column="4" />
       </file>
       <file name="$USER_HOME$/work/src/nifi-custom-plugins/nifi-persistance-avro-es/src/main/scala/org/profile/customer/nifi/persistance/es/ESAvroPersistor.scala" timestamp="1454432512247">
         <mark key="[" line="23" column="59" />
@@ -424,50 +436,51 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4udG9vbHMuaW50ZXJuYWwueGpjLnJlYWRlci54bWxzY2hlbWEuYmluZGluZm8uQklDb252ZXJzaW9uLlVzZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>noh</text>
       </register>
       <register name="0" type="4">
-        <text>implicit val intPrinter = new Printable[Int] {
-    override def format[A](value: A): String = value.toString
-  }</text>
+        <text>JsString(value.name)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4udG9vbHMuaW50ZXJuYWwueGpjLnJlYWRlci54bWxzY2hlbWEuYmluZGluZm8uQklDb252ZXJzaW9uLlVzZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4udG9vbHMuaW50ZXJuYWwueGpjLmRkcmVhZGVyLnhtbHNjaGVtYS5iaW5kaW5mby5CSUNvbnZlcnNpb24uVXNlcgo=</text>
+      <register name="2" type="4">
+        <text>/**
+  * Created by harish on 28/08/2016.
+  */</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dWltcG9ydCBjb20uc3VuLnRvb2xzLmludGVybmFsLnhqYy5yZWFkZXIueG1sc2NoZW1hLmJpbmRpbmZvLkJJQ29udmVyc2lvbi5Vc2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4udG9vbHMuaW50ZXJuYWwueGpjLnJlYWRlci54bWxzY2hlbWEuYmluZGluZm8uQklDb252ZXJzaW9uLlVzZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4udG9vbHMuaW50ZXJuYWwueGpjLnJlYWRlci54bWxzY2hlbWEuYmluZGluZm8uQklDb252ZXJzaW9uLlVzZXIK</text>
+        <text encoding="base64">aW1wb3J0IGNvLmlvY3RsLmNoYXB0ZXJvbmUuQ2F0LkNhdAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4udG9vbHMuaW50ZXJuYWwueGpjLnJlYWRlci54bWxzY2hlbWEuYmluZGluZm8uQklDb252ZXJzaW9uLlVzZXIK</text>
+      <register name="6" type="4">
+        <text>/**
+  * Created by harish on 28/08/2016.
+  */</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGhhcmlzaCBvbiAyMS8wOC8yMDE2Lgog</text>
+        <text>/**
+  * Created by harish on 28/08/2016.
+  */</text>
       </register>
       <register name="9" type="4">
-        <text>/**
-  * Created by harish on 20/08/2016.
-  */
-class Test {
-
-}</text>
+        <text>override val format(value: Int) = {
+      println(value)
+    }</text>
       </register>
       <register name=":" type="4">
         <text>m 5</text>
@@ -521,6 +534,9 @@ class Test {
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
