@@ -71,6 +71,12 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Main.scala" timestamp="1472386939497">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/PrintSyntax.scala" timestamp="1472383075996">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="2" column="0" />
@@ -210,6 +216,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/PrintDefaults.scala" timestamp="1472385973721">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/build.sbt" timestamp="1448877254510">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="7" column="0" />
@@ -241,6 +253,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Print.scala" timestamp="1472386597104">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="7" column="39" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/Testing.sc" timestamp="1458490419659">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -261,6 +279,11 @@
       </file>
       <file name="$USER_HOME$/work/src/avro-generator/build.sbt" timestamp="1454952746416">
         <mark key="[" line="13" column="31" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Printable.scala" timestamp="1472384705806">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/work/barclays/merlin/nifi3cdpflow/src/main/scala/com/barclays/nifi/Logic.scala" timestamp="1448705969804">
         <mark key="[" line="7" column="96" />
@@ -295,6 +318,11 @@
         <mark key="]" line="23" column="57" />
         <mark key="." line="23" column="57" />
         <mark key="^" line="23" column="57" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" timestamp="1472386736983">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterTwoSpec.scala" timestamp="1451658167868">
         <mark key="[" line="3" column="0" />
@@ -435,10 +463,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>import PrintDefaults._</text>
       </register>
       <register name="/" type="4">
         <text>noh</text>
@@ -447,35 +475,42 @@
         <text>JsString(value.name)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaGFyaXNoIG9uIDI4LzA4LzIwMTYuCg==</text>
+      <register name="2" type="4">
+        <text>/**
+  * Created by harish on 28/08/2016.
+  */</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICB2YWwgeCA9IDEK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>0
+  PrintDefaults.int§Printer(x</text>
       </register>
       <register name="5" type="4">
-        <text>/**
-  * Created by harish on 28/08/2016.
-  */</text>
+        <text encoding="base64">Ci8qKgogICogQ3JlYXRlZCBieSBoYXJpc2ggb24gMjgvMDgvMg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>implicit class Printing[A](value: A) {
+    def format(implicit printer: Printable[A]) = {
+      printer.format(value)
+    }
+
+    def print(implicit printer: Printable[A]) = {
+      println(printer.format(value))
+    }
+  }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvLmlvY3RsLmNoYXB0ZXJvbmUuQ2F0LkNhdAo=</text>
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaGFyaXNoIG9uIDI4LzA4LzIwMTYuCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
-  * Created by harish on 28/08/2016.
-  */</text>
+      <register name="9" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>m 5</text>
