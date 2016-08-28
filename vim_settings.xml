@@ -146,10 +146,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/Main.scala" timestamp="1472382763329">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/Main.scala" timestamp="1472384381398">
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugins/dependency.sbt" timestamp="1448797318506">
         <mark key="[" line="0" column="0" />
@@ -436,7 +435,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -448,39 +447,35 @@
         <text>JsString(value.name)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>/**
-  * Created by harish on 28/08/2016.
-  */</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaGFyaXNoIG9uIDI4LzA4LzIwMTYuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvLmlvY3RsLmNoYXB0ZXJvbmUuQ2F0LkNhdAo=</text>
-      </register>
-      <register name="6" type="4">
+      <register name="5" type="4">
         <text>/**
   * Created by harish on 28/08/2016.
   */</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvLmlvY3RsLmNoYXB0ZXJvbmUuQ2F0LkNhdAo=</text>
+      </register>
+      <register name="9" type="4">
         <text>/**
   * Created by harish on 28/08/2016.
   */</text>
-      </register>
-      <register name="9" type="4">
-        <text>override val format(value: Int) = {
-      println(value)
-    }</text>
       </register>
       <register name=":" type="4">
         <text>m 5</text>
