@@ -71,10 +71,9 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Main.scala" timestamp="1472468513409">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Main.scala" timestamp="1472470077535">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/PrintSyntax.scala" timestamp="1472383075996">
         <mark key="[" line="3" column="0" />
@@ -252,8 +251,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Print.scala" timestamp="1472386597104">
-        <mark key="[" line="7" column="36" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Print.scala" timestamp="1472470197622">
+        <mark key="[" line="10" column="0" />
         <mark key="]" line="7" column="36" />
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="39" />
@@ -323,6 +322,9 @@
         <mark key="]" line="23" column="57" />
         <mark key="." line="23" column="57" />
         <mark key="^" line="23" column="57" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" timestamp="1472470081671">
+        <mark key="[" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterTwoSpec.scala" timestamp="1451658167868">
         <mark key="[" line="3" column="0" />
@@ -471,8 +473,11 @@
       <jump line="312" column="6" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/scala/Predef.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>object Main extends App {
+  val x = Cat(&quot;Moggy&quot;, 1, &quot;White&quot;)
+  x.show
+}</text>
       </register>
       <register name="-" type="4">
         <text>w</text>
@@ -481,7 +486,10 @@
         <text>augment</text>
       </register>
       <register name="0" type="4">
-        <text>JsString(value.name)</text>
+        <text>object Main extends App {
+  val x = Cat(&quot;Moggy&quot;, 1, &quot;White&quot;)
+  x.show
+}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">fQo=</text>
