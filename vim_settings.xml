@@ -71,9 +71,10 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Main.scala" timestamp="1472466567592">
-        <mark key="[" line="8" column="35" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Main.scala" timestamp="1472468513409">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/PrintSyntax.scala" timestamp="1472383075996">
         <mark key="[" line="3" column="0" />
@@ -323,11 +324,6 @@
         <mark key="." line="23" column="57" />
         <mark key="^" line="23" column="57" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" timestamp="1472467510638">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterTwoSpec.scala" timestamp="1451658167868">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="40" />
@@ -476,10 +472,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">RXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>“</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>augment</text>
@@ -488,31 +484,31 @@
         <text>JsString(value.name)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuU2hvdwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhdC5f4oCdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGNhdHMuc3ludGF4LnNob3cuX+KAnQo=</text>
+        <text encoding="base64">ZGQgICAgICBFeGNlcnB0IEZyb206IE5vZWwgV2Vsc2ggYW5kIERhdmUgR3VybmVsbC4g4oCcQWR2YW5jZWQgU2NhbGEu4oCdIGlCb29rcy4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGNhdHMuaW5zdGFuY2VzLnN0cmluZy5fCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">aW1wb3J0IGNhdHMuU2hvdwppbXBvcnQgY2F0cy5pbnN0YW5jZXMuaW50Ll8KaW1wb3J0IGNhdHMuaW5zdGFuY2VzLnN0cmluZy5fCmltcG9ydCBjYXRzLnN5bnRheC5zaG93Ll8KCmZpbmFsIGNhc2UgY2xhc3MgQ2F0KG5hbWU6IFN0cmluZywgYWdlOiBJbnQsIGNvbG9yOiBTdHJpbmcpCgpvYmplY3QgQ2F0IHsKICBpbXBsaWNpdCB2YWwgY2F0U2hvdyA9IFNob3cuc2hvd1tDYXRdIHsgY2F0ID0+CiAgICB2YWwgbmFtZSA9IGNhdC5uYW1lLnNob3cKICAgIHZhbCBhZ2UgPSBjYXQuYWdlLnNob3cKICAgIHZhbCBjb2xvciA9IGNhdC5jb2xvci5zaG93CgogICAgcyIkbmFtZSBpcyBhICRhZ2UgeWVhci1vbGQgJGNvbG9yIGNhdC4iCiAgfQp9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGNhdHMuaW5zdGFuY2VzLmludC5fCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
