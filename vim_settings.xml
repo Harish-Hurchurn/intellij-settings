@@ -71,9 +71,10 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Main.scala" timestamp="1472459902411">
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Main.scala" timestamp="1472462774756">
+        <mark key="[" line="2" column="0" />
         <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="1" />
+        <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/PrintSyntax.scala" timestamp="1472383075996">
@@ -352,7 +353,7 @@
       <file name="$USER_HOME$/work/barclays/src/avro-generator/src/main/scala/com/profile/customer/data/covnertor/avro/AvroDefaultsGenerator.scala" timestamp="1454241376694">
         <mark key="[" line="31" column="39" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/PrintSyntax.scala" timestamp="1472459728678">
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/PrintSyntax.scala" timestamp="1472462723453">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -471,7 +472,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBQcmludC5wcmludChjYXQpCg==</text>
+        <text encoding="base64">ICAiIi5tYXAoXyArIDEpCg==</text>
       </register>
       <register name="-" type="4">
         <text>import PrintDefaults._</text>
@@ -483,36 +484,35 @@
         <text>JsString(value.name)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBQcmludC5wcmludChjYXQpCg==</text>
+        <text encoding="base64">ICAiIi5tYXAoXyArIDEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IENhdC5fCg==</text>
+        <text encoding="base64">ICBQcmludC5wcmludChjYXQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaW1wbGljaXRseVtQcmludGFibGVbQV1dLmZvcm1hdCh2YWx1ZSkK</text>
+        <text encoding="base64">aW1wb3J0IENhdC5fCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgaW1wbGljaXRseVtQcmludGFibGVbQV1dLmZvcm1hdCh2YWx1ZSkK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>/**
   * Created by harish on 29/08/2016.
   */</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>/**
   * Created by harish on 28/08/2016.
   */</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICB2YWwgeCA9IDEK</text>
-      </register>
-      <register name="9" type="4">
-        <text>0
-  PrintDefaults.int§Printer(x</text>
       </register>
       <register name=":" type="4">
         <text>m 5</text>
