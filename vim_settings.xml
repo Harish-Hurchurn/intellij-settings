@@ -323,10 +323,11 @@
         <mark key="." line="23" column="57" />
         <mark key="^" line="23" column="57" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" timestamp="1472484951412">
-        <mark key="[" line="15" column="2" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" timestamp="1472485876655">
+        <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+        <mark key="^" line="35" column="68" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterTwoSpec.scala" timestamp="1451658167868">
         <mark key="[" line="3" column="0" />
@@ -476,11 +477,11 @@
       <jump line="312" column="6" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/scala/Predef.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fWNlcnB0IEZyb206IE5vZWwgV2Vsc2ggYW5kIERhdmUgR3VybmVsbC4g4oCcQWR2YW5jZWQgU2NhbGEu4oCdIGlCb29rcy4K</text>
+      <register name="&quot;" type="4">
+        <text>“</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>“</text>
       </register>
       <register name="/" type="4">
         <text>augment</text>
@@ -492,52 +493,33 @@
 }</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">RXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">RWRkeGNlcnB0IEZyb206IE5vZWwgV2Vsc2ggYW5kIERhdmUgR3VybmVsbC4g4oCcQWR2YW5jZWQgU2NhbGEu4oCdIGlCb29rcy4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">RXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ci8vIGltcG9ydCBjYXRzLkVxCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">RXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IGNhdHMuc3ludGF4LmVxLl/igJ0K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">fWNlcnB0IEZyb206IE5vZWwgV2Vsc2ggYW5kIERhdmUgR3VybmVsbC4g4oCcQWR2YW5jZWQgU2NhbGEu4oCdIGlCb29rcy4K</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>v”
 
 Ex</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">RXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>import cats.Show
-
-cats.Show
-
-final case class Cat(name: String, age: Int, owner: Option[String])
-
-object Cat {
-
-  implicit val catShow =
-    val name = cat.name
-    val age = cat.age
-
-    s&quot;$name is a $age year-old.&quot;
-  }
-}
-
-object Main extends App {
-  val cat1 = Cat(&quot;Meg&quot;, 2, &quot;Grey&quot;,)
-  val cat2 = Cat(&quot;Moggy&quot;, 1, &quot;White&quot;)
-}</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuaW5zdGFuY2VzLmVxCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuRXEK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
