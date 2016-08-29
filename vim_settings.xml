@@ -71,8 +71,9 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Main.scala" timestamp="1472464528531">
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Main.scala" timestamp="1472466567592">
+        <mark key="[" line="8" column="35" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/PrintSyntax.scala" timestamp="1472383075996">
         <mark key="[" line="3" column="0" />
@@ -322,11 +323,10 @@
         <mark key="." line="23" column="57" />
         <mark key="^" line="23" column="57" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" timestamp="1472464946157">
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="8" column="43" />
-        <mark key="." line="8" column="43" />
-        <mark key="^" line="8" column="43" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" timestamp="1472467510638">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterTwoSpec.scala" timestamp="1451658167868">
         <mark key="[" line="3" column="0" />
@@ -475,11 +475,11 @@
       <jump line="312" column="6" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/scala/Predef.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>“</text>
       </register>
       <register name="/" type="4">
         <text>augment</text>
@@ -488,33 +488,31 @@
         <text>JsString(value.name)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGRlZiBzaG93KGY6IENhdCk6IFN0cmluZyA9ID8/Pwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFByaW50U3ludGF4Ll8K</text>
+        <text encoding="base64">aW1wb3J0IGNhdHMuU2hvdwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiIi5tYXAoXyArIDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBQcmludC5wcmludChjYXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IENhdC5fCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW1wbGljaXRseVtQcmludGFibGVbQV1dLmZvcm1hdCh2YWx1ZSkK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IGNhdHMuc3ludGF4LnNob3cuX+KAnQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IGNhdHMuaW5zdGFuY2VzLnN0cmluZy5fCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
-  * Created by harish on 29/08/2016.
-  */</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IGNhdHMuaW5zdGFuY2VzLmludC5fCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
