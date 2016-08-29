@@ -71,11 +71,8 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Main.scala" timestamp="1472462774756">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Main.scala" timestamp="1472464528531">
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/PrintSyntax.scala" timestamp="1472383075996">
         <mark key="[" line="3" column="0" />
@@ -274,6 +271,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/build.sbt" timestamp="1472464053942">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="51" />
+        <mark key="^" line="6" column="51" />
+        <mark key="." line="6" column="51" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/maven-sbt.sbt" timestamp="1448795840580">
         <mark key="[" line="0" column="74" />
       </file>
@@ -319,10 +322,11 @@
         <mark key="." line="23" column="57" />
         <mark key="^" line="23" column="57" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" timestamp="1472407757239">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" timestamp="1472464946157">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="8" column="43" />
+        <mark key="." line="8" column="43" />
+        <mark key="^" line="8" column="43" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterTwoSpec.scala" timestamp="1451658167868">
         <mark key="[" line="3" column="0" />
@@ -471,11 +475,11 @@
       <jump line="312" column="6" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/scala/Predef.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAiIi5tYXAoXyArIDEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>import PrintDefaults._</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>augment</text>
@@ -484,38 +488,36 @@
         <text>JsString(value.name)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiIi5tYXAoXyArIDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBQcmludC5wcmludChjYXQpCg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGRlZiBzaG93KGY6IENhdCk6IFN0cmluZyA9ID8/Pwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IENhdC5fCg==</text>
+        <text encoding="base64">aW1wb3J0IFByaW50U3ludGF4Ll8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaW1wbGljaXRseVtQcmludGFibGVbQV1dLmZvcm1hdCh2YWx1ZSkK</text>
+        <text encoding="base64">ICAiIi5tYXAoXyArIDEpCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICBQcmludC5wcmludChjYXQpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IENhdC5fCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgaW1wbGljaXRseVtQcmludGFibGVbQV1dLmZvcm1hdCh2YWx1ZSkK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>/**
   * Created by harish on 29/08/2016.
   */</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>/**
-  * Created by harish on 28/08/2016.
-  */</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgeCA9IDEK</text>
-      </register>
       <register name=":" type="4">
-        <text>m 5</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -550,13 +552,13 @@
         <entry>hs</entry>
         <entry>help vs</entry>
         <entry>m 0</entry>
-        <entry>w</entry>
         <entry>vs</entry>
         <entry>e Cats.scala</entry>
         <entry>m 9</entry>
         <entry>m 7</entry>
         <entry>m 6</entry>
         <entry>m 5</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
