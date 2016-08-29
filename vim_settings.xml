@@ -363,6 +363,9 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/scala/Predef.scala" timestamp="1472461283849">
+        <mark key="'" line="312" column="6" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterFiveSpec.scala" timestamp="1459075961336">
         <mark key="[" line="14" column="2" />
         <mark key="]" line="22" column="0" />
@@ -464,6 +467,7 @@
       <jump line="20" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/Printable.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/Printable.scala" />
       <jump line="22" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/Printable.scala" />
+      <jump line="312" column="6" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/scala/Predef.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -473,7 +477,7 @@
         <text>import PrintDefaults._</text>
       </register>
       <register name="/" type="4">
-        <text>noh</text>
+        <text>augment</text>
       </register>
       <register name="0" type="4">
         <text>JsString(value.name)</text>
@@ -515,9 +519,9 @@
       </register>
     </registers>
     <search>
-      <last-search>noh</last-search>
+      <last-search>augment</last-search>
       <last-offset />
-      <last-pattern>noh</last-pattern>
+      <last-pattern>augment</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -530,6 +534,7 @@
         <entry>take</entry>
         <entry>headOption</entry>
         <entry>noh</entry>
+        <entry>augment</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5tIDEwMg==</entry>
