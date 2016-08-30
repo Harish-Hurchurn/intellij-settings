@@ -208,10 +208,11 @@
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1472556091090">
-        <mark key="[" line="22" column="47" />
-        <mark key="]" line="22" column="47" />
-        <mark key="." line="22" column="47" />
+      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1472556574232">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+        <mark key="^" line="0" column="22" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1472548185117">
         <mark key="[" line="15" column="0" />
@@ -290,10 +291,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
