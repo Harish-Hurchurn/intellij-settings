@@ -234,8 +234,11 @@
         <mark key="^" line="10" column="70" />
         <mark key="." line="10" column="63" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/project/plugins.sbt" timestamp="1472031834412">
-        <mark key="[" line="0" column="21" />
+      <file name="C:/work/nifi-end-to-end-testing/project/plugins.sbt" timestamp="1472550964631">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-hive-bundle/pom.xml" timestamp="1471515708910">
         <mark key="[" line="22" column="22" />
@@ -286,10 +289,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>Debug</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>Debug</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
