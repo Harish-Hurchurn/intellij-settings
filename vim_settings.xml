@@ -164,17 +164,18 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="6" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/build.sbt" timestamp="1472548253588">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
+      <file name="C:/work/nifi-end-to-end-testing/build.sbt" timestamp="1472557746362">
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="12" column="43" />
         <mark key="^" line="4" column="60" />
-        <mark key="." line="5" column="0" />
+        <mark key="." line="12" column="43" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-nar/pom.xml" timestamp="1471515825751">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifiutilities_2.11/srcs/nifiutilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/bulletinboard/status/Status.scala" timestamp="1472557394617" />
       <file name="/Dummy.txt" timestamp="1472556850630">
         <mark key="[" line="0" column="28" />
         <mark key="]" line="0" column="29" />
@@ -236,11 +237,15 @@
         <mark key="^" line="10" column="70" />
         <mark key="." line="10" column="63" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/project/plugins.sbt" timestamp="1472550964631">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-        <mark key="^" line="0" column="21" />
+      <file name="C:/work/nifi-end-to-end-testing/project/plugins.sbt" timestamp="1472557494558">
+        <mark key="[" line="1" column="91" />
+        <mark key="]" line="1" column="91" />
+        <mark key="." line="1" column="91" />
+        <mark key="^" line="1" column="91" />
+      </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/step_definitions/NiFi.scala" timestamp="1472557412281">
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-hive-bundle/pom.xml" timestamp="1471515708910">
         <mark key="[" line="22" column="22" />
@@ -291,47 +296,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>%</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
       </register>
       <register name="0" type="4">
-        <text>hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/raw
-hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/staging
-hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/lake
-hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/model
-hdfs dfs -mkdir /warehouse/projects/treasury/fiscus/integration_testing/schema</text>
+        <text encoding="base64">R2l2ZW4oIiIiXk1ha2Ugc3VyZSB0aGF0IE5pRmkgaXMgdXAgYW5kIHJ1bm5pbmckIiIiKSB7ICgpID0+CiAgICBhc3NlcnQoTmlGaVV0aWxpdGllcyBpc05pRmlVcCBob3N0bmFtZSkKICB9CgogIFdoZW4oIiIiXlRoZXJlIGFyZSBubyBidWxsZXRpbnMgd2hpY2ggcmVxdWlyZSBhdHRlbnRpb24kIiIiKSB7ICgpID0+CiAgICBOaUZpVXRpbGl0aWVzLmV4dHJhY3RCdWxsZXRpbkJvYXJkSW5mbyhob3N0bmFtZSkgPT0gTGlzdCgpICYmIE5pRmlVdGlsaXRpZXMuaW52YWxpZENvdW50KGhvc3RuYW1lKSA9PSAwCiAgfQoKICBUaGVuKCIiIl5UaGUgaW50ZWdyYXRpb24gdGVzdHMgY2FuIHN0YXJ0JCIiIikgeyAoKSA9PgogICAgcHJpbnRsbigiTmlGaSBsb29rcyB0byBiZSBpbiBhIGdvb2Qgc3RhdGUhISEhIikKICB9</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmFtZSA6PSAic3RyZXNzLWVuZC10by1lbmQtdGVzdCIK</text>
+        <text encoding="base64">cmVzb2x2ZXJzICs9ICJTb25hdHlwZSBOZXh1cyBSZXBvc2l0b3J5IE1hbmFnZXIiIGF0ICJodHRwOi8vbmV4dXM6ODA4MS9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9mdW5jdGlvbnMtc25hcHNob3RzLyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ki8K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">LypjbGFzcyBOaUZpIGV4dGVuZHMgU2NhbGFEc2wgd2l0aCBFTiB7CiAgdmFsIGhvc3RuYW1lID0gImh0dHA6Ly9sb2NhbGhvc3Q6ODA4MCIKCiAgR2l2ZW4oIiIiXk1ha2Ugc3VyZSB0aGF0IE5pRmkgaXMgdXAgYW5kIHJ1bm5pbmckIiIiKSB7ICgpID0+CiAgICBhc3NlcnQoTmlGaVV0aWxpdGllcyBpc05pRmlVcCBob3N0bmFtZSkKICB9CgogIFdoZW4oIiIiXlRoZXJlIGFyZSBubyBidWxsZXRpbnMgd2hpY2ggcmVxdWlyZSBhdHRlbnRpb24kIiIiKSB7ICgpID0+CiAgICBOaUZpVXRpbGl0aWVzLmV4dHJhY3RCdWxsZXRpbkJvYXJkSW5mbyhob3N0bmFtZSkgPT0gTGlzdCgpICYmIE5pRmlVdGlsaXRpZXMuaW52YWxpZENvdW50KGhvc3RuYW1lKSA9PSAwCiAgfQoKICBUaGVuKCIiIl5UaGUgaW50ZWdyYXRpb24gdGVzdHMgY2FuIHN0YXJ0JCIiIikgeyAoKSA9PgogICAgcHJpbnRsbigiTmlGaSBsb29rcyB0byBiZSBpbiBhIGdvb2Qgc3RhdGUhISEhIikKICB9Cn0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2NhbGFWZXJzaW9uIDo9ICIyLjExLjgiCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChOaUZpVXRpbGl0aWVzIGlzTmlGaVVwIGhvc3RuYW1lKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmVyc2lvbiA6PSAiMC4xLTAtU05BUFNIT1QiCg==</text>
+        <text encoding="base64">cGFja2FnZSBzdGVwX2RlZmluaXRpb25zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">bmFtZSA6PSAic3RyZXNzLWVuZC10by1lbmQtdGVzdCIK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGR1cGRhdGVPcHRpb25zIDo9IHVwZGF0ZU9wdGlvbnMudmFsdWUud2l0aExhdGVzdFNuYXBzaG90cyhmYWxzZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
