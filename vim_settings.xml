@@ -175,6 +175,9 @@
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
       </file>
+      <file name="C:/work/cucumber-plugin/build.sbt" timestamp="1472559190598">
+        <mark key="[" line="6" column="24" />
+      </file>
       <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifiutilities_2.11/srcs/nifiutilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/bulletinboard/status/Status.scala" timestamp="1472557394617" />
       <file name="/Dummy.txt" timestamp="1472556850630">
         <mark key="[" line="0" column="28" />
@@ -237,11 +240,11 @@
         <mark key="^" line="10" column="70" />
         <mark key="." line="10" column="63" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/project/plugins.sbt" timestamp="1472557494558">
-        <mark key="[" line="1" column="91" />
-        <mark key="]" line="1" column="91" />
-        <mark key="." line="1" column="91" />
-        <mark key="^" line="1" column="91" />
+      <file name="C:/work/nifi-end-to-end-testing/project/plugins.sbt" timestamp="1472558673136">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+        <mark key="^" line="0" column="22" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/scala/step_definitions/NiFi.scala" timestamp="1472558333514">
         <mark key="]" line="16" column="0" />
@@ -296,10 +299,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>%</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>%</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
