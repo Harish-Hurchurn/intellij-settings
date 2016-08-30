@@ -1,7 +1,7 @@
 <application>
   <component name="ScalaSettings">
     <option name="SHOW_TYPE_TOOLTIP_ON_MOUSE_HOVER" value="true" />
-    <option name="COMPILE_SERVER_PORT" value="56082" />
+    <option name="COMPILE_SERVER_PORT" value="57556" />
     <option name="COMPILE_SERVER_ID" value="7e214d59-e4fd-4704-981d-ddc9ce10c3dc" />
     <option name="COMPILE_SERVER_SDK" value="1.8" />
     <option name="COMPILE_SERVER_SHUTDOWN_IDLE" value="false" />
