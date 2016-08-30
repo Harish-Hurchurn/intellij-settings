@@ -145,7 +145,7 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1472572022985">
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1472573391595">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -270,8 +270,8 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/InstallNiFi.feature" timestamp="1472572400116">
-        <mark key="[" line="4" column="9" />
+      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/InstallNiFi.feature" timestamp="1472573417881">
+        <mark key="[" line="3" column="65" />
         <mark key="]" line="4" column="55" />
         <mark key="." line="4" column="29" />
         <mark key="^" line="4" column="29" />
