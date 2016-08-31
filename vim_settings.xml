@@ -292,10 +292,10 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/idlu/Idlu.scala" timestamp="1472648085443">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/idlu/Idlu.scala" timestamp="1472650291380">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1472548341953">
         <mark key="[" line="0" column="0" />
@@ -336,7 +336,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLntDb25uZWN0aW9uLCBEcml2ZXJNYW5hZ2VyfQo=</text>
+        <text encoding="base64">ICAgIGdldFRvdGFsQ291bnRGb3JJbmdlc3RlZElkbHVGaWxlKERyaXZlck1hbmFnZXIuZ2V0Q29ubmVjdGlvbihjb25uZWN0aW9uU3RyaW5nLCAiaGl2ZSIsICIiKSkK</text>
       </register>
       <register name="-" type="4">
         <text>v</text>
@@ -348,37 +348,31 @@
         <text encoding="base64">aW1wb3J0IGphdmEuc3FsLntDb25uZWN0aW9uLCBEcml2ZXJNYW5hZ2VyfQoKb2JqZWN0IEhpdmVVdGlscyB7CiAgZGVmIGV4ZWN1dGVIaXZlUXVlcnlbQV0oZGI6IFN0cmluZyA9ICIiLCBob3N0OiBTdHJpbmcgPSAiIiwgdXNlcjogU3RyaW5nID0gIiIsIHBhc3N3b3JkOiBTdHJpbmcgPSAiIiwgcG9ydDogSW50ID0gMCkoZjogQ29ubmVjdGlvbiA9PiBBKTogQSA9IHsKICAgIHZhbCB1cmwgPSAiamRiYzpoaXZlMjovL2dicmRzcjAwMDAwMjgyMS5pbnRyYW5ldC5iYXJjYXBpbnQuY29tOjEwMDAwL2Zpc2N1cztwcmluY2lwYWw9aGl2ZS9nYnJkc3IwMDAwMDI4MjEuaW50cmFuZXQuYmFyY2FwaW50LmNvbUBJTlRSQU5FVC5CQVJDQVBJTlQuQ09NO3Nhc2xRb3A9YXV0aC1jb25mIgoKICAgIENsYXNzLmZvck5hbWUoIm9yZy5hcGFjaGUuaGl2ZS5qZGJjLkhpdmVEcml2ZXIiKQogICAgdmFsIGNvbm5lY3Rpb24gPSBEcml2ZXJNYW5hZ2VyLmdldENvbm5lY3Rpb24odXJsLCB1c2VyLCBwYXNzd29yZCkKCiAgICB0cnkgewogICAgICBmKGNvbm5lY3Rpb24pCiAgICB9CiAgICBmaW5hbGx5IHsKICAgICAgY29ubmVjdGlvbi5jbG9zZSgpCiAgICB9CiAgfQp9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLntDb25uZWN0aW9uLCBEcml2ZXJNYW5hZ2VyfQo=</text>
+        <text encoding="base64">ICAgIGdldFRvdGFsQ291bnRGb3JJbmdlc3RlZElkbHVGaWxlKERyaXZlck1hbmFnZXIuZ2V0Q29ubmVjdGlvbihjb25uZWN0aW9uU3RyaW5nLCAiaGl2ZSIsICIiKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QWRkIEhpdmUgZnVuY3Rpb25hbGl0eQo=</text>
+        <text encoding="base64">ICAgIHZhbCBjb25uZWN0aW9uU3RyaW5nID0gImpkYmM6aGl2ZTI6Ly9nYnJkc3IwMDAwMDI4MjEuaW50cmFuZXQuYmFyY2FwaW50LmNvbToxMDAwMC9maXNjdXM7cHJpbmNpcGFsPWhpdmUvZ2JyZHNyMDAwMDAyODIxLmludHJhbmV0LmJhcmNhcGludC5jb21ASU5UUkFORVQuQkFSQ0FQSU5ULkNPTTtzYXNsUW9wPWF1dGgtY29uZiIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>&quot;info.cukes&quot; % &quot;cucumber-core&quot; % cukesVersion,
-  &quot;info.cukes&quot; % &quot;cucumber-jvm&quot; % cukesVersion,
-  &quot;info.cukes&quot; % &quot;cucumber-junit&quot; % cukesVersion,
-  &quot;info.cukes&quot; % &quot;cucumber-scala_2.11&quot; % cukesVersion,</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgc3RtdC5leGVjdXRlVXBkYXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItc2NhbGFfMi4xMSIgJSBjdWtlc1ZlcnNpb24sdgo=</text>
+        <text encoding="base64">ICAgICAgdmFsIHN0bXQgPSBjb25uLnByZXBhcmVTdGF0ZW1lbnQoIlNFTEVDVCBDT1VOVCgqKSBGUk9NIGZpc2N1cy5pbnRyYWRheWxpcXVpZGl0eSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiaW5mby5jdWtlcyIgJSAiY3VjdW1iZXItc2NhbGFfMi4xMSIgJSBjdWtlc1ZlcnNpb24sdgogICJjb20uYmFyY2xheXMudHJlYXN1cnkuZmlzY3VzLmluZ2VzdG9yIiAlJSAibmlmaS11dGlsaXRpZXMiICUgIjAuMS4wLVNOQVBTSE9UIiwK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRUb3RhbENvdW50Rm9ySW5nZXN0ZWRJZGx1RmlsZShjb25uOiBDb25uZWN0aW9uKTogSW50ID0gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;info.cukes&quot; % &quot;cucumber-core&quot; % cukesVersion,
-  &quot;info.cukes&quot; % &quot;cucumber-jvm&quot; % cukesVersion,
-  &quot;info.cukes&quot; % &quot;cucumber-junit&quot; % cukesVersion,
-  &quot;info.cukes&quot; % &quot;cucumber-scala_2.11&quot; % cukesVersion,v</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>m12</text>
