@@ -180,8 +180,11 @@
         <mark key="]" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/Idlu.feature" timestamp="1472639678627">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/Idlu.feature" timestamp="1472659469013">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="43" />
+        <mark key="^" line="5" column="12" />
+        <mark key="." line="5" column="12" />
       </file>
       <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/5G_TDF.yml" timestamp="1471946618840">
         <mark key="[" line="1" column="7" />
@@ -290,10 +293,11 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/idlu/Idlu.scala" timestamp="1472651996727">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/idlu/Idlu.scala" timestamp="1472659482104">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="12" />
+        <mark key="." line="13" column="12" />
+        <mark key="^" line="13" column="12" />
       </file>
       <file name="/fragment.java" timestamp="1472651601795">
         <mark key="[" line="0" column="0" />
@@ -333,17 +337,17 @@
       <jump line="0" column="0" filename="C:/work/fiscus-ingestor/installer/common/conf/nifi_template.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdldFRvdGFsQ291bnRGb3JJbmdlc3RlZElkbHVGaWxlKERyaXZlck1hbmFnZXIuZ2V0Q29ubmVjdGlvbihjb25uZWN0aW9uU3RyaW5nLCAiaGl2ZSIsICIiKSkK</text>
+      <register name="&quot;" type="4">
+        <text>The data should be contained in Hive</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLntDb25uZWN0aW9uLCBEcml2ZXJNYW5hZ2VyfQoKb2JqZWN0IEhpdmVVdGlscyB7CiAgZGVmIGV4ZWN1dGVIaXZlUXVlcnlbQV0oZGI6IFN0cmluZyA9ICIiLCBob3N0OiBTdHJpbmcgPSAiIiwgdXNlcjogU3RyaW5nID0gIiIsIHBhc3N3b3JkOiBTdHJpbmcgPSAiIiwgcG9ydDogSW50ID0gMCkoZjogQ29ubmVjdGlvbiA9PiBBKTogQSA9IHsKICAgIHZhbCB1cmwgPSAiamRiYzpoaXZlMjovL2dicmRzcjAwMDAwMjgyMS5pbnRyYW5ldC5iYXJjYXBpbnQuY29tOjEwMDAwL2Zpc2N1cztwcmluY2lwYWw9aGl2ZS9nYnJkc3IwMDAwMDI4MjEuaW50cmFuZXQuYmFyY2FwaW50LmNvbUBJTlRSQU5FVC5CQVJDQVBJTlQuQ09NO3Nhc2xRb3A9YXV0aC1jb25mIgoKICAgIENsYXNzLmZvck5hbWUoIm9yZy5hcGFjaGUuaGl2ZS5qZGJjLkhpdmVEcml2ZXIiKQogICAgdmFsIGNvbm5lY3Rpb24gPSBEcml2ZXJNYW5hZ2VyLmdldENvbm5lY3Rpb24odXJsLCB1c2VyLCBwYXNzd29yZCkKCiAgICB0cnkgewogICAgICBmKGNvbm5lY3Rpb24pCiAgICB9CiAgICBmaW5hbGx5IHsKICAgICAgY29ubmVjdGlvbi5jbG9zZSgpCiAgICB9CiAgfQp9</text>
+        <text>The data should be contained in Hive</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGdldFRvdGFsQ291bnRGb3JJbmdlc3RlZElkbHVGaWxlKERyaXZlck1hbmFnZXIuZ2V0Q29ubmVjdGlvbihjb25uZWN0aW9uU3RyaW5nLCAiaGl2ZSIsICIiKSkK</text>
