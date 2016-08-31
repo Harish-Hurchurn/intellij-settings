@@ -41,6 +41,9 @@
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
       </file>
+      <file name="/Dummy.scala" timestamp="1472633353930">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/eod-bundle/eod-processor/pom.xml" timestamp="1471516250192">
         <mark key="[" line="11" column="22" />
         <mark key="]" line="11" column="22" />
@@ -61,6 +64,7 @@
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/project/plugins.sbt" timestamp="1472031830557">
         <mark key="[" line="2" column="117" />
       </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveQuery.scala" timestamp="1472634485245" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471518380844">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -191,11 +195,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveLoader.scala" timestamp="1472632172592">
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-        <mark key="^" line="12" column="3" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveLoader.scala" timestamp="1472633981753">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/resources/NiFi.feature" timestamp="1472570570277" />
       <file name="/Dummy.txt" timestamp="1472572036381">
@@ -241,6 +244,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="1" />
       </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/src/main/scala/com/barclays/treasury/HiveTableSchema.scala" timestamp="1472633353508" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/pom.xml" timestamp="1471515682938">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="22" />
@@ -321,8 +325,8 @@
       <jump line="0" column="0" filename="C:/work/fiscus-ingestor/installer/common/conf/nifi_template.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGlmIChyZXMubmV4dCgpKSB7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzLmdldFN0cmluZygxKSk7CiAgfQogIC8vIGRlc2NyaWJlIHRhYmxlCiAgc3FsID0gImRlc2NyaWJlICIgKyB0YWJsZU5hbWU7CiAgU3lzdGVtLm91dC5wcmludGxuKCJSdW5uaW5nOiAiICsgc3FsKTsKICByZXMgPSBzdGF0ZW1lbnQuZXhlY3V0ZVF1ZXJ5KHNxbCk7CiAgd2hpbGUgKHJlcy5uZXh0KCkpIHsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXMuZ2V0U3RyaW5nKDEpICsgIlx0IiArIHJlcy5nZXRTdHJpbmcoMikpOwogIH12</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -331,12 +335,33 @@
         <text>port</text>
       </register>
       <register name="0" type="4">
-        <text>Configure the flows for NiFi</text>
+        <text>&quot;org.apache.hadoop.hive.jdbc.HiveDriver&quot;</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ZGVmIGNvbm5lY3RUb0hpdmUoaGl2ZVVybDogU3RyaW5nLCBxdWVyeVRvRXhlY3V0ZTogU3RyaW5nKSA9IHsKICAgIHRyeSB7CiAgICAgIENsYXNzLmZvck5hbWUoZHJpdmVyTmFtZSkKICAgIH0gY2F0Y2ggewogICAgICBjYXNlIGU6IENsYXNzTm90Rm91bmRFeGNlcHRpb24gPT4KICAgICAgY2FzZSBlOiBFeGNlcHRpb24gPT4KICAgIH0KCiAgICB2YWwgY29ubmVjdGlvbiA9IERyaXZlck1hbmFnZXIuZ2V0Q29ubmVjdGlvbihoaXZlVXJsKQogICAgdmFsIHN0YXRlbWVudCA9IGNvbm5lY3Rpb24uY3JlYXRlU3RhdGVtZW50CiAgICBzdGF0ZW1lbnQuZXhlY3V0ZVF1ZXJ5KHF1ZXJ5VG9FeGVjdXRlKQogIH0=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dmFsIGRyaXZlck5hbWUgPSAib3JnLmFwYWNoZS5oYWRvb3AuaGl2ZS5qZGJjLkhpdmVEcml2ZXIiCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IGRlZiB3aXRoUmVzb3VyY2VbQV0ocjogUmVzb3VyY2UgPT4gQSk6IEEgPSB7CiAgICB0cnkgewogICAgICBmKHIpCiAgICB9IGZpbmFsbHkgewogICAgICByLmRpc3Bvc2UoKQogICAgfQogIH0=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">IGlmIChyZXMubmV4dCgpKSB7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzLmdldFN0cmluZygxKSk7CiAgfQogIC8vIGRlc2NyaWJlIHRhYmxlCiAgc3FsID0gImRlc2NyaWJlICIgKyB0YWJsZU5hbWU7CiAgU3lzdGVtLm91dC5wcmludGxuKCJSdW5uaW5nOiAiICsgc3FsKTsKICByZXMgPSBzdGF0ZW1lbnQuZXhlY3V0ZVF1ZXJ5KHNxbCk7CiAgd2hpbGUgKHJlcy5uZXh0KCkpIHsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXMuZ2V0U3RyaW5nKDEpICsgIlx0IiArIHJlcy5nZXRTdHJpbmcoMikpOwogIH12</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text>// load data into table
     // NOTE: filepath has to be local to the hive server
     // NOTE: /tmp/a.txt is a ctrl-A separated file with two fields per line
@@ -360,104 +385,6 @@
     while (res.next()) {
       System.out.println(res.getString(1));
     }</text>
-      </register>
-      <register name="3" type="4">
-        <text>import java.sql.SQLException;
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.Statement;
-import java.sql.DriverManager;
-
-public class HiveJdbcClient {
-  private static String driverName = &quot;org.apache.hadoop.hive.jdbc.HiveDriver&quot;;
-
-  public static void main(String[] args) throws SQLException {
-    try {
-      Class.forName(driverName);
-    } catch (ClassNotFoundException e) {
-      // TODO Auto-generated catch block
-      e.printStackTrace();
-      System.exit(1);
-    }
-    Connection con = DriverManager.getConnection(&quot;jdbc:hive://localhost:10000/default&quot;, &quot;&quot;, &quot;&quot;);
-    Statement stmt = con.createStatement();
-    String tableName = &quot;testHiveDriverTable&quot;;
-    stmt.executeQuery(&quot;drop table &quot; + tableName);
-    ResultSet res = stmt.executeQuery(&quot;create table &quot; + tableName + &quot; (key int, value string)&quot;);
-    // show tables
-    String sql = &quot;show tables '&quot; + tableName + &quot;'&quot;;
-    System.out.println(&quot;Running: &quot; + sql);
-    res = stmt.executeQuery(sql);
-    if (res.next()) {
-      System.out.println(res.getString(1));
-    }
-    // describe table
-    sql = &quot;describe &quot; + tableName;
-    System.out.println(&quot;Running: &quot; + sql);
-    res = stmt.executeQuery(sql);
-    while (res.next()) {
-      System.out.println(res.getString(1) + &quot;\t&quot; + res.getString(2));
-    }
-
-    // load data into table
-    // NOTE: filepath has to be local to the hive server
-    // NOTE: /tmp/a.txt is a ctrl-A separated file with two fields per line
-    String filepath = &quot;/tmp/a.txt&quot;;
-    sql = &quot;load data local inpath '&quot; + filepath + &quot;' into table &quot; + tableName;
-    System.out.println(&quot;Running: &quot; + sql);
-    res = stmt.executeQuery(sql);
-
-    // select * query
-    sql = &quot;select * from &quot; + tableName;
-    System.out.println(&quot;Running: &quot; + sql);
-    res = stmt.executeQuery(sql);
-    while (res.next()) {
-      System.out.println(String.valueOf(res.getInt(1)) + &quot;\t&quot; + res.getString(2));
-    }
-
-    // regular hive query
-    sql = &quot;select count(1) from &quot; + tableName;
-    System.out.println(&quot;Running: &quot; + sql);
-    res = stmt.executeQuery(sql);
-    while (res.next()) {
-      System.out.println(res.getString(1));
-    }
-  }
-}</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="4">
-        <text>val makeConnection = {
-    val res = Class.forName(&quot;org.apache.hive.jdbc.HiveDriver&quot;)
-    val getConnectionString = ctxt.getProperty(CONNECTSTRING).evaluateAttributeExpressions(ff).getValue
-    if (ctxt.getProperty(KERBEROSPRINCIPAL).isSet) {
-      val conf = new Configuration()
-      conf.set(&quot;hadoop.security.authentication&quot;, &quot;Kerberos&quot;)
-      UserGroupInformation.setConfiguration(conf)
-      UserGroupInformation.loginUserFromKeytab(
-        ctxt.getProperty(KERBEROSPRINCIPAL).getValue,
-        ctxt.getProperty(KEYTABPATH).getValue)
-      DriverManager.getConnection(getConnectionString)
-    } else {
-      DriverManager.getConnection(getConnectionString, &quot;hive&quot;, &quot;&quot;)
-    }
-  }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>v/**
-  * Created by hurchurh on 31/08/2016.
-  */</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEFuZCBUaGVyZSBhcmUgbm9kZAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5tIDI=</text>
