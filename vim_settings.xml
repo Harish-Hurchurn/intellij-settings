@@ -35,6 +35,7 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="19" column="8" />
       </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/src/main/scala/com/barclays/treasury/GenericProcessor.scala" timestamp="1472631326977" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/eod-bundle/eod-nar/pom.xml" timestamp="1471516281618">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -190,6 +191,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveLoader.scala" timestamp="1472632172592">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+      </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/resources/NiFi.feature" timestamp="1472570570277" />
       <file name="/Dummy.txt" timestamp="1472572036381">
         <mark key="[" line="0" column="0" />
@@ -315,10 +322,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Configure the flows for NiFi</text>
+        <text encoding="base64">IGlmIChyZXMubmV4dCgpKSB7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzLmdldFN0cmluZygxKSk7CiAgfQogIC8vIGRlc2NyaWJlIHRhYmxlCiAgc3FsID0gImRlc2NyaWJlICIgKyB0YWJsZU5hbWU7CiAgU3lzdGVtLm91dC5wcmludGxuKCJSdW5uaW5nOiAiICsgc3FsKTsKICByZXMgPSBzdGF0ZW1lbnQuZXhlY3V0ZVF1ZXJ5KHNxbCk7CiAgd2hpbGUgKHJlcy5uZXh0KCkpIHsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXMuZ2V0U3RyaW5nKDEpICsgIlx0IiArIHJlcy5nZXRTdHJpbmcoMikpOwogIH12</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
@@ -326,35 +333,134 @@
       <register name="0" type="4">
         <text>Configure the flows for NiFi</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEFuZCBUaGVyZSBhcmUgbm9kZAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGlmIChyZXMubmV4dCgpKSB7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzLmdldFN0cmluZygxKSk7CiAgfQogIC8vIGRlc2NyaWJlIHRhYmxlCiAgc3FsID0gImRlc2NyaWJlICIgKyB0YWJsZU5hbWU7CiAgU3lzdGVtLm91dC5wcmludGxuKCJSdW5uaW5nOiAiICsgc3FsKTsKICByZXMgPSBzdGF0ZW1lbnQuZXhlY3V0ZVF1ZXJ5KHNxbCk7CiAgd2hpbGUgKHJlcy5uZXh0KCkpIHsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXMuZ2V0U3RyaW5nKDEpICsgIlx0IiArIHJlcy5nZXRTdHJpbmcoMikpOwogIH12</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>// load data into table
+    // NOTE: filepath has to be local to the hive server
+    // NOTE: /tmp/a.txt is a ctrl-A separated file with two fields per line
+    String filepath = &quot;/tmp/a.txt&quot;;
+    sql = &quot;load data local inpath '&quot; + filepath + &quot;' into table &quot; + tableName;
+    System.out.println(&quot;Running: &quot; + sql);
+    res = stmt.executeQuery(sql);
+
+    // select * query
+    sql = &quot;select * from &quot; + tableName;
+    System.out.println(&quot;Running: &quot; + sql);
+    res = stmt.executeQuery(sql);
+    while (res.next()) {
+      System.out.println(String.valueOf(res.getInt(1)) + &quot;\t&quot; + res.getString(2));
+    }
+
+    // regular hive query
+    sql = &quot;select count(1) from &quot; + tableName;
+    System.out.println(&quot;Running: &quot; + sql);
+    res = stmt.executeQuery(sql);
+    while (res.next()) {
+      System.out.println(res.getString(1));
+    }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="3" type="4">
+        <text>import java.sql.SQLException;
+import java.sql.Connection;
+import java.sql.ResultSet;
+import java.sql.Statement;
+import java.sql.DriverManager;
+
+public class HiveJdbcClient {
+  private static String driverName = &quot;org.apache.hadoop.hive.jdbc.HiveDriver&quot;;
+
+  public static void main(String[] args) throws SQLException {
+    try {
+      Class.forName(driverName);
+    } catch (ClassNotFoundException e) {
+      // TODO Auto-generated catch block
+      e.printStackTrace();
+      System.exit(1);
+    }
+    Connection con = DriverManager.getConnection(&quot;jdbc:hive://localhost:10000/default&quot;, &quot;&quot;, &quot;&quot;);
+    Statement stmt = con.createStatement();
+    String tableName = &quot;testHiveDriverTable&quot;;
+    stmt.executeQuery(&quot;drop table &quot; + tableName);
+    ResultSet res = stmt.executeQuery(&quot;create table &quot; + tableName + &quot; (key int, value string)&quot;);
+    // show tables
+    String sql = &quot;show tables '&quot; + tableName + &quot;'&quot;;
+    System.out.println(&quot;Running: &quot; + sql);
+    res = stmt.executeQuery(sql);
+    if (res.next()) {
+      System.out.println(res.getString(1));
+    }
+    // describe table
+    sql = &quot;describe &quot; + tableName;
+    System.out.println(&quot;Running: &quot; + sql);
+    res = stmt.executeQuery(sql);
+    while (res.next()) {
+      System.out.println(res.getString(1) + &quot;\t&quot; + res.getString(2));
+    }
+
+    // load data into table
+    // NOTE: filepath has to be local to the hive server
+    // NOTE: /tmp/a.txt is a ctrl-A separated file with two fields per line
+    String filepath = &quot;/tmp/a.txt&quot;;
+    sql = &quot;load data local inpath '&quot; + filepath + &quot;' into table &quot; + tableName;
+    System.out.println(&quot;Running: &quot; + sql);
+    res = stmt.executeQuery(sql);
+
+    // select * query
+    sql = &quot;select * from &quot; + tableName;
+    System.out.println(&quot;Running: &quot; + sql);
+    res = stmt.executeQuery(sql);
+    while (res.next()) {
+      System.out.println(String.valueOf(res.getInt(1)) + &quot;\t&quot; + res.getString(2));
+    }
+
+    // regular hive query
+    sql = &quot;select count(1) from &quot; + tableName;
+    System.out.println(&quot;Running: &quot; + sql);
+    res = stmt.executeQuery(sql);
+    while (res.next()) {
+      System.out.println(res.getString(1));
+    }
+  }
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChTdGF0dXMuaW52YWxpZENvdW50KCkpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBUaGVuKCIiIl5Db25maXJtIHRoYXQgbm8gaXNzdWVzIGFyZSByZXBvcnRlZCQiIiIpIHsgKCkgPT4K</text>
+      <register name="5" type="4">
+        <text>val makeConnection = {
+    val res = Class.forName(&quot;org.apache.hive.jdbc.HiveDriver&quot;)
+    val getConnectionString = ctxt.getProperty(CONNECTSTRING).evaluateAttributeExpressions(ff).getValue
+    if (ctxt.getProperty(KERBEROSPRINCIPAL).isSet) {
+      val conf = new Configuration()
+      conf.set(&quot;hadoop.security.authentication&quot;, &quot;Kerberos&quot;)
+      UserGroupInformation.setConfiguration(conf)
+      UserGroupInformation.loginUserFromKeytab(
+        ctxt.getProperty(KERBEROSPRINCIPAL).getValue,
+        ctxt.getProperty(KEYTABPATH).getValue)
+      DriverManager.getConnection(getConnectionString)
+    } else {
+      DriverManager.getConnection(getConnectionString, &quot;hive&quot;, &quot;&quot;)
+    }
+  }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXR1cy5nZXQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc3RhdHVzID0gU29tZSh0cnVlKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text>v/**
+  * Created by hurchurh on 31/08/2016.
+  */</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEFuZCBUaGVyZSBhcmUgbm9kZAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBzdGF0dXM6IE9wdGlvbltCb29sZWFuXSA9IE5vbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5tIDI=</text>
       </register>
     </registers>
     <search>
@@ -374,7 +480,6 @@
         <entry>port</entry>
       </history-search>
       <history-cmd>
-        <entry>m 8</entry>
         <entry>m 7</entry>
         <entry>m4</entry>
         <entry>e</entry>
@@ -394,6 +499,7 @@
         <entry>vs</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5tIDI=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
