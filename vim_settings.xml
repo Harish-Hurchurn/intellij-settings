@@ -201,9 +201,10 @@
         <mark key="." line="22" column="0" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/resources/NiFi.feature" timestamp="1472570570277" />
-      <file name="/Dummy.txt" timestamp="1472572036381">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1472637851164">
+        <mark key="[" line="0" column="57" />
       </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/src/main/scala/com/barclays/treasury/GenericProcessor0.scala" timestamp="1472637740891" />
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
