@@ -159,7 +159,7 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1472573391595">
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1472720387489">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -214,6 +214,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1472721122370">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
         <mark key="[" line="15" column="0" />
@@ -293,6 +296,12 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/shell/Shell.scala" timestamp="1472720623818">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="37" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="9" column="37" />
+      </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/idlu/Idlu.scala" timestamp="1472660351835">
         <mark key="[" line="15" column="28" />
         <mark key="]" line="15" column="27" />
@@ -338,10 +347,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>The data should be contained in Hive</text>
+        <text encoding="base64">Imh0dHA6Ly9uZXh1czo4MDgxL25leHVzL3NlcnZpY2UvbG9jYWwvYXJ0aWZhY3QvbWF2ZW4vcmVkaXJlY3Q/cj1mdW5jdGlvbnMtc25hcHNob3RzJmc9Y29tLmJhcmNsYXlzLnRyZWFzdXJ5JmE9ZmlzY3VzLWluZ2VzdG9yJnY9TEFURVNUJmU9dGd6IiwgIi1vIiwgImZpc2N1cy1pbmdlc3Rvci50Z3oiKS4h</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">Imh0dHA6Ly9uZXh1czo4MDgxL25leHVzL3NlcnZpY2UvbG9jYWwvYXJ0aWZhY3QvbWF2ZW4vcmVkaXJlY3Q/cj1mdW5jdGlvbnMtc25hcHNob3RzJmc9Y29tLmJhcmNsYXlzLnRyZWFzdXJ5JmE9ZmlzY3VzLWluZ2VzdG9yJnY9TEFURVNUJmU9dGd6IiwgIi1vIiwgImZpc2N1cy1pbmdlc3Rvci50Z3oiKS4h</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
