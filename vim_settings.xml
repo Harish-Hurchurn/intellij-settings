@@ -214,6 +214,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.typelevel/cats-core_2.11/srcs/cats-core_2.11-0.7.0-sources.jar!/cats/Show.scala" timestamp="1472980505898" />
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/PrintDefaults.scala" timestamp="1472385973721">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="3" column="6" />
@@ -322,6 +323,13 @@
         <mark key="]" line="23" column="57" />
         <mark key="." line="23" column="57" />
         <mark key="^" line="23" column="57" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" timestamp="1472980412122">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterTwoSpec.scala" timestamp="1451658167868">
         <mark key="[" line="3" column="0" />
@@ -469,10 +477,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/Printable.scala" />
       <jump line="22" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/Printable.scala" />
       <jump line="312" column="6" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/scala/Predef.scala" />
+      <jump line="19" column="10" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" />
+      <jump line="38" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" />
+      <jump line="28" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>“</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>“</text>
@@ -487,33 +499,31 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RWRkeGNlcnB0IEZyb206IE5vZWwgV2Vsc2ggYW5kIERhdmUgR3VybmVsbC4g4oCcQWR2YW5jZWQgU2NhbGEu4oCdIGlCb29rcy4K</text>
+        <text encoding="base64">ICAgIHMiSXQgaGFzIGJlZW4gJHtkYXRlLmdldFRpbWV9IG1pbGxpc2Vjb25kcyBzaW5jZSBlcG9jaCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuIAo=</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2hvd0RhdGUgPSBTaG93LnNob3dbRGF0ZV0geyBkYXRlID0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ci8vIGltcG9ydCBjYXRzLkVxCg==</text>
+        <text encoding="base64">ICBwcmludGxuKHguZnJvbVRvU3RyaW5nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuIAo=</text>
+        <text encoding="base64">ICBzaG93SW50LnNob3coMTApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGNhdHMuc3ludGF4LmVxLl/igJ0K</text>
+        <text encoding="base64">ICB2YWwgc2hvd0ludCA9IFNob3cuYXBwbHlbSW50XQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fWNlcnB0IEZyb206IE5vZWwgV2Vsc2ggYW5kIERhdmUgR3VybmVsbC4g4oCcQWR2YW5jZWQgU2NhbGEu4oCdIGlCb29rcy4K</text>
+        <text encoding="base64">ICBzaG93SW50LnNob3coMTApCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>v”
-
-Ex</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICB2YWwgc2hvd0ludCA9IFNob3cuYXBwbHlbSW50XQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
