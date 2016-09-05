@@ -13,7 +13,7 @@
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1471952773188">
+      <file name="/a.dummy" timestamp="1473076963118">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/sla-configurer/feed-instance-svc/src/main/scala/com/barclays/treasury/feed/instance/actor/InstanceOperator.scala" timestamp="1473072841395">
@@ -46,6 +46,12 @@
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
+      </file>
+      <file name="C:/work/sla-configurer/src/test/scala/ActorTesting.scala" timestamp="1473076730722">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="/Dummy.scala" timestamp="1472633353930">
         <mark key="[" line="0" column="0" />
@@ -139,7 +145,7 @@
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
       </file>
-      <file name="C:/work/sla-configurer/feed-instance-svc/src/main/scala/com/barclays/treasury/feed/instance/FeedInstanceModel.scala" timestamp="1473072602785">
+      <file name="C:/work/sla-configurer/feed-instance-svc/src/main/scala/com/barclays/treasury/feed/instance/FeedInstanceModel.scala" timestamp="1473076919546">
         <mark key="'" line="10" column="11" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1472570520959">
@@ -374,7 +380,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QWRkCg==</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -386,31 +392,31 @@
         <text>The data should be contained in Hive</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWRkCg==</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdHJ1ZSBlbHNlIGZhbHNlCg==</text>
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaHVyY2h1cmggb24gMDUvMDkvMjAxNi4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICh1bnRhclN0YXR1cyA9PSBTVUNDRVNTKQo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWRkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBzdGF0dXM6IE9wdGlvbltCb29sZWFuXSA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgdHJ1ZSBlbHNlIGZhbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdHJ1ZSBlbHNlIGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIGlmICh1bnRhclN0YXR1cyA9PSBTVUNDRVNTKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICh1bmluc3RhbGxOaUZpID09IFNVQ0NFU1MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdHJ1ZSBlbHNlIGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIHZhciBzdGF0dXM6IE9wdGlvbltCb29sZWFuXSA9IE5vbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGYgKHN0YXJ0SW5nZXN0aW9uU3RhdHVzID09IFNVQ0NFU1MpCg==</text>
+        <text encoding="base64">ICAgICAgdHJ1ZSBlbHNlIGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5tIDEz</text>
