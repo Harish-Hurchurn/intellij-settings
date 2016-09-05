@@ -16,6 +16,11 @@
       <file name="/a.dummy" timestamp="1471952773188">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/work/sla-configurer/feed-instance-svc/src/main/scala/com/barclays/treasury/feed/instance/actor/InstanceOperator.scala" timestamp="1473072841395">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="C:/work/nifi-end-to-end-testing/.gitignore" timestamp="1472026606795">
         <mark key="[" line="226" column="0" />
       </file>
@@ -133,6 +138,9 @@
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
+      </file>
+      <file name="C:/work/sla-configurer/feed-instance-svc/src/main/scala/com/barclays/treasury/feed/instance/FeedInstanceModel.scala" timestamp="1473072602785">
+        <mark key="'" line="10" column="11" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1472570520959">
         <mark key="[" line="13" column="29" />
@@ -257,6 +265,9 @@
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
+      <file name="C:/work/sla-configurer/feed-instance-svc/src/main/scala/com/barclays/treasury/feed/instance/repository/InstanceRepository.scala" timestamp="1473073557180">
+        <mark key="[" line="36" column="6" />
+      </file>
       <file name="C:/work/nifi-utilities/build.sbt" timestamp="1472725916387">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="0" column="22" />
@@ -356,6 +367,7 @@
       <jump line="10" column="48" filename="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" />
       <jump line="0" column="0" filename="C:/work/fiscus-ingestor/installer/common/conf/nifi_template.properties" />
       <jump line="13" column="19" filename="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/idlu/Idlu.scala" />
+      <jump line="10" column="11" filename="C:/work/sla-configurer/feed-instance-svc/src/main/scala/com/barclays/treasury/feed/instance/FeedInstanceModel.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -398,7 +410,7 @@
         <text encoding="base64">ICAgIGYgKHN0YXJ0SW5nZXN0aW9uU3RhdHVzID09IFNVQ0NFU1MpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5tIDEz</text>
       </register>
     </registers>
     <search>
@@ -418,8 +430,6 @@
         <entry>port</entry>
       </history-search>
       <history-cmd>
-        <entry>m4</entry>
-        <entry>e</entry>
         <entry>q</entry>
         <entry encoding="base64">IDY=</entry>
         <entry>m6</entry>
@@ -438,6 +448,8 @@
         <entry encoding="base64">JzwsJz5tIDI=</entry>
         <entry>m12</entry>
         <entry>w</entry>
+        <entry>m 13</entry>
+        <entry encoding="base64">JzwsJz5tIDEz</entry>
       </history-cmd>
       <history-expr />
       <history-input />
