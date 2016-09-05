@@ -16,7 +16,7 @@
       <file name="/a.dummy" timestamp="1473076963118">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work/sla-configurer/feed-instance-svc/src/main/scala/com/barclays/treasury/feed/instance/actor/InstanceOperator.scala" timestamp="1473072841395">
+      <file name="C:/work/sla-configurer/feed-instance-svc/src/main/scala/com/barclays/treasury/feed/instance/actor/InstanceOperator.scala" timestamp="1473080410965">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="46" />
         <mark key="." line="13" column="0" />
@@ -24,9 +24,12 @@
       <file name="C:/work/nifi-end-to-end-testing/.gitignore" timestamp="1472026606795">
         <mark key="[" line="226" column="0" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveUtils.scala" timestamp="1472648066267">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="18" column="0" />
+      <file name="C:/work/sla-configurer/feed-instance-svc/src/test/scala/com/barclays/treasury/feed/instance/actor/InstanceOperatorSpec.scala" timestamp="1473080609743">
+        <mark key="'" line="19" column="62" />
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+        <mark key="^" line="24" column="16" />
       </file>
       <file name="C:/work/fiscus-ingestor/installer/install.sh" timestamp="1471872197279">
         <mark key="[" line="9" column="40" />
@@ -145,7 +148,7 @@
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
       </file>
-      <file name="C:/work/sla-configurer/feed-instance-svc/src/main/scala/com/barclays/treasury/feed/instance/FeedInstanceModel.scala" timestamp="1473076919546">
+      <file name="C:/work/sla-configurer/feed-instance-svc/src/main/scala/com/barclays/treasury/feed/instance/FeedInstanceModel.scala" timestamp="1473078921989">
         <mark key="'" line="10" column="11" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1472570520959">
@@ -377,13 +380,14 @@
       <jump line="0" column="0" filename="C:/work/fiscus-ingestor/installer/common/conf/nifi_template.properties" />
       <jump line="13" column="19" filename="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/idlu/Idlu.scala" />
       <jump line="10" column="11" filename="C:/work/sla-configurer/feed-instance-svc/src/main/scala/com/barclays/treasury/feed/instance/FeedInstanceModel.scala" />
+      <jump line="16" column="62" filename="C:/work/sla-configurer/feed-instance-svc/src/test/scala/com/barclays/treasury/feed/instance/actor/InstanceOperatorSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
@@ -392,34 +396,34 @@
         <text>The data should be contained in Hive</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaHVyY2h1cmggb24gMDUvMDkvMjAxNi4K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QWRkCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdHJ1ZSBlbHNlIGZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICh1bnRhclN0YXR1cyA9PSBTVUNDRVNTKQo=</text>
+        <text encoding="base64">ICAgICAgcmVjZWl2ZVdoaWxlKDUwMCBtaWxsaXMpIHsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBzdGF0dXM6IE9wdGlvbltCb29sZWFuXSA9IE5vbmUK</text>
+        <text encoding="base64">ICB2YWwgaW5zdGFuY2VPcGVyYXRvciA9IHN5c3RlbS5hY3Rvck9mKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdHJ1ZSBlbHNlIGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIHZhbCBpbnN0YW5jZU9wZXJhdG9yID0gc3lzdGVtLmFjdG9yT2YoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5tIDEz</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -452,13 +456,13 @@
         <entry encoding="base64">JzwsJz5tNTk=</entry>
         <entry>ve</entry>
         <entry>we</entry>
-        <entry>vs</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5tIDI=</entry>
         <entry>m12</entry>
         <entry>w</entry>
         <entry>m 13</entry>
         <entry encoding="base64">JzwsJz5tIDEz</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
