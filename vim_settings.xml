@@ -291,11 +291,11 @@
         <mark key="^" line="39" column="16" />
         <mark key="." line="39" column="16" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/attribute-get-bundle/attribute-get-processor/src/main/scala/com/barclays/treasury/GetAttributeXMLFromHDFS.scala" timestamp="1473320869307">
-        <mark key="[" line="49" column="4" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/attribute-get-bundle/attribute-get-processor/src/main/scala/com/barclays/treasury/GetAttributeXMLFromHDFS.scala" timestamp="1473326939714">
+        <mark key="[" line="53" column="6" />
+        <mark key="]" line="53" column="6" />
+        <mark key="^" line="53" column="17" />
+        <mark key="." line="53" column="6" />
       </file>
       <file name="C:/work/nifi-utilities/build.sbt" timestamp="1472725916387">
         <mark key="[" line="4" column="15" />
@@ -410,10 +410,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>&quot;&quot;.stripMardgin</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>&quot;&quot;.stripMardgin</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
