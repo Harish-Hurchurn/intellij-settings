@@ -60,12 +60,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/csv-bundle/csv-processor/src/main/scala/com/barclays/treasury/fiscus/ingestor/csv/ConvertXlsToCsv.scala" timestamp="1473415256556">
-        <mark key="'" line="131" column="25" />
-        <mark key="[" line="115" column="20" />
-        <mark key="]" line="117" column="20" />
-        <mark key="^" line="117" column="20" />
-        <mark key="." line="117" column="20" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/csv-bundle/csv-processor/src/main/scala/com/barclays/treasury/fiscus/ingestor/csv/ConvertXlsToCsv.scala" timestamp="1473416647483">
+        <mark key="'" line="132" column="25" />
+        <mark key="[" line="117" column="25" />
+        <mark key="]" line="67" column="1" />
+        <mark key="^" line="67" column="1" />
+        <mark key="." line="67" column="1" />
       </file>
       <file name="/Dummy.scala" timestamp="1472633353930">
         <mark key="[" line="0" column="0" />
@@ -265,7 +265,7 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473415350717">
+      <file name="/Dummy.txt" timestamp="1473416698104">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
