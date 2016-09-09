@@ -60,6 +60,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/csv-bundle/csv-processor/src/main/scala/com/barclays/treasury/fiscus/ingestor/csv/ConvertXlsToCsv.scala" timestamp="1473413667718" />
       <file name="/Dummy.scala" timestamp="1472633353930">
         <mark key="[" line="0" column="0" />
       </file>
@@ -136,7 +137,6 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="11" />
       </file>
-      <file name="$USER_HOME$/.ideaLibSources/scala-library-2.11.8-sources.jar!/scala/throws.scala" timestamp="1473325244017" />
       <file name="C:/work/nifi-end-to-end-testing/project/build.properties" timestamp="1472031857771">
         <mark key="[" line="0" column="19" />
       </file>
@@ -145,6 +145,7 @@
         <mark key="]" line="6" column="63" />
         <mark key="." line="6" column="63" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/nifi/nifi-api/0.6.1/nifi-api-0.6.1-sources.jar!/org/apache/nifi/processor/annotation/OnScheduled.java" timestamp="1473413308951" />
       <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/IsNiFIRunningErrorFree.scala" timestamp="1472639167808">
         <mark key="[" line="16" column="6" />
       </file>
