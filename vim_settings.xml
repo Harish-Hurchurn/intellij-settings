@@ -252,11 +252,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/nifi/InstallNiFi.scala" timestamp="1473329536297">
-        <mark key="[" line="9" column="54" />
-        <mark key="]" line="13" column="7" />
-        <mark key="^" line="13" column="7" />
-        <mark key="." line="13" column="7" />
+      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/nifi/InstallNiFi.scala" timestamp="1473411925961">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="17" column="20" />
+        <mark key="^" line="17" column="20" />
+        <mark key="." line="17" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1472739143651">
         <mark key="[" line="0" column="0" />
@@ -359,8 +359,8 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="38" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/idlu/Idlu.scala" timestamp="1472728398310">
-        <mark key="[" line="11" column="44" />
+      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/idlu/Idlu.scala" timestamp="1473411678630">
+        <mark key="[" line="12" column="31" />
         <mark key="]" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
