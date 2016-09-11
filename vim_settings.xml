@@ -323,10 +323,10 @@
         <mark key="." line="23" column="57" />
         <mark key="^" line="23" column="57" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" timestamp="1473584003824">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" timestamp="1473584711218">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterTwoSpec.scala" timestamp="1451658167868">
         <mark key="[" line="3" column="0" />
@@ -483,7 +483,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBrZXJuZWwuRXFbSW50XQo=</text>
+        <text encoding="base64">ICAoU29tZSgxMCk6IE9wdGlvbltJbnRdKSA9PT0gKE5vbmU6IE9wdGlvbltJbnRdKQo=</text>
       </register>
       <register name="-" type="4">
         <text>import cats.implicits._</text>
@@ -498,31 +498,31 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBrZXJuZWwuRXFbSW50XQo=</text>
+        <text encoding="base64">ICAoU29tZSgxMCk6IE9wdGlvbltJbnRdKSA9PT0gKE5vbmU6IE9wdGlvbltJbnRdKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmludGxuKHguc2hvdykK</text>
+        <text encoding="base64">ICBwcmludGxuKDEwID0hPSAxMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWwgeCA9IG5ldyBEYXRlKCkK</text>
+        <text encoding="base64">ICBwcmludGxuKDEwID09PSAxMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBrZXJuZWwuRXFbSW50XQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBwcmludGxuKHguc2hvdykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHMiSXQncyBiZWVuICR7ZGF0ZS5nZXRUaW1lfSBzaW5jZSBlcG9jaCIK</text>
+        <text encoding="base64">ICB2YWwgeCA9IG5ldyBEYXRlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZGF0ZVNob3cgPSBTaG93LnNob3dbRGF0ZV0geyBkYXRlID0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcmludGxuKHguZm9yZWFjaChfLnNob3cpKQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgeCA9IExpc3QoMSwyLDMsNCkK</text>
+        <text encoding="base64">ICAgIHMiSXQncyBiZWVuICR7ZGF0ZS5nZXRUaW1lfSBzaW5jZSBlcG9jaCIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
