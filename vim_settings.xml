@@ -323,11 +323,11 @@
         <mark key="." line="23" column="57" />
         <mark key="^" line="23" column="57" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" timestamp="1473523634863">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-        <mark key="^" line="4" column="20" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" timestamp="1473581231192">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterTwoSpec.scala" timestamp="1451658167868">
         <mark key="[" line="3" column="0" />
@@ -483,11 +483,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICBTaG93Lg==</text>
       </register>
       <register name="-" type="4">
-        <text>import cats.implicits._</text>
+        <text encoding="base64">ICBTaG93Lg==</text>
       </register>
       <register name="/" type="4">
         <text>augment</text>
