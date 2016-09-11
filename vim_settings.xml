@@ -272,11 +272,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/build.sbt" timestamp="1472471565837">
-        <mark key="[" line="6" column="52" />
-        <mark key="]" line="6" column="46" />
-        <mark key="^" line="6" column="46" />
-        <mark key="." line="6" column="46" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/build.sbt" timestamp="1473583937629">
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="6" column="69" />
+        <mark key="^" line="6" column="69" />
+        <mark key="." line="6" column="69" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/maven-sbt.sbt" timestamp="1448795840580">
         <mark key="[" line="0" column="74" />
@@ -323,11 +323,10 @@
         <mark key="." line="23" column="57" />
         <mark key="^" line="23" column="57" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" timestamp="1473582695226">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="11" column="6" />
-        <mark key="." line="11" column="6" />
-        <mark key="^" line="11" column="6" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" timestamp="1473584003824">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterTwoSpec.scala" timestamp="1451658167868">
         <mark key="[" line="3" column="0" />
@@ -484,7 +483,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcmludGxuKHguZm9yZWFjaChfLnNob3cpKQo=</text>
+        <text encoding="base64">ICBrZXJuZWwuRXFbSW50XQo=</text>
       </register>
       <register name="-" type="4">
         <text>import cats.implicits._</text>
@@ -499,37 +498,31 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmludGxuKHguZm9yZWFjaChfLnNob3cpKQo=</text>
+        <text encoding="base64">ICBrZXJuZWwuRXFbSW50XQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWwgeCA9IExpc3QoMSwyLDMsNCkK</text>
+        <text encoding="base64">ICBwcmludGxuKHguc2hvdykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZC8vdmFsIHNob3dJbnQgPSBTaG93W0ludF0K</text>
+        <text encoding="base64">ICB2YWwgeCA9IG5ldyBEYXRlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzaG93SW50ID0gIiIuc2hvdwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgc2hvd0ludCA9IFNob3dbU3RyaW5nXQo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>import cats.instances.int._
-import cats.{Show, syntax}
-
-object Main extends App {
-  val showInt = Show[Int]
-  10.show
-}</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHMiSXQncyBiZWVuICR7ZGF0ZS5nZXRUaW1lfSBzaW5jZSBlcG9jaCIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZGF0ZVNob3cgPSBTaG93LnNob3dbRGF0ZV0geyBkYXRlID0+Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1vcnQgY2F0cy5zeW50YXguc2hvdy5fCg==</text>
+        <text encoding="base64">ICBwcmludGxuKHguZm9yZWFjaChfLnNob3cpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICB2YWwgeCA9IExpc3QoMSwyLDMsNCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
