@@ -138,6 +138,11 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
+      <file name="C:/work/nifi-utilities/src/test/scala/com/barclays/treasury/fiscus/nifi/hdfs/HdfsUtilsSpec.scala" timestamp="1473672741890">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="C:/work/sla-configurer/.idea/scalastyle-config.xml" timestamp="1473149542111">
         <mark key="[" line="24" column="51" />
         <mark key="]" line="25" column="11" />
@@ -276,6 +281,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hdfs/HdfsUtils.scala" timestamp="1473672394899">
+        <mark key="[" line="9" column="72" />
+        <mark key="]" line="10" column="88" />
+        <mark key="." line="10" column="88" />
+        <mark key="^" line="9" column="73" />
+      </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/pom.xml" timestamp="1471516375365">
         <mark key="[" line="11" column="22" />
         <mark key="]" line="11" column="22" />
@@ -314,11 +325,10 @@
         <mark key="^" line="53" column="17" />
         <mark key="." line="53" column="6" />
       </file>
-      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1472725916387">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-        <mark key="^" line="0" column="22" />
+      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1473672955707">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1472563861959">
         <mark key="[" line="15" column="0" />
@@ -347,6 +357,11 @@
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="22" />
+      </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hdfs/test.java" timestamp="1473670459856">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-hive-bundle/pom.xml" timestamp="1471515708910">
         <mark key="[" line="22" column="22" />
@@ -426,13 +441,14 @@
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/apache/nifi/nifi-api/0.6.1/nifi-api-0.6.1.jar!/org/apache/nifi/processor/Processor.class" />
       <jump line="21" column="0" filename="$MAVEN_REPOSITORY$/org/apache/nifi/nifi-api/0.6.1/nifi-api-0.6.1.jar!/org/apache/nifi/processor/Processor.class" />
       <jump line="131" column="25" filename="C:/work/fiscus-ingestor/nifi-nar-bundles/csv-bundle/csv-processor/src/main/scala/com/barclays/treasury/fiscus/ingestor/csv/ConvertXlsToCsv.scala" />
+      <jump line="7" column="0" filename="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hdfs/HdfsUtils.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSAic2NhbGF0ZXN0XzIuMTEiICUgIjMuMC4wIiAlICJ0ZXN0Igo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
@@ -441,31 +457,31 @@
         <text>repository: InstanceRepositoryExtension, tags: ModelRepository[InstanceTag], contacts: ModelRepository[InstanceContact])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjYiICUgInRlc3QiLAo=</text>
+        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSAic2NhbGF0ZXN0XzIuMTEiICUgIjMuMC4wIiAlICJ0ZXN0Igo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaHVyY2h1cmggb24gMTIvMDkvMjAxNi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgcHJvdmlkZUNvbnRhY3RzOiBNb2RlbFJlcG9zaXRvcnlbSW5zdGFuY2VDb250YWN0XQo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBjb25mID0gbmV3IENvbmZpZ3VyYXRpb24oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgcHJvdmlkZVRhZ3M6IE1vZGVsUmVwb3NpdG9yeVtJbnN0YW5jZVRhZ10K</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnNlY3VyaXR5LmF1dGgubG9naW4ue0NvbmZpZ3VyYXRpLCBDb25maWd1cmF0aW9ufQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnNlY3VyaXR5LmF1dGgubG9naW4uQ29uZmlndXJhdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgcHJvdmlkZUluc3RhbmNlczogSW5zdGFuY2VSZXBvc2l0b3J5RXh0ZW5zaW9uCg==</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaHVyY2h1cmggb24gMTIvMDkvMjAxNi4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
