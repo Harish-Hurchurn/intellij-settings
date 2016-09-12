@@ -95,7 +95,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473668973666" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471518380844">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -325,10 +324,10 @@
         <mark key="^" line="53" column="17" />
         <mark key="." line="53" column="6" />
       </file>
-      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1473672955707">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1473673303677">
+        <mark key="[" line="23" column="47" />
+        <mark key="]" line="23" column="47" />
+        <mark key="." line="23" column="47" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1472563861959">
         <mark key="[" line="15" column="0" />
@@ -444,11 +443,11 @@
       <jump line="7" column="0" filename="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hdfs/HdfsUtils.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSAic2NhbGF0ZXN0XzIuMTEiICUgIjMuMC4wIiAlICJ0ZXN0Igo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
@@ -457,31 +456,31 @@
         <text>repository: InstanceRepositoryExtension, tags: ModelRepository[InstanceTag], contacts: ModelRepository[InstanceContact])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSAic2NhbGF0ZXN0XzIuMTEiICUgIjMuMC4wIiAlICJ0ZXN0Igo=</text>
+        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMy4wLjAiICUgInRlc3QiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSAic2NhbGF0ZXN0XzIuMTEiICUgIjMuMC4wIiAlICJ0ZXN0Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaHVyY2h1cmggb24gMTIvMDkvMjAxNi4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBjb25mID0gbmV3IENvbmZpZ3VyYXRpb24oKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNlY3VyaXR5LmF1dGgubG9naW4ue0NvbmZpZ3VyYXRpLCBDb25maWd1cmF0aW9ufQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNlY3VyaXR5LmF1dGgubG9naW4uQ29uZmlndXJhdGlvbgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAqLwo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaHVyY2h1cmggb24gMTIvMDkvMjAxNi4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBjb25mID0gbmV3IENvbmZpZ3VyYXRpb24oKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnNlY3VyaXR5LmF1dGgubG9naW4ue0NvbmZpZ3VyYXRpLCBDb25maWd1cmF0aW9ufQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnNlY3VyaXR5LmF1dGgubG9naW4uQ29uZmlndXJhdGlvbgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
