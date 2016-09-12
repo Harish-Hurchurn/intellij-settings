@@ -28,7 +28,6 @@
       <file name="C:/work/fiscus-ingestor/installer/install.sh" timestamp="1471872197279">
         <mark key="[" line="9" column="40" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/step_definitions/InstallNiFi.scala" timestamp="1473684184980" />
       <file name="C:/work/sla-configurer/feed-holiday-calendar-svc/src/main/scala/com/barclays/treasury/holidays/HolidayService.scala" timestamp="1473236753248">
         <mark key="[" line="38" column="28" />
       </file>
@@ -88,7 +87,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473688007905" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471518380844">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -110,11 +108,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1473688361448">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="26" />
-        <mark key="." line="6" column="26" />
+      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1473696793505">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="14" column="3" />
         <mark key="^" line="6" column="26" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/nifi/IsNiFIRunningErrorFree.scala" timestamp="1473678551768">
         <mark key="[" line="9" column="18" />
@@ -203,11 +201,10 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473688473997">
-        <mark key="[" line="48" column="26" />
-        <mark key="]" line="47" column="48" />
-        <mark key="." line="47" column="48" />
-        <mark key="^" line="47" column="48" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473696952443">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
@@ -319,7 +316,6 @@
         <mark key="^" line="39" column="16" />
         <mark key="." line="39" column="16" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/installer/InstallNiFi.feature" timestamp="1473683597100" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/attribute-get-bundle/attribute-get-processor/src/main/scala/com/barclays/treasury/GetAttributeXMLFromHDFS.scala" timestamp="1473326939714">
         <mark key="[" line="53" column="6" />
         <mark key="]" line="53" column="6" />
@@ -392,6 +388,7 @@
         <mark key="." line="9" column="87" />
         <mark key="^" line="9" column="87" />
       </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/1_InstallNiFi.feature" timestamp="1473696742385" />
       <file name="/fragment.java" timestamp="1473683142899">
         <mark key="[" line="0" column="0" />
       </file>
@@ -438,8 +435,8 @@
       <jump line="7" column="0" filename="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hdfs/HdfsUtils.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>H</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNkKCIvYXBwcy9zeUZpc2N1c05pRmlEZXYvaW50ZWdyYXRpb25fdGVzdGluZyIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>H</text>
@@ -451,31 +448,31 @@
         <text>repository: InstanceRepositoryExtension, tags: ModelRepository[InstanceTag], contacts: ModelRepository[InstanceContact])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkK</text>
+        <text encoding="base64">ICAgIGNkKCIvYXBwcy9zeUZpc2N1c05pRmlEZXYvaW50ZWdyYXRpb25fdGVzdGluZyIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIC8vLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBHaXZlbiAoIiIiXlRoZSBJRExVIGZpbGUgaXMgY29waWVkIGFuZCBkcm9wcGVkIGludG8gdGhlIGFwcHJvcHJpYXRlIGxvY2F0aW9uJCIiIikgewogICgpID0+CiAgLy8vLyBXcml0ZSBjb2RlIGhlcmUgdGhhdCB0dXJucyB0aGUgcGhyYXNlIGFib3ZlIGludG8gY29uY3JldGUgYWN0aW9ucwogIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uICgpCgogIEdpdmVuICgiIiJeVGhlIGRhdGEgc2hvdWxkIGJlIGNvbnRhaW5lZCBpbiBIaXZlJCIiIikgewogICgpID0+CiAgLy8vLyBXcml0ZSBjb2RlIGhlcmUgdGhhdCB0dXJucyB0aGUgcGhyYXNlIGFib3ZlIGludG8gY29uY3JldGUgYWN0aW9ucwogIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uICgpCn0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMK</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ICBHaXZlbiAoIiIiXlRoZSBJRExVIGZpbGUgaXMgY29waWVkIGFuZCBkcm9wcGVkIGludG8gdGhlIGFwcHJvcHJpYXRlIGxvY2F0aW9uJCIiIikgewogICgpID0+CiAgLy8vLyBXcml0ZSBjb2RlIGhlcmUgdGhhdCB0dXJucyB0aGUgcGhyYXNlIGFib3ZlIGludG8gY29uY3JldGUgYWN0aW9ucwogIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uICgpCgogIEdpdmVuICgiIiJeVGhlIGRhdGEgc2hvdWxkIGJlIGNvbnRhaW5lZCBpbiBIaXZlJCIiIikgewogICgpID0+CiAgLy8vLyBXcml0ZSBjb2RlIGhlcmUgdGhhdCB0dXJucyB0aGUgcGhyYXNlIGFib3ZlIGludG8gY29uY3JldGUgYWN0aW9ucwogIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uICgpCn0=</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ewogIEdpdmVuKCIiIl5UaGUgSURMVSBmaWxlIGlzIGNvcGllZCBhbmQgZHJvcHBlZCBpbnRvIHRoZSBhcHByb3ByaWF0ZSBsb2NhdGlvbiQiIiIpeyAoKSA9PgoKICB9CgogIFRoZW4oIiIiXlRoZSBkYXRhIHNob3VsZCBiZSBjb250YWluZWQgaW4gSGl2ZSQiIiIpeyAoKSA9PgogIH0KfQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB0aHJvdyBuZXcgUGVuZGluZ0V4Y2VwdGlvbigpCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLy8vIFdyaXRlIGNvZGUgaGVyZSB0aGF0IHR1cm5zIHRoZSBwaHJhc2UgYWJvdmUgaW50byBjb25jcmV0ZSBhY3Rpb25zCg==</text>
+        <text encoding="base64">ICB0aHJvdyBuZXcgUGVuZGluZ0V4Y2VwdGlvbigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0aHJvdyBuZXcgUGVuZGluZ0V4Y2VwdGlvbigpCg==</text>
+        <text encoding="base64">ICAvLy8vIFdyaXRlIGNvZGUgaGVyZSB0aGF0IHR1cm5zIHRoZSBwaHJhc2UgYWJvdmUgaW50byBjb25jcmV0ZSBhY3Rpb25zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -498,9 +495,6 @@
         <entry>port</entry>
       </history-search>
       <history-cmd>
-        <entry>?</entry>
-        <entry encoding="base64">JzwsJz5ub2g=</entry>
-        <entry>m 97</entry>
         <entry>m 96</entry>
         <entry>m95</entry>
         <entry encoding="base64">JzwsJz5tMzk=</entry>
@@ -517,6 +511,9 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>vs</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5tMTNd</entry>
+        <entry encoding="base64">JzwsJz4sbSAxMw==</entry>
+        <entry encoding="base64">JzwsJz5tIDEy</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
