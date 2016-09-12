@@ -137,10 +137,11 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/test/scala/com/barclays/treasury/fiscus/nifi/hdfs/HdfsUtilsSpec.scala" timestamp="1473672741890">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="C:/work/nifi-utilities/src/test/scala/com/barclays/treasury/fiscus/nifi/hdfs/HdfsUtilsSpec.scala" timestamp="1473675243475">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="15" />
+        <mark key="^" line="19" column="15" />
       </file>
       <file name="C:/work/sla-configurer/.idea/scalastyle-config.xml" timestamp="1473149542111">
         <mark key="[" line="24" column="51" />
@@ -251,6 +252,12 @@
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
       </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/impala/ImpalaUtils.scala" timestamp="1473675822948">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="158" />
+        <mark key="^" line="6" column="158" />
+        <mark key="." line="6" column="158" />
+      </file>
       <file name="C:/work/cucumber-plugin/build.sbt" timestamp="1472559190598">
         <mark key="[" line="6" column="24" />
       </file>
@@ -270,7 +277,7 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473669111775">
+      <file name="/Dummy.txt" timestamp="1473675911165">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -324,7 +331,7 @@
         <mark key="^" line="53" column="17" />
         <mark key="." line="53" column="6" />
       </file>
-      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1473673303677">
+      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1473675294257">
         <mark key="[" line="23" column="47" />
         <mark key="]" line="23" column="47" />
         <mark key="." line="23" column="47" />
@@ -393,7 +400,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/nifi/nifi-api/0.6.1/nifi-api-0.6.1.jar!/org/apache/nifi/processor/Processor.class" timestamp="1473321198326">
         <mark key="'" line="21" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1472651601795">
+      <file name="/fragment.java" timestamp="1473675442737">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/5G_USC.yml" timestamp="1471946282827">
@@ -401,10 +408,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="57" />
-      </file>
-      <file name="C:/work/sla-configurer/feed-instance-svc/src/main/scala/com/barclays/treasury/feed/instance/FeedInstanceService.scala" timestamp="1473150349828">
-        <mark key="[" line="22" column="2" />
-        <mark key="]" line="29" column="153" />
       </file>
     </filemarks>
     <jumps>
@@ -444,10 +447,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
@@ -456,10 +459,10 @@
         <text>repository: InstanceRepositoryExtension, tags: ModelRepository[InstanceTag], contacts: ModelRepository[InstanceContact])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMy4wLjAiICUgInRlc3QiCg==</text>
+        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjYiICUgInRlc3QiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSAic2NhbGF0ZXN0XzIuMTEiICUgIjMuMC4wIiAlICJ0ZXN0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAqLwo=</text>
@@ -471,19 +474,19 @@
         <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBjb25mID0gbmV3IENvbmZpZ3VyYXRpb24oKQo=</text>
+        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMy4wLjAiICUgInRlc3QiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNlY3VyaXR5LmF1dGgubG9naW4ue0NvbmZpZ3VyYXRpLCBDb25maWd1cmF0aW9ufQo=</text>
+        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMy4wLjAiICUgInRlc3QiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNlY3VyaXR5LmF1dGgubG9naW4uQ29uZmlndXJhdGlvbgo=</text>
+        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMy4wLjAiICUgInRlc3QiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSAic2NhbGF0ZXN0XzIuMTEiICUgIjMuMC4wIiAlICJ0ZXN0Igo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -513,7 +516,6 @@
         <entry encoding="base64">JzwsJz5tNTk=</entry>
         <entry>ve</entry>
         <entry>we</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5tIDI=</entry>
         <entry>m12</entry>
         <entry>m 13</entry>
@@ -523,6 +525,7 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
