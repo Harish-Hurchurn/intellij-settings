@@ -151,7 +151,6 @@
         <mark key="]" line="6" column="63" />
         <mark key="." line="6" column="63" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/nifi/nifi-api/0.6.1/nifi-api-0.6.1-sources.jar!/org/apache/nifi/processor/annotation/OnScheduled.java" timestamp="1473413308951" />
       <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/IsNiFIRunningErrorFree.scala" timestamp="1472639167808">
         <mark key="[" line="16" column="6" />
       </file>
@@ -236,10 +235,11 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="6" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/build.sbt" timestamp="1472647704008">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="C:/work/nifi-end-to-end-testing/build.sbt" timestamp="1473665354840">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-nar/pom.xml" timestamp="1471515825751">
         <mark key="[" line="21" column="26" />
@@ -423,8 +423,8 @@
       <jump line="131" column="25" filename="C:/work/fiscus-ingestor/nifi-nar-bundles/csv-bundle/csv-processor/src/main/scala/com/barclays/treasury/fiscus/ingestor/csv/ConvertXlsToCsv.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;&quot;.stripMardgin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjYiICUgInRlc3QiLAo=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;&quot;.stripMardgin</text>
@@ -435,35 +435,35 @@
       <register name="0" type="4">
         <text>repository: InstanceRepositoryExtension, tags: ModelRepository[InstanceTag], contacts: ModelRepository[InstanceContact])</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjYiICUgInRlc3QiLAo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">cQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgcHJvdmlkZUNvbnRhY3RzOiBNb2RlbFJlcG9zaXRvcnlbSW5zdGFuY2VDb250YWN0XQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgcHJvdmlkZUNvbnRhY3RzOiBNb2RlbFJlcG9zaXRvcnlbSW5zdGFuY2VDb250YWN0XQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgcHJvdmlkZVRhZ3M6IE1vZGVsUmVwb3NpdG9yeVtJbnN0YW5jZVRhZ10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgcHJvdmlkZVRhZ3M6IE1vZGVsUmVwb3NpdG9yeVtJbnN0YW5jZVRhZ10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgcHJvdmlkZUluc3RhbmNlczogSW5zdGFuY2VSZXBvc2l0b3J5RXh0ZW5zaW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgcHJvdmlkZUluc3RhbmNlczogSW5zdGFuY2VSZXBvc2l0b3J5RXh0ZW5zaW9uCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -498,11 +498,11 @@
         <entry>m12</entry>
         <entry>m 13</entry>
         <entry encoding="base64">JzwsJz5tIDEz</entry>
-        <entry>w</entry>
         <entry>vw</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
