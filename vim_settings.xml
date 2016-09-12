@@ -277,6 +277,9 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
       </file>
+      <file name="/Dummy.txt" timestamp="1473678966543">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
