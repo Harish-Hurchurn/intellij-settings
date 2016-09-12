@@ -95,6 +95,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473668973666" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471518380844">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -201,7 +202,7 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1472800986666">
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473668999202">
         <mark key="[" line="26" column="39" />
         <mark key="]" line="26" column="39" />
         <mark key="." line="26" column="39" />
@@ -259,13 +260,13 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/nifi/InstallNiFi.scala" timestamp="1473411925961">
-        <mark key="[" line="22" column="2" />
+      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/nifi/InstallNiFi.scala" timestamp="1473668580017">
+        <mark key="[" line="25" column="40" />
         <mark key="]" line="17" column="20" />
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473416698104">
+      <file name="/Dummy.txt" timestamp="1473669111775">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -366,10 +367,11 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="38" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/idlu/Idlu.scala" timestamp="1473411678630">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="11" column="29" />
-        <mark key="." line="11" column="29" />
+      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/idlu/Idlu.scala" timestamp="1473668665173">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="9" column="87" />
+        <mark key="." line="9" column="87" />
+        <mark key="^" line="9" column="87" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/nifi/nifi-api/0.6.1/nifi-api-0.6.1.jar!/org/apache/nifi/processor/Processor.class" timestamp="1473321198326">
         <mark key="'" line="21" column="0" />
@@ -423,11 +425,11 @@
       <jump line="131" column="25" filename="C:/work/fiscus-ingestor/nifi-nar-bundles/csv-bundle/csv-processor/src/main/scala/com/barclays/treasury/fiscus/ingestor/csv/ConvertXlsToCsv.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhdGVzdCIgJSUgInNjYWxhdGVzdCIgJSAiMi4yLjYiICUgInRlc3QiLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;.stripMardgin</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
