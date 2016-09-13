@@ -272,8 +272,8 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473758694246">
-        <mark key="'" line="0" column="13" />
+      <file name="/Dummy.txt" timestamp="1473758821555">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -438,14 +438,14 @@
       <jump line="21" column="0" filename="$MAVEN_REPOSITORY$/org/apache/nifi/nifi-api/0.6.1/nifi-api-0.6.1.jar!/org/apache/nifi/processor/Processor.class" />
       <jump line="131" column="25" filename="C:/work/fiscus-ingestor/nifi-nar-bundles/csv-bundle/csv-processor/src/main/scala/com/barclays/treasury/fiscus/ingestor/csv/ConvertXlsToCsv.scala" />
       <jump line="7" column="0" filename="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hdfs/HdfsUtils.scala" />
-      <jump line="0" column="13" filename="/Dummy.txt" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Corre</text>
+        <text>Change permissions when file is downloading tar from Nexus</text>
       </register>
       <register name="-" type="4">
-        <text>Corre</text>
+        <text>Change permissions when file is downloading tar from Nexus</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
