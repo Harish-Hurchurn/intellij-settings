@@ -207,11 +207,11 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473772803213">
-        <mark key="[" line="28" column="23" />
-        <mark key="]" line="27" column="34" />
-        <mark key="." line="27" column="34" />
-        <mark key="^" line="27" column="34" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473773200388">
+        <mark key="[" line="28" column="127" />
+        <mark key="]" line="28" column="83" />
+        <mark key="." line="28" column="83" />
+        <mark key="^" line="28" column="83" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
@@ -457,7 +457,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s&quot;/apps/sysFiscusNiFiDev/integration-testing/f</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -466,7 +466,7 @@
         <text>port</text>
       </register>
       <register name="0" type="4">
-        <text>repository: InstanceRepositoryExtension, tags: ModelRepository[InstanceTag], contacts: ModelRepository[InstanceContact])</text>
+        <text>s&quot;/apps/sysFiscusNiFiDev/integration-testing/f</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFNlcSgpCg==</text>
