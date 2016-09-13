@@ -207,11 +207,11 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473781443646">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="37" column="89" />
-        <mark key="." line="37" column="89" />
-        <mark key="^" line="37" column="89" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473784438083">
+        <mark key="[" line="26" column="86" />
+        <mark key="]" line="30" column="2" />
+        <mark key="^" line="30" column="2" />
+        <mark key="." line="30" column="2" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
@@ -457,7 +457,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>println(s&quot;***Changing permissions to be world readable for the /apps/development/sysFnTeamCity/fiscus-ingestor-$version***&quot;)</text>
+        <text>Seq(&quot;chmod&quot;, &quot;777&quot;, s&quot;/apps/development/sysFnTeamCity/fiscus-ingestor-$version.tgz&quot;).!</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -466,34 +466,34 @@
         <text>port</text>
       </register>
       <register name="0" type="4">
-        <text>println(s&quot;***Changing permissions to be world readable for the /apps/development/sysFnTeamCity/fiscus-ingestor-$version***&quot;)</text>
+        <text>Seq(&quot;chmod&quot;, &quot;777&quot;, s&quot;/apps/development/sysFnTeamCity/fiscus-ingestor-$version.tgz&quot;).!</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Rml4IHZlcnNpb24gd2hlbiBzdGFydGluZyBOaUZpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">QWRkaW5nIGxvZ2dpbmcK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBwcmludGxuKCIqKipDaGFuZ2luZyB0aGUgcGVybWlzc2lvbnMgZm9yIHRoZSBuaWZpIHNjcmlwdHMqKioiKQogICAgU2VxKCJjaG1vZCIsICI3NzciLCAiIik=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNlcSgpCg==</text>
+        <text encoding="base64">Rml4IHZlcnNpb24gd2hlbiBzdGFydGluZyBOaUZpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzIi9hcHBzL3N5c0Zpc2N1c05pRmlEZXYvaW50ZWdyYXRpb24tdGVzdGluZy9maXNjdXMtaW5nZXN0b3ItJHZlcnNpb24udGd6Igo=</text>
+        <text encoding="base64">QWRkaW5nIGxvZ2dpbmcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIFNlcSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SGF2ZSBoYWQgdG8gY2hhbmdlIHRoZSB3YXkgaW4gd2hpY2ggdGhlIE5pRmkgaW5zdGFsbGVyIGlzIGNhbGxlZCBhcyBUZWFtY2l0eSBwcmV2ZW50cyBjaGFuZ2luZyBkaXJlY3RvcnkncyBzbyBoYXZlIHRvIHVzZSBhYnNvbHV0ZSBwYXRocwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzIi9hcHBzL3N5c0Zpc2N1c05pRmlEZXYvaW50ZWdyYXRpb24tdGVzdGluZy9maXNjdXMtaW5nZXN0b3ItJHZlcnNpb24udGd6Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RG93bmxvYWQgdGhlIHRhcmJhbGwgaW50byB0aGUgY29ycmVjdCBkaXJlY3RvcnkK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmxhbmd1YWdlLntpbXBsaWNpdENvbnZlcnNpb25zLCBwb3N0Zml4T3BzfQo=</text>
+        <text encoding="base64">SGF2ZSBoYWQgdG8gY2hhbmdlIHRoZSB3YXkgaW4gd2hpY2ggdGhlIE5pRmkgaW5zdGFsbGVyIGlzIGNhbGxlZCBhcyBUZWFtY2l0eSBwcmV2ZW50cyBjaGFuZ2luZyBkaXJlY3RvcnkncyBzbyBoYXZlIHRvIHVzZSBhYnNvbHV0ZSBwYXRocwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNkKCIvYXBwcy9zeXNGaXNjdXNOaUZpRGV2L25pZmkvZGV2L25pZmkiKQo=</text>
+        <text encoding="base64">RG93bmxvYWQgdGhlIHRhcmJhbGwgaW50byB0aGUgY29ycmVjdCBkaXJlY3RvcnkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
