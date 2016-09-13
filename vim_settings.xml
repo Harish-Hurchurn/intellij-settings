@@ -206,10 +206,10 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473762950417">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473764999757">
+        <mark key="[" line="19" column="85" />
+        <mark key="]" line="23" column="10" />
+        <mark key="." line="23" column="10" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
@@ -281,7 +281,7 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473763531124">
+      <file name="/Dummy.txt" timestamp="1473764763970">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -454,11 +454,11 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RG93bmxvYWQgdGhlIHRhcmJhbGwgaW50byB0aGUgY29ycmVjdCBkaXJlY3RvcnkK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>Ensure that steps are correc</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
