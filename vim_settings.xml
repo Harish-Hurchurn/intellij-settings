@@ -207,11 +207,11 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473780602934">
-        <mark key="[" line="31" column="115" />
-        <mark key="]" line="31" column="42" />
-        <mark key="." line="31" column="29" />
-        <mark key="^" line="31" column="27" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473781443646">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="37" column="89" />
+        <mark key="." line="37" column="89" />
+        <mark key="^" line="37" column="89" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
@@ -283,9 +283,9 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473780319996">
+      <file name="/Dummy.txt" timestamp="1473781450729">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
@@ -457,16 +457,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>No need for v</text>
+        <text>println(s&quot;***Changing permissions to be world readable for the /apps/development/sysFnTeamCity/fiscus-ingestor-$version***&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>No need for v</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>port</text>
       </register>
       <register name="0" type="4">
-        <text>s&quot;/apps/sysFiscusNiFiDev/integration-testing/f</text>
+        <text>println(s&quot;***Changing permissions to be world readable for the /apps/development/sysFnTeamCity/fiscus-ingestor-$version***&quot;)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Rml4IHZlcnNpb24gd2hlbiBzdGFydGluZyBOaUZpCg==</text>
