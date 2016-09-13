@@ -207,10 +207,10 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473771599578">
-        <mark key="[" line="28" column="96" />
-        <mark key="]" line="28" column="78" />
-        <mark key="." line="28" column="78" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473771861028">
+        <mark key="[" line="28" column="56" />
+        <mark key="]" line="28" column="56" />
+        <mark key="." line="28" column="56" />
         <mark key="^" line="28" column="78" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
@@ -456,8 +456,8 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzIi9hcHBzL3N5c0Zpc2N1c05pRmlEZXYvaW50ZWdyYXRpb24tdGVzdGluZy9maXNjdXMtaW5nZXN0b3ItJHZlcnNpb24udGd6Igo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
