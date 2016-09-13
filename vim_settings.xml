@@ -207,10 +207,10 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473760682351">
-        <mark key="[" line="27" column="56" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473762950417">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
@@ -282,7 +282,7 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473761899398">
+      <file name="/Dummy.txt" timestamp="1473763531124">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -455,8 +455,8 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Ensure that steps are correc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RG93bmxvYWQgdGhlIHRhcmJhbGwgaW50byB0aGUgY29ycmVjdCBkaXJlY3RvcnkK</text>
       </register>
       <register name="-" type="4">
         <text>Ensure that steps are correc</text>
@@ -468,31 +468,37 @@
         <text>repository: InstanceRepositoryExtension, tags: ModelRepository[InstanceTag], contacts: ModelRepository[InstanceContact])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VW50YXIgYWZ0ZXIgZG93bmxvYWQgZnJvbSBOZXh1cwo=</text>
+        <text encoding="base64">RG93bmxvYWQgdGhlIHRhcmJhbGwgaW50byB0aGUgY29ycmVjdCBkaXJlY3RvcnkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmxhbmd1YWdlLntpbXBsaWNpdENvbnZlcnNpb25zLCBwb3N0Zml4T3BzfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNlcShzImNwIGBwd2RgL2Zpc2N1cy1pbmdlc3Rvci0kdmVyc2lvbi50Z3oiLCAiL2FwcHMvc3lzRmlzY3VzTmlGaURldi9pbnRlZ3JhdGlvbl90ZXN0IikuIQo=</text>
+        <text encoding="base64">ICAgIGNkKCIvYXBwcy9zeXNGaXNjdXNOaUZpRGV2L25pZmkvZGV2L25pZmkiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNlcSgiY2htb2QiLCAiNzc3IiwgcyJmaXNjdXMtaW5nZXN0b3ItJHZlcnNpb24udGd6IikuIQo=</text>
+        <text encoding="base64">ICAgIGNkKCIvYXBwcy9zeXNGaXNjdXNOaUZpRGV2L25pZmkvZGV2L25pZmkiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNkKCIvYXBwcy9zeUZpc2N1c05pRmlEZXYvaW50ZWdyYXRpb25fdGVzdGluZyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMK</text>
+        <text encoding="base64">ICBpbXBvcnQgQ2hhbmdlRGlyZWN0b3J5Ll8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkK</text>
+        <text encoding="base64">b2JqZWN0IEluc3RhbGxlciB7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMK</text>
+      <register name="9" type="4">
+        <text>object ChangeDirectory {
+  case class CurDir(cwd: java.io.File)
+  implicit def stringToCurDir(d: String) = CurDir(new java.io.File(d))
+  implicit def stringToProcess(cmd: String)(implicit curDir: CurDir) = Process(cmd, curDir.cwd)
+  implicit var cwd: CurDir = &quot;/tmp&quot;
+  def cd(dir: String = util.Properties.userDir) = cwd = dir
+}</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5tNQ==</text>
