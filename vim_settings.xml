@@ -207,11 +207,11 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473772259696">
-        <mark key="[" line="28" column="3" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="7" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473772803213">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="27" column="34" />
+        <mark key="." line="27" column="34" />
+        <mark key="^" line="27" column="34" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
@@ -283,7 +283,7 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473772025420">
+      <file name="/Dummy.txt" timestamp="1473772811543">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -496,7 +496,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -529,13 +529,13 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>vs</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5tMTNd</entry>
         <entry encoding="base64">JzwsJz4sbSAxMw==</entry>
         <entry encoding="base64">JzwsJz5tIDEy</entry>
         <entry encoding="base64">JzwsJz5tIDU=</entry>
         <entry encoding="base64">JzwsJz5tNQ==</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
