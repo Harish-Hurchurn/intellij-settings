@@ -87,6 +87,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473758639355" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471518380844">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -201,8 +202,8 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473696952443">
-        <mark key="[" line="27" column="0" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473758647835">
+        <mark key="[" line="28" column="4" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
@@ -391,7 +392,7 @@
         <mark key="." line="9" column="87" />
         <mark key="^" line="9" column="87" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/1_InstallNiFi.feature" timestamp="1473696742385" />
+      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/1_InstallNiFi.feature" timestamp="1473758099236" />
       <file name="/fragment.java" timestamp="1473683142899">
         <mark key="[" line="0" column="0" />
       </file>
