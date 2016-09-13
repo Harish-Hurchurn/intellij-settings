@@ -202,11 +202,10 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473758807970">
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="24" />
-        <mark key="." line="28" column="24" />
-        <mark key="^" line="28" column="24" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473760682351">
+        <mark key="[" line="27" column="56" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
@@ -272,7 +271,7 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473760137912">
+      <file name="/Dummy.txt" timestamp="1473760747744">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -441,11 +440,11 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Change permissions when file is downloading tar from Nexus</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFNlcShzImNwIGBwd2RgL2Zpc2N1cy1pbmdlc3Rvci0kdmVyc2lvbi50Z3oiLCAiL2FwcHMvc3lzRmlzY3VzTmlGaURldi9pbnRlZ3JhdGlvbl90ZXN0IikuIQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Change permissions when file is downloading tar from Nexus</text>
+        <text>cd(s&quot;/apps/sysFiscusNiFiDev/integration_testing/fiscus-ingestor-$version&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
@@ -454,13 +453,13 @@
         <text>repository: InstanceRepositoryExtension, tags: ModelRepository[InstanceTag], contacts: ModelRepository[InstanceContact])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNkKCIvYXBwcy9zeUZpc2N1c05pRmlEZXYvaW50ZWdyYXRpb25fdGVzdGluZyIpCg==</text>
+        <text encoding="base64">ICAgIFNlcShzImNwIGBwd2RgL2Zpc2N1cy1pbmdlc3Rvci0kdmVyc2lvbi50Z3oiLCAiL2FwcHMvc3lzRmlzY3VzTmlGaURldi9pbnRlZ3JhdGlvbl90ZXN0IikuIQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkK</text>
+        <text encoding="base64">ICAgIFNlcSgiY2htb2QiLCAiNzc3IiwgcyJmaXNjdXMtaW5nZXN0b3ItJHZlcnNpb24udGd6IikuIQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMK</text>
+        <text encoding="base64">ICAgIGNkKCIvYXBwcy9zeUZpc2N1c05pRmlEZXYvaW50ZWdyYXRpb25fdGVzdGluZyIpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkK</text>
@@ -468,17 +467,17 @@
       <register name="5" type="2">
         <text encoding="base64">ICAgIC8vLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMK</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMK</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ICBHaXZlbiAoIiIiXlRoZSBJRExVIGZpbGUgaXMgY29waWVkIGFuZCBkcm9wcGVkIGludG8gdGhlIGFwcHJvcHJpYXRlIGxvY2F0aW9uJCIiIikgewogICgpID0+CiAgLy8vLyBXcml0ZSBjb2RlIGhlcmUgdGhhdCB0dXJucyB0aGUgcGhyYXNlIGFib3ZlIGludG8gY29uY3JldGUgYWN0aW9ucwogIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uICgpCgogIEdpdmVuICgiIiJeVGhlIGRhdGEgc2hvdWxkIGJlIGNvbnRhaW5lZCBpbiBIaXZlJCIiIikgewogICgpID0+CiAgLy8vLyBXcml0ZSBjb2RlIGhlcmUgdGhhdCB0dXJucyB0aGUgcGhyYXNlIGFib3ZlIGludG8gY29uY3JldGUgYWN0aW9ucwogIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uICgpCn0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ewogIEdpdmVuKCIiIl5UaGUgSURMVSBmaWxlIGlzIGNvcGllZCBhbmQgZHJvcHBlZCBpbnRvIHRoZSBhcHByb3ByaWF0ZSBsb2NhdGlvbiQiIiIpeyAoKSA9PgoKICB9CgogIFRoZW4oIiIiXlRoZSBkYXRhIHNob3VsZCBiZSBjb250YWluZWQgaW4gSGl2ZSQiIiIpeyAoKSA9PgogIH0KfQ==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB0aHJvdyBuZXcgUGVuZGluZ0V4Y2VwdGlvbigpCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAvLy8vIFdyaXRlIGNvZGUgaGVyZSB0aGF0IHR1cm5zIHRoZSBwaHJhc2UgYWJvdmUgaW50byBjb25jcmV0ZSBhY3Rpb25zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
