@@ -120,12 +120,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1473863639516">
-        <mark key="'" line="29" column="53" />
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="2" />
-        <mark key="^" line="10" column="2" />
-        <mark key="." line="10" column="2" />
+      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1473864388046">
+        <mark key="'" line="27" column="53" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/nifi/IsNiFIRunningErrorFree.scala" timestamp="1473678551768">
         <mark key="[" line="9" column="18" />
@@ -295,7 +294,7 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473863677363">
+      <file name="/Dummy.txt" timestamp="1473864416053">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
@@ -467,8 +466,8 @@
       <jump line="27" column="53" filename="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFNlcSgicm0iLCAiLXJmIiwgIi9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkiKS4hCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -481,34 +480,34 @@
     Seq(&quot;chmod&quot;, &quot;-R&quot;, &quot;777&quot;, &quot;/apps/development/sysFnTeamCity/nifi/integration-testing&quot;).!</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3MuCg==</text>
+        <text encoding="base64">ICAgIFNlcSgicm0iLCAiLXJmIiwgIi9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkiKS4hCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHgK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzeXMucHJvY2Vzcy5fCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJUaGUgcHJvY2VzcyBleGVjdXRlZCB3aXRoICR4IikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCB4ID0gcHJvY2Vzcy5leGl0VmFsdWUoKWRkCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJUaGUgcHJvY2VzcyBleGl0ZWQgd2l0aCBjb2RlOiB7JHByb2Nlc3MuZXhpdFZhbHVlKCl9IikK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIHByb2Nlc3MuCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHgK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4ocyJUaGUgcHJvY2VzcyBleGVjdXRlZCB3aXRoICR4IikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhbCB4ID0gcHJvY2Vzcy5leGl0VmFsdWUoKWRkCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNlcSgiL2FwcHMvZGV2ZWxvcG1lbnQvc3lzRm5UZWFtQ2l0eS9uaWZpL2ludGVncmF0aW9uLXRlc3RpbmcvbmlmaS9zZXJ2aWNlLnNoICIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJUaGUgcHJvY2VzcyBleGl0ZWQgd2l0aCBjb2RlOiB7JHByb2Nlc3MuZXhpdFZhbHVlKCl9IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2Nlc3MuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFNlcSgiL2FwcHMvZGV2ZWxvcG1lbnQvc3lzRm5UZWFtQ2l0eS9uaWZpL2ludGVncmF0aW9uLXRlc3RpbmcvbmlmaS9zZXJ2aWNlLnNoICIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -546,8 +545,8 @@
         <entry encoding="base64">JzwsJz5tIDEy</entry>
         <entry encoding="base64">JzwsJz5tIDU=</entry>
         <entry encoding="base64">JzwsJz5tNQ==</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
