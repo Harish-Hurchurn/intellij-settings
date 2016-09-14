@@ -99,7 +99,7 @@
         <mark key="." line="4" column="74" />
         <mark key="^" line="4" column="74" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473845702883" />
+      <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473845925743" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471518380844">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -219,11 +219,11 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473845739105">
-        <mark key="[" line="25" column="107" />
-        <mark key="]" line="33" column="90" />
-        <mark key="^" line="33" column="90" />
-        <mark key="." line="33" column="90" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473846160969">
+        <mark key="[" line="23" column="57" />
+        <mark key="]" line="47" column="89" />
+        <mark key="^" line="47" column="89" />
+        <mark key="." line="47" column="89" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
@@ -467,8 +467,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>println(&quot;***Changing the permissions to be world readable for /apps/development/sysFnTeamCity/nifi/integration-testing/nifi-1.2.0.1-1***&quot;)
-    Seq(&quot;chmod&quot;, &quot;-R&quot;, &quot;777&quot;, &quot;/apps/development/sysFnTeamCity/nifi/integration-testing/nifi-1.2.0.1-1&quot;).!</text>
+        <text>println(&quot;***Changing the permissions to be world readable for /apps/development/sysFnTeamCity/nifi/integration-testing***&quot;)
+    Seq(&quot;chmod&quot;, &quot;-R&quot;, &quot;777&quot;, &quot;/apps/development/sysFnTeamCity/nifi/integration-testing&quot;).!</text>
       </register>
       <register name="-" type="4">
         <text>/bin</text>
@@ -481,34 +481,35 @@
     Seq(&quot;chmod&quot;, &quot;-R&quot;, &quot;777&quot;, &quot;/apps/development/sysFnTeamCity/nifi/integration-testing&quot;).!</text>
       </register>
       <register name="1" type="4">
+        <text>println(&quot;***Changing the permissions to be world readable for /apps/development/sysFnTeamCity/nifi/integration-testing***&quot;)
+    Seq(&quot;chmod&quot;, &quot;-R&quot;, &quot;777&quot;, &quot;/apps/development/sysFnTeamCity/nifi/integration-testing&quot;).!</text>
+      </register>
+      <register name="2" type="4">
         <text>println(&quot;***Changing the permissions to be world readable for /apps/development/sysFnTeamCity/nifi/integration-testing/nifi-1.2.0.1-1***&quot;)
     Seq(&quot;chmod&quot;, &quot;-R&quot;, &quot;777&quot;, &quot;/apps/development/sysFnTeamCity/nifi/integration-testing/nifi-1.2.0.1-1&quot;).!</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">QWRkIGEgd2F5IHRvIGNsZWFudXAgYWZ0ZXIgb3Vyc2VsdmVzCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIFRoZW4gY2xlYW51cCBieSByZW1vdmluZyB0aGUgTmlGaSBpbnN0YWxsIGZyb20gdGhlIG1hY2hpbmUgb24gd2hpY2ggaXQgd2FzIGluc3RhbGxlZAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>/**
   * Created by hurchurh on 14/09/2016.
   */</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMK</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkK</text>
+        <text encoding="base64">ICAgIC8vLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
