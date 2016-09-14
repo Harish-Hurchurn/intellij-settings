@@ -99,7 +99,6 @@
         <mark key="." line="4" column="74" />
         <mark key="^" line="4" column="74" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473845925743" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471518380844">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -121,11 +120,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1473858015339">
-        <mark key="[" line="24" column="51" />
-        <mark key="]" line="23" column="5" />
-        <mark key="^" line="23" column="5" />
-        <mark key="." line="23" column="5" />
+      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1473863639516">
+        <mark key="'" line="29" column="53" />
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="2" />
+        <mark key="^" line="10" column="2" />
+        <mark key="." line="10" column="2" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/nifi/IsNiFIRunningErrorFree.scala" timestamp="1473678551768">
         <mark key="[" line="9" column="18" />
@@ -295,7 +295,7 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473858364354">
+      <file name="/Dummy.txt" timestamp="1473863677363">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
@@ -464,6 +464,7 @@
       <jump line="131" column="25" filename="C:/work/fiscus-ingestor/nifi-nar-bundles/csv-bundle/csv-processor/src/main/scala/com/barclays/treasury/fiscus/ingestor/csv/ConvertXlsToCsv.scala" />
       <jump line="7" column="0" filename="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hdfs/HdfsUtils.scala" />
       <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="27" column="53" filename="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
