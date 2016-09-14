@@ -87,6 +87,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/4_Cleanup.feature" timestamp="1473838225901">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473771300571" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471518380844">
         <mark key="[" line="21" column="26" />
@@ -283,9 +288,9 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473785095886">
+      <file name="/Dummy.txt" timestamp="1473837771875">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
@@ -403,7 +408,7 @@
         <mark key="." line="9" column="87" />
         <mark key="^" line="9" column="87" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/1_InstallNiFi.feature" timestamp="1473767574831">
+      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/1_InstallNiFi.feature" timestamp="1473838063862">
         <mark key="[" line="3" column="76" />
         <mark key="]" line="3" column="10" />
         <mark key="." line="3" column="10" />
@@ -456,8 +461,8 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHByaW50bG4oIioqKkNoYW5naW5nIHRoZSBwZXJtaXNzaW9ucyB0byBiZSB3b3JsZCByZWFkYWJsZSBiZWZvcmUgc3RhcnRpbmcgdGhlIGluZ2VzdGlvbiBwcm9jZXNzKioqIikKICAgIFNlcSgiY2htb2QiLCAiNzc3IiwgIi9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvbmlmaS9pbnRlZ3JhdGlvbi10ZXN0aW5nIikuIQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEFuZCBjb25maWd1cmUgdGhlIHRlc3RzIGhhdmUgcnVuIHN1Y2Nlc3NmdWxseQo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -468,32 +473,36 @@
       <register name="0" type="4">
         <text>Seq(&quot;chmod&quot;, &quot;777&quot;, s&quot;/apps/development/sysFnTeamCity/fiscus-ingestor-$version.tgz&quot;).!</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEFuZCBjb25maWd1cmUgdGhlIHRlc3RzIGhhdmUgcnVuIHN1Y2Nlc3NmdWxseQo=</text>
+      </register>
+      <register name="2" type="4">
+        <text>c
+    Then extract the latest successful build of the NiFi tarball
+    Then install the latest version of NiFi
+    Then start NiFi
+    And configure the flows for NiFiv</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Rml4aW5nIHBlcm1pc3Npb25zCg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgIHByaW50bG4oIioqKkNoYW5naW5nIHRoZSBwZXJtaXNzaW9ucyB0byBiZSB3b3JsZCByZWFkYWJsZSBiZWZvcmUgc3RhcnRpbmcgdGhlIGluZ2VzdGlvbiBwcm9jZXNzKioqIikKICAgIFNlcSgiY2htb2QiLCAiNzc3IiwgIi9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvbmlmaS9pbnRlZ3JhdGlvbi10ZXN0aW5nIikuIQ==</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICBwcmludGxuKCIqKipDaGFuZ2luZyB0aGUgcGVybWlzc2lvbnMgZm9yIHRoZSBuaWZpIHNjcmlwdHMqKioiKQogICAgU2VxKCJjaG1vZCIsICI3NzciLCAiIik=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Rml4IHZlcnNpb24gd2hlbiBzdGFydGluZyBOaUZpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">QWRkaW5nIGxvZ2dpbmcK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFNlcSgpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzIi9hcHBzL3N5c0Zpc2N1c05pRmlEZXYvaW50ZWdyYXRpb24tdGVzdGluZy9maXNjdXMtaW5nZXN0b3ItJHZlcnNpb24udGd6Igo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">SGF2ZSBoYWQgdG8gY2hhbmdlIHRoZSB3YXkgaW4gd2hpY2ggdGhlIE5pRmkgaW5zdGFsbGVyIGlzIGNhbGxlZCBhcyBUZWFtY2l0eSBwcmV2ZW50cyBjaGFuZ2luZyBkaXJlY3RvcnkncyBzbyBoYXZlIHRvIHVzZSBhYnNvbHV0ZSBwYXRocwo=</text>
+        <text encoding="base64">ICAgIFNlcSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
