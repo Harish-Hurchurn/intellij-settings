@@ -25,8 +25,8 @@
       <file name="C:/work/nifi-end-to-end-testing/.gitignore" timestamp="1472026606795">
         <mark key="[" line="226" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Cleanup.scala" timestamp="1473841444339">
-        <mark key="[" line="7" column="49" />
+      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Cleanup.scala" timestamp="1473867916777">
+        <mark key="[" line="11" column="4" />
         <mark key="]" line="6" column="44" />
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="42" />
@@ -120,11 +120,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1473865976223">
-        <mark key="'" line="32" column="53" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="30" column="35" />
-        <mark key="." line="30" column="35" />
+      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1473867981658">
+        <mark key="'" line="28" column="53" />
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/nifi/IsNiFIRunningErrorFree.scala" timestamp="1473678551768">
         <mark key="[" line="9" column="18" />
@@ -412,11 +413,11 @@
         <mark key="." line="9" column="87" />
         <mark key="^" line="9" column="87" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/1_InstallNiFi.feature" timestamp="1473864965149">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="4" column="6" />
-        <mark key="." line="4" column="6" />
-        <mark key="^" line="4" column="6" />
+      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/1_InstallNiFi.feature" timestamp="1473867936495">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+        <mark key="^" line="3" column="6" />
       </file>
       <file name="/fragment.java" timestamp="1473683142899">
         <mark key="[" line="0" column="0" />
@@ -467,10 +468,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
@@ -480,34 +481,34 @@
     Seq(&quot;chmod&quot;, &quot;-R&quot;, &quot;777&quot;, &quot;/apps/development/sysFnTeamCity/nifi/integration-testing&quot;).!</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFNlcSgiY3AiICogLi4vKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIioqKmhhbmRsZSBidWcgaW4gdGhlIGluc3RhbGxlcioqKiIpCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChJbnN0YWxsZXIuY2xlYW5VcCA9PSAwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBHaXZlbigiIiJedGhhdCB0aGUgaW50ZWdyYXRpb24gdGVzdGluZyBkaXJlY3RvcnkgaXMgZW1wdHkkIiIiKSB7ICgpID0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNlcSgiY3AiLCAiLXIiLCAiKiIsICIvYXBwcy9kZXZlbG9wbWVudC9zeXNGblRlYW1DaXR5L25pZmkvaW50ZWdyYXRpb24tdGVzdGluZy9uaWZpL25pZmkgLi4iKQo=</text>
+        <text encoding="base64">ICAgIEdpdmVuIHRoYXQgdGhlIGludGVncmF0aW9uIHRlc3RpbmcgZGlyZWN0b3J5IGlzIGVtcHR5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIioqKmhhbmRsZSBidWcgaW4gdGhlIGluc3RhbGxlcioqKiIpCg==</text>
+        <text encoding="base64">ICAgIFNlcSgiY3AiICogLi4vKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIioqKmhhbmRsZSBidWcgaW4gdGhlIGluc3RhbGxlcioqKiIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNlcSgicm0iLCAiLXJmIiwgIi9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkiKS4hCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzeXMucHJvY2Vzcy5fCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -545,8 +546,8 @@
         <entry encoding="base64">JzwsJz5tIDEy</entry>
         <entry encoding="base64">JzwsJz5tIDU=</entry>
         <entry encoding="base64">JzwsJz5tNQ==</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
