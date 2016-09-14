@@ -219,10 +219,10 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473857398299">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473857677441">
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
@@ -294,7 +294,7 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473857407553">
+      <file name="/Dummy.txt" timestamp="1473857705547">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
@@ -466,7 +466,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3MuCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJUaGUgcHJvY2VzcyBleGl0ZWQgd2l0aCBjb2RlOiB7JHByb2Nlc3MuZXhpdFZhbHVlKCl9IikK</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -479,13 +479,13 @@
     Seq(&quot;chmod&quot;, &quot;-R&quot;, &quot;777&quot;, &quot;/apps/development/sysFnTeamCity/nifi/integration-testing&quot;).!</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3MuCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJUaGUgcHJvY2VzcyBleGl0ZWQgd2l0aCBjb2RlOiB7JHByb2Nlc3MuZXhpdFZhbHVlKCl9IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNlcSgiL2FwcHMvZGV2ZWxvcG1lbnQvc3lzRm5UZWFtQ2l0eS9uaWZpL2ludGVncmF0aW9uLXRlc3RpbmcvbmlmaS9zZXJ2aWNlLnNoICIpCg==</text>
+        <text encoding="base64">ICAgIHByb2Nlc3MuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFNlcSgiL2FwcHMvZGV2ZWxvcG1lbnQvc3lzRm5UZWFtQ2l0eS9uaWZpL2ludGVncmF0aW9uLXRlc3RpbmcvbmlmaS9zZXJ2aWNlLnNoICIpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -494,17 +494,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFNlcSgiY2htb2QiLCAiLVIiLCAiNzc3IiwgIi9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvbmlmaS9pbnRlZ3JhdGlvbi10ZXN0aW5nL25pZmktMS4yLjAuMS0xIikuIQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIFNlcSgiY2htb2QiLCAiLVIiLCAiNzc3IiwgIi9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvbmlmaS9pbnRlZ3JhdGlvbi10ZXN0aW5nL25pZmktMS4yLjAuMS0xIikuIQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaW50bG4oIioqKkNoYW5naW5nIHRoZSBwZXJtaXNzaW9ucyB0byBiZSB3b3JsZCByZWFkYWJsZSBmb3IgL2FwcHMvZGV2ZWxvcG1lbnQvc3lzRm5UZWFtQ2l0eS9uaWZpL2ludGVncmF0aW9uLXRlc3RpbmcvbmlmaS0xLjIuMC4xLTEqKioiKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHByaW50bG4oIioqKlN0YXJ0aW5nIHRoZSBpbnN0YWxsKioqIikKICAgIHMiL2FwcHMvZGV2ZWxvcG1lbnQvc3lzRm5UZWFtQ2l0eS9maXNjdXMtaW5nZXN0b3ItJHZlcnNpb24vaW5zdGFsbC5zaCBpbnRlZ3JhdGlvbi10ZXN0aW5nIi4h</text>
-      </register>
       <register name="9" type="4">
-        <text>println(&quot;***Changing the permissions to be world readable for /apps/development/sysFnTeamCity/nifi/integration-testing***&quot;)
-    Seq(&quot;chmod&quot;, &quot;-R&quot;, &quot;777&quot;, &quot;/apps/development/sysFnTeamCity/nifi/integration-testing&quot;).!</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIioqKlN0YXJ0aW5nIHRoZSBpbnN0YWxsKioqIikKICAgIHMiL2FwcHMvZGV2ZWxvcG1lbnQvc3lzRm5UZWFtQ2l0eS9maXNjdXMtaW5nZXN0b3ItJHZlcnNpb24vaW5zdGFsbC5zaCBpbnRlZ3JhdGlvbi10ZXN0aW5nIi4h</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
