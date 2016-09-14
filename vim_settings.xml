@@ -219,11 +219,11 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473840999369">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="7" column="54" />
-        <mark key="^" line="7" column="54" />
-        <mark key="." line="7" column="54" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473842388972">
+        <mark key="[" line="43" column="122" />
+        <mark key="]" line="43" column="122" />
+        <mark key="^" line="43" column="6" />
+        <mark key="." line="43" column="122" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
@@ -295,7 +295,7 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473841189894">
+      <file name="/Dummy.txt" timestamp="1473841537187">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -469,16 +469,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NiFi integration testing has run</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>/apps/development/sysFnTeamCity/nifi/integration-testing</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
       </register>
       <register name="0" type="4">
-        <text>NiFi integration testing has run</text>
+        <text>/apps/development/sysFnTeamCity/nifi/integration-testing/nifi</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFRoZW4gY2xlYW51cCBieSByZW1vdmluZyB0aGUgTmlGaSBpbnN0YWxsIGZyb20gdGhlIG1hY2hpbmUgb24gd2hpY2ggaXQgd2FzIGluc3RhbGxlZAo=</text>
