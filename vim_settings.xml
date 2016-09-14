@@ -218,11 +218,11 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473843275674">
-        <mark key="[" line="47" column="90" />
-        <mark key="]" line="46" column="140" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473844922088">
+        <mark key="[" line="46" column="137" />
+        <mark key="]" line="46" column="137" />
         <mark key="^" line="46" column="140" />
-        <mark key="." line="46" column="140" />
+        <mark key="." line="46" column="137" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
@@ -294,7 +294,7 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473842890293">
+      <file name="/Dummy.txt" timestamp="1473843288999">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
@@ -466,11 +466,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>println(&quot;***Changing the permissions to be world readable for /apps/development/sysFnTeamCity/nifi/integration-testing***&quot;)
-    Seq(&quot;chmod&quot;, &quot;-R&quot;, &quot;777&quot;, &quot;/apps/development/sysFnTeamCity/nifi/integration-testing&quot;).!</text>
+        <text>/bin</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>/bin</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
