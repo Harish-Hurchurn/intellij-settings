@@ -258,7 +258,7 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="6" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/build.sbt" timestamp="1473684244848">
+      <file name="C:/work/nifi-end-to-end-testing/build.sbt" timestamp="1473955373340">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
@@ -288,6 +288,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1473956377145">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/nifi/InstallNiFi.scala" timestamp="1473682853560">
         <mark key="[" line="9" column="61" />
         <mark key="]" line="9" column="61" />
@@ -300,7 +305,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473950582243">
+      <file name="/Dummy.txt" timestamp="1473956440433">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
@@ -308,6 +313,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/shell/Shell.scala" timestamp="1473955561202" />
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hdfs/HdfsUtils.scala" timestamp="1473672394899">
         <mark key="[" line="9" column="72" />
         <mark key="]" line="10" column="88" />
@@ -424,7 +430,7 @@
         <mark key="." line="3" column="4" />
         <mark key="^" line="3" column="6" />
       </file>
-      <file name="/fragment.java" timestamp="1473683142899">
+      <file name="/fragment.java" timestamp="1473955279847">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/5G_USC.yml" timestamp="1471946282827">
@@ -474,8 +480,8 @@
       <jump line="20" column="7" filename="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -487,31 +493,31 @@
         <text>Status.invalidCount(hostname)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oU3RhdHVzLmludmFsaWRDb3VudChob3N0bmFtZSkpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oU3RhdHVzLmlzTmlGaVVwKGhvc3RuYW1lKSlkZAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhbCBwYXRoID0gZ2V0Q2xhc3MuZ2V0UmVzb3VyY2UoIi9JRExVL0lETFVfVHJlYXN1cnlPcHNfMjAxNjA4MjRfMjAxNjA4MjQxNTAwMDAudHh0IikuZ2V0UGF0aAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oU3RhdHVzLmludmFsaWRDb3VudChob3N0bmFtZSkpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIEtpbGxpbmcgdGhlIHRhaWwgY29tbWFuZCB3aGVuCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oU3RhdHVzLmlzTmlGaVVwKGhvc3RuYW1lKSlkZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGRjYXNlIF8gPT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">dGNoIHsKICAgICAgICAgIGNhc2UgZTogUnVudGltZUV4Y2VwdGlvbiA9PgogICAgICAgICAgY2FzZSBfID0+IF8KICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIEtpbGxpbmcgdGhlIHRhaWwgY29tbWFuZCB3aGVuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgewogICAgICAgICAgU2VxKCJwa2lsbCIsICJ0YWlsIikuIQo=</text>
+        <text encoding="base64">ICAgICAgZGRjYXNlIF8gPT4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICAgIH0K</text>
+      <register name="8" type="4">
+        <text encoding="base64">dGNoIHsKICAgICAgICAgIGNhc2UgZTogUnVudGltZUV4Y2VwdGlvbiA9PgogICAgICAgICAgY2FzZSBfID0+IF8KICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4Lmhhc0V4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgewogICAgICAgICAgU2VxKCJwa2lsbCIsICJ0YWlsIikuIQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
