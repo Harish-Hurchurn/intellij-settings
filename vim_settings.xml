@@ -93,11 +93,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/4_Cleanup.feature" timestamp="1473870414986">
-        <mark key="[" line="3" column="41" />
-        <mark key="]" line="3" column="41" />
-        <mark key="." line="5" column="74" />
-        <mark key="^" line="5" column="74" />
+      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/4_Cleanup.feature" timestamp="1473935356353">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473924962660" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471518380844">
@@ -295,7 +295,7 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473934652255">
+      <file name="/Dummy.txt" timestamp="1473935291544">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
@@ -469,10 +469,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
