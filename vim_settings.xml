@@ -197,11 +197,11 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/IsNiFiRunningErrorFree.scala" timestamp="1473948685460">
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="10" column="39" />
-        <mark key="." line="10" column="39" />
-        <mark key="^" line="10" column="39" />
+      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/IsNiFiRunningErrorFree.scala" timestamp="1473949144040">
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="41" />
+        <mark key="^" line="13" column="41" />
       </file>
       <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/env.sh" timestamp="1471945717441">
         <mark key="[" line="5" column="23" />
@@ -463,8 +463,8 @@
       <jump line="20" column="7" filename="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Status.invalidCount(hostname)</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -473,36 +473,34 @@
         <text>port</text>
       </register>
       <register name="0" type="4">
-        <text>if (line.contains(&quot;org.apache.nifi.NiFi Controller initialization took&quot;)) {
-        println(&quot;Starting to configure flows&quot;)
-        Seq(&quot;/apps/development/sysFnTeamCity/nifi/integration-testing/nifi/service.sh&quot;, &quot;configure&quot;).!v</text>
+        <text>Status.invalidCount(hostname)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oU3RhdHVzLmlzTmlGaVVwKGhvc3RuYW1lKSlkZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIEtpbGxpbmcgdGhlIHRhaWwgY29tbWFuZCB3aGVuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIEtpbGxpbmcgdGhlIHRhaWwgY29tbWFuZCB3aGVuCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgZGRjYXNlIF8gPT4K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">dGNoIHsKICAgICAgICAgIGNhc2UgZTogUnVudGltZUV4Y2VwdGlvbiA9PgogICAgICAgICAgY2FzZSBfID0+IF8KICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgewogICAgICAgICAgU2VxKCJwa2lsbCIsICJ0YWlsIikuIQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CiAgICAgIH0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB4Lmhhc0V4Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgeCA9IFNlcSgicGtpbGwiLCAidGFpbCIpLiEK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgeCA9IFNlcSgicGtpbGwiLCAidGFpbCIpLiEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
