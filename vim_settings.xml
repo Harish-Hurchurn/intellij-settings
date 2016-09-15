@@ -62,11 +62,11 @@
       <file name="/Dummy.scala" timestamp="1472633353930">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1473950561973">
+      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1473950936117">
         <mark key="[" line="10" column="96" />
-        <mark key="]" line="26" column="1" />
-        <mark key="^" line="26" column="1" />
-        <mark key="." line="26" column="1" />
+        <mark key="]" line="23" column="1" />
+        <mark key="^" line="23" column="1" />
+        <mark key="." line="23" column="1" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/eod-bundle/eod-processor/pom.xml" timestamp="1471516250192">
         <mark key="[" line="11" column="22" />
@@ -294,7 +294,13 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473950222733">
+      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/readme.txt" timestamp="1473951713366">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1473950582243">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
