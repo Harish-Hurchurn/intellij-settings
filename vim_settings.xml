@@ -8,6 +8,12 @@
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
+      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/createhdfsdir.sh" timestamp="1474038826057">
+        <mark key="[" line="42" column="102" />
+        <mark key="]" line="42" column="120" />
+        <mark key="." line="42" column="102" />
+        <mark key="^" line="37" column="109" />
+      </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/status/Status.scala" timestamp="1472738821590">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="4" />
@@ -136,6 +142,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/Stress_IDLU.yml" timestamp="1474038672833">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="87" />
+        <mark key="^" line="46" column="20" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1473948709062">
         <mark key="[" line="24" column="29" />
@@ -332,8 +344,10 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474032761338">
+      <file name="/Dummy.txt" timestamp="1474039005607">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
         <mark key="[" line="15" column="0" />
@@ -512,46 +526,46 @@
       <jump line="20" column="7" filename="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QnVnIGZpeCBhZGRyZXNzIHRoZSBzaXR1YXRpb24gd2hpY2ggY2FuIG9jY3VyIHdoZW4gcmUtaW5pdGlpbmcgdGhlIGZpcnN0IHJvdyBzaXplCg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
       </register>
       <register name="0" type="4">
-        <text>the latest the latest successful build of NiFi available from Nexus is downloaded</text>
+        <text>upstreamdropfolder</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">QnVnIGZpeCBhZGRyZXNzIHRoZSBzaXR1YXRpb24gd2hpY2ggY2FuIG9jY3VyIHdoZW4gcmUtaW5pdGlpbmcgdGhlIGZpcnN0IHJvdyBzaXplCg==</text>
+      </register>
+      <register name="2" type="4">
         <text>Then run kinit to initialise keberos
     Then create the HDFS directories</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIFRoZW4gY3JlYXRlIHRoZSBIREZTIGRpcmVjdG9yaWVzCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>Then run kinit to initialise keberos
     Then create the HDFS directories</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHByaW50bG4oeAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvbmlmaS9pbnRlZ3JhdGlvbi10ZXN0aW5nL25pZmkvc2NyaXB0cwo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvbmlmaS9pbnRlZ3JhdGlvbi10ZXN0aW5nL25pZmkvc2NyaXB0cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvbmlmaS9pbnRlZ3JhdGlvbi10ZXN0aW5nL25pZmkvc2NyaXB0cwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvbmlmaS9pbnRlZ3JhdGlvbi10ZXN0aW5nL25pZmkvc2NyaXB0cwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
