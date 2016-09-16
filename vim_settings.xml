@@ -3,16 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-hive-bundle/nifi-hive-processors/pom.xml" timestamp="1471516391846">
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="22" />
-        <mark key="." line="21" column="22" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/createhdfsdir.sh" timestamp="1474038826057">
-        <mark key="[" line="42" column="102" />
-        <mark key="]" line="42" column="120" />
-        <mark key="." line="42" column="102" />
-        <mark key="^" line="37" column="109" />
+      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/createhdfsdir.sh" timestamp="1474042401786">
+        <mark key="[" line="15" column="77" />
+        <mark key="]" line="44" column="120" />
+        <mark key="." line="44" column="102" />
+        <mark key="^" line="39" column="109" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/status/Status.scala" timestamp="1472738821590">
         <mark key="[" line="8" column="4" />
@@ -21,6 +16,210 @@
       </file>
       <file name="/a.dummy" timestamp="1473147164522">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/eod-bundle/eod-nar/pom.xml" timestamp="1471516281618">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1472633353930">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1473950936117">
+        <mark key="[" line="10" column="96" />
+        <mark key="]" line="23" column="1" />
+        <mark key="^" line="23" column="1" />
+        <mark key="." line="23" column="1" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/project/plugins.sbt" timestamp="1472031830557">
+        <mark key="[" line="2" column="117" />
+      </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveQuery.scala" timestamp="1472643957359">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/4_Cleanup.feature" timestamp="1473935356353">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/4_Cleanup.feature" timestamp="1474041514092">
+        <mark key="[" line="5" column="73" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/search/Search.scala" timestamp="1471878466925">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1473948709062">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/nifi/IsNiFIRunningErrorFree.scala" timestamp="1473678551768">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+      </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/Cleanup.scala" timestamp="1474041484266">
+        <mark key="[" line="6" column="48" />
+      </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474041780584">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="95" />
+        <mark key="." line="15" column="95" />
+        <mark key="^" line="15" column="95" />
+      </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/1_InstallNiFi.feature" timestamp="1474042017589">
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/repositories" timestamp="1472206278511">
+        <mark key="[" line="3" column="73" />
+        <mark key="]" line="2" column="76" />
+        <mark key="." line="2" column="76" />
+        <mark key="^" line="2" column="76" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/pom.xml" timestamp="1471515833233">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="5" column="8" />
+      </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/IsNiFiRunningErrorFree.scala" timestamp="1473949969117">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/env.sh" timestamp="1471945717441">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/batching-bundle/batching-processor/pom.xml" timestamp="1471515661036">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+        <mark key="^" line="9" column="8" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/attribute-get-bundle/pom.xml" timestamp="1471515624157">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+      </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1474041294131">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="38" column="4" />
+        <mark key="." line="38" column="4" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+      </file>
+      <file name="C:/work/nifi-end-to-end-testing/repositories" timestamp="1472555307857">
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="2" column="60" />
+        <mark key="." line="2" column="60" />
+        <mark key="^" line="2" column="60" />
+      </file>
+      <file name="C:/work/nifi-end-to-end-testing/build.sbt" timestamp="1474013475836">
+        <mark key="[" line="17" column="52" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-nar/pom.xml" timestamp="1471515825751">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+      </file>
+      <file name="C:/work/cucumber-plugin/build.sbt" timestamp="1472559190598">
+        <mark key="[" line="6" column="24" />
+      </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveLoader.scala" timestamp="1472633981753">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/nifi/InstallNiFi.scala" timestamp="1473682853560">
+        <mark key="[" line="9" column="61" />
+        <mark key="]" line="9" column="61" />
+        <mark key="^" line="9" column="61" />
+        <mark key="." line="9" column="61" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/pom.xml" timestamp="1471516375365">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/pom.xml" timestamp="1471515872751">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/eod-bundle/pom.xml" timestamp="1471515676619">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+      </file>
+      <file name="C:/work/nifi-utilities/project/wart-remover.sbt" timestamp="1473669681919">
+        <mark key="[" line="1" column="56" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/build.sbt" timestamp="1471516348452">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/attribute-get-bundle/attribute-get-processor/src/main/scala/com/barclays/treasury/GetAttributeXMLFromHDFS.scala" timestamp="1473326939714">
+        <mark key="[" line="53" column="6" />
+        <mark key="]" line="53" column="6" />
+        <mark key="^" line="53" column="17" />
+        <mark key="." line="53" column="6" />
+      </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/2_IsNiFiRunningErrorFree.feature" timestamp="1474042195721">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/installer/common/scripts/droptables.sh" timestamp="1474037627885" />
+      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/nifi/InstallNiFi.scala" timestamp="1471428295129">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/installer/common/scripts/createhdfsdir.sh" timestamp="1471961943793">
+        <mark key="[" line="10" column="63" />
+        <mark key="]" line="10" column="63" />
+        <mark key="^" line="10" column="70" />
+        <mark key="." line="10" column="63" />
+      </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hdfs/test.java" timestamp="1473670459856">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/InstallNiFi.feature" timestamp="1472639159745">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="7" column="36" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/5G_USC.yml" timestamp="1471946282827">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="57" />
+      </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-hive-bundle/nifi-hive-processors/pom.xml" timestamp="1471516391846">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="22" />
       </file>
       <file name="C:/work/sla-configurer/feed-instance-svc/src/main/scala/com/barclays/treasury/feed/instance/actor/InstanceOperator.scala" timestamp="1473150382798">
         <mark key="[" line="11" column="20" />
@@ -61,25 +260,11 @@
         <mark key="." line="1" column="2" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/src/main/scala/com/barclays/treasury/GenericProcessor.scala" timestamp="1474034968151" />
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/eod-bundle/eod-nar/pom.xml" timestamp="1471516281618">
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="21" column="26" />
-        <mark key="." line="21" column="26" />
-      </file>
       <file name="C:/work/sla-configurer/src/test/scala/ActorTesting.scala" timestamp="1473076730722">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1472633353930">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1473950936117">
-        <mark key="[" line="10" column="96" />
-        <mark key="]" line="23" column="1" />
-        <mark key="^" line="23" column="1" />
-        <mark key="." line="23" column="1" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/eod-bundle/eod-processor/pom.xml" timestamp="1471516250192">
         <mark key="[" line="11" column="22" />
@@ -97,25 +282,6 @@
         <mark key="]" line="4" column="46" />
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/project/plugins.sbt" timestamp="1472031830557">
-        <mark key="[" line="2" column="117" />
-      </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveQuery.scala" timestamp="1472643957359">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/4_Cleanup.feature" timestamp="1473935356353">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/4_Cleanup.feature" timestamp="1474041514092">
-        <mark key="[" line="5" column="73" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/resources/3_Idlu.feature" timestamp="1473949983884">
         <mark key="[" line="4" column="0" />
@@ -138,29 +304,11 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/search/Search.scala" timestamp="1471878466925">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/Stress_IDLU.yml" timestamp="1474038672833">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="87" />
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="0" />
-      </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1473948709062">
-        <mark key="[" line="24" column="29" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/nifi/IsNiFIRunningErrorFree.scala" timestamp="1473678551768">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="2" column="41" />
-      </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/Cleanup.scala" timestamp="1474041484266">
-        <mark key="[" line="6" column="48" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/resources/3_IDLU.feature" timestamp="1473762065995">
         <mark key="[" line="4" column="8" />
@@ -189,17 +337,6 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="11" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474041780584">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="95" />
-        <mark key="." line="15" column="95" />
-        <mark key="^" line="15" column="95" />
-      </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/1_InstallNiFi.feature" timestamp="1474042017589">
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="C:/work/nifi-end-to-end-testing/project/build.properties" timestamp="1472031857771">
         <mark key="[" line="0" column="19" />
       </file>
@@ -210,12 +347,6 @@
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/IsNiFIRunningErrorFree.scala" timestamp="1472639167808">
         <mark key="[" line="16" column="6" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/repositories" timestamp="1472206278511">
-        <mark key="[" line="3" column="73" />
-        <mark key="]" line="2" column="76" />
-        <mark key="." line="2" column="76" />
-        <mark key="^" line="2" column="76" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/batching-bundle/batching-nar/pom.xml" timestamp="1471516274049">
         <mark key="[" line="21" column="26" />
@@ -228,53 +359,10 @@
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="35" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-service/pom.xml" timestamp="1471515833233">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-        <mark key="^" line="5" column="8" />
-      </file>
       <file name="C:/work/fiscus-ingestor/kerberos-sql-driver/pom.xml" timestamp="1471516259024">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
-      </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/IsNiFiRunningErrorFree.scala" timestamp="1473949969117">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/env.sh" timestamp="1471945717441">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/batching-bundle/batching-processor/pom.xml" timestamp="1471515661036">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-        <mark key="^" line="9" column="8" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/attribute-get-bundle/pom.xml" timestamp="1471515624157">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-      </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1474041294131">
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="38" column="4" />
-        <mark key="." line="38" column="4" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-      </file>
-      <file name="C:/work/nifi-end-to-end-testing/repositories" timestamp="1472555307857">
-        <mark key="[" line="2" column="48" />
-        <mark key="]" line="2" column="60" />
-        <mark key="." line="2" column="60" />
-        <mark key="^" line="2" column="60" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/resources/2_IsNiFiRunningErrorFree.feature" timestamp="1473936432292">
         <mark key="[" line="5" column="0" />
@@ -299,46 +387,26 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="6" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/build.sbt" timestamp="1474013475836">
-        <mark key="[" line="17" column="52" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-nar/pom.xml" timestamp="1471515825751">
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="21" column="26" />
-        <mark key="." line="21" column="26" />
-      </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/impala/ImpalaUtils.scala" timestamp="1473675822948">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="158" />
         <mark key="^" line="6" column="158" />
         <mark key="." line="6" column="158" />
       </file>
-      <file name="C:/work/cucumber-plugin/build.sbt" timestamp="1472559190598">
-        <mark key="[" line="6" column="24" />
-      </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/resources/IsNiFiRunningErrorFree.feature" timestamp="1472572735649">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveLoader.scala" timestamp="1472633981753">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1474020638154">
         <mark key="[" line="13" column="89" />
         <mark key="]" line="13" column="90" />
         <mark key="." line="13" column="90" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/nifi/InstallNiFi.scala" timestamp="1473682853560">
-        <mark key="[" line="9" column="61" />
-        <mark key="]" line="9" column="61" />
-        <mark key="^" line="9" column="61" />
-        <mark key="." line="9" column="61" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/3_Idlu.feature" timestamp="1474042200825">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/resources/readme.txt" timestamp="1473951713366">
         <mark key="[" line="0" column="0" />
@@ -346,7 +414,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474041846345">
+      <file name="/Dummy.txt" timestamp="1474042480013">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -362,11 +430,6 @@
         <mark key="." line="10" column="88" />
         <mark key="^" line="9" column="73" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/pom.xml" timestamp="1471516375365">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-      </file>
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1472563882203">
         <mark key="[" line="18" column="2" />
       </file>
@@ -375,42 +438,17 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/pom.xml" timestamp="1471515872751">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/eod-bundle/pom.xml" timestamp="1471515676619">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-      </file>
-      <file name="C:/work/nifi-utilities/project/wart-remover.sbt" timestamp="1473669681919">
-        <mark key="[" line="1" column="56" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/build.sbt" timestamp="1471516348452">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-      </file>
       <file name="C:/work/sla-configurer/feed-instance-svc/src/main/scala/com/barclays/treasury/feed/instance/repository/InstanceRepository.scala" timestamp="1473075134783">
         <mark key="[" line="35" column="6" />
         <mark key="]" line="39" column="16" />
         <mark key="^" line="39" column="16" />
         <mark key="." line="39" column="16" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/attribute-get-bundle/attribute-get-processor/src/main/scala/com/barclays/treasury/GetAttributeXMLFromHDFS.scala" timestamp="1473326939714">
-        <mark key="[" line="53" column="6" />
-        <mark key="]" line="53" column="6" />
-        <mark key="^" line="53" column="17" />
-        <mark key="." line="53" column="6" />
-      </file>
       <file name="C:/work/nifi-utilities/build.sbt" timestamp="1473928222561">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/common/scripts/droptables.sh" timestamp="1474037627885" />
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1472563861959">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -422,27 +460,11 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/nifi/InstallNiFi.scala" timestamp="1471428295129">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/installer/common/scripts/createhdfsdir.sh" timestamp="1471961943793">
-        <mark key="[" line="10" column="63" />
-        <mark key="]" line="10" column="63" />
-        <mark key="^" line="10" column="70" />
-        <mark key="." line="10" column="63" />
-      </file>
       <file name="C:/work/nifi-end-to-end-testing/project/plugins.sbt" timestamp="1472558673136">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="22" />
-      </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hdfs/test.java" timestamp="1473670459856">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-hive-bundle/pom.xml" timestamp="1471515708910">
         <mark key="[" line="22" column="22" />
@@ -453,12 +475,6 @@
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
-      </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/resources/InstallNiFi.feature" timestamp="1472639159745">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="36" />
-        <mark key="." line="7" column="36" />
-        <mark key="^" line="7" column="36" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/shell/Shell.scala" timestamp="1474020735085">
         <mark key="[" line="5" column="13" />
@@ -480,12 +496,6 @@
       </file>
       <file name="/fragment.java" timestamp="1473955279847">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/5G_USC.yml" timestamp="1471946282827">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="57" />
       </file>
     </filemarks>
     <jumps>
@@ -528,11 +538,11 @@
       <jump line="20" column="7" filename="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
