@@ -54,6 +54,7 @@
         <mark key="^" line="1" column="2" />
         <mark key="." line="1" column="2" />
       </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/src/main/scala/com/barclays/treasury/GenericProcessor.scala" timestamp="1474034968151" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/eod-bundle/eod-nar/pom.xml" timestamp="1471516281618">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -103,6 +104,11 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="3" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/4_Cleanup.feature" timestamp="1474035534020">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/resources/3_Idlu.feature" timestamp="1473949983884">
@@ -174,7 +180,7 @@
         <mark key="." line="15" column="95" />
         <mark key="^" line="15" column="95" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/1_InstallNiFi.feature" timestamp="1474032407972">
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/1_InstallNiFi.feature" timestamp="1474035408242">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="36" />
         <mark key="^" line="5" column="3" />
@@ -506,11 +512,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Then run kinit to initialise keberos
-    Then create the HDFS directories</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
