@@ -168,8 +168,10 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="11" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474021834110">
-        <mark key="[" line="21" column="2" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474022047140">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/1_InstallNiFi.feature" timestamp="1474021820607">
         <mark key="[" line="6" column="4" />
@@ -323,7 +325,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474022035516">
+      <file name="/Dummy.txt" timestamp="1474022053830">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
@@ -503,7 +505,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvbmlmaS9pbnRlZ3JhdGlvbi10ZXN0aW5nL25pZmkvc2NyaXB0cwo=</text>
       </register>
       <register name="-" type="4">
         <text>Then copy the keytab file to the correct location</text>
@@ -515,31 +517,31 @@
         <text>/apps/development/sysFnTeamCity/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIC9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvbmlmaS9pbnRlZ3JhdGlvbi10ZXN0aW5nL25pZmkvc2NyaXB0cwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvbmlmaS9pbnRlZ3JhdGlvbi10ZXN0aW5nL25pZmkvc2NyaXB0cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFNlcSgiY3AiLCBzIiRkaXJlY3RvcnlUb0JlSW5zdGFsbGVkVG8iKS4hCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyIqKipDb3B5aW5nIGtleXRhYiB0byAkZGlyZWN0b3J5VG9CZUluc3RhbGxlZFRvIikK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgY29weUtleXRhYlRvTG9jYXRpb24gPSB7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFNlcSgiY3AiLCBzIiRkaXJlY3RvcnlUb0JlSW5zdGFsbGVkVG8iKS4hCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4ocyIqKipDb3B5aW5nIGtleXRhYiB0byAkZGlyZWN0b3J5VG9CZUluc3RhbGxlZFRvIikK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBkZWYgY29weUtleXRhYlRvTG9jYXRpb24gPSB7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5nZXRTdHJpbmcoIiIpLmNvbmNhdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
