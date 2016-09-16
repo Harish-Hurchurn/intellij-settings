@@ -105,7 +105,6 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1473924962660" />
       <file name="C:/work/nifi-end-to-end-testing/src/test/resources/3_Idlu.feature" timestamp="1473949983884">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -169,13 +168,12 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="11" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474015615714">
-        <mark key="[" line="9" column="45" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474017403096">
+        <mark key="[" line="9" column="62" />
         <mark key="]" line="9" column="67" />
         <mark key="." line="9" column="67" />
         <mark key="^" line="9" column="67" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/status/Status.scala" timestamp="1473949961716" />
       <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/1_InstallNiFi.feature" timestamp="1474015515016">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="0" />
@@ -337,7 +335,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/shell/Shell.scala" timestamp="1473955561202" />
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hdfs/HdfsUtils.scala" timestamp="1473672394899">
         <mark key="[" line="9" column="72" />
         <mark key="]" line="10" column="88" />
@@ -352,7 +349,7 @@
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1472563882203">
         <mark key="[" line="18" column="2" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/package.scala" timestamp="1474015128302">
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/package.scala" timestamp="1474017029715">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
