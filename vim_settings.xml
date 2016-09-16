@@ -48,6 +48,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="19" column="8" />
       </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/application.conf" timestamp="1474015656423">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="2" />
+        <mark key="^" line="1" column="2" />
+        <mark key="." line="1" column="2" />
+      </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/eod-bundle/eod-nar/pom.xml" timestamp="1471516281618">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -163,12 +169,18 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="11" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474011388195">
-        <mark key="[" line="24" column="2" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474015615714">
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="9" column="67" />
+        <mark key="." line="9" column="67" />
+        <mark key="^" line="9" column="67" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/status/Status.scala" timestamp="1473949961716" />
-      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/1_InstallNiFi.feature" timestamp="1474011361653">
-        <mark key="[" line="6" column="18" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/1_InstallNiFi.feature" timestamp="1474015515016">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/project/build.properties" timestamp="1472031857771">
         <mark key="[" line="0" column="19" />
@@ -230,7 +242,12 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1474011515948" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1474015959886">
+        <mark key="[" line="55" column="10" />
+        <mark key="]" line="55" column="13" />
+        <mark key="^" line="55" column="13" />
+        <mark key="." line="55" column="13" />
+      </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="18" />
@@ -265,8 +282,8 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="6" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/build.sbt" timestamp="1473955373340">
-        <mark key="[" line="4" column="14" />
+      <file name="C:/work/nifi-end-to-end-testing/build.sbt" timestamp="1474013475836">
+        <mark key="[" line="17" column="52" />
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
@@ -334,6 +351,11 @@
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1472563882203">
         <mark key="[" line="18" column="2" />
+      </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/package.scala" timestamp="1474015128302">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/pom.xml" timestamp="1471515872751">
         <mark key="[" line="7" column="22" />
@@ -487,44 +509,46 @@
       <jump line="20" column="7" filename="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/apps/development/sysFnTeamCity/</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>that the directory has been specified where the integration test should be run from</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
       </register>
       <register name="0" type="4">
-        <text>Status.invalidCount(hostname)</text>
+        <text>/apps/development/sysFnTeamCity/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5nZXRTdHJpbmcoInZlcnNpb24iKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXRoID0gZ2V0Q2xhc3MuZ2V0UmVzb3VyY2UoIi9JRExVL0lETFVfVHJlYXN1cnlPcHNfMjAxNjA4MjRfMjAxNjA4MjQxNTAwMDAudHh0IikuZ2V0UGF0aAo=</text>
+        <text encoding="base64">ICAgIHZhbCBjb25maWcgPSBDb25maWdGYWN0b3J5LmxvYWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oU3RhdHVzLmludmFsaWRDb3VudChob3N0bmFtZSkpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oU3RhdHVzLmlzTmlGaVVwKGhvc3RuYW1lKSlkZAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="4">
+        <text>this(version: String) = {
+    val config = ConfigFactory.load
+  }</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIEtpbGxpbmcgdGhlIHRhaWwgY29tbWFuZCB3aGVuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGRjYXNlIF8gPT4K</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5nZXRTdHJpbmcoInZlcnNpb24iKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">dGNoIHsKICAgICAgICAgIGNhc2UgZTogUnVudGltZUV4Y2VwdGlvbiA9PgogICAgICAgICAgY2FzZSBfID0+IF8KICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgewogICAgICAgICAgU2VxKCJwa2lsbCIsICJ0YWlsIikuIQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
