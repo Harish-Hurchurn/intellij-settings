@@ -168,16 +168,17 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="11" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474023919578">
-        <mark key="[" line="34" column="32" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474027138657">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="95" />
+        <mark key="." line="15" column="95" />
+        <mark key="^" line="15" column="95" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/1_InstallNiFi.feature" timestamp="1474026239322">
-        <mark key="[" line="7" column="41" />
-        <mark key="]" line="7" column="42" />
-        <mark key="^" line="5" column="63" />
-        <mark key="." line="7" column="4" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/1_InstallNiFi.feature" timestamp="1474027131633">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="89" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="4" column="13" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/project/build.properties" timestamp="1472031857771">
         <mark key="[" line="0" column="19" />
@@ -325,7 +326,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474026417956">
+      <file name="/Dummy.txt" timestamp="1474026794283">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
@@ -505,16 +506,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>println()</text>
+        <text>the latest the latest successful build of NiFi available from Nexus is downloaded</text>
       </register>
       <register name="-" type="4">
-        <text>println()</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
       </register>
       <register name="0" type="4">
-        <text>/apps/development/sysFnTeamCity/</text>
+        <text>the latest the latest successful build of NiFi available from Nexus is downloaded</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvbmlmaS9pbnRlZ3JhdGlvbi10ZXN0aW5nL25pZmkvc2NyaXB0cwo=</text>
