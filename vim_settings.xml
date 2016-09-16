@@ -189,17 +189,16 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="11" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474032361622">
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474041780584">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="15" column="95" />
         <mark key="." line="15" column="95" />
         <mark key="^" line="15" column="95" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/1_InstallNiFi.feature" timestamp="1474035408242">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="36" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="6" column="4" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/1_InstallNiFi.feature" timestamp="1474041829770">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/project/build.properties" timestamp="1472031857771">
         <mark key="[" line="0" column="19" />
@@ -530,7 +529,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QnVnIGZpeCBhZGRyZXNzIHRoZSBzaXR1YXRpb24gd2hpY2ggY2FuIG9jY3VyIHdoZW4gcmUtaW5pdGlpbmcgdGhlIGZpcnN0IHJvdyBzaXplCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -542,27 +541,27 @@
         <text>upstreamdropfolder</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QnVnIGZpeCBhZGRyZXNzIHRoZSBzaXR1YXRpb24gd2hpY2ggY2FuIG9jY3VyIHdoZW4gcmUtaW5pdGlpbmcgdGhlIGZpcnN0IHJvdyBzaXplCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>Then run kinit to initialise keberos
-    Then create the HDFS directories</text>
+        <text encoding="base64">ICAgIFRoZW4gcnVuIGtpbml0IHRvIGluaXRpYWxpc2Uga2ViZXJvcwogICAgVGhlbiBjcmVhdGUgdGhlIEhERlMgZGlyZWN0b3JpZXMKIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFRoZW4gY3JlYXRlIHRoZSBIREZTIGRpcmVjdG9yaWVzCg==</text>
+        <text encoding="base64">QnVnIGZpeCBhZGRyZXNzIHRoZSBzaXR1YXRpb24gd2hpY2ggY2FuIG9jY3VyIHdoZW4gcmUtaW5pdGlpbmcgdGhlIGZpcnN0IHJvdyBzaXplCg==</text>
       </register>
       <register name="4" type="4">
         <text>Then run kinit to initialise keberos
     Then create the HDFS directories</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oeAo=</text>
+        <text encoding="base64">ICAgIFRoZW4gY3JlYXRlIHRoZSBIREZTIGRpcmVjdG9yaWVzCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvbmlmaS9pbnRlZ3JhdGlvbi10ZXN0aW5nL25pZmkvc2NyaXB0cwo=</text>
+      <register name="6" type="4">
+        <text>Then run kinit to initialise keberos
+    Then create the HDFS directories</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oeAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIC9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvbmlmaS9pbnRlZ3JhdGlvbi10ZXN0aW5nL25pZmkvc2NyaXB0cwo=</text>
