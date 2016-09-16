@@ -258,10 +258,10 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1474029874981">
-        <mark key="[" line="37" column="4" />
-        <mark key="]" line="37" column="4" />
-        <mark key="." line="37" column="4" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1474041294131">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="38" column="4" />
+        <mark key="." line="38" column="4" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
@@ -344,7 +344,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474039005607">
+      <file name="/Dummy.txt" timestamp="1474041456958">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
