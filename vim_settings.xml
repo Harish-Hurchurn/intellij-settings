@@ -168,16 +168,16 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="11" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474023071207">
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474023919578">
         <mark key="[" line="35" column="32" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/1_InstallNiFi.feature" timestamp="1474023046824">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="42" />
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="7" column="42" />
         <mark key="^" line="5" column="63" />
-        <mark key="." line="6" column="4" />
+        <mark key="." line="7" column="4" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/project/build.properties" timestamp="1472031857771">
         <mark key="[" line="0" column="19" />
@@ -325,7 +325,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474023530789">
+      <file name="/Dummy.txt" timestamp="1474023545696">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
