@@ -168,16 +168,16 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="11" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474022520938">
-        <mark key="[" line="31" column="32" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474023071207">
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/1_InstallNiFi.feature" timestamp="1474021820607">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="7" column="53" />
-        <mark key="^" line="6" column="38" />
-        <mark key="." line="7" column="4" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/1_InstallNiFi.feature" timestamp="1474023046824">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="42" />
+        <mark key="^" line="5" column="63" />
+        <mark key="." line="6" column="4" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/project/build.properties" timestamp="1472031857771">
         <mark key="[" line="0" column="19" />
@@ -325,7 +325,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474022571878">
+      <file name="/Dummy.txt" timestamp="1474023091423">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
@@ -504,11 +504,11 @@
       <jump line="20" column="7" filename="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvbmlmaS9pbnRlZ3JhdGlvbi10ZXN0aW5nL25pZmkvc2NyaXB0cwo=</text>
+      <register name="&quot;" type="4">
+        <text>Then install the latest version of NiF</text>
       </register>
       <register name="-" type="4">
-        <text>Then copy the keytab file to the correct location</text>
+        <text>Then install the latest version of NiF</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
