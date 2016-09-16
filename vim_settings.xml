@@ -168,17 +168,17 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="11" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474027320702">
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474032361622">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="15" column="95" />
         <mark key="." line="15" column="95" />
         <mark key="^" line="15" column="95" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/1_InstallNiFi.feature" timestamp="1474027217316">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="89" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="4" column="13" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/1_InstallNiFi.feature" timestamp="1474032407972">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="36" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="6" column="4" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/project/build.properties" timestamp="1472031857771">
         <mark key="[" line="0" column="19" />
@@ -326,7 +326,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474030372393">
+      <file name="/Dummy.txt" timestamp="1474032761338">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
@@ -506,7 +506,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Then run kinit to initialise keberos
+    Then create the HDFS directories</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -517,32 +518,34 @@
       <register name="0" type="4">
         <text>the latest the latest successful build of NiFi available from Nexus is downloaded</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oeAo=</text>
+      <register name="1" type="4">
+        <text>Then run kinit to initialise keberos
+    Then create the HDFS directories</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvbmlmaS9pbnRlZ3JhdGlvbi10ZXN0aW5nL25pZmkvc2NyaXB0cwo=</text>
+        <text encoding="base64">ICAgIFRoZW4gY3JlYXRlIHRoZSBIREZTIGRpcmVjdG9yaWVzCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>Then run kinit to initialise keberos
+    Then create the HDFS directories</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvbmlmaS9pbnRlZ3JhdGlvbi10ZXN0aW5nL25pZmkvc2NyaXB0cwo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oeAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvbmlmaS9pbnRlZ3JhdGlvbi10ZXN0aW5nL25pZmkvc2NyaXB0cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNlcSgiY3AiLCBzIiRkaXJlY3RvcnlUb0JlSW5zdGFsbGVkVG8iKS4hCg==</text>
+        <text encoding="base64">ICAgIC9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvbmlmaS9pbnRlZ3JhdGlvbi10ZXN0aW5nL25pZmkvc2NyaXB0cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyIqKipDb3B5aW5nIGtleXRhYiB0byAkZGlyZWN0b3J5VG9CZUluc3RhbGxlZFRvIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgY29weUtleXRhYlRvTG9jYXRpb24gPSB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
