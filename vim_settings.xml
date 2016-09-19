@@ -14,7 +14,7 @@
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1473147164522">
+      <file name="/a.dummy" timestamp="1474275974872">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/eod-bundle/eod-nar/pom.xml" timestamp="1471516281618">
@@ -96,8 +96,8 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/env.sh" timestamp="1471945717441">
-        <mark key="[" line="5" column="23" />
+      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/env.sh" timestamp="1474275844639">
+        <mark key="[" line="9" column="0" />
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
@@ -258,6 +258,12 @@
         <mark key="^" line="1" column="2" />
         <mark key="." line="1" column="2" />
       </file>
+      <file name="C:/work/fiscus-ingestor/installer/env/geordavi_4367/conf/flow-xml.properties" timestamp="1474276015859">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="21" />
+        <mark key="^" line="19" column="5" />
+        <mark key="." line="19" column="5" />
+      </file>
       <file name="C:/work/sla-configurer/src/test/scala/ActorTesting.scala" timestamp="1473076730722">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="0" column="0" />
@@ -302,7 +308,7 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/Stress_IDLU.yml" timestamp="1474272996155">
+      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/Stress_IDLU.yml" timestamp="1474275827924">
         <mark key="[" line="17" column="64" />
         <mark key="]" line="17" column="87" />
         <mark key="^" line="17" column="20" />
@@ -403,6 +409,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="C:/work/fiscus-ingestor/installer/env/local/env.sh" timestamp="1474275765419">
+        <mark key="[" line="23" column="0" />
+      </file>
       <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1474020638154">
         <mark key="[" line="13" column="89" />
         <mark key="]" line="13" column="90" />
@@ -419,7 +428,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474273069138">
+      <file name="/Dummy.txt" timestamp="1474276029879">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
@@ -542,7 +551,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/apps/sysFiscusNiFiDev/nifi/dev/nifi/solace</text>
+        <text>STRESS__IDLU_INPUT_DIR</text>
       </register>
       <register name="-" type="4">
         <text>/apps/sysFiscusNiFiDev/nifi/dev/nifi/solace</text>
@@ -551,7 +560,7 @@
         <text>port</text>
       </register>
       <register name="0" type="4">
-        <text>upstreamdropfolder</text>
+        <text>STRESS__IDLU_INPUT_DIR</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
