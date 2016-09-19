@@ -50,7 +50,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/dev/env.sh" timestamp="1474285296225" />
+      <file name="C:/work/fiscus-ingestor/installer/env/dev/env.sh" timestamp="1474291807927" />
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/search/Search.scala" timestamp="1471878466925">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -235,12 +235,6 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveUtils.scala" timestamp="1474285349681">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="156" />
-        <mark key="^" line="6" column="156" />
-        <mark key="." line="6" column="156" />
-      </file>
       <file name="C:/work/fiscus-ingestor/installer/install.sh" timestamp="1471872197279">
         <mark key="[" line="9" column="40" />
       </file>
@@ -298,7 +292,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1474289099986">
+      <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1474292842594">
         <mark key="'" line="38" column="13" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471518380844">
@@ -418,13 +412,15 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/src/main/scala/com/barclays/treasury/HiveLoader.scala" timestamp="1474292618857" />
       <file name="C:/work/fiscus-ingestor/installer/env/local/env.sh" timestamp="1474275765419">
         <mark key="[" line="23" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1474284497766">
-        <mark key="[" line="21" column="2" />
-        <mark key="]" line="21" column="2" />
-        <mark key="." line="21" column="2" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1474292669067">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="0" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/3_Idlu.feature" timestamp="1474284255933">
         <mark key="[" line="3" column="74" />
@@ -467,8 +463,8 @@
         <mark key="^" line="39" column="16" />
         <mark key="." line="39" column="16" />
       </file>
-      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1473928222561">
-        <mark key="[" line="21" column="0" />
+      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1474292134469">
+        <mark key="[" line="22" column="49" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
@@ -563,7 +559,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q2hhbmdlIEhpdmUgVVJMCg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb25mID0gbmUgQ29uZmlndXJhdGlvbigpCg==</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -575,31 +571,31 @@
         <text>STRESS__IDLU_INPUT_DIR</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q2hhbmdlIEhpdmUgVVJMCg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb25mID0gbmUgQ29uZmlndXJhdGlvbigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBob3N0bmFtZSA9ICJodHRwOi8vbG9jYWxob3N0Ojg4ODgiCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChTdGF0dXMuaW52YWxpZENvdW50KGhvc3RuYW1lKSA9PSAwZCkK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ZGVmIHN0b3JlSW5IaXZlW0FdKGNvbjogPT4gQ29ubmVjdGlvbiwgbG9hZHN0bXQ6IFN0cmluZyk6IFVuaXQgPSB7CiAgICB0cnkgewogICAgICB2YWwgc3RtdCA9IGNvbi5jcmVhdGVTdGF0ZW1lbnQoKQogICAgICB2YWwgYm9vbCA9IHN0bXQuZXhlY3V0ZShsb2Fkc3RtdCkKICAgICAgLy8gICAgfSBjYXRjaCB7CiAgICAgIC8vICAgICAgY2FzZSBlOiBvcmcuYXBhY2hlLmhpdmUuc2VydmljZS5jbGkuSGl2ZVNRTEV4Y2VwdGlvbiA9PiB0aHJvdyBuZXcgUHJvY2Vzc0V4Y2VwdGlvbigpCiAgICB9IGZpbmFsbHkgewogICAgICBjb24uY2xvc2UKICAgIH0KICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgIGFzc2VydChTdGF0dXMuaW52YWxpZENvdW50KGhvc3RuYW1lKSA9PSAwKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgZ2V0TG9nZ2VyLmluZm8oIisrKysrKysrKysrKysrK0xPQUQ6ICIgKyBsb2Fkc3RtdCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Q2hhbmdlIEhpdmUgVVJMCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
