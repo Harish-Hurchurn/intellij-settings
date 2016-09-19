@@ -68,8 +68,8 @@
       <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/Cleanup.scala" timestamp="1474041484266">
         <mark key="[" line="6" column="48" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474277891394">
-        <mark key="[" line="35" column="4" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474278708641">
+        <mark key="[" line="38" column="57" />
         <mark key="]" line="35" column="4" />
         <mark key="." line="35" column="4" />
         <mark key="^" line="15" column="95" />
@@ -428,7 +428,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474277896849">
+      <file name="/Dummy.txt" timestamp="1474278428091">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
