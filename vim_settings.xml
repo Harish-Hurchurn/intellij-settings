@@ -50,7 +50,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/dev/env.sh" timestamp="1474291807927" />
+      <file name="C:/work/fiscus-ingestor/installer/env/dev/env.sh" timestamp="1474294186236" />
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/search/Search.scala" timestamp="1471878466925">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -235,6 +235,7 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="42" />
       </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveUtils.scala" timestamp="1474293898207" />
       <file name="C:/work/fiscus-ingestor/installer/install.sh" timestamp="1471872197279">
         <mark key="[" line="9" column="40" />
       </file>
@@ -252,8 +253,8 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="19" column="8" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/application.conf" timestamp="1474015656423">
-        <mark key="[" line="1" column="0" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/application.conf" timestamp="1474294355299">
+        <mark key="[" line="1" column="44" />
         <mark key="]" line="1" column="2" />
         <mark key="^" line="1" column="2" />
         <mark key="." line="1" column="2" />
@@ -412,15 +413,15 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/src/main/scala/com/barclays/treasury/HiveLoader.scala" timestamp="1474292618857" />
+      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/src/main/scala/com/barclays/treasury/HiveLoader.scala" timestamp="1474293531279" />
       <file name="C:/work/fiscus-ingestor/installer/env/local/env.sh" timestamp="1474275765419">
         <mark key="[" line="23" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1474292669067">
-        <mark key="[" line="22" column="2" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="29" column="0" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1474294261185">
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="23" column="236" />
+        <mark key="." line="23" column="236" />
+        <mark key="^" line="23" column="236" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/3_Idlu.feature" timestamp="1474284255933">
         <mark key="[" line="3" column="74" />
@@ -433,7 +434,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474289162422">
+      <file name="/Dummy.txt" timestamp="1474294516982">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -558,11 +559,11 @@
       <jump line="38" column="13" filename="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb25mID0gbmUgQ29uZmlndXJhdGlvbigpCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSdW5uaW5nXD4=</text>
@@ -570,32 +571,36 @@
       <register name="0" type="4">
         <text>STRESS__IDLU_INPUT_DIR</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb25mID0gbmUgQ29uZmlndXJhdGlvbigpCg==</text>
+      <register name="1" type="4">
+        <text>val conf = new Configuration()
+      conf.set(&quot;hadoop.security.authentication&quot;, &quot;Keberos&quot;)
+
+      UserGroupInformation.setConfiguration(conf)
+      UserGroupInformation.loginUserFromKeytab(,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGNvbm5lY3Rpb24gPSBEcml2ZXJNYW5hZ2VyLmdldENvbm5lY3Rpb24oY29ubmVjdGlvblN0cmluZykKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZGVmIHN0b3JlSW5IaXZlW0FdKGNvbjogPT4gQ29ubmVjdGlvbiwgbG9hZHN0bXQ6IFN0cmluZyk6IFVuaXQgPSB7CiAgICB0cnkgewogICAgICB2YWwgc3RtdCA9IGNvbi5jcmVhdGVTdGF0ZW1lbnQoKQogICAgICB2YWwgYm9vbCA9IHN0bXQuZXhlY3V0ZShsb2Fkc3RtdCkKICAgICAgLy8gICAgfSBjYXRjaCB7CiAgICAgIC8vICAgICAgY2FzZSBlOiBvcmcuYXBhY2hlLmhpdmUuc2VydmljZS5jbGkuSGl2ZVNRTEV4Y2VwdGlvbiA9PiB0aHJvdyBuZXcgUHJvY2Vzc0V4Y2VwdGlvbigpCiAgICB9IGZpbmFsbHkgewogICAgICBjb24uY2xvc2UKICAgIH0KICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IGRlZiBtYWtlQ29ubmVjdGlvbihrZWJlcm9zUHJpbmNpcGFsOiBTdHJpbmcsIGtleXRhYlBhdGg6IFN0cmluZykgPSB7CiAgICB2YWwgY2xhenogPSBDbGFzcy5mb3JOYW1lKCJvcmcuYXBhY2hlLmhpdmUuamRiYy5IaXZlRHJpdmVyIikKICAgIHZhbCBjb25mID0gbmV3IENvbmZpZ3VyYXRpb24oKQogICAgY29uZi5zZXQoImhhZG9vcC5zZWN1cml0eS5hdXRoZW50aWNhdGlvbiIsICJLZXJiZXJvcyIpCgogICAgVXNlckdyb3VwSW5mb3JtYXRpb24uc2V0Q29uZmlndXJhdGlvbihjb25mKQogICAgVXNlckdyb3VwSW5mb3JtYXRpb24ubG9naW5Vc2VyRnJvbUtleXRhYihrZWJlcm9zUHJpbmNpcGFsLCBrZXl0YWJQYXRoKQoKICAgIERyaXZlck1hbmFnZXIuZ2V0Q29ubmVjdGlvbigpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZ2V0TG9nZ2VyLmluZm8oIisrKysrKysrKysrKysrK0xPQUQ6ICIgKyBsb2Fkc3RtdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q2hhbmdlIEhpdmUgVVJMCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
