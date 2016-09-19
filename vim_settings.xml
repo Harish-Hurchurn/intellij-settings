@@ -421,11 +421,11 @@
       <file name="C:/work/fiscus-ingestor/installer/env/local/env.sh" timestamp="1474275765419">
         <mark key="[" line="23" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1474296424076">
-        <mark key="[" line="23" column="209" />
-        <mark key="]" line="23" column="236" />
-        <mark key="." line="23" column="236" />
-        <mark key="^" line="23" column="236" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1474297870573">
+        <mark key="[" line="23" column="269" />
+        <mark key="]" line="23" column="269" />
+        <mark key="." line="23" column="269" />
+        <mark key="^" line="23" column="48" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/3_Idlu.feature" timestamp="1474284255933">
         <mark key="[" line="3" column="74" />
@@ -438,7 +438,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474297202694">
+      <file name="/Dummy.txt" timestamp="1474297929521">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -564,10 +564,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSdW5uaW5nXD4=</text>
