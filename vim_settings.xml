@@ -302,8 +302,8 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/Stress_IDLU.yml" timestamp="1474038672833">
-        <mark key="[" line="17" column="0" />
+      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/Stress_IDLU.yml" timestamp="1474272996155">
+        <mark key="[" line="17" column="64" />
         <mark key="]" line="17" column="87" />
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="0" />
@@ -362,6 +362,12 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
+      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/Stress_LDB.yml" timestamp="1474273026579">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+      </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/resources/2_IsNiFiRunningErrorFree.feature" timestamp="1473936432292">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -412,7 +418,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474271491176">
+      <file name="/Dummy.txt" timestamp="1474273069138">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
@@ -535,10 +541,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>/apps/sysFiscusNiFiDev/nifi/dev/nifi/solace</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>/apps/sysFiscusNiFiDev/nifi/dev/nifi/solace</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
