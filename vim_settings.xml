@@ -257,11 +257,11 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="19" column="8" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/application.conf" timestamp="1474296545281">
-        <mark key="[" line="1" column="44" />
-        <mark key="]" line="1" column="2" />
-        <mark key="^" line="1" column="2" />
-        <mark key="." line="1" column="2" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/application.conf" timestamp="1474297191299">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
       </file>
       <file name="C:/work/fiscus-ingestor/installer/env/geordavi_4367/conf/flow-xml.properties" timestamp="1474276015859">
         <mark key="[" line="19" column="0" />
@@ -438,7 +438,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474296571094">
+      <file name="/Dummy.txt" timestamp="1474297202694">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
