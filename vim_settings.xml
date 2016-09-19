@@ -346,7 +346,7 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="11" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IsNiFiRunningErrorFree.scala" timestamp="1474274703610" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IsNiFiRunningErrorFree.scala" timestamp="1474284309817" />
       <file name="C:/work/nifi-end-to-end-testing/project/build.properties" timestamp="1472031857771">
         <mark key="[" line="0" column="19" />
       </file>
@@ -417,15 +417,15 @@
       <file name="C:/work/fiscus-ingestor/installer/env/local/env.sh" timestamp="1474275765419">
         <mark key="[" line="23" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1474280542516">
-        <mark key="[" line="13" column="98" />
-        <mark key="]" line="13" column="98" />
-        <mark key="." line="13" column="98" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1474284497766">
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="21" column="2" />
+        <mark key="." line="21" column="2" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/3_Idlu.feature" timestamp="1474042200825">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/3_Idlu.feature" timestamp="1474284255933">
+        <mark key="[" line="3" column="74" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/resources/readme.txt" timestamp="1473951713366">
         <mark key="[" line="0" column="0" />
@@ -436,7 +436,7 @@
       <file name="/Dummy.txt" timestamp="1474283756679">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1474284401225">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -556,10 +556,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
@@ -567,35 +567,32 @@
       <register name="0" type="4">
         <text>STRESS__IDLU_INPUT_DIR</text>
       </register>
-      <register name="1" type="4">
-        <text>import sys.process._
-    Seq(&quot;mkdir&quot;, &quot;/apps/development/sysFnTeamCity/data/stress-idlu-in&quot;).!</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZhbCBob3N0bmFtZSA9ICJodHRwOi8vbG9jYWxob3N0Ojg4ODgiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNlcSgibWtkaXIiLCAiL2FwcHMvZGV2ZWxvcG1lbnQvc3lzRm5UZWFtQ2l0eS9kYXRhL3N0cmVzcy1pZGx1LWluIikuIQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzeXMucHJvY2Vzcy5fCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChTdGF0dXMuaW52YWxpZENvdW50KGhvc3RuYW1lKSA9PSAwZCkK</text>
       </register>
-      <register name="4" type="4">
-        <text>import sys.process._
-    Seq(&quot;mkdir&quot;, &quot;/apps/development/sysFnTeamCity/data/stress-idlu-in&quot;).!</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>Then run kinit to initialise keberos
-    Then create the HDFS directories</text>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgIGFzc2VydChTdGF0dXMuaW52YWxpZENvdW50KGhvc3RuYW1lKSA9PSAwKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIFRoZW4gcnVuIGtpbml0IHRvIGluaXRpYWxpc2Uga2ViZXJvcwogICAgVGhlbiBjcmVhdGUgdGhlIEhERlMgZGlyZWN0b3JpZXMKIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QnVnIGZpeCBhZGRyZXNzIHRoZSBzaXR1YXRpb24gd2hpY2ggY2FuIG9jY3VyIHdoZW4gcmUtaW5pdGlpbmcgdGhlIGZpcnN0IHJvdyBzaXplCg==</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0KFN0YXR1cy5pc05pRmlVcChob3N0bmFtZSkgPT0gMjAwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
