@@ -257,11 +257,11 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="19" column="8" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/application.conf" timestamp="1474297191299">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="11" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/application.conf" timestamp="1474298224520">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="18" />
       </file>
       <file name="C:/work/fiscus-ingestor/installer/env/geordavi_4367/conf/flow-xml.properties" timestamp="1474276015859">
         <mark key="[" line="19" column="0" />
@@ -421,11 +421,11 @@
       <file name="C:/work/fiscus-ingestor/installer/env/local/env.sh" timestamp="1474275765419">
         <mark key="[" line="23" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1474297870573">
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1474298403983">
         <mark key="[" line="23" column="269" />
         <mark key="]" line="23" column="269" />
         <mark key="." line="23" column="269" />
-        <mark key="^" line="23" column="48" />
+        <mark key="^" line="23" column="275" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/3_Idlu.feature" timestamp="1474284255933">
         <mark key="[" line="3" column="74" />
@@ -564,10 +564,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSdW5uaW5nXD4=</text>
