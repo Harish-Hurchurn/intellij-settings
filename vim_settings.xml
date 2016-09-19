@@ -235,7 +235,8 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveUtils.scala" timestamp="1474300771271">
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveUtils.scala" timestamp="1474303658579">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="25" column="14" />
         <mark key="]" line="13" column="25" />
         <mark key="^" line="13" column="25" />
@@ -422,11 +423,12 @@
       <file name="C:/work/fiscus-ingestor/installer/env/local/env.sh" timestamp="1474275765419">
         <mark key="[" line="23" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1474299125797">
-        <mark key="[" line="23" column="237" />
-        <mark key="]" line="23" column="237" />
-        <mark key="." line="23" column="237" />
-        <mark key="^" line="23" column="275" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1474303705055">
+        <mark key="'" line="23" column="20" />
+        <mark key="[" line="34" column="9" />
+        <mark key="]" line="31" column="45" />
+        <mark key="." line="31" column="45" />
+        <mark key="^" line="31" column="45" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/3_Idlu.feature" timestamp="1474284255933">
         <mark key="[" line="3" column="74" />
@@ -439,7 +441,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474300151132">
+      <file name="/Dummy.txt" timestamp="1474301340268">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -562,13 +564,15 @@
       <jump line="15" column="100" filename="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" />
       <jump line="20" column="7" filename="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" />
       <jump line="38" column="13" filename="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" />
+      <jump line="23" column="20" filename="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IDLU.scala" />
+      <jump line="0" column="0" filename="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveUtils.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>keytab-principle-path</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSdW5uaW5nXD4=</text>
@@ -577,17 +581,17 @@
         <text>keytab-principle-path</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">eHh7CiAgICAgIGNvbm5lY3Rpb24gPT4gIlNFTEVDVCAqIEZST00gZmlzY3VzLmludHJhZGF5bGlxdWlkaXR5dXNhZ2UiCiAgICB9</text>
+      </register>
+      <register name="2" type="4">
         <text>val conf = new Configuration()
       conf.set(&quot;hadoop.security.authentication&quot;, &quot;Keberos&quot;)
 
       UserGroupInformation.setConfiguration(conf)
       UserGroupInformation.loginUserFromKeytab(,</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGNvbm5lY3Rpb24gPSBEcml2ZXJNYW5hZ2VyLmdldENvbm5lY3Rpb24oY29ubmVjdGlvblN0cmluZykKCg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGNvbm5lY3Rpb24gPSBEcml2ZXJNYW5hZ2VyLmdldENvbm5lY3Rpb24oY29ubmVjdGlvblN0cmluZykKCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -595,11 +599,11 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGRlZiBtYWtlQ29ubmVjdGlvbihrZWJlcm9zUHJpbmNpcGFsOiBTdHJpbmcsIGtleXRhYlBhdGg6IFN0cmluZykgPSB7CiAgICB2YWwgY2xhenogPSBDbGFzcy5mb3JOYW1lKCJvcmcuYXBhY2hlLmhpdmUuamRiYy5IaXZlRHJpdmVyIikKICAgIHZhbCBjb25mID0gbmV3IENvbmZpZ3VyYXRpb24oKQogICAgY29uZi5zZXQoImhhZG9vcC5zZWN1cml0eS5hdXRoZW50aWNhdGlvbiIsICJLZXJiZXJvcyIpCgogICAgVXNlckdyb3VwSW5mb3JtYXRpb24uc2V0Q29uZmlndXJhdGlvbihjb25mKQogICAgVXNlckdyb3VwSW5mb3JtYXRpb24ubG9naW5Vc2VyRnJvbUtleXRhYihrZWJlcm9zUHJpbmNpcGFsLCBrZXl0YWJQYXRoKQoKICAgIERyaXZlck1hbmFnZXIuZ2V0Q29ubmVjdGlvbigpCg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IGRlZiBtYWtlQ29ubmVjdGlvbihrZWJlcm9zUHJpbmNpcGFsOiBTdHJpbmcsIGtleXRhYlBhdGg6IFN0cmluZykgPSB7CiAgICB2YWwgY2xhenogPSBDbGFzcy5mb3JOYW1lKCJvcmcuYXBhY2hlLmhpdmUuamRiYy5IaXZlRHJpdmVyIikKICAgIHZhbCBjb25mID0gbmV3IENvbmZpZ3VyYXRpb24oKQogICAgY29uZi5zZXQoImhhZG9vcC5zZWN1cml0eS5hdXRoZW50aWNhdGlvbiIsICJLZXJiZXJvcyIpCgogICAgVXNlckdyb3VwSW5mb3JtYXRpb24uc2V0Q29uZmlndXJhdGlvbihjb25mKQogICAgVXNlckdyb3VwSW5mb3JtYXRpb24ubG9naW5Vc2VyRnJvbUtleXRhYihrZWJlcm9zUHJpbmNpcGFsLCBrZXl0YWJQYXRoKQoKICAgIERyaXZlck1hbmFnZXIuZ2V0Q29ubmVjdGlvbigpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
