@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/createhdfsdir.sh" timestamp="1474043484816">
+      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/createhdfsdir.sh" timestamp="1474270997665">
         <mark key="[" line="16" column="89" />
         <mark key="]" line="45" column="120" />
         <mark key="." line="45" column="102" />
@@ -112,10 +112,10 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1474041294131">
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="38" column="4" />
-        <mark key="." line="38" column="4" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1474271217607">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="39" column="4" />
+        <mark key="." line="39" column="4" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
@@ -187,7 +187,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/common/scripts/droptables.sh" timestamp="1474037627885" />
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/nifi/InstallNiFi.scala" timestamp="1471428295129">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -259,7 +258,6 @@
         <mark key="^" line="1" column="2" />
         <mark key="." line="1" column="2" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/src/main/scala/com/barclays/treasury/GenericProcessor.scala" timestamp="1474034968151" />
       <file name="C:/work/sla-configurer/src/test/scala/ActorTesting.scala" timestamp="1473076730722">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="0" column="0" />
@@ -414,7 +412,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474270341961">
+      <file name="/Dummy.txt" timestamp="1474271491176">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
