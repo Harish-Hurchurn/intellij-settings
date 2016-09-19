@@ -68,11 +68,10 @@
       <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/Cleanup.scala" timestamp="1474041484266">
         <mark key="[" line="6" column="48" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474278708641">
-        <mark key="[" line="38" column="57" />
-        <mark key="]" line="35" column="4" />
-        <mark key="." line="35" column="4" />
-        <mark key="^" line="15" column="95" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474279873706">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="73" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/1_InstallNiFi.feature" timestamp="1474042017589">
         <mark key="[" line="9" column="38" />
@@ -428,7 +427,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474278752894">
+      <file name="/Dummy.txt" timestamp="1474279915590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1471878493902">
@@ -551,7 +550,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>import sys.process._
+    Seq(&quot;mkdir&quot;, &quot;/apps/development/sysFnTeamCity/data/stress-idlu-in&quot;).!</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -562,35 +562,35 @@
       <register name="0" type="4">
         <text>STRESS__IDLU_INPUT_DIR</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>import sys.process._
+    Seq(&quot;mkdir&quot;, &quot;/apps/development/sysFnTeamCity/data/stress-idlu-in&quot;).!</text>
       </register>
-      <register name="2" type="4">
-        <text>Then run kinit to initialise keberos
-    Then create the HDFS directories</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIFNlcSgibWtkaXIiLCAiL2FwcHMvZGV2ZWxvcG1lbnQvc3lzRm5UZWFtQ2l0eS9kYXRhL3N0cmVzcy1pZGx1LWluIikuIQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzeXMucHJvY2Vzcy5fCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIFRoZW4gcnVuIGtpbml0IHRvIGluaXRpYWxpc2Uga2ViZXJvcwogICAgVGhlbiBjcmVhdGUgdGhlIEhERlMgZGlyZWN0b3JpZXMKIA==</text>
+        <text>import sys.process._
+    Seq(&quot;mkdir&quot;, &quot;/apps/development/sysFnTeamCity/data/stress-idlu-in&quot;).!</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QnVnIGZpeCBhZGRyZXNzIHRoZSBzaXR1YXRpb24gd2hpY2ggY2FuIG9jY3VyIHdoZW4gcmUtaW5pdGlpbmcgdGhlIGZpcnN0IHJvdyBzaXplCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="4">
         <text>Then run kinit to initialise keberos
     Then create the HDFS directories</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRoZW4gY3JlYXRlIHRoZSBIREZTIGRpcmVjdG9yaWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>Then run kinit to initialise keberos
-    Then create the HDFS directories</text>
+        <text encoding="base64">ICAgIFRoZW4gcnVuIGtpbml0IHRvIGluaXRpYWxpc2Uga2ViZXJvcwogICAgVGhlbiBjcmVhdGUgdGhlIEhERlMgZGlyZWN0b3JpZXMKIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oeAo=</text>
+        <text encoding="base64">QnVnIGZpeCBhZGRyZXNzIHRoZSBzaXR1YXRpb24gd2hpY2ggY2FuIG9jY3VyIHdoZW4gcmUtaW5pdGlpbmcgdGhlIGZpcnN0IHJvdyBzaXplCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
