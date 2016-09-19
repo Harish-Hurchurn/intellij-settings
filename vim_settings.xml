@@ -45,8 +45,8 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/4_Cleanup.feature" timestamp="1474041514092">
-        <mark key="[" line="5" column="73" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/4_Cleanup.feature" timestamp="1474276324147">
+        <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
@@ -551,10 +551,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>STRESS__IDLU_INPUT_DIR</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>/apps/sysFiscusNiFiDev/nifi/dev/nifi/solace</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
