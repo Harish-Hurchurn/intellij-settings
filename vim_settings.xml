@@ -437,8 +437,10 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474285442699">
+      <file name="/Dummy.txt" timestamp="1474289162422">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/BulletinBoard.scala" timestamp="1474284401225">
         <mark key="[" line="15" column="0" />
@@ -560,8 +562,8 @@
       <jump line="38" column="13" filename="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q2hhbmdlIEhpdmUgVVJMCg==</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -573,31 +575,31 @@
         <text>STRESS__IDLU_INPUT_DIR</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBob3N0bmFtZSA9ICJodHRwOi8vbG9jYWxob3N0Ojg4ODgiCg==</text>
+        <text encoding="base64">Q2hhbmdlIEhpdmUgVVJMCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBob3N0bmFtZSA9ICJodHRwOi8vbG9jYWxob3N0Ojg4ODgiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChTdGF0dXMuaW52YWxpZENvdW50KGhvc3RuYW1lKSA9PSAwZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGFzc2VydChTdGF0dXMuaW52YWxpZENvdW50KGhvc3RuYW1lKSA9PSAwZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgIGFzc2VydChTdGF0dXMuaW52YWxpZENvdW50KGhvc3RuYW1lKSA9PSAwKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAgIGFzc2VydChTdGF0dXMuaW52YWxpZENvdW50KGhvc3RuYW1lKSA9PSAwKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0KFN0YXR1cy5pc05pRmlVcChob3N0bmFtZSkgPT0gMjAwKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
