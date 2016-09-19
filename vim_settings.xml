@@ -235,7 +235,8 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveUtils.scala" timestamp="1474299779103">
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveUtils.scala" timestamp="1474300771271">
+        <mark key="[" line="25" column="14" />
         <mark key="]" line="13" column="25" />
         <mark key="^" line="13" column="25" />
         <mark key="." line="13" column="25" />
@@ -438,7 +439,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474299413724">
+      <file name="/Dummy.txt" timestamp="1474300151132">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
