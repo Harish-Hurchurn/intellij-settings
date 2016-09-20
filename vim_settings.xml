@@ -399,11 +399,11 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/Stress_LDB.yml" timestamp="1474383335821">
-        <mark key="[" line="3" column="59" />
-        <mark key="]" line="14" column="7" />
-        <mark key="." line="14" column="7" />
-        <mark key="^" line="14" column="7" />
+      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/Stress_LDB.yml" timestamp="1474388679154">
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="79" column="22" />
+        <mark key="." line="79" column="22" />
+        <mark key="^" line="79" column="22" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/Stress/4_LDB.feature" timestamp="1474385464569">
         <mark key="[" line="4" column="55" />
@@ -471,7 +471,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474386654355">
+      <file name="/Dummy.txt" timestamp="1474388734050">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -649,7 +649,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -687,9 +687,9 @@
         <entry encoding="base64">JzwsJz5tIDU=</entry>
         <entry encoding="base64">JzwsJz5tNQ==</entry>
         <entry>m22</entry>
-        <entry>w</entry>
         <entry>vs</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
