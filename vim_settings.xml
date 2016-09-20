@@ -9,7 +9,6 @@
         <mark key="." line="45" column="102" />
         <mark key="^" line="40" column="109" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/utils/DateUtils.scala" timestamp="1474367032146" />
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/status/Status.scala" timestamp="1472738821590">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="4" />
@@ -58,8 +57,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/dev/env.sh" timestamp="1474294186236" />
-      <file name="$USER_HOME$/.ivy2/cache/com.typesafe/config/srcs/config-1.3.0-sources.jar!/com/typesafe/config/ConfigFactory.java" timestamp="1474357467753" />
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/bulletinboard/search/Search.scala" timestamp="1471878466925">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -92,7 +89,6 @@
         <mark key="^" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/install-scripts/stressldbcreate.hql" timestamp="1474371167390" />
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/repositories" timestamp="1472206278511">
         <mark key="[" line="3" column="73" />
         <mark key="]" line="2" column="76" />
@@ -276,7 +272,6 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/src/main/scala/com/barclays/treasury/GenericProcessor.scala" timestamp="1474375091436" />
       <file name="C:/work/fiscus-ingestor/installer/env/geordavi_4367/conf/flow-xml.properties" timestamp="1474276015859">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="21" />
@@ -311,7 +306,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/installer/1_InstallNiFi.feature" timestamp="1474369111028" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471518380844">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -399,11 +393,11 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/Stress_LDB.yml" timestamp="1474388679154">
-        <mark key="[" line="36" column="15" />
-        <mark key="]" line="79" column="22" />
-        <mark key="." line="79" column="22" />
-        <mark key="^" line="79" column="22" />
+      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/Stress_LDB.yml" timestamp="1474389026402">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="79" column="21" />
+        <mark key="." line="79" column="21" />
+        <mark key="^" line="79" column="21" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/Stress/4_LDB.feature" timestamp="1474385464569">
         <mark key="[" line="4" column="55" />
@@ -451,7 +445,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/src/main/scala/com/barclays/treasury/HiveLoader.scala" timestamp="1474295797657" />
       <file name="C:/work/fiscus-ingestor/installer/env/local/env.sh" timestamp="1474275765419">
         <mark key="[" line="23" column="0" />
       </file>
