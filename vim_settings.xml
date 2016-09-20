@@ -85,6 +85,7 @@
         <mark key="^" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
+      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/install-scripts/stressldbcreate.hql" timestamp="1474371167390" />
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/repositories" timestamp="1472206278511">
         <mark key="[" line="3" column="73" />
         <mark key="]" line="2" column="76" />
@@ -393,6 +394,11 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/Stress/4_LDB.feature" timestamp="1474370878966">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/resources/2_IsNiFiRunningErrorFree.feature" timestamp="1473936432292">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -447,6 +453,11 @@
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
+      </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/Installer/5_Cleanup.feature" timestamp="1474371703383">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1474370350534">
         <mark key="[" line="0" column="0" />
@@ -578,11 +589,11 @@
       <jump line="0" column="0" filename="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveUtils.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZpbGUucmVuYW1lVG8obmV3IEZpbGUocyJJRExVX1RyZWFzdXJ5T3BzXyR7RGF0ZVV0aWxzLmdldFRvZGF5c0RhdGV9XyR7RGF0ZVV0aWxzLmdldFRvZGF5c0RhdGV9MTUwMDAwLmNzdiIpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSdW5uaW5nXD4=</text>
