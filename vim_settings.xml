@@ -18,6 +18,13 @@
       <file name="/a.dummy" timestamp="1474299054211">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/stress/LDB.scala" timestamp="1474381469120">
+        <mark key="'" line="10" column="7" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="19" column="7" />
+      </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/eod-bundle/eod-nar/pom.xml" timestamp="1471516281618">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -395,7 +402,7 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/Stress/4_LDB.feature" timestamp="1474370878966">
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/Stress/4_LDB.feature" timestamp="1474380471298">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -406,7 +413,7 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/stress/IDLU.scala" timestamp="1474370082518">
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/stress/IDLU.scala" timestamp="1474381080525">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -493,7 +500,10 @@
         <mark key="^" line="39" column="16" />
         <mark key="." line="39" column="16" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/Stress/3_IDLU.feature" timestamp="1474380190894" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/Stress/3_IDLU.feature" timestamp="1474380313628">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="5" column="43" />
+      </file>
       <file name="C:/work/nifi-utilities/build.sbt" timestamp="1474292134469">
         <mark key="[" line="22" column="49" />
         <mark key="]" line="21" column="0" />
@@ -589,49 +599,50 @@
       <jump line="38" column="13" filename="$USER_HOME$/.ivy2/cache/com.barclays.treasury.fiscus.ingestor/nifi-utilities_2.11/srcs/nifi-utilities_2.11-0.1.0-SNAPSHOT-sources.jar!/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" />
       <jump line="23" column="20" filename="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IDLU.scala" />
       <jump line="0" column="0" filename="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveUtils.scala" />
+      <jump line="10" column="7" filename="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/stress/LDB.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text encoding="base64">ICAgIHZhbCBjb25uZWN0aW9uU3RyaW5nID0gImpkYmM6aGl2ZTI6Ly9nYnJkc3IwMDAwMDI2NDkuaW50cmFuZXQuYmFyY2FwaW50LmNvbToxMDAwMC9maXNjdXM7cHJpbmNpcGFsPWhpdmUvZ2JyZHNyMDAwMDAyNjQ5LmludHJhbmV0LmJhcmNhcGludC5jb21ASU5UUkFORVQuQkFSQ0FQSU5ULkNPTSIKICAgIHZhbCBrZWJlcm9zUHJpbmNpcGFsID0gInN5c0ZuVGVhbUNpdHlASU5UUkFORVQuQkFSQ0FQSU5ULkNPTSIKICAgIHZhbCBrZXl0YWJQYXRoID0gY29uZmlnLmdldFN0cmluZygiaW50ZWdyYXRpb24tdGVzdGluZy5rZXl0YWItcHJpbmNpcGxlLXBhdGgiKQoKICAgIHZhbCByZXN1bHQgPSBIaXZlVXRpbHMuZXhlY3V0ZUhpdmVRdWVyeShjb25uZWN0aW9uU3RyaW5nLCBrZWJlcm9zUHJpbmNpcGFsLCBrZXl0YWJQYXRoKSB7CiAgICAgIGNvbm5lY3Rpb24gPT4gewogICAgICAgIHByaW50bG4oIlF1ZXJ5aW5nIEhpdmUgdG8gc2VlIGlmIHRoZSBkYXRhIGlzIGNvbnRhaW5lZCBpbiBmaXNjdXMuaW50cmFkYXlsaXF1aWRpdHl1c2FnZSIpCiAgICAgICAgdmFsIHN0YXRlbWVudCA9IGNvbm5lY3Rpb24ucHJlcGFyZVN0YXRlbWVudCgiU0VMRUNUIENPVU5UKCopIEFTIHJvd2NvdW50IEZST00gZmlzY3VzLmludHJhZGF5bGlxdWlkaXR5dXNhZ2UiKQogICAgICAgIHZhbCByZXN1bHQgPSBzdGF0ZW1lbnQuZXhlY3V0ZVF1ZXJ5KCkKICAgICAgICByZXN1bHQubmV4dAogICAgICAgIHZhbCBjb3VudCA9IHJlc3VsdC5nZXRJbnQoInJvd2NvdW50IikKICAgICAgICByZXN1bHQuY2xvc2UoKQogICAgICAgIHN0YXRlbWVudC5jbG9zZSgpCiAgICAgICAgY291bnQKICAgICAgfQogICAgfQoKICAgIGFzc2VydChyZXN1bHQgPT0gMjIsIHMiVG90YWwgY291bnQgYWZ0ZXIgaW5zZXJ0aW5nIElETFUgZGF0YSBpbnRvIEhpdmUgd2FzICRyZXN1bHQiKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSdW5uaW5nXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>keytab-principle-path</text>
+        <text>getClass.getResource(&quot;/IDLU/IDLU_TreasuryOps_20160825_20160825150000.csv&quot;).getPath</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbGUucmVuYW1lVG8obmV3IEZpbGUocyJJRExVX1RyZWFzdXJ5T3BzXyR7RGF0ZVV0aWxzLmdldFRvZGF5c0RhdGV9XyR7RGF0ZVV0aWxzLmdldFRvZGF5c0RhdGV9MTUwMDAwLmNzdiIpKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHZhbCBjb25uZWN0aW9uU3RyaW5nID0gImpkYmM6aGl2ZTI6Ly9nYnJkc3IwMDAwMDI2NDkuaW50cmFuZXQuYmFyY2FwaW50LmNvbToxMDAwMC9maXNjdXM7cHJpbmNpcGFsPWhpdmUvZ2JyZHNyMDAwMDAyNjQ5LmludHJhbmV0LmJhcmNhcGludC5jb21ASU5UUkFORVQuQkFSQ0FQSU5ULkNPTSIKICAgIHZhbCBrZWJlcm9zUHJpbmNpcGFsID0gInN5c0ZuVGVhbUNpdHlASU5UUkFORVQuQkFSQ0FQSU5ULkNPTSIKICAgIHZhbCBrZXl0YWJQYXRoID0gY29uZmlnLmdldFN0cmluZygiaW50ZWdyYXRpb24tdGVzdGluZy5rZXl0YWItcHJpbmNpcGxlLXBhdGgiKQoKICAgIHZhbCByZXN1bHQgPSBIaXZlVXRpbHMuZXhlY3V0ZUhpdmVRdWVyeShjb25uZWN0aW9uU3RyaW5nLCBrZWJlcm9zUHJpbmNpcGFsLCBrZXl0YWJQYXRoKSB7CiAgICAgIGNvbm5lY3Rpb24gPT4gewogICAgICAgIHByaW50bG4oIlF1ZXJ5aW5nIEhpdmUgdG8gc2VlIGlmIHRoZSBkYXRhIGlzIGNvbnRhaW5lZCBpbiBmaXNjdXMuaW50cmFkYXlsaXF1aWRpdHl1c2FnZSIpCiAgICAgICAgdmFsIHN0YXRlbWVudCA9IGNvbm5lY3Rpb24ucHJlcGFyZVN0YXRlbWVudCgiU0VMRUNUIENPVU5UKCopIEFTIHJvd2NvdW50IEZST00gZmlzY3VzLmludHJhZGF5bGlxdWlkaXR5dXNhZ2UiKQogICAgICAgIHZhbCByZXN1bHQgPSBzdGF0ZW1lbnQuZXhlY3V0ZVF1ZXJ5KCkKICAgICAgICByZXN1bHQubmV4dAogICAgICAgIHZhbCBjb3VudCA9IHJlc3VsdC5nZXRJbnQoInJvd2NvdW50IikKICAgICAgICByZXN1bHQuY2xvc2UoKQogICAgICAgIHN0YXRlbWVudC5jbG9zZSgpCiAgICAgICAgY291bnQKICAgICAgfQogICAgfQoKICAgIGFzc2VydChyZXN1bHQgPT0gMjIsIHMiVG90YWwgY291bnQgYWZ0ZXIgaW5zZXJ0aW5nIElETFUgZGF0YSBpbnRvIEhpdmUgd2FzICRyZXN1bHQiKQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q3VjdW1iZXJQbHVnaW4uZ2x1ZQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9Cgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBQZW5kaW5nRXhjZXB0aW9uKCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vLy8gV3JpdGUgY29kZSBoZXJlIHRoYXQgdHVybnMgdGhlIHBocmFzZSBhYm92ZSBpbnRvIGNvbmNyZXRlIGFjdGlvbnMK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBHaXZlbigiIiJedGhhdCB0aGUgZGlyZWN0b3J5IGhhcyBiZWVuIHNwZWNpZmllZCB3aGVyZSB0aGUgaW50ZWdyYXRpb24gdGVzdCBzaG91bGQgYmUgcnVuIGZyb20kIiIiKSB7ICgpID0+Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">dmFsIGNvbm5lY3Rpb25TdHJpbmcgPSAiamRiYzpoaXZlMjovL2dicmRzcjAwMDAwMjY0OS5pbnRyYW5ldC5iYXJjYXBpbnQuY29tOjEwMDAwL2Zpc2N1cztwcmluY2lwYWw9aGl2ZS9nYnJkc3IwMDAwMDI2NDkuaW50cmFuZXQuYmFyY2FwaW50LmNvbUBJTlRSQU5FVC5CQVJDQVBJTlQuQ09NIgogICAgdmFsIGtlYmVyb3NQcmluY2lwYWwgPSAic3lzRm5UZWFtQ2l0eUBJTlRSQU5FVC5CQVJDQVBJTlQuQ09NIgogICAgdmFsIGtleXRhYlBhdGggPSBjb25maWcuZ2V0U3RyaW5nKCJpbnRlZ3JhdGlvbi10ZXN0aW5nLmtleXRhYi1wcmluY2lwbGUtcGF0aCIpCgogICAgSGl2ZVV0aWxzLmV4ZWN1dGVIaXZlUXVlcnkoY29ubmVjdGlvblN0cmluZywga2ViZXJvc1ByaW5jaXBhbCwga2V5dGFiUGF0aCkgewogICAgICBjb25uZWN0aW9uID0+IHsKICAgICAgICB2YWwgc3RhdGVtZW50ID0gY29ubmVjdGlvbi5wcmVwYXJlU3RhdGVtZW50KHMiREVMRVRFIEZST00gZmlzY3VzLmludHJhZGF5bGlxdWlkaXR5dXNhZ2UgV0hFUkUgaW50cmFkYXlsaXF1aWRpdHl1c2FnZS5wdF9jb2JkYXRlID0gJHtEYXRlVXRpbHMuZ2V0VG9kYXlzRGF0ZX0iKQogICAgICAgIHZhbCByZXN1bHQgPSBzdGF0ZW1lbnQuZXhlY3V0ZVF1ZXJ5KCkKICAgICAgICByZXN1bHQuY2xvc2UoKQogICAgICAgIHN0YXRlbWVudC5jbG9zZSgpCiAgICAgIH0KICAgIH0=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGFzc2VydChTaGVsbC5jb3B5RmlsZShmaWxlLmdldFBhdGgsIGNvbmZpZy5nZXRTdHJpbmcoImludGVncmF0aW9uLXRlc3RpbmcuZGlyZWN0b3J5IikuY29uY2F0KCIvZGF0YS9zdHJlc3MtaWRsdS1pbi8iKSkgPT0gMCwgcyJGYWlsZWQgdG8gY29weSB0aGUgZmlsZSB0byAkZmlsZS5nZXRQYXRoIikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0geWllbGQgKCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGZvciB7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -663,15 +674,15 @@
         <entry>vw</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>vs</entry>
         <entry encoding="base64">JzwsJz5tMTNd</entry>
         <entry encoding="base64">JzwsJz4sbSAxMw==</entry>
         <entry encoding="base64">JzwsJz5tIDEy</entry>
         <entry encoding="base64">JzwsJz5tIDU=</entry>
         <entry encoding="base64">JzwsJz5tNQ==</entry>
-        <entry>wq</entry>
         <entry>m22</entry>
         <entry>w</entry>
+        <entry>vs</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
