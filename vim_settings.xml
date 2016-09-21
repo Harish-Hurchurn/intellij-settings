@@ -83,11 +83,11 @@
         <mark key="]" line="13" column="73" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/installer/Cleanup.scala" timestamp="1474368257148">
-        <mark key="[" line="21" column="3" />
-        <mark key="]" line="21" column="4" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/installer/Cleanup.scala" timestamp="1474442754720">
+        <mark key="[" line="28" column="94" />
+        <mark key="]" line="37" column="28" />
         <mark key="^" line="21" column="4" />
-        <mark key="." line="21" column="4" />
+        <mark key="." line="37" column="28" />
       </file>
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/repositories" timestamp="1472206278511">
         <mark key="[" line="3" column="73" />
@@ -398,11 +398,10 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/Stress_LDB.yml" timestamp="1474389026402">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="79" column="21" />
-        <mark key="." line="79" column="21" />
-        <mark key="^" line="79" column="21" />
+      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/Stress_LDB.yml" timestamp="1474443233909">
+        <mark key="]" line="36" column="21" />
+        <mark key="." line="36" column="21" />
+        <mark key="^" line="36" column="21" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/Stress/4_LDB.feature" timestamp="1474385464569">
         <mark key="[" line="4" column="55" />
@@ -469,7 +468,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474390027173">
+      <file name="/Dummy.txt" timestamp="1474443497617">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -608,10 +607,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSdW5uaW5nXD4=</text>
