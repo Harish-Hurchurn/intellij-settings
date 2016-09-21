@@ -14,15 +14,15 @@
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1474299054211">
+      <file name="/a.dummy" timestamp="1474453346907">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/stress/LDB.scala" timestamp="1474452720570">
-        <mark key="'" line="31" column="143" />
-        <mark key="[" line="35" column="6" />
-        <mark key="]" line="35" column="28" />
-        <mark key="." line="35" column="28" />
-        <mark key="^" line="35" column="28" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/stress/LDB.scala" timestamp="1474454625884">
+        <mark key="'" line="39" column="3" />
+        <mark key="[" line="39" column="2" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="56" column="60" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/eod-bundle/eod-nar/pom.xml" timestamp="1471516281618">
         <mark key="[" line="21" column="26" />
@@ -140,10 +140,10 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="60" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/build.sbt" timestamp="1474452398126">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="C:/work/nifi-end-to-end-testing/build.sbt" timestamp="1474454753314">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="37" />
+        <mark key="." line="18" column="37" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-nar/pom.xml" timestamp="1471515825751">
         <mark key="[" line="21" column="26" />
@@ -270,17 +270,23 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="19" column="8" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/application.conf" timestamp="1474452979557">
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="6" column="56" />
-        <mark key="^" line="6" column="56" />
-        <mark key="." line="6" column="56" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/application.conf" timestamp="1474453059321">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="10" column="19" />
       </file>
       <file name="C:/work/fiscus-ingestor/installer/env/geordavi_4367/conf/flow-xml.properties" timestamp="1474276015859">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="21" />
         <mark key="^" line="19" column="5" />
         <mark key="." line="19" column="5" />
+      </file>
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/solace/Subscriber.scala" timestamp="1474454973114">
+        <mark key="[" line="31" column="37" />
+        <mark key="]" line="31" column="37" />
+        <mark key="^" line="31" column="37" />
+        <mark key="." line="31" column="37" />
       </file>
       <file name="C:/work/sla-configurer/src/test/scala/ActorTesting.scala" timestamp="1473076730722">
         <mark key="[" line="2" column="0" />
@@ -305,7 +311,7 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="C:/work/sla-configurer/micro-service-lib/src/main/scala/com/barclays/treasury/messaging/SimpleSubscriber.scala" timestamp="1474452330026" />
+      <file name="C:/work/sla-configurer/micro-service-lib/src/main/scala/com/barclays/treasury/messaging/SimpleSubscriber.scala" timestamp="1474454896832" />
       <file name="C:/work/nifi-end-to-end-testing/src/test/resources/3_Idlu.feature" timestamp="1473949983884">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -340,6 +346,11 @@
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="9" />
         <mark key="." line="4" column="9" />
+      </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/installer/InstallNiFi.scala" timestamp="1474389478879">
+        <mark key="[" line="16" column="78" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-executesql-bundle/nifi-executesql-nar/pom.xml" timestamp="1471516359236">
         <mark key="[" line="21" column="26" />
@@ -511,8 +522,8 @@
         <mark key="^" line="39" column="16" />
         <mark key="." line="39" column="16" />
       </file>
-      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1474292134469">
-        <mark key="[" line="22" column="49" />
+      <file name="C:/work/nifi-utilities/build.sbt" timestamp="1474454327201">
+        <mark key="[" line="24" column="46" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
@@ -610,13 +621,14 @@
       <jump line="16" column="23" filename="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_LDB.xml" />
       <jump line="0" column="1615" filename="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_LDB.xml" />
       <jump line="28" column="143" filename="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/stress/LDB.scala" />
+      <jump line="39" column="3" filename="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/stress/LDB.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSdW5uaW5nXD4=</text>
@@ -625,34 +637,37 @@
         <text>check that a message has been pushed to Solace</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzb2xhY2VDb25maWcgPQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGF6eSB2YWwgc29sYWNlRGVwZW5kZW5jaWVzID0gU2VxKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkNoZWNraW5nIGlmIG1lc3NhZ2UgaGFzIGJlZW4gcHVzaGVkIHRvIFNvbGFjZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="4" type="4">
+        <text>,
+  &quot;com.barclays.treasury.corelibs&quot; %% &quot;solace&quot; % &quot;1.1.9&quot;</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">QW5kKCIiIl50aGUgQXZybyBkYXRhIHNob3VsZCBiZSBjb250YWluZWQgaW4gSGl2ZSQiIiIpIHsgKCkgPT4KCiAgfQ==</text>
+        <text encoding="base64">CiAgICB2YWwgc29sYWNlQ29uZmlnID0gbmV3IFNvbGFjZUNvbmZpZyhjb25maWcuZ2V0U3RyaW5nKCJpbnRlZ3JhdGlvbi10ZXN0aW5nLnNvbGFjZS5kZXN0aW5hdGlvbk5hbWUiKSwKICAgICAgY29uZmlnLmdldFN0cmluZygiaW50ZWdyYXRpb24tdGVzdGluZy5zb2xhY2UucHJvdmlkZXJVcmwiKSwKICAgICAgY29uZmlnLmdldFN0cmluZygiaW50ZWdyYXRpb24tdGVzdGluZy5zb2xhY2UudnBuTmFtZSIpLAogICAgICBjb25maWcuZ2V0U3RyaW5nKCJpbnRlZ3JhdGlvbi10ZXN0aW5nLnNvbGFjZS51c2VyTmFtZSIpLAogICAgICBjb25maWcuZ2V0Qm9vbGVhbigiaW50ZWdyYXRpb24tdGVzdGluZy5zb2xhY2UuYXV0b0FjayIpKQ==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBwcm9jZXNzR3JvdXBzOgogICAgICBSZXByb2Nlc3MgQXZybyBmaWxlczoKICAgICAgICBzdGF0ZTogUlVOTklORwogICAgICAgIHByb2Nlc3NHcm91cHM6CiAgICAgICAgICBSZXByb2Nlc3MgQXZybyBmaWxlczoKICAgICAgICAgICAgc3RhdGU6IFJVTk5JTkcKICAgICAgICAgICAgICAgIHByb2Nlc3NvcnM6CiAgICAgICAgICAgICAgICAgIGNvbmZpZzoKICAgICAgICAgICAgICAgICAgICBJbnB1dCBEaXJlY3Rvcnk6IC9hcHBzL2RldmVsb3BtZW50L3N5c0ZuVGVhbUNpdHkvZGF0YS9zdHJlc3MtYXZyby1pbg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChCdWxsZXRpbkJvYXJkLmV4dHJhY3RCdWxsZXRpbkJvYXJkSW5mbygiaHR0cDovL2xvY2FsaG9zdDo4ODg4IikgPT0gTGlzdC5lbXB0eSwgIk5pRmkgaGFzIHJlcG9ydGVkIGVycm9ycyB3aGVuIHRyeWluZyB0byBwcm9jZXNzIHRoZSBJRExVIGZpbGUiKQogIH0KCiAgQW5kKCIiIl50aGUgQXZybyBkYXRhIHNob3VsZCBiZSBjb250YWluZWQgaW4gSGl2ZSQiIiIpIHsgKCkgPT4KICB9Cn0KCg==</text>
+      <register name="8" type="4">
+        <text>/**
+  * Created by hurchurh on 21/09/2016.
+  */</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFuZCB0aGUgZGF0YSBzaG91bGQgYmUgY29udGFpbmVkIGluIEhpdmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -688,11 +703,11 @@
         <entry encoding="base64">JzwsJz5tIDU=</entry>
         <entry encoding="base64">JzwsJz5tNQ==</entry>
         <entry>m22</entry>
-        <entry>wq</entry>
-        <entry>vs</entry>
         <entry>q</entry>
         <entry>q!</entry>
         <entry>w</entry>
+        <entry>vs</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
