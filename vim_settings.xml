@@ -122,10 +122,10 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1474384708888">
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="8" column="26" />
+      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/installer/Installer.scala" timestamp="1474633761396">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
         <mark key="^" line="8" column="26" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
@@ -622,10 +622,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHJvY2Vzcyhjb25wYXJlV2l0aDpTdHJpbmcpKG1zZzogQnl0ZXNYTUxNZXNzYWdlKSA9IHsKICAgICAgbXNnIG1hdGNoIHsKICAgICAgICBjYXNlIG06IEJ5dGVzTWVzc2FnZSA9PiB7CiAgICAgICAgICBpbXBsaWNpdCB2YWwgZm9ybWF0cyA9IERlZmF1bHRGb3JtYXRzCiAgICAgICAgICB2YWwganNvbiA9IHBhcnNlKFVURjhFbmNvZGVyLnRvU3RyaW5nKG0uZ2V0RGF0YSkpCiAgICAgICAgICBqc29uCiAgICAgICAgfQ==</text>
+        <text>removeTesting</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIA==</text>
+        <text>removeTesting</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSdW5uaW5nXD4=</text>
