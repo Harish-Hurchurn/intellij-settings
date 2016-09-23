@@ -336,8 +336,11 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/5_Cleanup.feature" timestamp="1474368298696">
-        <mark key="[" line="0" column="8" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/5_Cleanup.feature" timestamp="1474639327281">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="65" />
+        <mark key="." line="5" column="65" />
+        <mark key="^" line="5" column="65" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/resources/3_IDLU.feature" timestamp="1473762065995">
         <mark key="[" line="4" column="8" />
@@ -522,7 +525,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/cleanup/Cleanup.scala" timestamp="1474624884104" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/cleanup/Cleanup.scala" timestamp="1474639329699">
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="31" column="70" />
+        <mark key="^" line="31" column="83" />
+        <mark key="." line="31" column="12" />
+      </file>
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1472563861959">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -622,7 +630,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>removeTesting</text>
+        <text>remove the HDFS and linux directorys created for the tests</text>
       </register>
       <register name="-" type="4">
         <text>removeTesting</text>
@@ -631,35 +639,35 @@
         <text encoding="base64">XDxSdW5uaW5nXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>check that a message has been pushed to Solace</text>
+        <text>remove the HDFS and linux directorys created for the tests</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cHJvY2Vzcyhjb25wYXJlV2l0aDpTdHJpbmcpKG1zZzogQnl0ZXNYTUxNZXNzYWdlKSA9IHsKICAgICAgbXNnIG1hdGNoIHsKICAgICAgICBjYXNlIG06IEJ5dGVzTWVzc2FnZSA9PiB7CiAgICAgICAgICBpbXBsaWNpdCB2YWwgZm9ybWF0cyA9IERlZmF1bHRGb3JtYXRzCiAgICAgICAgICB2YWwganNvbiA9IHBhcnNlKFVURjhFbmNvZGVyLnRvU3RyaW5nKG0uZ2V0RGF0YSkpCiAgICAgICAgICBqc29uCiAgICAgICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEFuZCByZW1vdmUgdGhlIElETFUgZGF0YSBmcm9tIEhpdmUK</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">cHJvY2Vzcyhjb25wYXJlV2l0aDpTdHJpbmcpKG1zZzogQnl0ZXNYTUxNZXNzYWdlKSA9IHsKICAgICAgbXNnIG1hdGNoIHsKICAgICAgICBjYXNlIG06IEJ5dGVzTWVzc2FnZSA9PiB7CiAgICAgICAgICBpbXBsaWNpdCB2YWwgZm9ybWF0cyA9IERlZmF1bHRGb3JtYXRzCiAgICAgICAgICB2YWwganNvbiA9IHBhcnNlKFVURjhFbmNvZGVyLnRvU3RyaW5nKG0uZ2V0RGF0YSkpCiAgICAgICAgICBqc29uCiAgICAgICAgfQ==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgICJpbnRlZ3JhdGlvbi10ZXN0aW5nLnNvbGFjZS5wcm92aWRlclVybCIsCiAgICAgIGNvbmZpZy5nZXRTdHJpbmcoImludGVncmF0aW9uLXRlc3Rpbmcuc29sYWNlLnZwbk5hbWUiKSwKICAgICAgY29uZmlnLmdldFN0cmluZygiaW50ZWdyYXRpb24tdGVzdGluZy5zb2xhY2UudXNlck5hbWUiKSwKICAgICAgY29uZmlnLmdldEJvb2xlYW4oImludGVncmF0aW9uLXRlc3Rpbmcuc29sYWNlLmF1dG9BY2siKSl2</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBzb2xhY2VDb25maWcgPQo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzb2xhY2VDb25maWcgPQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>,
   &quot;com.barclays.treasury.corelibs&quot; %% &quot;solace&quot; % &quot;1.1.9&quot;</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICB2YWwgc29sYWNlQ29uZmlnID0gbmV3IFNvbGFjZUNvbmZpZyhjb25maWcuZ2V0U3RyaW5nKCJpbnRlZ3JhdGlvbi10ZXN0aW5nLnNvbGFjZS5kZXN0aW5hdGlvbk5hbWUiKSwKICAgICAgY29uZmlnLmdldFN0cmluZygiaW50ZWdyYXRpb24tdGVzdGluZy5zb2xhY2UucHJvdmlkZXJVcmwiKSwKICAgICAgY29uZmlnLmdldFN0cmluZygiaW50ZWdyYXRpb24tdGVzdGluZy5zb2xhY2UudnBuTmFtZSIpLAogICAgICBjb25maWcuZ2V0U3RyaW5nKCJpbnRlZ3JhdGlvbi10ZXN0aW5nLnNvbGFjZS51c2VyTmFtZSIpLAogICAgICBjb25maWcuZ2V0Qm9vbGVhbigiaW50ZWdyYXRpb24tdGVzdGluZy5zb2xhY2UuYXV0b0FjayIpKQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
