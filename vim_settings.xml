@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/createhdfsdir.sh" timestamp="1474270997665">
@@ -78,7 +78,6 @@
         <mark key="^" line="20" column="34" />
         <mark key="." line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.corelibs/solace_2.11/srcs/solace_2.11-1.1.9-sources.jar!/com/barclays/treasury/corelibs/solace/SolaceQueue.scala" timestamp="1474452716354" />
       <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1474356910410">
         <mark key="[" line="14" column="94" />
         <mark key="]" line="13" column="73" />
@@ -198,7 +197,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/sla-configurer/feed-event-svc/src/main/scala/com/barclays/treasury/feed/event/FeedEventOperator.scala" timestamp="1474452230573" />
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/nifi/InstallNiFi.scala" timestamp="1471428295129">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -232,7 +230,6 @@
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="C:/work/sla-configurer/feed-event-svc/src/main/scala/com/barclays/treasury/feed/event/FeedEventSubscriber.scala" timestamp="1474452285359" />
       <file name="C:/work/sla-configurer/feed-instance-svc/src/main/scala/com/barclays/treasury/feed/instance/actor/InstanceOperator.scala" timestamp="1473150382798">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="41" column="48" />
@@ -242,7 +239,6 @@
       <file name="C:/work/nifi-end-to-end-testing/.gitignore" timestamp="1472026606795">
         <mark key="[" line="226" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.barclays.treasury.corelibs/core_2.11/srcs/core_2.11-1.1.9-sources.jar!/com/barclays/treasury/corelibs/core/io.scala" timestamp="1474455098161" />
       <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Cleanup.scala" timestamp="1473870384473">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="6" column="44" />
@@ -313,7 +309,6 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="C:/work/sla-configurer/micro-service-lib/src/main/scala/com/barclays/treasury/messaging/SimpleSubscriber.scala" timestamp="1474456044856" />
       <file name="C:/work/nifi-end-to-end-testing/src/test/resources/3_Idlu.feature" timestamp="1473949983884">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -407,7 +402,6 @@
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="35" />
       </file>
-      <file name="C:/work/sla-configurer/build.sbt" timestamp="1474452411933" />
       <file name="C:/work/fiscus-ingestor/kerberos-sql-driver/pom.xml" timestamp="1471516259024">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="22" />
@@ -473,7 +467,6 @@
         <mark key="]" line="42" column="18" />
         <mark key="." line="42" column="18" />
       </file>
-      <file name="C:/work/sla-configurer/feed-event-svc/src/main/scala/com/barclays/treasury/feed/event/FeedEventSubscriberService.scala" timestamp="1474452263975" />
       <file name="C:/work/nifi-end-to-end-testing/src/test/resources/readme.txt" timestamp="1473951713366">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
