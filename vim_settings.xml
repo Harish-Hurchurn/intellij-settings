@@ -336,7 +336,7 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/5_Cleanup.feature" timestamp="1474645047765">
+      <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/5_Cleanup.feature" timestamp="1474647408323">
         <mark key="[" line="5" column="65" />
         <mark key="]" line="5" column="65" />
         <mark key="." line="5" column="65" />
@@ -525,8 +525,8 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/cleanup/Cleanup.scala" timestamp="1474645094893">
-        <mark key="[" line="31" column="69" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/cleanup/Cleanup.scala" timestamp="1474647419595">
+        <mark key="[" line="31" column="11" />
         <mark key="]" line="31" column="69" />
         <mark key="^" line="31" column="69" />
         <mark key="." line="31" column="69" />
