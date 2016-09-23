@@ -344,10 +344,10 @@
         <mark key="]" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/installer/InstallNiFi.scala" timestamp="1474389478879">
-        <mark key="[" line="16" column="78" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/installer/InstallNiFi.scala" timestamp="1474624892954">
+        <mark key="[" line="20" column="165" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-executesql-bundle/nifi-executesql-nar/pom.xml" timestamp="1471516359236">
         <mark key="[" line="21" column="26" />
@@ -484,7 +484,7 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474449639945">
+      <file name="/Dummy.txt" timestamp="1474625753804">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -522,6 +522,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/cleanup/Cleanup.scala" timestamp="1474624884104" />
       <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/build.sbt" timestamp="1472563861959">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
