@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'fiscus-ingestor'" />
-    <option name="defaultScopeName" value="Project 'fiscus-ingestor'" />
-    <option name="SEARCH_SCOPE" value="Project 'fiscus-ingestor'" />
+    <option name="customScope" value="File '[nifi-utilities] - ...\src\main\scala\com\barclays\treasury\fiscus\solace\Solace.scala'" />
+    <option name="defaultScopeName" value="File '[nifi-utilities] - ...\src\main\scala\com\barclays\treasury\fiscus\solace\Solace.scala'" />
+    <option name="SEARCH_SCOPE" value="File '[nifi-utilities] - ...\src\main\scala\com\barclays\treasury\fiscus\solace\Solace.scala'" />
   </component>
 </application>
