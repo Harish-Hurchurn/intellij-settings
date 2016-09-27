@@ -213,6 +213,7 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="C:/work/fiscus-ingestor/installer/env/uat/flow-templates/Stress_LDB.yml.old" timestamp="1475002774441" />
       <file name="C:/work/nifi-end-to-end-testing/src/test/resources/InstallNiFi.feature" timestamp="1472639159745">
         <mark key="[" line="7" column="7" />
         <mark key="]" line="7" column="36" />
@@ -383,7 +384,6 @@
       <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IsNiFiRunningErrorFree.scala" timestamp="1474357082449">
         <mark key="[" line="9" column="43" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/uat/flow-templates/yml.files" timestamp="1474978428586" />
       <file name="C:/work/nifi-end-to-end-testing/project/build.properties" timestamp="1472031857771">
         <mark key="[" line="0" column="19" />
       </file>
@@ -543,7 +543,6 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/uat_r/flow-templates/yml.files" timestamp="1474976928509" />
       <file name="C:/work/nifi-end-to-end-testing/project/plugins.sbt" timestamp="1472558673136">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="22" />
