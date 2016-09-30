@@ -14,9 +14,6 @@
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1474453346907">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/stress/LDB.scala" timestamp="1474716874998">
         <mark key="'" line="36" column="3" />
         <mark key="[" line="33" column="0" />
@@ -29,17 +26,11 @@
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
       </file>
-      <file name="/Dummy.scala" timestamp="1472633353930">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1473950936117">
         <mark key="[" line="10" column="96" />
         <mark key="]" line="23" column="1" />
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="1" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/project/plugins.sbt" timestamp="1472031830557">
-        <mark key="[" line="2" column="117" />
       </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveQuery.scala" timestamp="1472643957359">
         <mark key="[" line="13" column="0" />
@@ -152,9 +143,6 @@
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
       </file>
-      <file name="C:/work/cucumber-plugin/build.sbt" timestamp="1472559190598">
-        <mark key="[" line="6" column="24" />
-      </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/hive/HiveLoader.scala" timestamp="1472633981753">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="22" column="0" />
@@ -180,9 +168,6 @@
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
-      </file>
-      <file name="C:/work/nifi-utilities/project/wart-remover.sbt" timestamp="1473669681919">
-        <mark key="[" line="1" column="56" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-processor/build.sbt" timestamp="1471516348452">
         <mark key="[" line="2" column="17" />
@@ -239,12 +224,6 @@
         <mark key="." line="41" column="48" />
         <mark key="^" line="41" column="48" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/.gitignore" timestamp="1472026606795">
-        <mark key="[" line="226" column="0" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/installer/common/flow-templates/5G_FX.xml" timestamp="1475234694656">
-        <mark key="'" line="332" column="23" />
-      </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/Cleanup.scala" timestamp="1473870384473">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="6" column="44" />
@@ -255,12 +234,6 @@
         <mark key="[" line="11" column="6" />
         <mark key="]" line="11" column="6" />
         <mark key="." line="11" column="6" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/installer/install.sh" timestamp="1471872197279">
-        <mark key="[" line="9" column="40" />
-      </file>
-      <file name="C:/work/sla-configurer/feed-holiday-calendar-svc/src/main/scala/com/barclays/treasury/holidays/HolidayService.scala" timestamp="1473236753248">
-        <mark key="[" line="38" column="28" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/attribute-get-bundle/attribute-get-processor/pom.xml" timestamp="1471515742999">
         <mark key="[" line="11" column="22" />
@@ -389,19 +362,10 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="11" />
       </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IsNiFiRunningErrorFree.scala" timestamp="1474357082449">
-        <mark key="[" line="9" column="43" />
-      </file>
-      <file name="C:/work/nifi-end-to-end-testing/project/build.properties" timestamp="1472031857771">
-        <mark key="[" line="0" column="19" />
-      </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/search/Search.scala" timestamp="1472738878025">
         <mark key="[" line="6" column="63" />
         <mark key="]" line="6" column="63" />
         <mark key="." line="6" column="63" />
-      </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/IsNiFIRunningErrorFree.scala" timestamp="1472639167808">
-        <mark key="[" line="16" column="6" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/batching-bundle/batching-nar/pom.xml" timestamp="1471516274049">
         <mark key="[" line="21" column="26" />
@@ -418,9 +382,6 @@
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/integration-testing/flow-templates/Stress_LDB.yml" timestamp="1474445094244">
-        <mark key="[" line="75" column="36" />
       </file>
       <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/Stress/4_LDB.feature" timestamp="1474449260182">
         <mark key="[" line="5" column="8" />
@@ -468,12 +429,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/hive/HiveUtils.scala" timestamp="1474448993562">
-        <mark key="[" line="10" column="4" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/installer/env/local/env.sh" timestamp="1474275765419">
-        <mark key="[" line="23" column="0" />
-      </file>
       <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/IDLU.scala" timestamp="1474363822537">
         <mark key="[" line="42" column="18" />
         <mark key="]" line="42" column="18" />
@@ -512,16 +467,10 @@
         <mark key="." line="10" column="88" />
         <mark key="^" line="9" column="73" />
       </file>
-      <file name="C:/work/fiscus-ingestor/workflows/stress/end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/NiFi.scala" timestamp="1472563882203">
-        <mark key="[" line="18" column="2" />
-      </file>
       <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/stress/step_definitions/package.scala" timestamp="1474017029715">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="C:/work/nifi-end-to-end-testing/src/main/scala/com/barclays/step_definitions/InstallNiFi.scala" timestamp="1474369228581">
-        <mark key="[" line="10" column="62" />
       </file>
       <file name="C:/work/sla-configurer/feed-instance-svc/src/main/scala/com/barclays/treasury/feed/instance/repository/InstanceRepository.scala" timestamp="1473075134783">
         <mark key="[" line="35" column="6" />
@@ -584,9 +533,6 @@
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
         <mark key="^" line="3" column="6" />
-      </file>
-      <file name="/fragment.java" timestamp="1474364633375">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
