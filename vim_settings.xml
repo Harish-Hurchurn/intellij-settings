@@ -323,10 +323,10 @@
         <mark key="." line="23" column="57" />
         <mark key="^" line="23" column="57" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" timestamp="1474794136048">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" timestamp="1475307667344">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterTwoSpec.scala" timestamp="1451658167868">
         <mark key="[" line="3" column="0" />
@@ -482,8 +482,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAxLnNvbWUgPT09IE5vbmUK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICBkZWYgZGl2aWRlOiBUcnlbSW50XSA9IHsKICAgIHZhbCBkaXZpZGVuZCA9IFRyeShTdGRJbi5yZWFkTGluZSgiRW50ZXIgYW4gSW50IHRoYXQgeW91J2QgbGlrZSB0byBkaXZpZGU6XG4iKS50b0ludCkKICAgIHZhbCBkaXZpc29yID0gVHJ5KFN0ZEluLnJlYWRMaW5lKCJFbnRlciBhbiBJbnQgdGhhdCB5b3UnZCBsaWtlIHRvIGRpdmlkZSBieTpcbiIpLnRvSW50KQogICAgdmFsIHByb2JsZW0gPSBkaXZpZGVuZC5mbGF0TWFwKHggPT4gZGl2aXNvci5tYXAoeSA9PiB4L3kpKQogICAgcHJvYmxlbSBtYXRjaCB7CiAgICAgIGNhc2UgU3VjY2Vzcyh2KSA9PgogICAgICAgIHByaW50bG4oIlJlc3VsdCBvZiAiICsgZGl2aWRlbmQuZ2V0ICsgIi8iKyBkaXZpc29yLmdldCArIiBpczogIiArIHYpCiAgICAgICAgU3VjY2Vzcyh2KQogICAgICBjYXNlIEZhaWx1cmUoZSkgPT4KICAgICAgICBwcmludGxuKCJZb3UgbXVzdCd2ZSBkaXZpZGVkIGJ5IHplcm8gb3IgZW50ZXJlZCBzb21ldGhpbmcgdGhhdCdzIG5vdCBhbiBJbnQuIFRyeSBhZ2FpbiEiKQogICAgICAgIHByaW50bG4oIkluZm8gZnJvbSB0aGUgZXhjZXB0aW9uOiAiICsgZS5nZXRNZXNzYWdlKQogICAgICAgIGRpdmlkZQog</text>
       </register>
       <register name="-" type="4">
         <text>import cats.implicits._</text>
@@ -497,32 +497,32 @@
   x.show
 }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAxLnNvbWUgPT09IE5vbmUK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBkZWYgZGl2aWRlOiBUcnlbSW50XSA9IHsKICAgIHZhbCBkaXZpZGVuZCA9IFRyeShTdGRJbi5yZWFkTGluZSgiRW50ZXIgYW4gSW50IHRoYXQgeW91J2QgbGlrZSB0byBkaXZpZGU6XG4iKS50b0ludCkKICAgIHZhbCBkaXZpc29yID0gVHJ5KFN0ZEluLnJlYWRMaW5lKCJFbnRlciBhbiBJbnQgdGhhdCB5b3UnZCBsaWtlIHRvIGRpdmlkZSBieTpcbiIpLnRvSW50KQogICAgdmFsIHByb2JsZW0gPSBkaXZpZGVuZC5mbGF0TWFwKHggPT4gZGl2aXNvci5tYXAoeSA9PiB4L3kpKQogICAgcHJvYmxlbSBtYXRjaCB7CiAgICAgIGNhc2UgU3VjY2Vzcyh2KSA9PgogICAgICAgIHByaW50bG4oIlJlc3VsdCBvZiAiICsgZGl2aWRlbmQuZ2V0ICsgIi8iKyBkaXZpc29yLmdldCArIiBpczogIiArIHYpCiAgICAgICAgU3VjY2Vzcyh2KQogICAgICBjYXNlIEZhaWx1cmUoZSkgPT4KICAgICAgICBwcmludGxuKCJZb3UgbXVzdCd2ZSBkaXZpZGVkIGJ5IHplcm8gb3IgZW50ZXJlZCBzb21ldGhpbmcgdGhhdCdzIG5vdCBhbiBJbnQuIFRyeSBhZ2FpbiEiKQogICAgICAgIHByaW50bG4oIkluZm8gZnJvbSB0aGUgZXhjZXB0aW9uOiAiICsgZS5nZXRNZXNzYWdlKQogICAgICAgIGRpdmlkZQog</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmludGxuKDEwLnNob3cpCg==</text>
+        <text encoding="base64">ICAxLnNvbWUgPT09IE5vbmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAoU29tZSgxMCk6IE9wdGlvbltJbnRdKSA9PT0gKE5vbmU6IE9wdGlvbltJbnRdKQo=</text>
+        <text encoding="base64">ICBwcmludGxuKDEwLnNob3cpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcmludGxuKDEwID0hPSAxMCkK</text>
+        <text encoding="base64">ICAoU29tZSgxMCk6IE9wdGlvbltJbnRdKSA9PT0gKE5vbmU6IE9wdGlvbltJbnRdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcmludGxuKDEwID09PSAxMCkK</text>
+        <text encoding="base64">ICBwcmludGxuKDEwID0hPSAxMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBrZXJuZWwuRXFbSW50XQo=</text>
+        <text encoding="base64">ICBwcmludGxuKDEwID09PSAxMCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcmludGxuKHguc2hvdykK</text>
+        <text encoding="base64">ICBrZXJuZWwuRXFbSW50XQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWwgeCA9IG5ldyBEYXRlKCkK</text>
+        <text encoding="base64">ICBwcmludGxuKHguc2hvdykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgeCA9IG5ldyBEYXRlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
