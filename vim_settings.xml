@@ -125,9 +125,12 @@
         <mark key="." line="12" column="60" />
         <mark key="^" line="12" column="60" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_LDB.xml" timestamp="1475497597514">
+      <file name="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_LDB.xml" timestamp="1475500774533">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="120" column="51" />
+        <mark key="]" line="129" column="22" />
+        <mark key="^" line="129" column="22" />
+        <mark key="." line="129" column="22" />
       </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
@@ -468,7 +471,7 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475496310461">
+      <file name="/Dummy.txt" timestamp="1475500782799">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
