@@ -122,6 +122,9 @@
         <mark key="." line="12" column="60" />
         <mark key="^" line="12" column="60" />
       </file>
+      <file name="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_LDB.xml" timestamp="1475496280387">
+        <mark key="'" line="191" column="63" />
+      </file>
       <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1471515598482">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="18" />
@@ -345,12 +348,12 @@
         <mark key="^" line="3" column="9" />
         <mark key="." line="3" column="9" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_IDLU.xml" timestamp="1475484198268">
-        <mark key="'" line="197" column="41" />
+      <file name="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_IDLU.xml" timestamp="1475495890706">
+        <mark key="'" line="6791" column="93" />
         <mark key="[" line="120" column="51" />
-        <mark key="]" line="6991" column="64" />
-        <mark key="^" line="6991" column="64" />
-        <mark key="." line="6991" column="64" />
+        <mark key="]" line="20733" column="64" />
+        <mark key="^" line="20733" column="64" />
+        <mark key="." line="20733" column="64" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/batching-bundle/pom.xml" timestamp="1471515650652">
         <mark key="[" line="7" column="22" />
@@ -608,6 +611,10 @@
       <jump line="23" column="27" filename="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_IDLU.xml" />
       <jump line="141" column="24" filename="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_IDLU.xml" />
       <jump line="197" column="41" filename="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_IDLU.xml" />
+      <jump line="5719" column="28" filename="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_IDLU.xml" />
+      <jump line="0" column="0" filename="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_IDLU.xml" />
+      <jump line="6791" column="93" filename="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_IDLU.xml" />
+      <jump line="191" column="63" filename="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_LDB.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
