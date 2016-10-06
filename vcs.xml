@@ -10,6 +10,10 @@
           <option name="url" value="ssh://git@stash.barcapint.com:7999/ib_func_tsy/fiscus-ingestor.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@stash.barcapint.com:7999/ib_func_tsy/feedmanagement-common.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\work" />
