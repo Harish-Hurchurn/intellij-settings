@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-hive-bundle/nifi-hive-processors/pom.xml" timestamp="1471516391846">
@@ -60,7 +60,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/common/nifi-api-deploy/NiFiDeploy.groovy" timestamp="1475832347381" />
+      <file name="C:/work/fiscus-ingestor/installer/common/nifi-api-deploy/NiFiDeploy.groovy" timestamp="1475848731290" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471518380844">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
