@@ -60,6 +60,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="C:/work/fiscus-ingestor/installer/common/nifi-api-deploy/NiFiDeploy.groovy" timestamp="1475831513344" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471518380844">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -161,7 +162,6 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="C:/work/fiscus-ingestor/pom.xml" timestamp="1475740674811" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-executesql-bundle/nifi-executesql-processor/pom.xml" timestamp="1471516353828">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="22" />
@@ -172,13 +172,14 @@
         <mark key="]" line="18" column="37" />
         <mark key="." line="18" column="37" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/common/install-scripts/first_create-flows-from-template.sh" timestamp="1475598771180" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-solace-bundle/nifi-solace-nar/pom.xml" timestamp="1471515825751">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
       </file>
-      <file name="C:/work/cucumber-plugin/build.sbt" timestamp="1475760179980" />
+      <file name="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_COVAR.xml" timestamp="1475831707115">
+        <mark key="'" line="57" column="75" />
+      </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/resources/IsNiFiRunningErrorFree.feature" timestamp="1472572735649">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -194,7 +195,6 @@
         <mark key="]" line="42" column="18" />
         <mark key="." line="42" column="18" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.11-sources.jar!/sbt/Keys.scala" timestamp="1475759996997" />
       <file name="C:/work/nifi-end-to-end-testing/src/main/resources/feature_files/Installer/5_Cleanup.feature" timestamp="1474371703383">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -353,6 +353,8 @@
       <jump line="29" column="93" filename="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_IDLU.xml" />
       <jump line="10156" column="60" filename="C:/work/fiscus-ingestor/installer/common/flow-templates/test.xml" />
       <jump line="5386" column="35" filename="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_IDLU.xml" />
+      <jump line="4293" column="60" filename="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_COVAR.xml" />
+      <jump line="57" column="75" filename="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_COVAR.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
