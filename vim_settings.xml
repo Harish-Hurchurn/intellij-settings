@@ -9,10 +9,10 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/json/JsonWriter.scala" timestamp="1476522062432">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/json/JsonWriter.scala" timestamp="1476524316178">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Either.scala" timestamp="1458466394933">
         <mark key="[" line="33" column="49" />
@@ -95,6 +95,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/json/DefaultWriters.scala" timestamp="1476524860409">
+        <mark key="[" line="4" column="22" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/Chaptersix.scala" timestamp="1460893144969">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="13" column="0" />
@@ -106,6 +109,12 @@
         <mark key="]" line="8" column="66" />
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/.gitignore" timestamp="1476525044222">
+        <mark key="[" line="31" column="6" />
+        <mark key="]" line="31" column="6" />
+        <mark key="^" line="31" column="6" />
+        <mark key="." line="31" column="6" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/sbt-maven-plugin/build.sbt" timestamp="1448793300581">
         <mark key="[" line="27" column="69" />
@@ -251,7 +260,7 @@
         <mark key="]" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/json/JsonSyntax.scala" timestamp="1476522698619">
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/json/JsonSyntax.scala" timestamp="1476524881156">
         <mark key="[" line="4" column="46" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -273,6 +282,7 @@
         <mark key="." line="9" column="45" />
         <mark key="^" line="9" column="2" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/test/scala/JsonTest.scala" timestamp="1476524122011" />
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Printable.scala" timestamp="1472384705806">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -364,6 +374,9 @@
         <mark key="[" line="284" column="39" />
         <mark key="]" line="284" column="40" />
         <mark key="." line="284" column="40" />
+      </file>
+      <file name="/fragment.java" timestamp="1476524721435">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/project/build.properties" timestamp="1448193779691">
         <mark key="[" line="0" column="18" />
@@ -465,12 +478,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/**
-  * Created by harish on 15/10/2016.
-  */</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>augment</text>
