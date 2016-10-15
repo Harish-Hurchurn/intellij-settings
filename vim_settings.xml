@@ -98,6 +98,12 @@
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/json/DefaultWriters.scala" timestamp="1476524860409">
         <mark key="[" line="4" column="22" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/test/scala/co/ioctl/chapterone/json/JsonTest.scala" timestamp="1476525477235">
+        <mark key="[" line="32" column="1" />
+        <mark key="]" line="32" column="1" />
+        <mark key="^" line="32" column="1" />
+        <mark key="." line="32" column="1" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/fpinscala/src/main/scala/co/ioctl/Chaptersix.scala" timestamp="1460893144969">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="13" column="0" />
@@ -181,6 +187,11 @@
         <mark key="." line="28" column="44" />
         <mark key="^" line="28" column="44" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/printable/PrintDefaults.scala" timestamp="1476526751187">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/avro-generator/src/test/scala/com/profile/customer/data/generator/GeneratorTest.scala" timestamp="1450954283130">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="70" column="0" />
@@ -260,10 +271,10 @@
         <mark key="]" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/json/JsonSyntax.scala" timestamp="1476524881156">
-        <mark key="[" line="4" column="46" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/json/JsonSyntax.scala" timestamp="1476526546273">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/CakePattern/src/main/scala/Users.scala" timestamp="1471763880526">
         <mark key="[" line="0" column="0" />
@@ -282,7 +293,6 @@
         <mark key="." line="9" column="45" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/test/scala/JsonTest.scala" timestamp="1476524122011" />
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Printable.scala" timestamp="1472384705806">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -326,6 +336,11 @@
         <mark key="[" line="6" column="59" />
         <mark key="]" line="6" column="4" />
         <mark key="." line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/printable/Printable.scala" timestamp="1476526667956">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/test/scala/co/ioctl/ChapterTwoSpec.scala" timestamp="1451658167868">
         <mark key="[" line="3" column="0" />
@@ -477,52 +492,55 @@
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>§</text>
       </register>
       <register name="/" type="4">
         <text>augment</text>
       </register>
       <register name="0" type="4">
-        <text>object Main extends App {
-  val x = Cat(&quot;Moggy&quot;, 1, &quot;White&quot;)
-  x.show
-}</text>
+        <text>def toJson(implicit writer: JsonWriter[A]): Json = {
+      writer.write(value)
+    }</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>/**
   * Created by harish on 15/10/2016.
   */</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ci8qKgogICogQ3JlYXRlZCBieSBoYXJpc2ggb24gMTUvMTAvMjAxNi4KICAqLw==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGhhcmlzaCBvbiAxNS8xMC8yMDE2Lgog</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGhhcmlzaCBvbiAxNS8xMC8yMDE2Lgog</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgRXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuICAgIHMiIgo=</text>
+      <register name="4" type="4">
+        <text>/**
+  * Created by harish on 15/10/2016.
+  */</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">c3MK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgLyoKICAqIGNsYXNzIEpzb25Xcml0ZXJbQV0odmFsdWU6IEEpIHsKICAqZGVmIHRvSnNvbihpbXBsaWNpdCB3cml0ZXI6IEpzb25Xcml0ZXJbQV0pOiBKc29uID0gewogICAgICB3cml0ZXIud3JpdGUodmFsdWUpCiAgICB9CiAgKiB9CiAgKgogICogaW1wbGljaXQgZmluYWwgZGVmIFJpY2hJbnQobjogSW50KTogUmljaEludCA9IG5ldyBSaWNoSW50KG4pCiAgKiBpbXBsaWNpdCBmaW5hbCBkZWYgSnNvbldyaXRlck9wc1tBXSh2YWx1ZTogQSk6IEpzb25Xcml0ZXJPcHNbQV0gPSBuZXcgSnNvbldyaXRlck9wcyh2YWx1ZSkKICAqICov</text>
+      </register>
+      <register name="7" type="4">
+        <text>/**
+  * Created by harish on 15/10/2016.
+  */</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">Ci8qKgogICogQ3JlYXRlZCBieSBoYXJpc2ggb24gMTUvMTAvMjAxNi4KICAqLw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuc3ludGF4LnNob3cuXwo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set number</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -562,8 +580,8 @@
         <entry>m 7</entry>
         <entry>m 6</entry>
         <entry>m 5</entry>
-        <entry>w</entry>
         <entry>set number</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
