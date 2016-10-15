@@ -9,8 +9,10 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="/a.dummy" timestamp="1457269833315">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/json/JsonWriter.scala" timestamp="1476522062432">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chapterfour/Either.scala" timestamp="1458466394933">
         <mark key="[" line="33" column="49" />
@@ -51,9 +53,6 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/dev/cucumber/cucumber-plugin/src/main/scala/com/waioeka/sbt/CucumberParameters.scala" timestamp="1460795001320">
-        <mark key="[" line="39" column="31" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/Testing/src/main/scala/Test.scala" timestamp="1449682135166">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -91,12 +90,6 @@
         <mark key="^" line="73" column="3" />
         <mark key="." line="73" column="3" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/assembly.sbt" timestamp="1448796091319">
-        <mark key="[" line="0" column="56" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-dependency-graph].sbt" timestamp="1448813779929">
-        <mark key="[" line="1" column="66" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/TestingNifi/src/main/scala/JsonProcessor.scala" timestamp="1448804629715">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -124,9 +117,6 @@
         <mark key="[" line="121" column="25" />
         <mark key="]" line="121" column="54" />
         <mark key="." line="121" column="54" />
-      </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/sbt-maven-plugin/src/main/scala/com/github/shivawu/sbt/maven/MavenPlugin.scala" timestamp="1448793665600">
-        <mark key="[" line="18" column="51" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/CakePattern/src/main/scala/UserRepository.scala" timestamp="1471763786916">
         <mark key="[" line="3" column="0" />
@@ -182,9 +172,6 @@
         <mark key="." line="28" column="44" />
         <mark key="^" line="28" column="44" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi3cdpflow/project/plugins.sbt" timestamp="1448706460857">
-        <mark key="[" line="0" column="2" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/avro-generator/src/test/scala/com/profile/customer/data/generator/GeneratorTest.scala" timestamp="1450954283130">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="70" column="0" />
@@ -232,9 +219,6 @@
         <mark key="." line="21" column="58" />
         <mark key="^" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/SelfTypes/src/main/scala/Test.scala" timestamp="1471719409314">
-        <mark key="[" line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advanced-scale-with-cats/src/main/scala/co/ioctl/chapterone/PrintDefaults.scala" timestamp="1472382074959">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="3" column="4" />
@@ -267,6 +251,11 @@
         <mark key="]" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/json/JsonSyntax.scala" timestamp="1476522561839">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/CakePattern/src/main/scala/Users.scala" timestamp="1471763880526">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -278,11 +267,11 @@
         <mark key="^" line="6" column="69" />
         <mark key="." line="6" column="69" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/work/barclays/Nifi/project/maven-sbt.sbt" timestamp="1448795840580">
-        <mark key="[" line="0" column="74" />
-      </file>
-      <file name="$USER_HOME$/work/src/avro-generator/build.sbt" timestamp="1454952746416">
-        <mark key="[" line="13" column="31" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/json/JsonWriters.scala" timestamp="1476522331846">
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="9" column="45" />
+        <mark key="." line="9" column="45" />
+        <mark key="^" line="9" column="2" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Printable.scala" timestamp="1472384705806">
         <mark key="[" line="2" column="0" />
@@ -340,9 +329,6 @@
         <mark key="." line="8" column="39" />
         <mark key="^" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/git/github/dev/fpinscala/src/main/scala/co/ioctl/chapterseven/Par.scala" timestamp="1464620405611">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/functional-programming-in-scala/src/main/scala/co/ioctl/chaptertwo/playground.sc" timestamp="1451488201806">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -353,9 +339,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/barclays/src/avro-generator/src/main/scala/com/profile/customer/data/covnertor/avro/AvroDefaultsGenerator.scala" timestamp="1454241376694">
-        <mark key="[" line="31" column="39" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/PrintSyntax.scala" timestamp="1472471486548">
         <mark key="[" line="8" column="8" />
@@ -376,9 +359,6 @@
         <mark key="[" line="14" column="2" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1471762034584">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/ioctl.co/barclays/src/avro-generator/src/main/scala/com/profile/customer/data/MainApp.scala" timestamp="1454242668849">
         <mark key="[" line="284" column="39" />
@@ -485,10 +465,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>“</text>
+        <text encoding="base64">Ci8qKgogICogQ3JlYXRlZCBieSBoYXJpc2ggb24gMTUvMTAvMjAxNi4KICAqLw==</text>
       </register>
       <register name="-" type="4">
-        <text>“</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>augment</text>
@@ -499,32 +479,32 @@
   x.show
 }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ci8qKgogICogQ3JlYXRlZCBieSBoYXJpc2ggb24gMTUvMTAvMjAxNi4KICAqLw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgRXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuICAgIHMiIgo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuc3ludGF4LnNob3cuXwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGhhcmlzaCBvbiAxNS8xMC8yMDE2Lgog</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuaW5zdGFuY2VzLmludC5fCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">b2JqZWN0IFRlc3QgZXh0ZW5kcyBBcHAgewp9Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGhhcmlzaCBvbiAxNS8xMC8yMDE2Lgog</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzaG93SW50LnNob3coMTIzKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgRXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuICAgIHMiIgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWwgc2hvd1N0cmluZyA9IFNob3cuYXBwbHlbU3RyaW5nXQo=</text>
+        <text encoding="base64">aW1wb3J0IGNhdHMuc3ludGF4LnNob3cuXwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgc2hvd0ludCA9IFNob3cuYXBwbHlbSW50XQo=</text>
+        <text encoding="base64">aW1wb3J0IGNhdHMuaW5zdGFuY2VzLmludC5fCg==</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
