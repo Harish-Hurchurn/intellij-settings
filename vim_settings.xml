@@ -261,11 +261,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/test/scala/co/ioctl/chapterone/catprintable/CatPrintableSpec.scala" timestamp="1476529985900">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="31" />
-        <mark key="^" line="10" column="22" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/test/scala/co/ioctl/chapterone/catprintable/CatPrintableSpec.scala" timestamp="1476619009045">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="99" />
+        <mark key="." line="6" column="99" />
+        <mark key="^" line="6" column="99" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Print.scala" timestamp="1475401938708">
         <mark key="[" line="4" column="27" />
@@ -414,11 +414,11 @@
       <file name="/fragment.java" timestamp="1476524721435">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/catprintable/CatPrintable.scala" timestamp="1476615687903">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="19" column="41" />
-        <mark key="." line="19" column="41" />
-        <mark key="^" line="19" column="41" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/catprintable/CatPrintable.scala" timestamp="1476618820860">
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="28" column="1" />
+        <mark key="." line="28" column="1" />
+        <mark key="^" line="11" column="1" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/project/build.properties" timestamp="1448193779691">
         <mark key="[" line="0" column="18" />
@@ -520,46 +520,48 @@
       <jump line="4" column="3" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/printable/PrintSyntax.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>//    Cat(&quot;&quot;, 1, &quot;&quot;).show</text>
       </register>
       <register name="-" type="4">
-        <text>show[Cat] {</text>
+        <text>//    Cat(&quot;&quot;, 1, &quot;&quot;).show</text>
       </register>
       <register name="/" type="4">
         <text>augment</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;&quot;&quot;When called with Print.print(10)&quot;&quot;&quot; should &quot;&quot;&quot;print 10 to the console&quot;&quot;&quot; in {
-    val x = Print.print(10) shouldBe &quot;10&quot;
+        <text>&quot;&quot;&quot;When passed a Cat(&quot;Moggy&quot;, 1, &quot;White&quot;)&quot;&quot;&quot; should &quot;&quot;&quot;print Moggy is a 1 year-old White cat&quot;&quot;&quot; in {
+    import CatPrintable._
+    val cat = Cat(&quot;Moggy&quot;, 1, &quot;White&quot;)
+    Print.format(cat) shouldBe &quot;Moggy is 1 year-old White cat&quot;
   }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgpvYmplY3QgTWFpbiBleHRlbmRzIEFwcCB7CiAgaW1wb3J0IENhdFByaW50YWJsZS5fCiAgcHJpbnRsbihDYXQoIiIsIDEsICIiKS5zaG93KQp9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBpbXBvcnQgQ2F0UHJpbnRhYmxlLl8KICAgIHZhbCBjYXQgPSBDYXQoIk1vZ2d5IiwgMSwgIldoaXRlIikuc2hvdwogICAgY2F0IHNob3VsZEJlICJNb2dneSBpcyAxIHllYXItb2xkIFdoaXRlIGNhdCI=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgY2F0U2hvd1ByaW50YWJsZSA9IG5ldyBTaG93LnNob3cK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIENhdCgiTW9nZ3kiLCAxLCAiV2hpdGUiKS5zaG93Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGQgIG5ldyBTaG93LnNob3cK</text>
+        <text encoding="base64">ICAiIiJXaGVuIHBhc3NlZCBhIEPCp2F0KCJNb2dneSIsIDEsICJXaGl0ZSIpIiIiIHNob3VsZCAiIiJwcmludCBNb2dneSBpcyBhIDEgeWVhci1vbGQgV2hpdGUgY2F0IiIiIGluIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuU2hvdwo=</text>
+        <text encoding="base64">ICAgIGNhdC5zaG93IHNob3VsZEJlICJNb2dneSBpcyAxIHllYXItb2xkIFdoaXRlIGNhdCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgY2F0U2hvd1ByaW50YWJsZSA9IG5ldyBTaG93LnNob3dbQ2F0XSB7IGNhdCA9Pgo=</text>
+        <text encoding="base64">ICAgIENhdCgiTW9nZ3kiLCAxLCAiV2hpdGUiKQogICAgY2F0LnNob3cgc2hvdWxkQmUgIk1vZ2d5IGlzIDEgeWVhci1vbGQgV2hpdGUgY2F0Igo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wZGTCp29ydCBjYXRzLnN5bnRheC5zaG93Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">LnNob3dbQ2F0XSB7IGNhdCA9PgogICAgdmFsIG5hbWUgPSBjYXQubmFtZS5zaG93CiAgICB2YWwgYWdlID0gY2F0LmFnZS5zaG93CiAgICB2YWwgY29sb3IgPSBjYXQuY29sb3Iuc2hvdwogIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
