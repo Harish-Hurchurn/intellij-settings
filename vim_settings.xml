@@ -413,11 +413,10 @@
       <file name="/fragment.java" timestamp="1476524721435">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/catprintable/CatPrintable.scala" timestamp="1476618820860">
-        <mark key="[" line="28" column="1" />
-        <mark key="]" line="28" column="1" />
-        <mark key="." line="28" column="1" />
-        <mark key="^" line="11" column="1" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/catprintable/CatPrintable.scala" timestamp="1476626034868">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/project/build.properties" timestamp="1448193779691">
         <mark key="[" line="0" column="18" />
@@ -520,7 +519,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBjYXRzLmltcGxpY2l0cy5fCg==</text>
+        <text encoding="base64">ICAgIDEuc29tZQo=</text>
       </register>
       <register name="-" type="4">
         <text>//    Cat(&quot;&quot;, 1, &quot;&quot;).show</text>
@@ -536,31 +535,31 @@
   }</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIDEuc29tZQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBjYXRzLmltcGxpY2l0cy5fCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CgpvYmplY3QgTWFpbiBleHRlbmRzIEFwcCB7CiAgaW1wb3J0IENhdFByaW50YWJsZS5fCiAgcHJpbnRsbihDYXQoIiIsIDEsICIiKS5zaG93KQp9</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICBpbXBvcnQgQ2F0UHJpbnRhYmxlLl8KICAgIHZhbCBjYXQgPSBDYXQoIk1vZ2d5IiwgMSwgIldoaXRlIikuc2hvdwogICAgY2F0IHNob3VsZEJlICJNb2dneSBpcyAxIHllYXItb2xkIFdoaXRlIGNhdCI=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIENhdCgiTW9nZ3kiLCAxLCAiV2hpdGUiKS5zaG93Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAiIiJXaGVuIHBhc3NlZCBhIEPCp2F0KCJNb2dneSIsIDEsICJXaGl0ZSIpIiIiIHNob3VsZCAiIiJwcmludCBNb2dneSBpcyBhIDEgeWVhci1vbGQgV2hpdGUgY2F0IiIiIGluIHsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNhdC5zaG93IHNob3VsZEJlICJNb2dneSBpcyAxIHllYXItb2xkIFdoaXRlIGNhdCIK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENhdCgiTW9nZ3kiLCAxLCAiV2hpdGUiKQogICAgY2F0LnNob3cgc2hvdWxkQmUgIk1vZ2d5IGlzIDEgeWVhci1vbGQgV2hpdGUgY2F0Igo=</text>
+        <text encoding="base64">ICAgIGNhdC5zaG93IHNob3VsZEJlICJNb2dneSBpcyAxIHllYXItb2xkIFdoaXRlIGNhdCIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
