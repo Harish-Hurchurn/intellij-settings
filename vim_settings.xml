@@ -261,10 +261,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/test/scala/co/ioctl/chapterone/catprintable/CatPrintableSpec.scala" timestamp="1476621094445">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/test/scala/co/ioctl/chapterone/catprintable/CatPrintableSpec.scala" timestamp="1476630458884">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="11" column="56" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Print.scala" timestamp="1475401938708">
         <mark key="[" line="4" column="27" />
@@ -413,10 +414,10 @@
       <file name="/fragment.java" timestamp="1476524721435">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/catprintable/CatPrintable.scala" timestamp="1476626034868">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/catprintable/CatPrintable.scala" timestamp="1476630006749">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/dev/scala/unattended-coding-exercises/UnattendedCodingExercise/project/build.properties" timestamp="1448193779691">
         <mark key="[" line="0" column="18" />
@@ -519,10 +520,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDEuc29tZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>//    Cat(&quot;&quot;, 1, &quot;&quot;).show</text>
+        <text>”</text>
       </register>
       <register name="/" type="4">
         <text>augment</text>
@@ -535,31 +536,31 @@
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDEuc29tZQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBjYXRzLmltcGxpY2l0cy5fCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgpvYmplY3QgTWFpbiBleHRlbmRzIEFwcCB7CiAgaW1wb3J0IENhdFByaW50YWJsZS5fCiAgcHJpbnRsbihDYXQoIiIsIDEsICIiKS5zaG93KQp9</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBpbXBvcnQgQ2F0UHJpbnRhYmxlLl8KICAgIHZhbCBjYXQgPSBDYXQoIk1vZ2d5IiwgMSwgIldoaXRlIikuc2hvdwogICAgY2F0IHNob3VsZEJlICJNb2dneSBpcyAxIHllYXItb2xkIFdoaXRlIGNhdCI=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEV4Y2VycHQgRnJvbTogTm9lbCBXZWxzaCBhbmQgRGF2ZSBHdXJuZWxsLiDigJxBZHZhbmNlZCBTY2FsYS7igJ0gaUJvb2tzLgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNhdHMua2VybmVsLkVxCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDEuc29tZQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENhdCgiTW9nZ3kiLCAxLCAiV2hpdGUiKS5zaG93Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBjYXRzLmltcGxpY2l0cy5fCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAiIiJXaGVuIHBhc3NlZCBhIEPCp2F0KCJNb2dneSIsIDEsICJXaGl0ZSIpIiIiIHNob3VsZCAiIiJwcmludCBNb2dneSBpcyBhIDEgeWVhci1vbGQgV2hpdGUgY2F0IiIiIGluIHsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgpvYmplY3QgTWFpbiBleHRlbmRzIEFwcCB7CiAgaW1wb3J0IENhdFByaW50YWJsZS5fCiAgcHJpbnRsbihDYXQoIiIsIDEsICIiKS5zaG93KQp9</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhdC5zaG93IHNob3VsZEJlICJNb2dneSBpcyAxIHllYXItb2xkIFdoaXRlIGNhdCIK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICBpbXBvcnQgQ2F0UHJpbnRhYmxlLl8KICAgIHZhbCBjYXQgPSBDYXQoIk1vZ2d5IiwgMSwgIldoaXRlIikuc2hvdwogICAgY2F0IHNob3VsZEJlICJNb2dneSBpcyAxIHllYXItb2xkIFdoaXRlIGNhdCI=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
