@@ -98,6 +98,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chaptertwo/Monoid.scala" timestamp="1476633625368">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/json/DefaultWriters.scala" timestamp="1476524860409">
         <mark key="[" line="4" column="22" />
       </file>
@@ -411,7 +416,7 @@
         <mark key="]" line="284" column="40" />
         <mark key="." line="284" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1476524721435">
+      <file name="/fragment.java" timestamp="1476633486230">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/catprintable/CatPrintable.scala" timestamp="1476630006749">
@@ -519,8 +524,10 @@
       <jump line="4" column="3" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/printable/PrintSyntax.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/**
+  * Created by harish on 16/10/2016.
+  */</text>
       </register>
       <register name="-" type="4">
         <text>”</text>
@@ -535,32 +542,34 @@
     Print.format(cat) shouldBe &quot;Moggy is 1 year-old White cat&quot;
   }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>/**
+  * Created by harish on 16/10/2016.
+  */</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEV4Y2VycHQgRnJvbTogTm9lbCBXZWxzaCBhbmQgRGF2ZSBHdXJuZWxsLiDigJxBZHZhbmNlZCBTY2FsYS7igJ0gaUJvb2tzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMua2VybmVsLkVxCg==</text>
+        <text encoding="base64">ICAgIEV4Y2VycHQgRnJvbTogTm9lbCBXZWxzaCBhbmQgRGF2ZSBHdXJuZWxsLiDigJxBZHZhbmNlZCBTY2FsYS7igJ0gaUJvb2tzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhdHMua2VybmVsLkVxCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDEuc29tZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIDEuc29tZQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBjYXRzLmltcGxpY2l0cy5fCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgpvYmplY3QgTWFpbiBleHRlbmRzIEFwcCB7CiAgaW1wb3J0IENhdFByaW50YWJsZS5fCiAgcHJpbnRsbihDYXQoIiIsIDEsICIiKS5zaG93KQp9</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBpbXBvcnQgQ2F0UHJpbnRhYmxlLl8KICAgIHZhbCBjYXQgPSBDYXQoIk1vZ2d5IiwgMSwgIldoaXRlIikuc2hvdwogICAgY2F0IHNob3VsZEJlICJNb2dneSBpcyAxIHllYXItb2xkIFdoaXRlIGNhdCI=</text>
+        <text encoding="base64">CgpvYmplY3QgTWFpbiBleHRlbmRzIEFwcCB7CiAgaW1wb3J0IENhdFByaW50YWJsZS5fCiAgcHJpbnRsbihDYXQoIiIsIDEsICIiKS5zaG93KQp9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
