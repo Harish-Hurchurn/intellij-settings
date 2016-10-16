@@ -255,6 +255,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/printable/PrintSyntax.scala" timestamp="1476607864591">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/test/scala/co/ioctl/chapterone/catprintable/CatPrintableSpec.scala" timestamp="1476529985900">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="31" />
@@ -315,10 +321,11 @@
         <mark key="]" line="7" column="34" />
         <mark key="." line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/test/scala/co/ioctl/chapterone/printable/PrintableSpec.scala" timestamp="1476530714741">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/test/scala/co/ioctl/chapterone/printable/PrintableSpec.scala" timestamp="1476607748749">
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="33" column="25" />
+        <mark key="." line="33" column="25" />
+        <mark key="^" line="33" column="25" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/plugin-[sbt-wartremover].sbt" timestamp="1448802916963">
         <mark key="[" line="0" column="61" />
@@ -507,10 +514,22 @@
       <jump line="2" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" />
       <jump line="12" column="3" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" />
+      <jump line="4" column="3" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/printable/PrintSyntax.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBQcmludERlZmF1bHRzLl8K</text>
+      <register name="&quot;" type="4">
+        <text>object PrintSyntax {
+
+  implicit class PrintOps[A](value: A) {
+    def format(implicit printable: Printable[A]): String = {
+      printable.format(value)
+    }
+
+    def print(implicit printable: Printable[A]): Unit = {
+      println(printable.format(value))
+    }
+  }
+}</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -523,32 +542,54 @@
     val x = Print.print(10) shouldBe &quot;10&quot;
   }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBQcmludERlZmF1bHRzLl8K</text>
+      <register name="1" type="4">
+        <text>object PrintSyntax {
+
+  implicit class PrintOps[A](value: A) {
+    def format(implicit printable: Printable[A]): String = {
+      printable.format(value)
+    }
+
+    def print(implicit printable: Printable[A]): Unit = {
+      println(printable.format(value))
+    }
+  }
+}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>}
+      def print(implicit printable: Printable[A]): String = {
+        printable.print(val</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIFByaW50LmZvcm1hdChjYXQpIHNob3VsZEJlICJNb2dneSBpcyAxIHllYXItb2xkIFdoaXRlIGNhdCIK</text>
+      <register name="3" type="4">
+        <text>def format(implicit value: Printable[A]): String = {
+      printable.format(value)
+    }
+
+    def print(: A): String = {
+
+    }
+  }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBjYXQgPSBDYXQoIk1vZ2d5IiwgMSwgIldoaXRlIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBDYXRQcmludGFibGUuXwo=</text>
+      <register name="5" type="4">
+        <text>/**
+  * Created by harish on 16/10/2016.
+  */</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAnJydXaGVuIHBhc3NlZCBhIENhdCgiTW9nZ3kiLCAiMSIsICJXaGl0ZSIpIHNob3VsZCAicHJpbnQgIiIK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBQcmludERlZmF1bHRzLl8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgaGFyaXNoIG9uIDE1LzEwLzIwMTYuCg==</text>
+        <text encoding="base64">ICAgIFByaW50LmZvcm1hdChjYXQpIHNob3VsZEJlICJNb2dneSBpcyAxIHllYXItb2xkIFdoaXRlIGNhdCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIHZhbCBjYXQgPSBDYXQoIk1vZ2d5IiwgMSwgIldoaXRlIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -573,7 +614,6 @@
         <entry>augment</entry>
       </history-search>
       <history-cmd>
-        <entry>e chaptersix/</entry>
         <entry>e</entry>
         <entry>ts</entry>
         <entry>split</entry>
@@ -592,6 +632,7 @@
         <entry>m 5</entry>
         <entry>set number</entry>
         <entry encoding="base64">JzwsJz5tIDEw</entry>
+        <entry encoding="base64">JzwsJz5tIDM1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
