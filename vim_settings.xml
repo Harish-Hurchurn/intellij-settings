@@ -92,8 +92,11 @@
         <mark key="^" line="73" column="3" />
         <mark key="." line="73" column="3" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chaptertwo/MonoidTest.scala" timestamp="1477129722664">
-        <mark key="[" line="4" column="18" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chaptertwo/MonoidTest.scala" timestamp="1477133132842">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/TestingNifi/src/main/scala/JsonProcessor.scala" timestamp="1448804629715">
         <mark key="[" line="0" column="0" />
@@ -527,12 +530,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/**
-  * Created by harish on 16/10/2016.
-  */</text>
+        <text>import cats.Monoid</text>
       </register>
       <register name="-" type="4">
-        <text>”</text>
+        <text>import cats.Monoid</text>
       </register>
       <register name="/" type="4">
         <text>augment</text>
@@ -545,33 +546,31 @@
   }</text>
       </register>
       <register name="1" type="4">
-        <text>/**
-  * Created by harish on 16/10/2016.
-  */</text>
+        <text encoding="base64">Cm9iamVjdCBUZXN0IGV4dGVuZHMgQXBwIHsKICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsKICAgIGltcG9ydCBjYXRzLmltcGxpY2l0cy5fCiAgICBpbXBvcnQgT3JkZXIuXwoKICAgIHZhbCB4ID0gT3JkZXIoMTAwLjAsIDEpCiAgICB2YWwgeSA9IE9yZGVyKDIwMC4wLCAxKQoKICAgIHggfCt8IHkKICB9Cn0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhdHMua2VybmVsLk1vbm9pZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEV4Y2VycHQgRnJvbTogTm9lbCBXZWxzaCBhbmQgRGF2ZSBHdXJuZWxsLiDigJxBZHZhbmNlZCBTY2FsYS7igJ0gaUJvb2tzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMua2VybmVsLkVxCg==</text>
+        <text encoding="base64">Y2FzZSBjbGFzcyBPcmRlcih0b3RhbENvc3Q6IERvdWJsZSwgcXVhbnRpdHk6IFF1YW50aXR5OiBEb3VibGUpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnJlZmxlY3QuaW50ZXJuYWwudXRpbC5TdGF0aXN0aWNzLlF1YW50aXR5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDEuc29tZQo=</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnJlZmxlY3QuaW50ZXJuYWwudXRpbC5TdGF0aXN0aWNzLlF1YW50aXR5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBjYXRzLmltcGxpY2l0cy5fCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgpvYmplY3QgTWFpbiBleHRlbmRzIEFwcCB7CiAgaW1wb3J0IENhdFByaW50YWJsZS5fCiAgcHJpbnRsbihDYXQoIiIsIDEsICIiKS5zaG93KQp9</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnJlZmxlY3QuaW50ZXJuYWwudXRpbC5TdGF0aXN0aWNzLlF1YW50aXR5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
