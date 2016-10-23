@@ -92,11 +92,6 @@
         <mark key="^" line="73" column="3" />
         <mark key="." line="73" column="3" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chaptertwo/MonoidTest.scala" timestamp="1477206518983">
-        <mark key="[" line="10" column="3" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/TestingNifi/src/main/scala/JsonProcessor.scala" timestamp="1448804629715">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -530,10 +525,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">RXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuCg==</text>
+        <text encoding="base64">fWNlcnB0IEZyb206IE5vZWwgV2Vsc2ggYW5kIERhdmUgR3VybmVsbC4g4oCcQWR2YW5jZWQgU2NhbGEu4oCdIGlCb29rcy4K</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>“</text>
       </register>
       <register name="/" type="4">
         <text>augment</text>
@@ -546,39 +541,30 @@
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuCg==</text>
+        <text encoding="base64">fWNlcnB0IEZyb206IE5vZWwgV2Vsc2ggYW5kIERhdmUgR3VybmVsbC4g4oCcQWR2YW5jZWQgU2NhbGEu4oCdIGlCb29rcy4K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICDigJ0K</text>
+      <register name="2" type="4">
+        <text>”
+
+Ex</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBFeGNlcnB0IEZyb206IE5vZWwgV2Vsc2ggYW5kIERhdmUgR3VybmVsbC4g4oCcQWR2YW5jZWQgU2NhbGEu4oCdIGlCb29rcy4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>import cats.Monad
-import cats.syntax.functor._
-import cats.syntax.flatMap._
-import cats.syntax.applicative._
-import scala.language.higherKinds
-
-
-object Test extends App {
-  val sumSquare[A[_] : Monad](a: Int, b: Int): A[Int] = {
-    a.pure[A]
-  }
-}</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IGNhdHMuTW9uYWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB4LmZsYXRNYXAoeCA9PiB4ICsgMSkK</text>
+        <text encoding="base64">RXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgpjYXNlIGNsYXNzIE9yZGVyKHRvdG9sQ29zdDogRG91YmxlLCBxdWFudGl0eTogRG91YmxlKQoKb2JqZWN0IE9yZGVyIHsKICBpbXBvcnQgY2F0cy5Nb25vaWQKCiAgaW1wbGljaXQgdmFsIG9yZGVyU3VtID0gbmV3IE1vbm9pZFtPcmRlcl0gewogICAgb3ZlcnJpZGUgZGVmIGVtcHR5OiBPcmRlciA9IE9yZGVyKDAuMCwgMC4wKQoKICAgIG92ZXJyaWRlIGRlZiBjb21iaW5lKHg6IE9yZGVyLCB5OiBPcmRlcik6IE9yZGVyID0gewogICAgICBuZXcgT3JkZXIoeC50b3RvbENvc3QgKyB5LnRvdG9sQ29zdCwgeC5xdWFudGl0eSArIHkucXVhbnRpdHkpCiAgICB9CiAgfQp9CgpvYmplY3QgTW9ub2lkVGVzdCBleHRlbmRzIEFwcCB7CiAgaW1wb3J0IGNhdHMuaW1wbGljaXRzLl8KCiAgdmFsIHggPSBPcmRlcigxMDAuMCwgMSkKICB2YWwgeSA9IE9yZGVyKDEwMC4wLCAxKQoKICB4IHwrfCB5Cn0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gZGVmaW5lZCBjbGFzcyBGYWlsdXJl4oCdCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Cm9iamVjdCBUZXN0IGV4dGVuZHMgQXBwIHsKICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsKICAgIGltcG9ydCBjYXRzLmltcGxpY2l0cy5fCiAgICBpbXBvcnQgT3JkZXIuXwoKICAgIHZhbCB4ID0gT3JkZXIoMTAwLjAsIDEpCiAgICB2YWwgeSA9IE9yZGVyKDIwMC4wLCAxKQoKICAgIHggfCt8IHkKICB9Cn0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMua2VybmVsLk1vbm9pZAo=</text>
+        <text encoding="base64">Ly8gZGVmaW5lZCBjbGFzcyBXYXJuaW5nCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
