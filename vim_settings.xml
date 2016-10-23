@@ -231,11 +231,22 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/books/akka-in-action/chapter-up-and-running/src/main/scala/com/goticks/Main.scala" timestamp="1477223742241">
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/PrintDefaults.scala" timestamp="1472385973721">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="3" column="6" />
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/books/akka-in-action/chapter-up-and-running/src/main/scala/com/goticks/TicketSeller.scala" timestamp="1477224171111">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/build.sbt" timestamp="1448877254510">
         <mark key="[" line="6" column="33" />
@@ -531,10 +542,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fWNlcnB0IEZyb206IE5vZWwgV2Vsc2ggYW5kIERhdmUgR3VybmVsbC4g4oCcQWR2YW5jZWQgU2NhbGEu4oCdIGlCb29rcy4K</text>
+        <text encoding="base64">CiAgLwo=</text>
       </register>
       <register name="-" type="4">
-        <text>“</text>
+        <text encoding="base64">Ly88Y28gaWQ9Im1hdGNoZ2V0ZXZlbnQiLz4=</text>
       </register>
       <register name="/" type="4">
         <text>augment</text>
@@ -547,36 +558,34 @@
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fWNlcnB0IEZyb206IE5vZWwgV2Vsc2ggYW5kIERhdmUgR3VybmVsbC4g4oCcQWR2YW5jZWQgU2NhbGEu4oCdIGlCb29rcy4K</text>
+        <text encoding="base64">CiAgLwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>”
-
-Ex</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly88ZW5kIGlkPSJjaDAyLXRpY2tldHNlbGxlci1pbXAiLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGNhdHMuTW9uYWQK</text>
+        <text encoding="base64">Ly88c3RhcnQgaWQ9ImNoMDItdGlja2V0c2VsbGVyLWltcCIvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RXhjZXJwdCBGcm9tOiBOb2VsIFdlbHNoIGFuZCBEYXZlIEd1cm5lbGwuIOKAnEFkdmFuY2VkIFNjYWxhLuKAnSBpQm9va3MuCg==</text>
+        <text encoding="base64">Ly88ZW5kIGlkPSJjaDAyLXRpY2tldHNlbGxlci1tZXNzYWdlcyIvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gZGVmaW5lZCBjbGFzcyBGYWlsdXJl4oCdCg==</text>
+        <text encoding="base64">Ly88c3RhcnQgaWQ9ImNoMDItdGlja2V0c2VsbGVyLW1lc3NhZ2VzIi8+Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gZGVmaW5lZCBjbGFzcyBXYXJuaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>m5</text>
       </register>
     </registers>
     <search>
@@ -598,10 +607,6 @@ Ex</text>
         <entry>augment</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
-        <entry>ts</entry>
-        <entry>split</entry>
-        <entry>sp</entry>
         <entry>q!</entry>
         <entry>ws</entry>
         <entry>q</entry>
@@ -618,6 +623,10 @@ Ex</text>
         <entry encoding="base64">JzwsJz5tIDEw</entry>
         <entry encoding="base64">JzwsJz5tIDM1</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5tNA==</entry>
+        <entry>m10</entry>
+        <entry encoding="base64">JzwsJz5tNQ==</entry>
+        <entry>m5</entry>
       </history-cmd>
       <history-expr />
       <history-input />
