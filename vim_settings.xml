@@ -42,10 +42,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/akka-in-action/src/test/scala/SilentActor01Test.scala" timestamp="1477502738985">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/akka-in-action/src/test/scala/SilentActor01Test.scala" timestamp="1477503628947">
+        <mark key="[" line="4" column="2" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" timestamp="1448805270802">
         <mark key="[" line="0" column="0" />
@@ -62,6 +60,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/akka-in-action/src/main/scala/co/ioctl/SimpleActor.scala" timestamp="1477503995409">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="13" column="2" />
+        <mark key="^" line="13" column="2" />
+        <mark key="." line="13" column="2" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/printable/CatPrintable.scala" timestamp="1476528179704">
         <mark key="[" line="2" column="0" />
@@ -140,8 +144,10 @@
         <mark key="^" line="31" column="6" />
         <mark key="." line="31" column="6" />
       </file>
-      <file name="$USER_HOME$/git/github/dev/akka-in-action/build.sbt" timestamp="1477502668340">
-        <mark key="[" line="5" column="3" />
+      <file name="$USER_HOME$/git/github/dev/akka-in-action/build.sbt" timestamp="1477503504408">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/sbt-maven-plugin/build.sbt" timestamp="1448793300581">
         <mark key="[" line="27" column="69" />
@@ -429,6 +435,13 @@
         <mark key="." line="8" column="8" />
         <mark key="^" line="8" column="8" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/akka-in-action/src/test/scala/co/ioctl/SilentActor01Test.scala" timestamp="1477503861812">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi3cdpflow/project/build.properties" timestamp="1448706453010">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
@@ -445,7 +458,7 @@
         <mark key="]" line="284" column="40" />
         <mark key="." line="284" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1476633486230">
+      <file name="/fragment.java" timestamp="1477503778692">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/catprintable/CatPrintable.scala" timestamp="1477130090473">
@@ -552,13 +565,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/Cat.scala" />
       <jump line="4" column="3" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chapterone/printable/PrintSyntax.scala" />
       <jump line="17" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chaptertwo/MonoidTest.scala" />
+      <jump line="20" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/akka-in-action/src/test/scala/co/ioctl/SilentActor01Test.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>val akkaVersion = &quot;2.4.9&quot;</text>
       </register>
       <register name="/" type="4">
         <text>augment</text>
@@ -573,10 +587,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>/**
-  * Created by harish on 26/10/2016.
-  */</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -587,22 +599,24 @@
   */</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgLwo=</text>
+      <register name="6" type="4">
+        <text>/**
+  * Created by harish on 26/10/2016.
+  */</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly88ZW5kIGlkPSJjaDAyLXRpY2tldHNlbGxlci1pbXAiLz4K</text>
+        <text encoding="base64">CiAgLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly88c3RhcnQgaWQ9ImNoMDItdGlja2V0c2VsbGVyLWltcCIvPgo=</text>
+        <text encoding="base64">CiAgLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly88ZW5kIGlkPSJjaDAyLXRpY2tldHNlbGxlci1tZXNzYWdlcyIvPgo=</text>
+        <text encoding="base64">Ly88ZW5kIGlkPSJjaDAyLXRpY2tldHNlbGxlci1pbXAiLz4K</text>
       </register>
       <register name=":" type="4">
-        <text>m5</text>
+        <text>e .</text>
       </register>
     </registers>
     <search>
@@ -624,13 +638,11 @@
         <entry>augment</entry>
       </history-search>
       <history-cmd>
-        <entry>q!</entry>
         <entry>ws</entry>
         <entry>q</entry>
         <entry>hs</entry>
         <entry>help vs</entry>
         <entry>m 0</entry>
-        <entry>vs</entry>
         <entry>e Cats.scala</entry>
         <entry>m 9</entry>
         <entry>m 7</entry>
@@ -644,6 +656,8 @@
         <entry>m10</entry>
         <entry encoding="base64">JzwsJz5tNQ==</entry>
         <entry>m5</entry>
+        <entry>vs</entry>
+        <entry>e .</entry>
       </history-cmd>
       <history-expr />
       <history-input />
