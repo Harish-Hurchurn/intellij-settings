@@ -42,6 +42,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/akka-in-action/src/test/scala/SilentActor01Test.scala" timestamp="1477502738985">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/NifiNARTesting/src/main/scala/JSONProcessor.scala" timestamp="1448805270802">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -135,6 +140,9 @@
         <mark key="^" line="31" column="6" />
         <mark key="." line="31" column="6" />
       </file>
+      <file name="$USER_HOME$/git/github/dev/akka-in-action/build.sbt" timestamp="1477502668340">
+        <mark key="[" line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/sbt-maven-plugin/build.sbt" timestamp="1448793300581">
         <mark key="[" line="27" column="69" />
         <mark key="]" line="27" column="73" />
@@ -213,6 +221,11 @@
         <mark key="]" line="155" column="0" />
         <mark key="^" line="134" column="33" />
         <mark key="." line="155" column="0" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/akka-in-action/src/main/scala/SimpleActor.scala" timestamp="1477502972183">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/merlin/nifi3cdpflow/project/sbt-maven.sbt" timestamp="1448801315666">
         <mark key="[" line="2" column="0" />
@@ -541,11 +554,11 @@
       <jump line="17" column="0" filename="$USER_HOME$/SpiderOak Hive/git/github/dev/advance-scala-with-cats/src/main/scala/co/ioctl/chaptertwo/MonoidTest.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgLwo=</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ly88Y28gaWQ9Im1hdGNoZ2V0ZXZlbnQiLz4=</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>augment</text>
@@ -558,31 +571,35 @@
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgLwo=</text>
+      <register name="2" type="4">
+        <text>/**
+  * Created by harish on 26/10/2016.
+  */</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly88ZW5kIGlkPSJjaDAyLXRpY2tldHNlbGxlci1pbXAiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly88c3RhcnQgaWQ9ImNoMDItdGlja2V0c2VsbGVyLWltcCIvPgo=</text>
+      <register name="4" type="4">
+        <text>/**
+  * Created by harish on 26/10/2016.
+  */</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly88ZW5kIGlkPSJjaDAyLXRpY2tldHNlbGxlci1tZXNzYWdlcyIvPgo=</text>
+        <text encoding="base64">CiAgLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly88c3RhcnQgaWQ9ImNoMDItdGlja2V0c2VsbGVyLW1lc3NhZ2VzIi8+Cg==</text>
+        <text encoding="base64">CiAgLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly88ZW5kIGlkPSJjaDAyLXRpY2tldHNlbGxlci1pbXAiLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly88c3RhcnQgaWQ9ImNoMDItdGlja2V0c2VsbGVyLWltcCIvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly88ZW5kIGlkPSJjaDAyLXRpY2tldHNlbGxlci1tZXNzYWdlcyIvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>m5</text>
