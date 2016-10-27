@@ -435,12 +435,8 @@
         <mark key="." line="8" column="8" />
         <mark key="^" line="8" column="8" />
       </file>
-      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/akka-in-action/src/test/scala/co/ioctl/SilentActor01Test.scala" timestamp="1477503861812">
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/akka-in-action/src/test/scala/co/ioctl/SilentActor01Test.scala" timestamp="1477545208808">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/work/barclays/nifi3cdpflow/project/build.properties" timestamp="1448706453010">
         <mark key="[" line="0" column="17" />
@@ -569,7 +565,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFNpbGVudEFjdG9yLlNpbGVudE1lc3NhZ2UK</text>
       </register>
       <register name="-" type="4">
         <text>val akkaVersion = &quot;2.4.9&quot;</text>
@@ -585,18 +581,16 @@
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFNpbGVudEFjdG9yLlNpbGVudE1lc3NhZ2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGRpbXBvcnQgU2lsZW50QWN0b3IuU2lsZW50TWVzc2FnZQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>/**
-  * Created by harish on 26/10/2016.
-  */</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -607,13 +601,15 @@
   */</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgLwo=</text>
+      <register name="8" type="4">
+        <text>/**
+  * Created by harish on 26/10/2016.
+  */</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly88ZW5kIGlkPSJjaDAyLXRpY2tldHNlbGxlci1pbXAiLz4K</text>
+        <text encoding="base64">CiAgLwo=</text>
       </register>
       <register name=":" type="4">
         <text>e .</text>
