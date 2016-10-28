@@ -1,9 +1,11 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="maven-sbt" type="PLAIN_TEXT" />
-      <mapping pattern="dependency-graph" type="PLAIN_TEXT" />
-      <mapping pattern="AvroFileReader" type="Scala" />
+      <mapping pattern="repositories" type="PLAIN_TEXT" />
+      <mapping pattern="keytab" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="git" type="PLAIN_TEXT" />
+      <mapping ext="files" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
