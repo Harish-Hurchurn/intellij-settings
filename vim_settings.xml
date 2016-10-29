@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-hive-bundle/nifi-hive-processors/pom.xml" timestamp="1471516391846">
@@ -22,7 +22,6 @@
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/scala/collection/mutable/ArrayOps.scala" timestamp="1477739553798" />
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/akka-in-action/SimpleActor/src/main/scala/SimpleActor.scala" timestamp="1477731257630">
         <mark key="[" line="13" column="47" />
         <mark key="]" line="13" column="39" />
@@ -91,6 +90,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/akka-concurrency/BadShakespearianActor/src/main/scala/BadShakespearianActor.scala" timestamp="1477756163196">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="." line="20" column="1" />
+      </file>
       <file name="C:/work/nifi-end-to-end-testing/src/test/scala/com/barclays/stress/step_definitions/InstallNiFi.scala" timestamp="1473948709062">
         <mark key="[" line="24" column="29" />
         <mark key="]" line="25" column="0" />
@@ -134,11 +138,6 @@
       </file>
       <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/Akka-Concurrency/build.sbt" timestamp="1477751036721">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/work/fiscus-ingestor/installer/common/flow-templates/Stress_IDLU.xml" timestamp="1475508333255">
-        <mark key="]" line="20733" column="64" />
-        <mark key="^" line="20733" column="64" />
-        <mark key="." line="20733" column="64" />
       </file>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/batching-bundle/pom.xml" timestamp="1471515650652">
         <mark key="[" line="7" column="22" />
@@ -407,42 +406,41 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ternalState = Array[String]()</text>
+        <text>”</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSdW5uaW5nXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>remove the HDFS and linux directorys created for the tests</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHNlbmQoIkdvb2TCoE1vcm5pbmciKQogICAgc2VuZCgiWW91J3JlwqB0ZXJyaWJsZSIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>/**
-  * Created by harish on 29/10/2016.
-  */</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IGhhcmlzaCBvbiAyOS8xMC8yMDE2Lgog</text>
-      </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHNlbmQoIllvdSdyZcKgdGVycmlibGUiKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHNlbmQoIkdvb2TCoE1vcm5pbmciKQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>send(&quot;Good Morning&quot;)
+    send(&quot;You're terrible&quot;)</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHNpbGVudEFjdG9yID0gc3lzdGVtLmFjdG9yT2YoUHJvcHNbU2ltcGxlQWN0b3JdLCAiczMiKQo=</text>
+        <text encoding="base64">ICAgIHN5c3RlbS50ZXJtaW5hdGUKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW1wb3J0IFNpbGVudEFjdG9yLl8KCg==</text>
+        <text encoding="base64">ICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaW1wb3J0IFNpbGVudEFjdG9yLl8K</text>
+        <text encoding="base64">ICBkZWYgwqAgbWFpbihhcmdzOiDCoCBBcnJheVtTdHJpbmddKSDCoHsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Xwo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>e</text>
