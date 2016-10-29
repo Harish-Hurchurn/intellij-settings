@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/nifi-hive-bundle/nifi-hive-processors/pom.xml" timestamp="1471516391846">
@@ -11,10 +11,22 @@
       <file name="C:/work/fiscus-ingestor/installer/common/service.sh" timestamp="1475595631592">
         <mark key="[" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/akka-in-action/SimpleActor/src/test/scala/SilentActorSpec.scala" timestamp="1477731203484">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="25" column="35" />
+        <mark key="." line="25" column="35" />
+        <mark key="^" line="25" column="35" />
+      </file>
       <file name="C:/work/nifi-utilities/src/main/scala/com/barclays/treasury/fiscus/nifi/status/Status.scala" timestamp="1472738821590">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="4" />
+      </file>
+      <file name="$USER_HOME$/SpiderOak Hive/git/github/dev/akka-in-action/SimpleActor/src/main/scala/SimpleActor.scala" timestamp="1477731097593">
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
       </file>
       <file name="/a.dummy" timestamp="1475510407099">
         <mark key="[" line="0" column="0" />
@@ -60,7 +72,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/work/fiscus-ingestor/installer/common/nifi-api-deploy/NiFiDeploy.groovy" timestamp="1475848731290" />
       <file name="C:/work/fiscus-ingestor/nifi-nar-bundles/hiveloader-bundle/hiveloader-nar/pom.xml" timestamp="1471518380844">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -358,10 +369,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text encoding="base64">Xwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>whisper2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSdW5uaW5nXD4=</text>
@@ -369,35 +380,35 @@
       <register name="0" type="4">
         <text>remove the HDFS and linux directorys created for the tests</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20uYmFyY2xheXMudHJlYXN1cnkuZmlzY3VzLmluZ2VzdG9yIiAlICJjdWN1bWJlci1wbHVnaW4iICUgIjAuMS4wLVNOQVBTSE9UIikK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Xwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cmVzb2x2ZXJzICs9ICJTb25hdHlwZSBOZXh1cyBSZXBvc2l0b3J5IE1hbmFnZXIiIGF0ICJodHRwOi8vbmV4dXM6ODA4MS9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9mdW5jdGlvbnMtc25hcHNob3RzIgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IikpCiAg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bG9nTGV2ZWwgOj0gTGV2ZWwuSW5mbwo=</text>
+        <text encoding="base64">ICAgICAgZmFpbCgiTm90IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9tb2R1bGU+Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihzIlJlY2VpdmVkIG1lc3NhZ2UgJGRhdGEiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8L2NvbXBvbmVudD4K</text>
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20uYmFyY2xheXMudHJlYXN1cnkuZmlzY3VzLmluZ2VzdG9yIiAlICJjdWN1bWJlci1wbHVnaW4iICUgIjAuMS4wLVNOQVBTSE9UIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IlNCVDogaW5mby5jdWtlczpjdWN1bWJlci1jb3JlOjEuMi40OmphciIgbGV2ZWw9InByb2plY3QiIC8+Cg==</text>
+        <text encoding="base64">cmVzb2x2ZXJzICs9ICJTb25hdHlwZSBOZXh1cyBSZXBvc2l0b3J5IE1hbmFnZXIiIGF0ICJodHRwOi8vbmV4dXM6ODA4MS9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9mdW5jdGlvbnMtc25hcHNob3RzIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IlNCVDogaW5mby5jdWtlczpjdWN1bWJlci1odG1sOjAuMi4zOmphciIgbGV2ZWw9InByb2plY3QiIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IlNCVDogaW5mby5jdWtlczpjdWN1bWJlci1qdW5pdDoxLjIuNDpqYXIiIGxldmVsPSJwcm9qZWN0IiAvPgo=</text>
+        <text encoding="base64">bG9nTGV2ZWwgOj0gTGV2ZWwuSW5mbwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
@@ -418,7 +429,6 @@
         <entry encoding="base64">XDxSdW5uaW5nXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tNTk=</entry>
         <entry>ve</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5tIDI=</entry>
@@ -436,8 +446,9 @@
         <entry>q</entry>
         <entry>q!</entry>
         <entry>wq</entry>
-        <entry>vs</entry>
         <entry>w</entry>
+        <entry>vs</entry>
+        <entry>e</entry>
       </history-cmd>
       <history-expr />
       <history-input />
