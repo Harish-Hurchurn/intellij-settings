@@ -3,6 +3,7 @@
     <option name="WIDESCREEN_SUPPORT" value="true" />
     <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="12" />
