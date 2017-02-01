@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/Users/harish/SpiderOak Hive/git/github/dev/akka-concurrency/Avionics/chapter_07 - [chapter_07]'" />
-    <option name="defaultScopeName" value="Directory '/Users/harish/SpiderOak Hive/git/github/dev/akka-concurrency/Avionics/chapter_07 - [chapter_07]'" />
-    <option name="SEARCH_SCOPE" value="Directory '/Users/harish/SpiderOak Hive/git/github/dev/akka-concurrency/Avionics/chapter_07 - [chapter_07]'" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
   </component>
 </application>
