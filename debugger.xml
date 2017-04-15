@@ -2,15 +2,15 @@
   <component name="DebuggerSettings">
     <filter>
       <option name="PATTERN" value="com.sun.*" />
-      <option name="ENABLED" value="false" />
+      <option name="ENABLED" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="java.*" />
-      <option name="ENABLED" value="false" />
+      <option name="ENABLED" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="javax.*" />
-      <option name="ENABLED" value="false" />
+      <option name="ENABLED" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="org.omg.*" />
@@ -18,7 +18,7 @@
     </filter>
     <filter>
       <option name="PATTERN" value="sun.*" />
-      <option name="ENABLED" value="false" />
+      <option name="ENABLED" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="jdk.internal.*" />
