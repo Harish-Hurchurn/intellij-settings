@@ -1,22 +1,16 @@
 <application>
   <component name="DebuggerSettings">
-    <option name="TRACING_FILTERS_ENABLED" value="true" />
-    <option name="FORCE_CLASSIC_VM" value="true" />
-    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
-    <option name="SKIP_CLASSLOADERS" value="true" />
-    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
-    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
-      <option name="ENABLED" value="true" />
+      <option name="ENABLED" value="false" />
     </filter>
     <filter>
       <option name="PATTERN" value="java.*" />
-      <option name="ENABLED" value="true" />
+      <option name="ENABLED" value="false" />
     </filter>
     <filter>
       <option name="PATTERN" value="javax.*" />
-      <option name="ENABLED" value="true" />
+      <option name="ENABLED" value="false" />
     </filter>
     <filter>
       <option name="PATTERN" value="org.omg.*" />
@@ -24,7 +18,7 @@
     </filter>
     <filter>
       <option name="PATTERN" value="sun.*" />
-      <option name="ENABLED" value="true" />
+      <option name="ENABLED" value="false" />
     </filter>
     <filter>
       <option name="PATTERN" value="jdk.internal.*" />
@@ -71,9 +65,10 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="kotlin_debugger">
+      <debugger id="scala_debugger">
         <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
+          <option name="DEBUG_DISABLE_SPECIFIC_SCALA_METHODS" value="false" />
+          <option name="DO_NOT_DISPLAY_STREAMS" value="false" />
         </configuration>
       </debugger>
     </debuggers>
