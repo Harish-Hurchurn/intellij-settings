@@ -67,7 +67,6 @@
     <debuggers>
       <debugger id="scala_debugger">
         <configuration>
-          <option name="DEBUG_DISABLE_SPECIFIC_SCALA_METHODS" value="false" />
           <option name="DO_NOT_DISPLAY_STREAMS" value="false" />
         </configuration>
       </debugger>
