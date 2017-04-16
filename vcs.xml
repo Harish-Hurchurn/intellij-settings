@@ -26,8 +26,12 @@
           <option name="url" value="git@bitbucket.org:Harish_H/codinginterviewtests.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:Harish_H/books.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/SpiderOak Hive/git/git/interviews" />
+    <option name="cloneParentDir" value="$USER_HOME$/SpiderOak Hive/git" />
   </component>
 </application>
