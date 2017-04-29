@@ -464,8 +464,6 @@
         <entry encoding="base64">XDxSdW5uaW5nXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>ve</entry>
-        <entry>we</entry>
         <entry encoding="base64">JzwsJz5tIDI=</entry>
         <entry>m12</entry>
         <entry>m 13</entry>
@@ -484,6 +482,8 @@
         <entry>w</entry>
         <entry>vs</entry>
         <entry>e</entry>
+        <entry>set relative</entry>
+        <entry>set relativenum</entry>
       </history-cmd>
       <history-expr />
       <history-input />
