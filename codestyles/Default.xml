@@ -1,1 +1,6 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <ScalaCodeStyleSettings>
+    <option name="addImportMostCloseToReference" value="true" />
+    <option name="sortAsScalastyle" value="true" />
+  </ScalaCodeStyleSettings>
+</code_scheme>
