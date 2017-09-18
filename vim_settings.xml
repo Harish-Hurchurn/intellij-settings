@@ -1,8 +1,11 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Work/vespark/loaders/src/test/scala/uk/sky/vespark/loaders/gonzales/vod/GzVodSourceTest.scala" timestamp="1505720080853">
+        <mark key="[" line="20" column="0" />
+      </file>
       <file name="/sbtShell" timestamp="1505490804437">
         <mark key="[" line="0" column="0" />
       </file>
