@@ -1,12 +1,9 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Work/vespark/loaders/src/test/scala/uk/sky/vespark/loaders/gonzales/vod/GzVodSourceTest.scala" timestamp="1505720080853">
-        <mark key="[" line="20" column="0" />
-      </file>
-      <file name="/sbtShell" timestamp="1505490804437">
+      <file name="/sbtShell" timestamp="1506073485088">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -16,12 +13,7 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <history />
     <shortcut-conflicts />
   </component>
 </application>
