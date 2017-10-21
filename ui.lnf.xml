@@ -1,8 +1,14 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_SCALE" value="1.0" />
-    <option name="FONT_SIZE" value="11" />
+    <option name="DISABLE_MNEMONICS" value="true" />
+    <option name="DISABLE_MNEMONICS_IN_CONTROLS" value="true" />
+    <option name="FONT_SCALE" value="1.0833334" />
+    <option name="FONT_SIZE" value="12" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="smoothScrolling" value="true" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
   </component>
 </application>

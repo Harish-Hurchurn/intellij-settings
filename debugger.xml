@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <option name="WATCH_RETURN_VALUES" value="true" />
     <option name="AUTO_VARIABLES_MODE" value="true" />
     <filter>
@@ -67,6 +68,7 @@
     <data-views />
     <general>
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+      <scroll-to-center>true</scroll-to-center>
     </general>
   </component>
 </application>
