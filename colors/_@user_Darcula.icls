@@ -1,13 +1,13 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="1.0833334" />
   <metaInfo>
     <property name="created">2016-11-28T10:51:21</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2017-10-22T08:21:00</property>
+    <property name="modified">2017-10-24T11:55:03</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
 </scheme>
