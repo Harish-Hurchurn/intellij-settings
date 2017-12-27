@@ -2,10 +2,7 @@
   <component name="libraryTable">
     <library name="Python 3.6 (airflow_home) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/SpiderOak Hive/git/work/telefonica/airflow/workspace/airflow_home/venv/lib/python3.6" />
-        <root url="file://$USER_HOME$/SpiderOak Hive/git/work/telefonica/airflow/workspace/airflow_home/venv/lib/python3.6/lib-dynload" />
         <root url="file:///usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file://$USER_HOME$/SpiderOak Hive/git/work/telefonica/airflow/workspace/airflow_home/venv/lib/python3.6/site-packages" />
         <root url="file:///usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2017.3/python_stubs/57786213" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
@@ -20,10 +17,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/SpiderOak Hive/git/work/telefonica/airflow/workspace/airflow_home/venv/lib/python3.6" />
-        <root url="file://$USER_HOME$/SpiderOak Hive/git/work/telefonica/airflow/workspace/airflow_home/venv/lib/python3.6/lib-dynload" />
         <root url="file:///usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file://$USER_HOME$/SpiderOak Hive/git/work/telefonica/airflow/workspace/airflow_home/venv/lib/python3.6/site-packages" />
         <root url="file:///usr/local/Cellar/python3/3.6.4/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2017.3/python_stubs/57786213" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
