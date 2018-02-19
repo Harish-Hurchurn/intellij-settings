@@ -11,6 +11,7 @@
       <mapping pattern="CDR_with_unique_delimiter" type="PLAIN_TEXT" />
       <mapping pattern="CDR_Small" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
+      <mapping ext="bz2" type="PLAIN_TEXT" />
       <mapping pattern="GonzalesLoaderSpec" type="Scala" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
