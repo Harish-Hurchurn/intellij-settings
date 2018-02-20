@@ -12,5 +12,6 @@
     <entry key="tabs.alphabetical" value="true" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
     <entry key="CBT.system.in.process" value="true" />
+    <entry key="ide.tooltip.initialDelay" value="0" />
   </component>
 </application>
