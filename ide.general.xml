@@ -13,5 +13,6 @@
     <entry key="analyze.exceptions.on.the.fly" value="true" />
     <entry key="CBT.system.in.process" value="true" />
     <entry key="ide.tooltip.initialDelay" value="0" />
+    <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
   </component>
 </application>
