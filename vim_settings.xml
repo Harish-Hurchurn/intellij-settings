@@ -2,11 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="false" />
     <globalmarks />
-    <filemarks>
-      <file name="/sbtShell" timestamp="1506073485088">
-        <mark key="[" line="0" column="0" />
-      </file>
-    </filemarks>
+    <filemarks />
     <jumps />
     <registers />
     <search>
