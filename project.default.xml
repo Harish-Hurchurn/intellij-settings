@@ -1,23 +1,15 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.hocon.settings.HoconProjectSettingsConfigurable" />
+      <component name="Git.Settings">
+        <option name="PUSH_AUTO_UPDATE" value="true" />
+        <option name="ROOT_SYNC" value="DONT_SYNC" />
       </component>
-      <component name="ScalaProjectSettings">
-        <option name="collectionTypeHighlightingLevel" value="2" />
-        <option name="customScalatestSyntaxHighlighting" value="true" />
-        <option name="dontShowConversionDialog" value="true" />
-        <option name="includeBlockExpressions" value="true" />
-        <option name="includeLiterals" value="true" />
-        <option name="intInjectionMapping">
-          <map>
-            <entry key="xml" value="XML" />
-          </map>
-        </option>
-        <option name="projectViewHighlighting" value="true" />
-        <option name="scFileMode" value="Ammonite" />
-        <option name="showArgumentsToByNameParams" value="true" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
       </component>
     </defaultProject>
   </component>
