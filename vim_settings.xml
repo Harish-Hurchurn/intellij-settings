@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/ob-aisp-otl-obi-common/src/main/scala/com/lbg/ob/aisp/otl/core/validations/cheque/ChequeSourceValidation.scala" timestamp="1534408100971">
