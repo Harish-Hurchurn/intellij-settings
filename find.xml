@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ob-aisp-otl-obi-filemanager'" />
-    <option name="defaultScopeName" value="Project 'ob-aisp-otl-obi-filemanager'" />
+    <option name="customScope" value="Project 'cbs-enabler-purge-old-balances'" />
+    <option name="defaultScopeName" value="Project 'cbs-enabler-purge-old-balances'" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'ob-aisp-otl-obi-filemanager'" />
+    <option name="SEARCH_SCOPE" value="Project 'cbs-enabler-purge-old-balances'" />
   </component>
 </application>
