@@ -1,12 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="CDR_Small" type="PLAIN_TEXT" />
       <mapping pattern="DatabaseHelper" type="PLAIN_TEXT" />
       <mapping pattern=".toDelete" type="PLAIN_TEXT" />
       <mapping pattern="s3_to_redshift.py" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="CDR_Small" type="PLAIN_TEXT" />
       <mapping pattern="cu-cassandra-rndport" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".cbs_api_recon_08112018_15꞉59꞉27.csv.crc" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
