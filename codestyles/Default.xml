@@ -1,6 +1,6 @@
 <code_scheme name="Default" version="173">
   <ScalaCodeStyleSettings>
+    <option name="addImportMostCloseToReference" value="true" />
     <option name="sortAsScalastyle" value="true" />
-    <option name="REFORMAT_ON_COMPILE" value="true" />
   </ScalaCodeStyleSettings>
 </code_scheme>
