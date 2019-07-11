@@ -76,8 +76,16 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <Renderer ID="ClassRenderer">
+      <option name="SHOW_STATIC" value="true" />
+      <option name="SHOW_DECLARED_TYPE" value="true" />
+    </Renderer>
+  </component>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <sort-values>true</sort-values>
+    </data-views>
     <general />
     <debuggers>
       <debugger id="kotlin_debugger">
