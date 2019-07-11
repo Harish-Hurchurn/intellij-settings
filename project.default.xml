@@ -1,15 +1,23 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="Git.Settings">
-        <option name="PUSH_AUTO_UPDATE" value="true" />
-        <option name="ROOT_SYNC" value="DONT_SYNC" />
+      <component name="DefaultGradleProjectSettings">
+        <option name="testRunner" value="GRADLE" />
+        <option name="delegatedBuild" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/work/john_lewis/src/cloud_dataflow" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/john_lewis/src/cloud_dataflow/testing" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="Kotlin2JsCompilerArguments">
+        <option name="sourceMap" value="true" />
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
-      </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
+        <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
       </component>
     </defaultProject>
   </component>
