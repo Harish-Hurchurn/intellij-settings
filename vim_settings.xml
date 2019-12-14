@@ -1,45 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
-    <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/work/ob-aisp-otl-obi-common/src/main/scala/com/lbg/ob/aisp/otl/core/validations/cheque/ChequeSourceValidation.scala" timestamp="1534408100971">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-    </filemarks>
-    <jumps />
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>u</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="-" type="4">
-        <text>u</text>
-      </register>
-    </registers>
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="false" />
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="true" />
     </editor>
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
