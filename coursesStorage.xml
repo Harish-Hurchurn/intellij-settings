@@ -1,0 +1,42 @@
+<application>
+  <component name="CoursesStorage">
+    <courses>
+      <course>
+        <option name="courseMode" value="Study" />
+        <option name="description" value="Kotlin Koans are a series of exercises to get you familiar with the Kotlin syntax" />
+        <option name="humanLanguage" value="English" />
+        <option name="id" value="4222" />
+        <option name="location" value="/Volumes/learning/koans/kotlin_koans" />
+        <option name="name" value="Kotlin Koans" />
+        <option name="programmingLanguage" value="kotlin" />
+        <option name="tasksSolved" value="6" />
+        <option name="tasksTotal" value="43" />
+        <option name="type" value="PyCharm" />
+      </course>
+      <course>
+        <option name="courseMode" value="Study" />
+        <option name="description" value="This course provides a series of katas to get familiar with Apache Beam using Kotlin" />
+        <option name="humanLanguage" value="English" />
+        <option name="id" value="72488" />
+        <option name="location" value="/Volumes/learning/koans/beam_katas-[kotlin]" />
+        <option name="name" value="Beam Katas - Kotlin" />
+        <option name="programmingLanguage" value="kotlin" />
+        <option name="programmingLanguageVersion" value="1.3 1.3 1.3 1.3 1.3 1.3 1.3 1.3 1.3" />
+        <option name="tasksTotal" value="36" />
+        <option name="type" value="PyCharm" />
+      </course>
+      <course>
+        <option name="courseMode" value="Study" />
+        <option name="description" value="This course provides a series of katas to get familiar with Apache Beam using Kotlin" />
+        <option name="humanLanguage" value="English" />
+        <option name="id" value="72488" />
+        <option name="location" value="/Volumes/learning/koans/Beam Katas - Kotlin" />
+        <option name="name" value="Beam Katas - Kotlin" />
+        <option name="programmingLanguage" value="kotlin" />
+        <option name="programmingLanguageVersion" value="1.3 1.3 1.3 1.3 1.3 1.3 1.3 1.3 1.3" />
+        <option name="tasksTotal" value="36" />
+        <option name="type" value="PyCharm" />
+      </course>
+    </courses>
+  </component>
+</application>
